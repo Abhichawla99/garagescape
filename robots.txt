@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://garagescape.ca/sitemap.xml
+
+# Disallow admin areas (if any)
+Disallow: /admin/
+Disallow: /private/
+
+# Allow all service pages
+Allow: /services/
+
+# Allow all images
+Allow: /images/
+Allow: /assets/
+
+# Crawl delay (optional)
+Crawl-delay: 1
