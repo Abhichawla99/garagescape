@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+    <!-- BLOG INDEX -->
+    <url>
+        <loc>https://garagescape.ca/blog.html</loc>
+        <lastmod>2025-02-04</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <!-- BLOG POSTS -->
+    <url>
+        <loc>https://garagescape.ca/blog/complete-garage-organization-guide-calgary.html</loc>
+        <lastmod>2025-02-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <image:image>
+            <image:loc>https://garagescape.ca/images/garage-organization-before-after-1.jpg</image:loc>
+            <image:caption>Complete garage organization guide for Calgary homeowners</image:caption>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://garagescape.ca/blog/professional-garage-cleaning-tips-calgary.html</loc>
+        <lastmod>2025-02-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://garagescape.ca/blog/custom-garage-shelving-solutions-calgary.html</loc>
+        <lastmod>2025-02-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://garagescape.ca/blog/winter-garage-organization-calgary.html</loc>
+        <lastmod>2025-02-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.65</priority>
+        <image:image>
+            <image:loc>https://garagescape.ca/images/winter-spring-garage-organization.jpg</image:loc>
+            <image:caption>Winter and spring garage organization tips for Calgary</image:caption>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://garagescape.ca/blog/garage-floor-cleaning-calgary.html</loc>
+        <lastmod>2025-02-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://garagescape.ca/blog/garage-storage-ideas-calgary.html</loc>
+        <lastmod>2025-02-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://garagescape.ca/blog/epoxy-garage-flooring-calgary.html</loc>
+        <lastmod>2025-02-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://garagescape.ca/blog/garage-workshop-organization-calgary.html</loc>
+        <lastmod>2025-02-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+</urlset>

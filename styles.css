@@ -2087,12 +2087,70 @@ body {
     }
 }
 
+/* SPRING URGENCY STRIP */
+.spring-urgency-strip {
+    background: #f0faf0;
+    border-top: 3px solid #2d8a4e;
+    border-bottom: 3px solid #2d8a4e;
+    padding: 28px 0;
+}
+
+.spring-urgency-content {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    justify-content: center;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.spring-urgency-content i {
+    font-size: 2.5rem;
+    color: #f5a623;
+    flex-shrink: 0;
+}
+
+.spring-urgency-content p {
+    margin: 0;
+    font-size: 1.15rem;
+    color: #1a5c2a;
+    max-width: 700px;
+    line-height: 1.5;
+}
+
+.spring-urgency-btn {
+    background: #2d8a4e;
+    color: #fff;
+    padding: 12px 28px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 1rem;
+    transition: all 0.3s ease;
+    flex-shrink: 0;
+    white-space: nowrap;
+}
+
+.spring-urgency-btn:hover {
+    background: #1a5c2a;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(45, 138, 78, 0.35);
+}
+
+@media (max-width: 768px) {
+    .spring-urgency-content {
+        flex-direction: column;
+        gap: 1rem;
+    }
+}
+
 /* PRINT STYLES - Hide conversion elements */
 @media print {
     .sticky-call-banner,
     .floating-call-btn,
     .nav-phone,
-    .banner-btn {
+    .banner-btn,
+    .spring-urgency-strip {
         display: none !important;
     }
 }

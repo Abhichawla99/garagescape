@@ -143,7 +143,7 @@
             "@type": "LocalBusiness",
             "name": "GarageScape"
         },
-        "areaServed": ["Calgary, AB", "Airdrie, AB", "Okotoks, AB"],
+        "areaServed": ["Calgary, AB", "Airdrie, AB", "Okotoks, AB", "Cochrane, AB", "Chestermere, AB"],
         "hasOfferCatalog": {
             "@type": "OfferCatalog",
             "name": "Garage Decluttering Services",
@@ -168,9 +168,106 @@
                         "@type": "Service",
                         "name": "Garage Organization Okotoks"
                     }
+                },
+                {
+                    "@type": "Offer",
+                    "itemOffered": {
+                        "@type": "Service",
+                        "name": "Spring Garage Cleanout Calgary"
+                    }
                 }
             ]
         }
+    }
+    </script>
+
+    <!-- FAQPAGE SCHEMA - Drives Google "People Also Ask" snippets -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "How much does garage decluttering cost in Calgary?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Garage decluttering starts at $199 for basic decluttering and organization. Full cleanouts with junk removal start at $299. Complete transformations with organization systems are custom-quoted. Call (587) 804-9266 for a free, no-obligation quote based on your garage's condition."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Do you offer same-day garage cleanout service?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes. We offer same-day garage cleanout service across Calgary, Airdrie, Okotoks, Cochrane, and Chestermere, subject to availability. Call before noon for the best chance at same-day service."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What do you do with the items you remove from a garage?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Usable items are donated to local Calgary charities including Goodwill, Salvation Army, and Women in Need Society. Recyclables go to proper recycling facilities. Only truly unusable items go to landfill, typically less than 20% of removed items. Donation receipts are provided for tax purposes."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How long does garage decluttering take?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Most garage decluttering projects take 4-8 hours, completing in a single day. Larger or extremely cluttered garages may take 2 days. Complete transformations with flooring and organization systems typically take 2-3 days."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Do I need to be present during the decluttering?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "We recommend being present at the start so we can understand what to keep versus remove. After that initial walkthrough, you are free to leave. Many clients go to work and come home to a fully transformed garage. Progress photos are sent if you are away."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Are you insured and licensed to work in Calgary?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes. GarageScape carries $2 million in general liability insurance and is fully bonded. All team members are background-checked Calgary locals. Your property and belongings are fully protected throughout the entire service."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "When is the best time to clean out a garage in Calgary?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Spring is the ideal time for a garage cleanout in Calgary. As the weather warms up in February and March, it is the perfect opportunity to sort through winter gear, clear accumulated clutter, and set up an organized system before the busy summer months. We see the highest demand from late February through April."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How much does a full garage cleanout cost near me in Calgary?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "A full garage cleanout in Calgary starts at $299 and includes junk removal, hauling, and disposal. Pricing depends on garage size and the volume of items. We serve all Calgary neighborhoods, Airdrie, Okotoks, Cochrane, and Chestermere. Call (587) 804-9266 for a free on-site quote."
+                }
+            }
+        ]
+    }
+    </script>
+
+    <!-- BREADCRUMBLIST SCHEMA -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://garagescape.ca/"
+            }
+        ]
     }
     </script>
 
@@ -196,7 +293,7 @@
             <div class="banner-content">
                 <div class="banner-text">
                     <i class="fas fa-phone-volume"></i>
-                    <span><strong>Same-Day Service Available!</strong> Calgary, Airdrie & Okotoks</span>
+                    <span><strong>Spring Cleanout Season is Here!</strong> Same-Day Service &mdash; Calgary, Airdrie, Okotoks, Cochrane & Chestermere</span>
                 </div>
                 <a href="tel:+15878049266" class="banner-btn">
                     <i class="fas fa-phone"></i> (587) 804-9266
@@ -259,7 +356,7 @@
 
                 <!-- PAIN POINTS + SOLUTION -->
                 <p class="hero-description fade-in-up">
-                    <strong>Can't park your car? Garage overflowing with clutter?</strong> We transform cluttered garages into organized, functional spaces. Same-day garage cleanout and decluttering services available across Calgary, Airdrie, and Okotoks.
+                    <strong>Spring is here &mdash; the perfect time to reclaim your garage.</strong> We transform cluttered garages into organized, functional spaces. Same-day garage cleanout and decluttering services available across Calgary, Airdrie, Okotoks, Cochrane, and Chestermere.
                 </p>
 
                 <!-- URGENT CTAs -->
@@ -299,10 +396,23 @@
                     <span class="location-badge"><i class="fas fa-map-marker-alt"></i> Serving Calgary</span>
                     <span class="location-badge"><i class="fas fa-map-marker-alt"></i> Serving Airdrie</span>
                     <span class="location-badge"><i class="fas fa-map-marker-alt"></i> Serving Okotoks</span>
+                    <span class="location-badge"><i class="fas fa-map-marker-alt"></i> Serving Cochrane</span>
+                    <span class="location-badge"><i class="fas fa-map-marker-alt"></i> Serving Chestermere</span>
                 </div>
             </div>
             <div class="hero-image">
                 <img src="images/hero-garage-decluttering.jpg" alt="Professional garage decluttering service transforming cluttered garage in Calgary" class="hero-img">
+            </div>
+        </div>
+    </section>
+
+    <!-- SPRING SEASONAL URGENCY STRIP -->
+    <section class="spring-urgency-strip">
+        <div class="container">
+            <div class="spring-urgency-content">
+                <i class="fas fa-sun"></i>
+                <p><strong>Spring Garage Cleanout Season</strong> &mdash; February through April is when Calgary homeowners tackle their biggest garage projects. Book now before our schedule fills up.</p>
+                <a href="tel:+15878049266" class="spring-urgency-btn">Book Now</a>
             </div>
         </div>
     </section>
@@ -507,12 +617,48 @@
                         View Okotoks Services <i class="fas fa-arrow-right"></i>
                     </a>
                 </div>
+
+                <!-- COCHRANE -->
+                <div class="location-card">
+                    <div class="location-icon">
+                        <i class="fas fa-trees"></i>
+                    </div>
+                    <h3>Garage Decluttering Cochrane</h3>
+                    <p>Professional garage services in Cochrane:</p>
+                    <ul class="neighborhood-list">
+                        <li>Cochrane Ranch & GlenEagle</li>
+                        <li>Spring garage cleanout specials</li>
+                        <li>Same-day service available</li>
+                        <li>Eco-friendly disposal</li>
+                    </ul>
+                    <a href="garage-decluttering-cochrane.html" class="location-link">
+                        View Cochrane Services <i class="fas fa-arrow-right"></i>
+                    </a>
+                </div>
+
+                <!-- CHESTERMERE -->
+                <div class="location-card">
+                    <div class="location-icon">
+                        <i class="fas fa-water"></i>
+                    </div>
+                    <h3>Garage Decluttering Chestermere</h3>
+                    <p>Professional garage services in Chestermere:</p>
+                    <ul class="neighborhood-list">
+                        <li>Chestermere Lake communities</li>
+                        <li>Lakeside home specialists</li>
+                        <li>Same-day service available</li>
+                        <li>Full cleanout & organization</li>
+                    </ul>
+                    <a href="garage-decluttering-chestermere.html" class="location-link">
+                        View Chestermere Services <i class="fas fa-arrow-right"></i>
+                    </a>
+                </div>
             </div>
 
             <div class="locations-cta">
                 <p class="locations-cta-text">
                     <i class="fas fa-question-circle"></i>
-                    <strong>Don't see your area?</strong> We serve many surrounding communities. Give us a call!
+                    <strong>Don't see your area?</strong> We serve many surrounding communities across greater Calgary. Give us a call!
                 </p>
                 <a href="tel:+15878049266" class="btn btn-secondary btn-large">
                     <i class="fas fa-phone"></i> Call (587) 804-9266
@@ -838,32 +984,42 @@
             <div class="faq-grid">
                 <div class="faq-item">
                     <h3>How much does garage decluttering cost in Calgary?</h3>
-                    <p>Garage decluttering starts at $199 for basic decluttering and organization. Full cleanouts with junk removal start at $299. Complete transformations with organization systems are custom-quoted. We offer free, no-obligation quotes - call (587) 804-9266 for an exact price based on your garage's condition.</p>
+                    <p>Garage decluttering starts at $199 for basic decluttering and organization. Full cleanouts with junk removal start at $299. Complete transformations with organization systems are custom-quoted. We offer free, no-obligation quotes &mdash; call (587) 804-9266 for an exact price based on your garage's condition.</p>
                 </div>
 
                 <div class="faq-item">
                     <h3>Do you offer same-day garage cleanout service?</h3>
-                    <p>Yes! We understand that sometimes you need it done NOW - whether you're selling your house, dealing with an emergency, or just can't take the clutter anymore. We offer same-day service across Calgary, Airdrie, and Okotoks (subject to availability). Call before noon for potential same-day service.</p>
+                    <p>Yes. Whether you're selling your house, dealing with an emergency, or just can't take the clutter anymore, we offer same-day service across Calgary, Airdrie, Okotoks, Cochrane, and Chestermere (subject to availability). Call before noon for the best chance at same-day service.</p>
                 </div>
 
                 <div class="faq-item">
                     <h3>What do you do with the items you remove?</h3>
-                    <p>We're eco-conscious! Usable items are donated to local Calgary charities (Goodwill, Salvation Army, Women in Need Society). Recyclables go to recycling facilities. Only truly unusable items go to landfill - typically less than 20% of what we remove. You'll get a donation receipt for tax purposes.</p>
+                    <p>Usable items are donated to local Calgary charities including Goodwill, Salvation Army, and Women in Need Society. Recyclables go to proper recycling facilities. Only truly unusable items go to landfill &mdash; typically less than 20% of what we remove. You'll get a donation receipt for tax purposes.</p>
                 </div>
 
                 <div class="faq-item">
                     <h3>How long does garage decluttering take?</h3>
-                    <p>Most garage decluttering projects take 4-8 hours (one day). Larger or extremely cluttered garages may take 2 days. Complete transformations with flooring and organization systems typically take 2-3 days. We'll give you an accurate timeline during your free consultation.</p>
+                    <p>Most garage decluttering projects take 4-8 hours and finish in one day. Larger or extremely cluttered garages may take 2 days. Complete transformations with flooring and organization systems typically take 2-3 days. We provide an accurate timeline during your free consultation.</p>
                 </div>
 
                 <div class="faq-item">
                     <h3>Do I need to be present during the decluttering?</h3>
-                    <p>We recommend being present at the start so we can understand what to keep vs. remove. For the actual work, you can be there or not - whatever you prefer! Many clients go to work and come home to a transformed garage. We'll send progress photos if you're away.</p>
+                    <p>We recommend being present at the start so we can understand what to keep versus remove. After that, you're free to leave. Many clients go to work and come home to a fully transformed garage. We send progress photos while you're away.</p>
                 </div>
 
                 <div class="faq-item">
                     <h3>Are you insured and licensed?</h3>
-                    <p>Absolutely. We carry $2 million in general liability insurance and are fully bonded. All team members are background-checked Calgary locals. Your property and belongings are fully protected.</p>
+                    <p>Yes. We carry $2 million in general liability insurance and are fully bonded. All team members are background-checked Calgary locals. Your property and belongings are fully protected.</p>
+                </div>
+
+                <div class="faq-item">
+                    <h3>When is the best time to clean out a garage in Calgary?</h3>
+                    <p>Spring is the best time. As the weather warms up in February and March, it's the ideal opportunity to sort through winter gear, clear the clutter, and organize before summer. We see the highest demand from late February through April &mdash; book early to secure your spot.</p>
+                </div>
+
+                <div class="faq-item">
+                    <h3>Do you do garage cleanouts near me in Calgary?</h3>
+                    <p>Yes. We serve all of Calgary, Airdrie, Okotoks, Cochrane, Chestermere, and surrounding communities. No matter where you are in the greater Calgary area, we can be there same-day or next-day. Call (587) 804-9266 or fill out our form for a free quote.</p>
                 </div>
             </div>
 
@@ -896,11 +1052,11 @@
                 <div class="footer-section">
                     <h4>Services</h4>
                     <ul>
-                        <li><a href="#services">Garage Decluttering</a></li>
-                        <li><a href="#services">Garage Cleanout</a></li>
-                        <li><a href="#services">Garage Organization</a></li>
-                        <li><a href="#services">Complete Transformation</a></li>
-                        <li><a href="#services">Same-Day Service</a></li>
+                        <li><a href="garage-decluttering-calgary.html">Garage Decluttering</a></li>
+                        <li><a href="garage-organization-calgary.html">Garage Organization</a></li>
+                        <li><a href="services/cleaning.html">Garage Cleaning</a></li>
+                        <li><a href="spring-garage-cleanout-calgary.html">Spring Cleanout</a></li>
+                        <li><a href="services/flooring.html">Garage Flooring</a></li>
                     </ul>
                 </div>
 
@@ -910,8 +1066,8 @@
                         <li><a href="garage-decluttering-calgary.html">Calgary</a></li>
                         <li><a href="garage-decluttering-airdrie.html">Airdrie</a></li>
                         <li><a href="garage-decluttering-okotoks.html">Okotoks</a></li>
-                        <li><a href="#locations">Cochrane</a></li>
-                        <li><a href="#locations">Surrounding Areas</a></li>
+                        <li><a href="garage-decluttering-cochrane.html">Cochrane</a></li>
+                        <li><a href="garage-decluttering-chestermere.html">Chestermere</a></li>
                     </ul>
                 </div>
 
@@ -927,9 +1083,9 @@
             </div>
 
             <div class="footer-bottom">
-                <p>&copy; 2024 GarageScape. All rights reserved. | <a href="privacy.html">Privacy Policy</a> | <a href="terms.html">Terms of Service</a></p>
+                <p>&copy; 2025 GarageScape. All rights reserved. | <a href="privacy.html">Privacy Policy</a> | <a href="terms.html">Terms of Service</a></p>
                 <p class="footer-keywords">
-                    Garage Decluttering Calgary • Garage Cleanout Airdrie • Garage Organization Okotoks • Same-Day Garage Service Alberta
+                    Garage Decluttering Calgary • Garage Cleanout Airdrie • Garage Organization Okotoks • Spring Garage Cleanout Calgary • Same-Day Garage Service Alberta • Garage Cleanout Near Me
                 </p>
             </div>
         </div>

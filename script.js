@@ -57,36 +57,32 @@ window.addEventListener('scroll', () => {
 // Contact Form Handling
 const contactForm = document.getElementById('contactForm');
 
-contactForm.addEventListener('submit', async (e) => {
-    e.preventDefault();
-    
-    const formData = new FormData(contactForm);
-    const submitButton = contactForm.querySelector('button[type="submit"]');
-    const originalText = submitButton.innerHTML;
-    
-    // Show loading state
-    submitButton.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Sending...';
-    submitButton.disabled = true;
-    contactForm.classList.add('loading');
-    
-    try {
-        // Simulate form submission (replace with actual endpoint)
-        await new Promise(resolve => setTimeout(resolve, 2000));
-        
-        // Show success message
-        showNotification('Thank you! Your message has been sent successfully. We\'ll get back to you soon.', 'success');
-        contactForm.reset();
-        
-    } catch (error) {
-        // Show error message
-        showNotification('Sorry, there was an error sending your message. Please try again or call us directly.', 'error');
-    } finally {
-        // Reset button
-        submitButton.innerHTML = originalText;
-        submitButton.disabled = false;
-        contactForm.classList.remove('loading');
-    }
-});
+if (contactForm) {
+    contactForm.addEventListener('submit', async (e) => {
+        e.preventDefault();
+
+        const formData = new FormData(contactForm);
+        const submitButton = contactForm.querySelector('button[type="submit"]');
+        const originalText = submitButton.innerHTML;
+
+        submitButton.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Sending...';
+        submitButton.disabled = true;
+        contactForm.classList.add('loading');
+
+        try {
+            await new Promise(resolve => setTimeout(resolve, 2000));
+            showNotification('Thank you! Your message has been sent successfully. We\'ll get back to you soon.', 'success');
+            contactForm.reset();
+
+        } catch (error) {
+            showNotification('Sorry, there was an error sending your message. Please try again or call us directly.', 'error');
+        } finally {
+            submitButton.innerHTML = originalText;
+            submitButton.disabled = false;
+            contactForm.classList.remove('loading');
+        }
+    });
+}
 
 // Notification system
 function showNotification(message, type = 'info') {
@@ -211,6 +207,16 @@ if (phoneInput) {
             value = value.replace(/(\d{3})(\d{0,3})/, '($1) $2');
         }
         e.target.value = value;
+    });
+}
+
+// Newsletter form handling
+const newsletterForm = document.querySelector('.newsletter-form');
+if (newsletterForm) {
+    newsletterForm.addEventListener('submit', (e) => {
+        e.preventDefault();
+        showNotification('Thanks for subscribing! You will receive garage organization tips from GarageScape.', 'success');
+        newsletterForm.reset();
     });
 }
 
