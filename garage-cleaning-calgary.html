@@ -23,21 +23,23 @@
     <meta property="twitter:description" content="Professional garage cleaning service in Calgary. Deep cleaning, pressure washing, oil stain removal & sanitization. 5-star rated, same-day service.">
     <meta property="twitter:image" content="https://garagescape.ca/images/garage-cleaning-calgary.jpg">
 
-    <!-- Local Business Schema -->
+    <!-- Structured Data: LocalBusiness + FAQPage + BreadcrumbList -->
     <script type="application/ld+json">
+    [
     {
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
-        "name": "GarageScape - Garage Cleaning Calgary",
+        "name": "GarageScape",
         "description": "Calgary's premier garage cleaning service specializing in deep cleaning, pressure washing, and sanitization",
-        "url": "https://garagescape.ca/garage-cleaning-calgary.html",
-        "telephone": "+1 587 804 9266",
+        "url": "https://garagescape.ca",
+        "telephone": "+1-587-804-9266",
         "email": "inquiry@garagescape.ca",
+        "priceRange": "$$",
         "address": {
             "@type": "PostalAddress",
             "addressLocality": "Calgary",
-            "addressRegion": "Alberta",
-            "addressCountry": "Canada"
+            "addressRegion": "AB",
+            "addressCountry": "CA"
         },
         "geo": {
             "@type": "GeoCoordinates",
@@ -48,13 +50,77 @@
             "@type": "City",
             "name": "Calgary"
         },
-        "serviceType": "Garage Cleaning",
         "aggregateRating": {
             "@type": "AggregateRating",
             "ratingValue": "5.0",
             "reviewCount": "89"
         }
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "How long does garage cleaning take in Calgary?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Most garage cleaning projects in Calgary take 2-6 hours, depending on the size of your garage and the level of dirt and stains. We provide a time estimate during your free consultation."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Do I need to move my car out of the garage?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, we need access to the entire garage floor for thorough cleaning. We can help coordinate moving your vehicles to ensure the best cleaning results."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Can you remove oil stains from my Calgary garage floor?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes. We specialize in removing stubborn oil stains and automotive fluid marks using professional-grade cleaning techniques and products specifically designed for Calgary's climate."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Will the cleaning products damage my garage floor?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "No. We use professional-grade, floor-safe cleaning products designed for concrete and other garage floor surfaces. We never use harsh chemicals that could cause damage."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How often should I have my Calgary garage professionally cleaned?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "We recommend professional garage cleaning every 6-12 months, depending on usage. Heavy-use garages such as workshops or garages with frequent parking may need more frequent cleaning."
+                }
+            }
+        ]
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://garagescape.ca/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Garage Cleaning Calgary",
+                "item": "https://garagescape.ca/garage-cleaning-calgary.html"
+            }
+        ]
     }
+    ]
     </script>
 
     <link rel="canonical" href="https://garagescape.ca/garage-cleaning-calgary.html">
