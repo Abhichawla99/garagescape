@@ -141,7 +141,7 @@
     </url>
     <url>
         <loc>https://garagescape.ca/garage-storage-solutions-calgary.html</loc>
-        <lastmod>2025-02-01</lastmod>
+        <lastmod>2026-05-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -199,25 +199,25 @@
     <!-- CALGARY QUADRANT PAGES -->
     <url>
         <loc>https://garagescape.ca/garage-organization-north-calgary.html</loc>
-        <lastmod>2025-02-01</lastmod>
+        <lastmod>2026-05-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.75</priority>
     </url>
     <url>
         <loc>https://garagescape.ca/garage-organization-south-calgary.html</loc>
-        <lastmod>2025-02-01</lastmod>
+        <lastmod>2026-05-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.75</priority>
     </url>
     <url>
         <loc>https://garagescape.ca/garage-organization-east-calgary.html</loc>
-        <lastmod>2025-02-01</lastmod>
+        <lastmod>2026-05-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.75</priority>
     </url>
     <url>
         <loc>https://garagescape.ca/garage-organization-west-calgary.html</loc>
-        <lastmod>2025-02-01</lastmod>
+        <lastmod>2026-05-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.75</priority>
     </url>
@@ -225,44 +225,56 @@
     <!-- CALGARY NEIGHBOURHOOD PAGES -->
     <url>
         <loc>https://garagescape.ca/garage-organization-brentwood.html</loc>
-        <lastmod>2025-02-01</lastmod>
+        <lastmod>2026-05-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://garagescape.ca/garage-organization-dalhousie.html</loc>
-        <lastmod>2025-02-01</lastmod>
+        <lastmod>2026-05-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://garagescape.ca/garage-organization-evanston.html</loc>
-        <lastmod>2025-02-01</lastmod>
+        <lastmod>2026-05-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://garagescape.ca/garage-organization-beddington.html</loc>
-        <lastmod>2025-02-01</lastmod>
+        <lastmod>2026-05-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://garagescape.ca/garage-organization-panorama-hills.html</loc>
-        <lastmod>2025-02-01</lastmod>
+        <lastmod>2026-05-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://garagescape.ca/garage-organization-mckenzie-towne.html</loc>
-        <lastmod>2025-02-01</lastmod>
+        <lastmod>2026-05-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://garagescape.ca/garage-organization-aspen-woods.html</loc>
-        <lastmod>2025-02-01</lastmod>
+        <lastmod>2026-05-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://garagescape.ca/privacy.html</loc>
+        <lastmod>2026-05-08</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    <url>
+        <loc>https://garagescape.ca/terms.html</loc>
+        <lastmod>2026-05-08</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
     </url>
 </urlset>
