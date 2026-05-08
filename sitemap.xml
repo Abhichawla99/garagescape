@@ -21,9 +21,19 @@
     </url>
     <url>
         <loc>https://garagescape.ca/blog.html</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2026-05-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://garagescape.ca/blog/hire-vs-diy-garage-organization-calgary.html</loc>
+        <lastmod>2026-05-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.65</priority>
+        <image:image>
+            <image:loc>https://garagescape.ca/images/calgary-garage-decluttering.jpg</image:loc>
+            <image:caption>Hire vs DIY garage organization in Calgary — 2026 cost guide</image:caption>
+        </image:image>
     </url>
 
     <!-- SEASONAL / HIGH-PRIORITY LANDING PAGE -->

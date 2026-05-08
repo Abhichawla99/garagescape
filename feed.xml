@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GarageScape Blog</title>
+    <link>https://garagescape.ca/blog.html</link>
+    <atom:link href="https://garagescape.ca/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Calgary garage organization, decluttering, and cleaning insights from GarageScape.</description>
+    <language>en-CA</language>
+    <lastBuildDate>Thu, 08 May 2026 12:00:00 +0000</lastBuildDate>
+    <!-- ITEMS -->
+    <item>
+      <title>Hire vs. DIY Garage Organization Calgary: 2026 Cost Guide</title>
+      <link>https://garagescape.ca/blog/hire-vs-diy-garage-organization-calgary.html</link>
+      <guid isPermaLink="true">https://garagescape.ca/blog/hire-vs-diy-garage-organization-calgary.html</guid>
+      <pubDate>Thu, 08 May 2026 12:00:00 +0000</pubDate>
+      <description><![CDATA[ Should you hire a professional or tackle your Calgary garage yourself? We break down real 2026 costs, time on the job, and a five-factor decision matrix to help you choose the right approach for your situation. ]]></description>
+    </item>
+    <item>
+      <title>Winter &amp; Spring Garage Organization Tips for Calgary Homeowners</title>
+      <link>https://garagescape.ca/blog/winter-garage-organization-calgary.html</link>
+      <guid isPermaLink="true">https://garagescape.ca/blog/winter-garage-organization-calgary.html</guid>
+      <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
+      <description><![CDATA[ Get your Calgary garage ready for spring. Sort winter gear, handle tire swaps, protect your floor, and build a seasonal rotation system that holds up all year. ]]></description>
+    </item>
+    <item>
+      <title>Complete Garage Organization Guide for Calgary Homeowners</title>
+      <link>https://garagescape.ca/blog/complete-garage-organization-guide-calgary.html</link>
+      <guid isPermaLink="true">https://garagescape.ca/blog/complete-garage-organization-guide-calgary.html</guid>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <description><![CDATA[ A step-by-step guide to transforming your cluttered Calgary garage into an organized, functional space. Covers decluttering, storage solutions, and long-term maintenance. ]]></description>
+    </item>
+  </channel>
+</rss>
