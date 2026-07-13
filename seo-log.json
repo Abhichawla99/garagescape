@@ -1,0 +1,5 @@
+{
+  "purpose": "State file for the daily GarageScape SEO task. Each run reads this, does the day's work, and appends an entry.",
+  "target_markets": ["Calgary", "Okotoks", "Canmore", "Banff", "Cochrane", "Airdrie"],
+  "runs": []
+}
