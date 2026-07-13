@@ -1,5 +1,20 @@
 {
   "purpose": "State file for the daily GarageScape SEO task. Each run reads this, does the day's work, and appends an entry.",
   "target_markets": ["Calgary", "Okotoks", "Canmore", "Banff", "Cochrane", "Airdrie"],
-  "runs": []
+  "runs": [
+    {
+      "date": "2026-07-13",
+      "action": "created",
+      "page": "garage-organization-canmore.html",
+      "keyword": "garage organization Canmore",
+      "city": "Canmore",
+      "notes": "First Bow Valley page — biggest coverage gap (Canmore/Banff had zero pages). SERP check showed no dedicated local competitor page (mostly garage-door companies and California Closets). Angle: mountain gear storage (ski/bike/climbing), wildlife-smart attractant storage, chinook/freeze-thaw moisture, small townhome garages. LocalBusiness + FAQPage + Breadcrumb schema (no invented reviews — aggregateRating omitted). Linked TO garage-organization-calgary, garage-storage-solutions-calgary, garage-cleaning-calgary, spring-garage-cleanout-calgary, decluttering city pages. Linked FROM index.html locations grid (new Canmore card). sitemap.xml updated.",
+      "next_targets": [
+        "garage-organization-banff.html (garage organization Banff — mentioned on Canmore page, natural next gap)",
+        "garage-epoxy-flooring-okotoks.html or epoxy flooring + Airdrie (no epoxy city pages outside Calgary blog)",
+        "garage-storage-okotoks.html (storage keyword outside Calgary)",
+        "~4th run: improve weakest existing page (candidates: garage-remodel-calgary.html or thin neighbourhood pages)"
+      ]
+    }
+  ]
 }
