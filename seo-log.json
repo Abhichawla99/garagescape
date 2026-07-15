@@ -28,6 +28,36 @@
     "requested_on": "2026-07-13",
     "method": "GSC URL Inspection via Claude in Chrome"
    }
+  },
+  {
+   "date": "2026-07-15",
+   "weekday_mode": "WEDNESDAY - IMPROVE + RESCUE",
+   "action": "improved",
+   "page": "garage-decluttering-calgary.html",
+   "keyword": "garage decluttering Calgary",
+   "notes": "Target chosen over stale seo-log flag: Aspen Woods was already rewritten to 1715 words with luxury angle in an earlier commit (flag corrected). Weakest high-value page was garage-decluttering-calgary.html at 796 words on a CORE keyword. Expanded 796->1787 words: why-Calgary-garages-fill-up (4-season gear, chinook freeze-thaw slab damage, -30 parking stakes), decluttering-vs-junk-removal differentiation (SERP is dominated by junk haulers - Taskrabbit, Western Junk Removal, Junk PROS), where-stuff-goes (donation/recycling/City of Calgary hazardous waste), Calgary decluttering calendar (chinook windows / spring reset / Sept-Oct beat-the-freeze), beyond-Calgary section. New ~55-char title, ~155-char meta, OpenGraph tags added, 3 new FAQs (visible + FAQPage schema), REMOVED unverified aggregateRating (5 stars / 47 reviews) from LocalBusiness schema per no-invented-reviews rule, 14 unique internal links incl. Canmore/Aspen Woods/spring-cleanout/city pages. Sitemap lastmod 2026-07-15. Live 200 verified post-deploy. NOTE: other pages may also carry invented aggregateRating blocks - worth auditing on a future Sunday technical run.",
+   "flags_corrected": [
+    "garage-organization-aspen-woods.html is NOT thin (1715 words, luxury angle already applied); remaining thin pages by word count: garage-organization-south-calgary.html (788), garage-organization-east-calgary.html (811), garage-organization-north-calgary.html (831), garage-organization-west-calgary.html (843)"
+   ],
+   "indexing": {
+    "garage-decluttering-calgary.html": {
+     "status": "pending-manual",
+     "reason": "Scheduled cloud run - Claude in Chrome on Mac mini not reachable (no device bridge in scheduled sessions)"
+    },
+    "garage-organization-canmore.html": {
+     "status": "requested",
+     "requested_on": "2026-07-13",
+     "note": "Could not verify today for same reason; check next run with browser access"
+    }
+   },
+   "next_targets": [
+    "garage-organization-springbank-hill.html (luxury: newer estates, triple-car garages, epoxy showroom floors) - Thursday 2026-07-16 new content",
+    "garage-organization-bearspaw.html (acreage/estate: oversized shops, vehicle lifts, RV storage)",
+    "custom-garage-cabinets-mount-royal.html (heritage estates, premium cabinetry, white-glove)",
+    "garage-organization-banff.html (mountain luxury, vacation properties)",
+    "RESCUE garage-organization-south-calgary.html (788 words, weakest directional page) or east-calgary (811) on Friday",
+    "SUNDAY: audit all pages for invented aggregateRating schema blocks (found one on decluttering page; others likely)"
+   ]
   }
  ]
 }
