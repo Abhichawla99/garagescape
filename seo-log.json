@@ -58,6 +58,39 @@
     "RESCUE garage-organization-south-calgary.html (788 words, weakest directional page) or east-calgary (811) on Friday",
     "SUNDAY: audit all pages for invented aggregateRating schema blocks (found one on decluttering page; others likely)"
    ]
+  },
+  {
+   "date": "2026-07-16",
+   "weekday_mode": "THURSDAY - NEW CONTENT",
+   "action": "created",
+   "page": "garage-organization-springbank-hill.html",
+   "keyword": "garage organization Springbank Hill / custom garage cabinets Springbank Hill / epoxy garage floor Springbank",
+   "city": "Calgary (Springbank Hill)",
+   "notes": "First target from next_targets (west Calgary luxury). SERP check: no dedicated Springbank Hill page exists anywhere - only generic Calgary garage companies (The Garage Store, California Closets, Garage Living, Dream Garage Makeovers). Angle deliberately DISTINCT from adjacent Aspen Woods page (which covers RV/boat zoning, large-garage declutters, workshops): Springbank Hill = builder-basic unfinished garages in estate homes, third-bay trap in triple garages, custom cabinets/slatwall at estate finish level, epoxy showroom floors (floor-first process), mudroom-to-garage overflow systems. Local texture: Elveden/Timberline/The Slopes/Springborough/Spring Valley sub-areas, 85th St SW new builds, Westside Rec Centre, Rundle College/Webber Academy, Highway 8 mountain access, chinook freeze-thaw slab damage on the exposed west ridge. 1649 words, 1 H1, title 49 chars, meta 158 chars, canonical + OG + Twitter, LocalBusiness + FAQPage + Breadcrumb JSON-LD (all validated, NO invented reviews/ratings), 15 internal links incl. aspen-woods (x3), renovation, storage-solutions, calgary flagship, canmore. Linked FROM index.html (new Springbank Hill location card). sitemap.xml: new entry lastmod 2026-07-16, homepage lastmod bumped.",
+   "indexing": {
+    "garage-organization-springbank-hill.html": {
+     "status": "pending-manual",
+     "reason": "Scheduled cloud run - Claude in Chrome on Mac mini not reachable (no device bridge in scheduled sessions)"
+    },
+    "garage-decluttering-calgary.html": {
+     "status": "pending-manual",
+     "carried_from": "2026-07-15"
+    },
+    "garage-organization-canmore.html": {
+     "status": "requested",
+     "requested_on": "2026-07-13",
+     "note": "Requested 2026-07-13; verify on next run with browser access - flag for content improvement if still unindexed by 2026-07-20"
+    }
+   },
+   "next_targets": [
+    "FRIDAY 2026-07-17 IMPROVE+RESCUE: garage-organization-south-calgary.html (788 words, weakest directional page) or east-calgary (811)",
+    "garage-organization-bearspaw.html (acreage/estate: oversized shops, vehicle lifts, RV storage) - Saturday new content",
+    "custom-garage-cabinets-mount-royal.html (heritage estates, premium cabinetry, white-glove)",
+    "garage-organization-banff.html (mountain luxury, vacation properties)",
+    "garage-organization-lake-bonavista.html (lake-life gear, family garage systems)",
+    "SUNDAY: audit all pages for invented aggregateRating schema blocks (found one on decluttering page; others likely)",
+    "MANUAL INDEXING BACKLOG: springbank-hill (new), decluttering-calgary (improved 07-15) - request in GSC when browser access available"
+   ]
   }
  ]
 }
