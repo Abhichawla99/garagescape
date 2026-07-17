@@ -91,6 +91,46 @@
     "SUNDAY: audit all pages for invented aggregateRating schema blocks (found one on decluttering page; others likely)",
     "MANUAL INDEXING BACKLOG: springbank-hill (new), decluttering-calgary (improved 07-15) - request in GSC when browser access available"
    ]
+  },
+  {
+   "date": "2026-07-17",
+   "weekday_mode": "FRIDAY - IMPROVE + RESCUE",
+   "action": "improved",
+   "page": "garage-organization-south-calgary.html",
+   "keyword": "garage organization South Calgary / garage organization Lake Bonavista / garage organization Mahogany",
+   "notes": "Rescued weakest directional page (788 words -> 1462 words). Angle deliberately distinct from McKenzie Towne (lane-garage page), Aspen Woods, and Springbank Hill (SW luxury pages): South Calgary as THREE garage types - (1) rear-lane new-urbanism SE garages, (2) lake-community garages (Lake Bonavista/Mahogany/Auburn Bay/Chaparral/Sundance/McKenzie Lake - paddleboard/kayak racks, skate storage, two-swap seasonal calendar), (3) estate doubles/triples in Signal Hill/Legacy/Walden/Silverado. This folds the priority-audience 'lake & executive communities' angle into the existing hub instead of creating a near-duplicate new page. Local texture: Fish Creek Provincial Park + Sikome Lake, Macleod/Deerfoot/Stoney salt commutes, chinook freeze-thaw slab damage, April-May and Sept-Oct swap windows. New 57-char title, 150-char meta, REMOVED invented aggregateRating (5/47) from LocalBusiness schema (same violation pattern as decluttering page - Sunday audit still needed), expanded areaServed, 3 new FAQs (visible + FAQPage schema, now 7 in schema), added sticky call banner to match newer site design, new sections use existing decluttering-benefits/benefit-item classes. Internal links added: springbank-hill (x3 - new page needed inbound links), storage-solutions in body, aspen-woods, cleaning, spring-cleanout. Page already linked FROM garage-organization-calgary.html hub. Sitemap lastmod 2026-07-17. All 3 JSON-LD blocks validated, 1 H1, all internal hrefs verified to exist. NOTE: visible testimonials on this page (Chris & Dana W., Andrea M., Tom & Liz F.) are pre-existing and unverified - left in place per never-delete-without-flagging rule; flagging here for Abhi to confirm or replace with real reviews.",
+   "flags": [
+    "Visible testimonials on south-calgary page unverified (pre-existing) - confirm with Abhi",
+    "Remaining thin directional pages: east-calgary (811 words), north-calgary (831), west-calgary (843)",
+    "Other pages likely still carry invented aggregateRating blocks - audit Sunday 2026-07-19"
+   ],
+   "indexing": {
+    "garage-organization-south-calgary.html": {
+     "status": "pending-manual",
+     "reason": "Scheduled cloud run - Claude in Chrome on Mac mini not reachable (no device bridge in scheduled sessions)"
+    },
+    "garage-organization-springbank-hill.html": {
+     "status": "pending-manual",
+     "carried_from": "2026-07-16"
+    },
+    "garage-decluttering-calgary.html": {
+     "status": "pending-manual",
+     "carried_from": "2026-07-15"
+    },
+    "garage-organization-canmore.html": {
+     "status": "requested",
+     "requested_on": "2026-07-13",
+     "note": "Requested 4 days ago; verify next run with browser access - flag for content improvement if still unindexed by 2026-07-20"
+    }
+   },
+   "next_targets": [
+    "SATURDAY 2026-07-18 NEW CONTENT: garage-organization-bearspaw.html (acreage/estate: oversized shops, vehicle lifts, RV storage)",
+    "SUNDAY 2026-07-19 TECHNICAL: audit ALL pages for invented aggregateRating schema blocks (confirmed pattern: found on decluttering + south-calgary); verify sitemaps; note indexed vs not-indexed counts",
+    "custom-garage-cabinets-mount-royal.html (heritage estates, premium cabinetry, white-glove)",
+    "garage-organization-banff.html (mountain luxury, vacation properties)",
+    "RESCUE garage-organization-east-calgary.html (811 words) next Wed/Fri",
+    "MANUAL INDEXING BACKLOG (oldest first): decluttering-calgary (07-15), springbank-hill (07-16), south-calgary (07-17) - request in GSC when browser access available"
+   ]
   }
  ]
 }
