@@ -131,6 +131,47 @@
     "RESCUE garage-organization-east-calgary.html (811 words) next Wed/Fri",
     "MANUAL INDEXING BACKLOG (oldest first): decluttering-calgary (07-15), springbank-hill (07-16), south-calgary (07-17) - request in GSC when browser access available"
    ]
+  },
+  {
+   "date": "2026-07-18",
+   "weekday_mode": "SATURDAY - NEW CONTENT",
+   "action": "created",
+   "page": "garage-organization-bearspaw.html",
+   "keyword": "garage organization Bearspaw / shop organization Bearspaw / acreage garage storage Rocky View County",
+   "city": "Bearspaw (Rocky View County)",
+   "notes": "First target from next_targets (acreage/estate outskirts priority audience). SERP check: zero dedicated Bearspaw garage-organization pages exist - results are garage-door contractors (Koomen), junk removal (1-800-GOT-JUNK, JustJunk), big-box retail (Costco/Home Depot), and generic Alberta California Closets. Angle deliberately DISTINCT from all existing pages: acreage square-footage paradox (attached triple/quad + detached shop yet vehicles outside), zone-by-building method, detached shops/quonsets/outbuildings, RV-trailer-boat parking plans (storage-yard-tax argument), vehicle lifts and collector bays, acreage equipment rotation (tractor/snowblower/mower), gravel-dust + west-wind + chinook slab damage. Local texture: Watermark at Bearspaw, Church Ranches, Bearspaw Country Estates, Lynx Ridge, Bearspaw Pointe, Bearspaw Road / Glendale Road, Highway 1A to Cochrane, 12 Mile Coulee, Bearspaw Lifestyle Centre. 1834 words, 1 H1, title 49 chars, meta 157 chars, canonical + OG + Twitter, LocalBusiness + FAQPage + BreadcrumbList JSON-LD all validated (NO invented reviews/ratings), internal links: cochrane, north-calgary, calgary flagship, canmore, springbank-hill, storage-solutions, renovation + services/blog. Linked FROM index.html (new Bearspaw location card in locations grid). sitemap.xml: new entry lastmod 2026-07-18, homepage lastmod bumped. All internal hrefs verified to exist; sitemap parsed valid with 41 URLs, no duplicates.",
+   "indexing": {
+    "garage-organization-bearspaw.html": {
+     "status": "pending-manual",
+     "reason": "Scheduled cloud run - Claude in Chrome on Mac mini not reachable (no device bridge in scheduled sessions)"
+    },
+    "garage-organization-south-calgary.html": {
+     "status": "pending-manual",
+     "carried_from": "2026-07-17"
+    },
+    "garage-organization-springbank-hill.html": {
+     "status": "pending-manual",
+     "carried_from": "2026-07-16"
+    },
+    "garage-decluttering-calgary.html": {
+     "status": "pending-manual",
+     "carried_from": "2026-07-15"
+    },
+    "garage-organization-canmore.html": {
+     "status": "requested",
+     "requested_on": "2026-07-13",
+     "note": "Requested 5 days ago; verify next run with browser access - flag for content improvement if still unindexed by 2026-07-20"
+    }
+   },
+   "next_targets": [
+    "SUNDAY 2026-07-19 TECHNICAL: audit ALL pages for invented aggregateRating schema blocks (confirmed pattern: decluttering-calgary + south-calgary had them); verify all 3 sitemaps list every live page exactly once; note indexed vs not-indexed counts in GSC",
+    "MONDAY 2026-07-20 RANK TRACKING: first full rankings baseline incl. new pages (canmore, springbank-hill, bearspaw); verify canmore indexing (requested 07-13, improvement flag due)",
+    "custom-garage-cabinets-mount-royal.html (heritage estates, premium cabinetry, white-glove) - Tuesday new content",
+    "garage-organization-banff.html (mountain luxury, vacation properties)",
+    "RESCUE garage-organization-east-calgary.html (811 words) next Wed/Fri; then north-calgary (831), west-calgary (843)",
+    "MANUAL INDEXING BACKLOG (oldest first): decluttering-calgary (07-15), springbank-hill (07-16), south-calgary (07-17), bearspaw (07-18) - request in GSC when browser access available",
+    "FLAG for Abhi: unverified visible testimonials on south-calgary page (see 07-17 run)"
+   ]
   }
  ]
 }
