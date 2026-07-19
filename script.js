@@ -317,7 +317,7 @@ console.log(`
 🏠 Welcome to GarageScape.ca!
 📞 Call us: (587) 804-9266
 📧 Email: inquiry@garagescape.ca
-🌐 Website: https://garagescape.ca
+🌐 Website: https://www.garagescape.ca
 `);
 
 // Error handling for form submissions

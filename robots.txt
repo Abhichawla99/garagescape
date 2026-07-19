@@ -3,4 +3,4 @@ Allow: /
 Disallow: /admin/
 Disallow: /private/
 
-Sitemap: https://garagescape.ca/sitemap-index.xml
+Sitemap: https://www.garagescape.ca/sitemap-index.xml

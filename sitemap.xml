@@ -4,71 +4,55 @@
 
     <!-- MAIN PAGES -->
     <url>
-        <loc>https://garagescape.ca/</loc>
+        <loc>https://www.garagescape.ca/</loc>
         <lastmod>2026-07-18</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
         <image:image>
-            <image:loc>https://garagescape.ca/images/hero-garage-decluttering.jpg</image:loc>
+            <image:loc>https://www.garagescape.ca/images/hero-garage-decluttering.jpg</image:loc>
             <image:caption>Professional garage decluttering service in Calgary, Airdrie and Okotoks</image:caption>
         </image:image>
     </url>
     <url>
-        <loc>https://garagescape.ca/about.html</loc>
+        <loc>https://www.garagescape.ca/about.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
-    <url>
-        <loc>https://garagescape.ca/blog.html</loc>
-        <lastmod>2026-05-08</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://garagescape.ca/blog/hire-vs-diy-garage-organization-calgary.html</loc>
-        <lastmod>2026-05-08</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.65</priority>
-        <image:image>
-            <image:loc>https://garagescape.ca/images/calgary-garage-decluttering.jpg</image:loc>
-            <image:caption>Hire vs DIY garage organization in Calgary — 2026 cost guide</image:caption>
-        </image:image>
-    </url>
 
     <!-- SEASONAL / HIGH-PRIORITY LANDING PAGE -->
     <url>
-        <loc>https://garagescape.ca/spring-garage-cleanout-calgary.html</loc>
+        <loc>https://www.garagescape.ca/spring-garage-cleanout-calgary.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.95</priority>
         <image:image>
-            <image:loc>https://garagescape.ca/images/spring-garage-cleanout.jpg</image:loc>
+            <image:loc>https://www.garagescape.ca/images/spring-garage-cleanout.jpg</image:loc>
             <image:caption>Spring garage cleanout Calgary - fresh start for spring</image:caption>
         </image:image>
     </url>
 
     <!-- SERVICE PAGES -->
     <url>
-        <loc>https://garagescape.ca/services/organization.html</loc>
+        <loc>https://www.garagescape.ca/services/organization.html</loc>
         <lastmod>2025-02-01</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.85</priority>
     </url>
     <url>
-        <loc>https://garagescape.ca/services/cleaning.html</loc>
+        <loc>https://www.garagescape.ca/services/cleaning.html</loc>
         <lastmod>2025-02-01</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.85</priority>
     </url>
     <url>
-        <loc>https://garagescape.ca/services/shelving.html</loc>
+        <loc>https://www.garagescape.ca/services/shelving.html</loc>
         <lastmod>2025-02-01</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.85</priority>
     </url>
     <url>
-        <loc>https://garagescape.ca/services/flooring.html</loc>
+        <loc>https://www.garagescape.ca/services/flooring.html</loc>
         <lastmod>2025-02-01</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.85</priority>
@@ -76,107 +60,107 @@
 
     <!-- PRIMARY LOCATION PAGES -->
     <url>
-        <loc>https://garagescape.ca/garage-decluttering-calgary.html</loc>
+        <loc>https://www.garagescape.ca/garage-decluttering-calgary.html</loc>
         <lastmod>2026-07-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.95</priority>
         <image:image>
-            <image:loc>https://garagescape.ca/images/calgary-garage-decluttering.jpg</image:loc>
+            <image:loc>https://www.garagescape.ca/images/calgary-garage-decluttering.jpg</image:loc>
             <image:caption>Garage decluttering Calgary - professional organization service</image:caption>
         </image:image>
     </url>
     <url>
-        <loc>https://garagescape.ca/garage-decluttering-airdrie.html</loc>
+        <loc>https://www.garagescape.ca/garage-decluttering-airdrie.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
         <image:image>
-            <image:loc>https://garagescape.ca/images/airdrie-garage-decluttering.jpg</image:loc>
+            <image:loc>https://www.garagescape.ca/images/airdrie-garage-decluttering.jpg</image:loc>
             <image:caption>Garage decluttering Airdrie - same-day service available</image:caption>
         </image:image>
     </url>
     <url>
-        <loc>https://garagescape.ca/garage-decluttering-okotoks.html</loc>
+        <loc>https://www.garagescape.ca/garage-decluttering-okotoks.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
         <image:image>
-            <image:loc>https://garagescape.ca/images/okotoks-garage-decluttering.jpg</image:loc>
+            <image:loc>https://www.garagescape.ca/images/okotoks-garage-decluttering.jpg</image:loc>
             <image:caption>Garage decluttering Okotoks - professional garage organization</image:caption>
         </image:image>
     </url>
     <url>
-        <loc>https://garagescape.ca/garage-decluttering-cochrane.html</loc>
+        <loc>https://www.garagescape.ca/garage-decluttering-cochrane.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
         <image:image>
-            <image:loc>https://garagescape.ca/images/cochrane-garage-decluttering.jpg</image:loc>
+            <image:loc>https://www.garagescape.ca/images/cochrane-garage-decluttering.jpg</image:loc>
             <image:caption>Garage decluttering Cochrane - same-day service available</image:caption>
         </image:image>
     </url>
     <url>
-        <loc>https://garagescape.ca/garage-organization-canmore.html</loc>
+        <loc>https://www.garagescape.ca/garage-organization-canmore.html</loc>
         <lastmod>2026-07-13</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://garagescape.ca/garage-organization-springbank-hill.html</loc>
+        <loc>https://www.garagescape.ca/garage-organization-springbank-hill.html</loc>
         <lastmod>2026-07-16</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://garagescape.ca/garage-organization-bearspaw.html</loc>
+        <loc>https://www.garagescape.ca/garage-organization-bearspaw.html</loc>
         <lastmod>2026-07-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://garagescape.ca/garage-decluttering-chestermere.html</loc>
+        <loc>https://www.garagescape.ca/garage-decluttering-chestermere.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
         <image:image>
-            <image:loc>https://garagescape.ca/images/chestermere-garage-decluttering.jpg</image:loc>
+            <image:loc>https://www.garagescape.ca/images/chestermere-garage-decluttering.jpg</image:loc>
             <image:caption>Garage decluttering Chestermere - professional service near Calgary</image:caption>
         </image:image>
     </url>
 
     <!-- CALGARY SERVICE VARIATION PAGES -->
     <url>
-        <loc>https://garagescape.ca/garage-organization-calgary.html</loc>
+        <loc>https://www.garagescape.ca/garage-organization-calgary.html</loc>
         <lastmod>2025-02-04</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://garagescape.ca/garage-cleaning-calgary.html</loc>
+        <loc>https://www.garagescape.ca/garage-cleaning-calgary.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.85</priority>
     </url>
     <url>
-        <loc>https://garagescape.ca/garage-storage-solutions-calgary.html</loc>
+        <loc>https://www.garagescape.ca/garage-storage-solutions-calgary.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://garagescape.ca/garage-makeover-calgary.html</loc>
+        <loc>https://www.garagescape.ca/garage-makeover-calgary.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://garagescape.ca/garage-renovation-calgary.html</loc>
+        <loc>https://www.garagescape.ca/garage-renovation-calgary.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.75</priority>
     </url>
     <url>
-        <loc>https://garagescape.ca/garage-remodel-calgary.html</loc>
+        <loc>https://www.garagescape.ca/garage-remodel-calgary.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.75</priority>
@@ -184,31 +168,31 @@
 
     <!-- ORGANIZATION HELP & GUIDE PAGES -->
     <url>
-        <loc>https://garagescape.ca/garage-organization-service-calgary.html</loc>
+        <loc>https://www.garagescape.ca/garage-organization-service-calgary.html</loc>
         <lastmod>2025-02-01</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://garagescape.ca/garage-organization-company-calgary.html</loc>
+        <loc>https://www.garagescape.ca/garage-organization-company-calgary.html</loc>
         <lastmod>2025-02-01</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.75</priority>
     </url>
     <url>
-        <loc>https://garagescape.ca/garage-organization-guide-calgary.html</loc>
+        <loc>https://www.garagescape.ca/garage-organization-guide-calgary.html</loc>
         <lastmod>2025-02-01</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://garagescape.ca/garage-organization-help-calgary.html</loc>
+        <loc>https://www.garagescape.ca/garage-organization-help-calgary.html</loc>
         <lastmod>2025-02-01</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://garagescape.ca/garage-organization-tips-calgary.html</loc>
+        <loc>https://www.garagescape.ca/garage-organization-tips-calgary.html</loc>
         <lastmod>2025-02-01</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
@@ -216,25 +200,25 @@
 
     <!-- CALGARY QUADRANT PAGES -->
     <url>
-        <loc>https://garagescape.ca/garage-organization-north-calgary.html</loc>
+        <loc>https://www.garagescape.ca/garage-organization-north-calgary.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.75</priority>
     </url>
     <url>
-        <loc>https://garagescape.ca/garage-organization-south-calgary.html</loc>
+        <loc>https://www.garagescape.ca/garage-organization-south-calgary.html</loc>
         <lastmod>2026-07-17</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.75</priority>
     </url>
     <url>
-        <loc>https://garagescape.ca/garage-organization-east-calgary.html</loc>
+        <loc>https://www.garagescape.ca/garage-organization-east-calgary.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.75</priority>
     </url>
     <url>
-        <loc>https://garagescape.ca/garage-organization-west-calgary.html</loc>
+        <loc>https://www.garagescape.ca/garage-organization-west-calgary.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.75</priority>
@@ -242,55 +226,55 @@
 
     <!-- CALGARY NEIGHBOURHOOD PAGES -->
     <url>
-        <loc>https://garagescape.ca/garage-organization-brentwood.html</loc>
+        <loc>https://www.garagescape.ca/garage-organization-brentwood.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://garagescape.ca/garage-organization-dalhousie.html</loc>
+        <loc>https://www.garagescape.ca/garage-organization-dalhousie.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://garagescape.ca/garage-organization-evanston.html</loc>
+        <loc>https://www.garagescape.ca/garage-organization-evanston.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://garagescape.ca/garage-organization-beddington.html</loc>
+        <loc>https://www.garagescape.ca/garage-organization-beddington.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://garagescape.ca/garage-organization-panorama-hills.html</loc>
+        <loc>https://www.garagescape.ca/garage-organization-panorama-hills.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://garagescape.ca/garage-organization-mckenzie-towne.html</loc>
+        <loc>https://www.garagescape.ca/garage-organization-mckenzie-towne.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://garagescape.ca/garage-organization-aspen-woods.html</loc>
+        <loc>https://www.garagescape.ca/garage-organization-aspen-woods.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://garagescape.ca/privacy.html</loc>
+        <loc>https://www.garagescape.ca/privacy.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.3</priority>
     </url>
     <url>
-        <loc>https://garagescape.ca/terms.html</loc>
+        <loc>https://www.garagescape.ca/terms.html</loc>
         <lastmod>2026-05-08</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.3</priority>
