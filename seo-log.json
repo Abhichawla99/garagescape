@@ -196,6 +196,62 @@
     "RESCUE garage-organization-east-calgary.html (811 words) next Wed/Fri; then north-calgary (831), west-calgary (843)",
     "FLAG for Abhi: unverified visible testimonials on south-calgary page (see 07-17 run)"
    ]
+  },
+  {
+   "date": "2026-07-20",
+   "weekday_mode": "MONDAY - RANK TRACKING + INDEX AUDIT",
+   "action": "rank-tracking",
+   "notes": "First full rankings baseline recorded (10 queries). Method: WebSearch (US datacenter, non-localized) - positions are ordinal within top-10 organic results; treat as directional, compare same-method week over week. Strong showings on decluttering/cleaning queries; organization + luxury keywords not yet in top 10; all three new pages (canmore, springbank-hill, bearspaw) absent from SERPs, consistent with unindexed status. site:garagescape.ca check shows canmore page NOT indexed 7 days after 07-13 request -> flagged for content improvement per 7-day rule. Also observed: Google still serving stale pre-normalization titles/apex-host URLs for some results (e.g. airdrie decluttering page shows old homepage title) - should self-correct as www canonicals from 07-19 fix are recrawled; recheck next Monday. GSC unreachable (scheduled cloud run, no browser bridge) - indexed/not-indexed counts and backlog indexing requests remain pending-manual.",
+   "rankings": {
+    "method": "WebSearch top-10 organic, US datacenter, 2026-07-20",
+    "garage organization calgary": "not in top 10",
+    "garage decluttering calgary": "1 (homepage)",
+    "garage organization canmore": "not in top 10 (page unindexed)",
+    "custom garage cabinets calgary": "not in top 10",
+    "garage organization springbank hill calgary": "not in top 10 (page new 07-16, unindexed)",
+    "garage organization bearspaw": "not in top 10 (page new 07-18, unindexed)",
+    "epoxy garage floor calgary": "not in top 10",
+    "garage storage solutions calgary": "9 (garage-storage-solutions-calgary.html)",
+    "garage organization okotoks": "3 (homepage), 8 (garage-decluttering-okotoks.html)",
+    "garage cleaning calgary": "6 (services/cleaning.html), 8 (homepage)"
+   },
+   "indexing": {
+    "garage-organization-canmore.html": {
+     "status": "requested",
+     "requested_on": "2026-07-13",
+     "flag": "NEEDS CONTENT IMPROVEMENT - still unindexed 7 days after request (site: check 07-20 negative). Schedule for Wednesday 2026-07-22 improve+rescue.",
+     "note": "GSC not reachable today to confirm inspection status; site: operator used as proxy"
+    },
+    "garage-decluttering-calgary.html": {
+     "status": "pending-manual",
+     "carried_from": "2026-07-15"
+    },
+    "garage-organization-springbank-hill.html": {
+     "status": "pending-manual",
+     "carried_from": "2026-07-16"
+    },
+    "garage-organization-south-calgary.html": {
+     "status": "pending-manual",
+     "carried_from": "2026-07-17"
+    },
+    "garage-organization-bearspaw.html": {
+     "status": "pending-manual",
+     "carried_from": "2026-07-18"
+    }
+   },
+   "gsc": {
+    "status": "pending-manual",
+    "reason": "Scheduled cloud run - Claude in Chrome on Mac mini not reachable (no device bridge in scheduled sessions)",
+    "manual_instructions": "Open https://search.google.com/search-console?resource_id=sc-domain%3Agaragescape.ca -> Sitemaps: resubmit sitemap-index.xml (post www-normalization). Then Inspect + Request Indexing, oldest first: garage-decluttering-calgary.html, garage-organization-springbank-hill.html, garage-organization-south-calgary.html, garage-organization-bearspaw.html, and re-inspect garage-organization-canmore.html."
+   },
+   "next_targets": [
+    "TUESDAY 2026-07-21 NEW CONTENT: custom-garage-cabinets-mount-royal.html (heritage estates, premium cabinetry, white-glove) - also targets 'custom garage cabinets calgary' where we rank nowhere",
+    "WEDNESDAY 2026-07-22 IMPROVE+RESCUE: garage-organization-canmore.html (7-day unindexed flag) OR garage-organization-east-calgary.html (811 words) - canmore takes priority per flag",
+    "garage-organization-banff.html (mountain luxury, vacation properties)",
+    "RESCUE queue after canmore: east-calgary (811), north-calgary (831), west-calgary (843)",
+    "MANUAL INDEXING BACKLOG (oldest first): decluttering-calgary (07-15), springbank-hill (07-16), south-calgary (07-17), bearspaw (07-18) + resubmit sitemap-index.xml",
+    "FLAG for Abhi: unverified visible testimonials on south-calgary page (see 07-17 run)"
+   ]
   }
  ]
 }
