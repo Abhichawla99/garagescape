@@ -252,6 +252,54 @@
     "MANUAL INDEXING BACKLOG (oldest first): decluttering-calgary (07-15), springbank-hill (07-16), south-calgary (07-17), bearspaw (07-18) + resubmit sitemap-index.xml",
     "FLAG for Abhi: unverified visible testimonials on south-calgary page (see 07-17 run)"
    ]
+  },
+  {
+   "date": "2026-07-21",
+   "weekday_mode": "TUESDAY - NEW CONTENT",
+   "action": "created",
+   "page": "custom-garage-cabinets-mount-royal.html",
+   "keyword": "custom garage cabinets Mount Royal / luxury garage organization Calgary / garage storage systems Mount Royal",
+   "city": "Mount Royal (inner-city Calgary)",
+   "notes": "First affluent-community target from Monday plan (Calgary inner-city luxury priority audience). Note: UTC clock had ticked to 2026-07-22 at run time but local Calgary (MDT) date was Tuesday 2026-07-21 and no 07-21 entry existed, so ran the queued Tuesday NEW CONTENT task. SERP check (WebSearch 'custom garage cabinets calgary luxury Mount Royal'): results are national/franchise cabinet vendors (Garage Living, California Closets, Redline, Slide-Lok) + generic Calgary cabinet sites - ZERO Mount-Royal-specific or guide-style pages. Angle deliberately DISTINCT from every existing page: heritage inner-city estates with OLD/COMPACT and DETACHED rear-lane garages (opposite of Springbank Hill new triple-car estates and Bearspaw acreage shops). Themes: made-to-measure cabinets for heritage/out-of-square garages, detached lane-access unheated garage fit-outs, discreet white-glove service for high-value households, vertical storage for small footprints, chinook freeze-thaw on older unheated slabs, wine/gear placement advice, resale in heritage market. Local texture: Upper/Lower Mount Royal, Sifton Blvd, Prospect Ave, Hope St, Wolfe St, Dorchester Ave, Colborne Cres, Joliet Ave, Glencoe Club, Uptown 17th Ave, CPR early-1900s history, back-lane coach houses; nearby Elbow Park, Britannia, Roxboro, Bel-Aire, Rideau Park, Scarboro. 1917 visible words, 1 H1, title 48 chars, meta 156 chars, canonical + OG + Twitter, LocalBusiness + FAQPage + BreadcrumbList JSON-LD all parse (NO invented reviews/ratings). Internal links: aspen-woods, springbank-hill, garage-renovation-calgary, garage-storage-solutions-calgary, calgary flagship, bearspaw + services/blog (15 internal links). Linked FROM index.html (new Mount Royal location card in locations grid). sitemap.xml: new entry lastmod 2026-07-21 (now 40 URLs, no dupes), homepage lastmod bumped to 2026-07-21. All internal hrefs verified to exist.",
+   "indexing": {
+    "custom-garage-cabinets-mount-royal.html": {
+     "status": "pending-manual",
+     "reason": "Scheduled cloud run - Claude in Chrome on Mac mini not reachable (no device bridge in scheduled sessions)"
+    },
+    "garage-organization-canmore.html": {
+     "status": "requested",
+     "requested_on": "2026-07-13",
+     "flag": "NEEDS CONTENT IMPROVEMENT - still unindexed 7+ days after request (07-20 site: check negative). Queued for Wed 2026-07-22 improve+rescue per Monday plan."
+    },
+    "garage-decluttering-calgary.html": {
+     "status": "pending-manual",
+     "carried_from": "2026-07-15"
+    },
+    "garage-organization-springbank-hill.html": {
+     "status": "pending-manual",
+     "carried_from": "2026-07-16"
+    },
+    "garage-organization-south-calgary.html": {
+     "status": "pending-manual",
+     "carried_from": "2026-07-17"
+    },
+    "garage-organization-bearspaw.html": {
+     "status": "pending-manual",
+     "carried_from": "2026-07-18"
+    }
+   },
+   "gsc": {
+    "status": "pending-manual",
+    "reason": "Scheduled cloud run - Claude in Chrome on Mac mini not reachable (no device bridge in scheduled sessions)",
+    "manual_instructions": "Open https://search.google.com/search-console?resource_id=sc-domain%3Agaragescape.ca -> Inspect + Request Indexing for custom-garage-cabinets-mount-royal.html (new today), then work backlog oldest first: garage-decluttering-calgary.html (07-15), garage-organization-springbank-hill.html (07-16), garage-organization-south-calgary.html (07-17), garage-organization-bearspaw.html (07-18). Re-inspect garage-organization-canmore.html (unindexed 7+ days). Resubmit sitemap-index.xml if not yet done post-07-19 www normalization."
+   },
+   "next_targets": [
+    "WEDNESDAY 2026-07-22 IMPROVE+RESCUE: garage-organization-canmore.html (7-day unindexed flag - PRIORITY) - expand/differentiate, better title/meta, then request indexing. Fallback: garage-organization-east-calgary.html (811 words).",
+    "THURSDAY 2026-07-24 NEW CONTENT: garage-organization-banff.html (mountain luxury, vacation-property outfitting, ski/bike gear walls, property-manager-friendly) OR next inner-city luxury (Elbow Park / Britannia) - keep DISTINCT from Mount Royal heritage angle.",
+    "RESCUE queue: east-calgary (811), north-calgary (831), west-calgary (843)",
+    "MANUAL INDEXING BACKLOG (oldest first): decluttering-calgary (07-15), springbank-hill (07-16), south-calgary (07-17), bearspaw (07-18), mount-royal (07-21)",
+    "FLAG for Abhi: unverified visible testimonials on south-calgary page (see 07-17 run)"
+   ]
   }
  ]
 }
