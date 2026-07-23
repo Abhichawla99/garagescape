@@ -300,6 +300,54 @@
     "MANUAL INDEXING BACKLOG (oldest first): decluttering-calgary (07-15), springbank-hill (07-16), south-calgary (07-17), bearspaw (07-18), mount-royal (07-21)",
     "FLAG for Abhi: unverified visible testimonials on south-calgary page (see 07-17 run)"
    ]
+  },
+  {
+   "date": "2026-07-22",
+   "weekday_mode": "WEDNESDAY - IMPROVE + RESCUE",
+   "action": "improved",
+   "page": "garage-organization-canmore.html",
+   "keyword": "garage organization Canmore / mountain gear storage Canmore / vacation home garage Silvertip Three Sisters",
+   "city": "Canmore (Bow Valley)",
+   "notes": "RESCUE of the 7-day-unindexed flag (canmore requested 2026-07-13, still unindexed per 07-20 site: check). Page was already solid (1504 words) so this run substantially DIFFERENTIATED + expanded it to 2489 visible words (+985) to earn a re-crawl, rather than a token edit. Added three new unique sections: (1) 'A Gear-by-Gear Storage Plan for Bow Valley Garages' - specific storage method per gear type (alpine/touring skis & splitboards, mountain & e-bikes w/ charging, climbing/mountaineering/camping, SUPs/kayaks, winter tires/roof box/chains, wildlife attractants) with real local texture (Rundle, Sunshine, Nordic Centre, Highline, Legacy Trail, Ha Ling, Kananaskis, Quarry Lake, Bow reservoir); (2) 'The Canmore Garage Calendar' - fall reset / winter melt-management / spring big-swap / summer peak-use, 4-step seasonal timing; (3) 'Luxury & Vacation-Home Garages in Silvertip and Three Sisters' - estate double/triple garages, property-manager-friendly guest-proof rental systems, weaves luxury keywords (custom cabinets, gear walls, epoxy flooring). SEO: refreshed <title> to 'Canmore Garage Organization & Gear Storage | GarageScape' (55 chars) + og:title + twitter:title; rewrote meta description (150 chars); added 2 new FAQs (visible + FAQPage schema, now 8 Qs) on vacation rentals and custom cabinets/epoxy. Added fresh internal links spreading equity to newer pages: aspen-woods, springbank-hill, bearspaw, custom-garage-cabinets-mount-royal, garage-renovation-calgary (plus existing calgary/storage-solutions/cleaning/spring-cleanout). Validation: 1 H1, all 3 JSON-LD blocks parse, NO invented aggregateRating, all relative internal hrefs resolve to existing files, sitemap.xml parses. sitemap lastmod for canmore bumped 07-13 -> 07-22.",
+   "indexing": {
+    "garage-organization-canmore.html": {
+     "status": "pending-manual",
+     "reason": "Scheduled cloud run - Claude in Chrome on Mac mini not reachable (no device bridge in scheduled sessions). Content substantially improved today; request indexing when browser access available.",
+     "prior_flag_resolved": "7-day-unindexed content-improvement flag addressed via +985 word differentiation on 2026-07-22"
+    },
+    "garage-decluttering-calgary.html": {
+     "status": "pending-manual",
+     "carried_from": "2026-07-15"
+    },
+    "garage-organization-springbank-hill.html": {
+     "status": "pending-manual",
+     "carried_from": "2026-07-16"
+    },
+    "garage-organization-south-calgary.html": {
+     "status": "pending-manual",
+     "carried_from": "2026-07-17"
+    },
+    "garage-organization-bearspaw.html": {
+     "status": "pending-manual",
+     "carried_from": "2026-07-18"
+    },
+    "custom-garage-cabinets-mount-royal.html": {
+     "status": "pending-manual",
+     "carried_from": "2026-07-21"
+    }
+   },
+   "gsc": {
+    "status": "pending-manual",
+    "reason": "Scheduled cloud run - Claude in Chrome on Mac mini not reachable (no device bridge in scheduled sessions)",
+    "manual_instructions": "Open https://search.google.com/search-console?resource_id=sc-domain%3Agaragescape.ca -> Inspect + Request Indexing for garage-organization-canmore.html (improved today - PRIORITY, was unindexed 9+ days). Then work backlog oldest first: garage-decluttering-calgary.html (07-15), garage-organization-springbank-hill.html (07-16), garage-organization-south-calgary.html (07-17), garage-organization-bearspaw.html (07-18), custom-garage-cabinets-mount-royal.html (07-21). Resubmit sitemap-index.xml if not yet done post-07-19 www normalization."
+   },
+   "next_targets": [
+    "THURSDAY 2026-07-23 NEW CONTENT: garage-organization-banff.html (mountain luxury, vacation-property outfitting, ski/bike gear walls, property-manager-friendly) - keep DISTINCT from Canmore (Canmore now owns the Bow Valley gear + Silvertip/Three Sisters vacation angle; Banff angle = national-park build restrictions, heritage/townsite garages, staff-accommodation & hotel-adjacent, Mount Norquay/Sunshine/Lake Louise ski storage) OR next inner-city luxury (Elbow Park / Britannia) distinct from Mount Royal heritage angle.",
+    "RESCUE queue: east-calgary (811 words), north-calgary (831), west-calgary (843)",
+    "MANUAL INDEXING BACKLOG (oldest first): decluttering-calgary (07-15), springbank-hill (07-16), south-calgary (07-17), bearspaw (07-18), mount-royal (07-21), canmore (improved 07-22)",
+    "MONDAY next: re-check canmore indexing after the 07-22 improvement + re-crawl; record rankings week-over-week vs 07-20 baseline",
+    "FLAG for Abhi: unverified visible testimonials on south-calgary page (see 07-17 run)"
+   ]
   }
  ]
 }
