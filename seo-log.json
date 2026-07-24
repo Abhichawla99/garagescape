@@ -348,6 +348,59 @@
     "MONDAY next: re-check canmore indexing after the 07-22 improvement + re-crawl; record rankings week-over-week vs 07-20 baseline",
     "FLAG for Abhi: unverified visible testimonials on south-calgary page (see 07-17 run)"
    ]
+  },
+  {
+   "date": "2026-07-23",
+   "weekday_mode": "THURSDAY - NEW CONTENT",
+   "action": "created",
+   "page": "garage-organization-banff.html",
+   "keyword": "garage organization Banff / gear storage Banff / ski storage Banff townsite",
+   "city": "Banff (Banff National Park townsite)",
+   "notes": "Ran at UTC 2026-07-24 00:04 = local Calgary (MDT) Thu 2026-07-23; last log entry was Wed 07-22 and no Thursday entry existed, so ran the queued Thursday NEW CONTENT task (Banff) per the 07-22 plan. SERP check (WebSearch 'garage organization Banff Alberta storage services'): ZERO dedicated Banff garage-organization pages exist - results are Calgary garage-interior/cabinet companies (Garage Living, California Closets, Redline, The Garage Store, Autobox) + big-box retail. Clear gap. Angle deliberately DISTINCT from the Canmore page (which now owns Bow Valley gear-by-gear + Silvertip/Three Sisters vacation-home angle): Banff = national-park constraints. Themes: you cannot build your way out (Parks Canada leased land, tight development control, no bigger garage - vertical/overhead design instead), compact/original/detached townsite garages, need-to-reside owner-occupied working residents + shared/staff-accommodation housing (per-person labelled zones), three-hill ski storage (Norquay/Sunshine/Lake Louise grab-and-go), Banff's strict bear-smart attractant rules, freeze-thaw on older townsite slabs. Local texture: central townsite/Banff Ave, Middle Springs & the benches, Tunnel Mountain, Cave/Glen Ave, Muskrat/Beaver/Otter St, Legacy Trail, Harvie Heights, Dead Man's Flats, Lac Des Arcs, Lake Louise. 2445 visible words, 1 H1, title 54 rendered chars, meta 156 rendered chars, canonical + OG + Twitter, all www URLs, LocalBusiness + FAQPage (8 Qs) + BreadcrumbList JSON-LD all parse (NO invented reviews/ratings). Design copied exactly from canmore template (faq-grid wrapper, decluttering-benefits/benefit-item, process-steps, locations-grid, sticky banner, floating call btn). Internal links: canmore, garage-storage-solutions-calgary, garage-renovation-calgary, garage-organization-calgary flagship, cochrane, okotoks + services/blog (all hrefs verified to resolve). Linked FROM index.html (new Banff location card in locations grid). sitemap.xml: new entry lastmod 2026-07-23 (now 41 URLs, parsed valid, no dupes), homepage lastmod bumped 07-21 -> 07-23. Live verification post-deploy: banff page, homepage, sitemap.xml all HTTP 200; Banff H1 + index 'View Banff Services' card confirmed live.",
+   "indexing": {
+    "garage-organization-banff.html": {
+     "status": "pending-manual",
+     "reason": "Scheduled cloud run - Claude in Chrome on Mac mini not reachable (no device bridge in scheduled sessions). Request indexing when browser access available."
+    },
+    "garage-organization-canmore.html": {
+     "status": "pending-manual",
+     "carried_from": "2026-07-22",
+     "note": "Improved 07-22 (+985 words); request indexing / re-inspect when browser access available - was unindexed 9+ days"
+    },
+    "garage-decluttering-calgary.html": {
+     "status": "pending-manual",
+     "carried_from": "2026-07-15"
+    },
+    "garage-organization-springbank-hill.html": {
+     "status": "pending-manual",
+     "carried_from": "2026-07-16"
+    },
+    "garage-organization-south-calgary.html": {
+     "status": "pending-manual",
+     "carried_from": "2026-07-17"
+    },
+    "garage-organization-bearspaw.html": {
+     "status": "pending-manual",
+     "carried_from": "2026-07-18"
+    },
+    "custom-garage-cabinets-mount-royal.html": {
+     "status": "pending-manual",
+     "carried_from": "2026-07-21"
+    }
+   },
+   "gsc": {
+    "status": "pending-manual",
+    "reason": "Scheduled cloud run - Claude in Chrome on Mac mini not reachable (no device bridge in scheduled sessions)",
+    "manual_instructions": "Open https://search.google.com/search-console?resource_id=sc-domain%3Agaragescape.ca -> Inspect + Request Indexing for garage-organization-banff.html (new today). Then work backlog oldest first: garage-decluttering-calgary.html (07-15), garage-organization-springbank-hill.html (07-16), garage-organization-south-calgary.html (07-17), garage-organization-bearspaw.html (07-18), custom-garage-cabinets-mount-royal.html (07-21), garage-organization-canmore.html (improved 07-22). Resubmit sitemap-index.xml if not yet done post-07-19 www normalization. Note that GSC has a ~10-12/day request quota - prioritize newest + longest-waiting."
+   },
+   "next_targets": [
+    "FRIDAY 2026-07-24 IMPROVE+RESCUE: garage-organization-east-calgary.html (811 words, weakest remaining directional page) - expand to 1000+ differentiated words, better title/meta, schema, internal links, then request indexing. Fallback: north-calgary (831) or west-calgary (843).",
+    "SATURDAY 2026-07-25 NEW CONTENT: next inner-city luxury community DISTINCT from Mount Royal heritage angle - e.g. Elbow Park OR Britannia/Bel-Aire (estate river-valley homes, premium cabinetry) OR Aspen Woods improvement; keep single-community, genuinely distinct.",
+    "RESCUE queue after east-calgary: north-calgary (831 words), west-calgary (843)",
+    "MANUAL INDEXING BACKLOG (oldest first): decluttering-calgary (07-15), springbank-hill (07-16), south-calgary (07-17), bearspaw (07-18), mount-royal (07-21), canmore (improved 07-22), banff (new 07-23)",
+    "MONDAY 2026-07-27 RANK TRACKING: record rankings week-over-week vs 07-20 baseline; re-check canmore indexing after 07-22 improvement; add banff query to tracked set",
+    "FLAG for Abhi: unverified visible testimonials on south-calgary page (see 07-17 run)"
+   ]
   }
  ]
 }
