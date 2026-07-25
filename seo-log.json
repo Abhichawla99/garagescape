@@ -401,6 +401,31 @@
     "MONDAY 2026-07-27 RANK TRACKING: record rankings week-over-week vs 07-20 baseline; re-check canmore indexing after 07-22 improvement; add banff query to tracked set",
     "FLAG for Abhi: unverified visible testimonials on south-calgary page (see 07-17 run)"
    ]
+  },
+  {
+   "date": "2026-07-24",
+   "weekday_mode": "FRIDAY - IMPROVE + RESCUE",
+   "action": "improved",
+   "page": "garage-organization-east-calgary.html",
+   "keyword": "garage organization East Calgary",
+   "city": "Calgary (East / NE & SE)",
+   "notes": "Ran at UTC 2026-07-25 00:04 = local Calgary (MDT) Fri 2026-07-24. Last log entry was Thu 07-23 (Banff); the queued Friday 07-24 IMPROVE+RESCUE task was undone, so ran it per the 07-23 plan. Rescued garage-organization-east-calgary.html: was the weakest remaining directional page at 811 visible words -> now 1757. Kept exact site design (header/nav/footer, styles.css classes). Added three genuinely differentiated East Calgary sections: (1) 'Two Worlds' benefits-list contrasting established NE detached single-car garages (Forest Lawn, Marlborough, Rundle, Whitehorn, Pineridge, Dover, Erin Woods; 1960s-80s builds off back lanes, no mudroom, limited electrical, 17 Ave SE/International Ave) vs SE lake communities (Auburn Bay, Mahogany, Cranston, Copperfield, New Brighton, McKenzie Towne, Seton, Quarry Park; new attached doubles/tandems, sagging builder wire shelving, lake gear) plus Bow River corridor (Inglewood laneway garages, Ogden, Riverbend, Douglasdale). (2) 5-step process section. (3) Alberta-seasons benefits-list: chinook freeze-thaw, road salt/pickle-gravel off Deerfoot/Stoney/Peigan/McKnight, winter-tire storage, hockey/ringette gear, camping/quads for badlands/Kananaskis, detached-garage rodent/cold protection. Tightened title to 52 chars ('Garage Organization East Calgary NE/SE | GarageScape') and rewrote meta description. Verified: 1 H1, all 3 JSON-LD blocks (LocalBusiness+FAQPage+BreadcrumbList) parse, links TO 5 existing pages, linked FROM garage-organization-calgary hub, sitemap.xml lastmod bumped to 2026-07-24. SERP check (WebSearch 'garage organization east calgary NE SE'): no dedicated East Calgary garage-organization competitor; results are garage-door repair + garage renovation/cabinet firms (Garage Living, Redline) + directories; GarageScape homepage present. Clear ranking opening for a deep local page.",
+   "flags": [
+    "UNVERIFIED TESTIMONIALS: east-calgary page carries 3 named-customer testimonials (Marco & Julie T./Auburn Bay, Grace O./Marlborough, David K./Copperfield) that appear fabricated (same pattern flagged on south-calgary 07-17). Left in place (pre-existing, not added by this run) but FLAG for Abhi to verify or remove. No new reviews were invented."
+   ],
+   "indexing": {
+    "status": "pending-manual",
+    "requested_on": null,
+    "method": "Claude in Chrome unavailable in scheduled/headless run - no device bridge",
+    "note": "Manual indexing needed: open https://search.google.com/search-console?resource_id=sc-domain%3Agaragescape.ca then inspect https://www.garagescape.ca/garage-organization-east-calgary.html and click Request Indexing. Also work oldest backlog first."
+   },
+   "next_targets": [
+    "SATURDAY 2026-07-25 NEW CONTENT: next inner-city luxury community DISTINCT from Mount Royal heritage angle - e.g. Elbow Park OR Britannia/Bel-Aire/Mayfair (estate river-valley homes, premium custom cabinetry, wine/gear storage) OR Aspen Woods luxury improvement. Single-community, genuinely distinct.",
+    "RESCUE queue after east-calgary: north-calgary (831 words), west-calgary (843 words).",
+    "MANUAL INDEXING BACKLOG (oldest first): decluttering-calgary (07-15), springbank-hill (07-16), south-calgary (07-17), bearspaw (07-18), mount-royal (07-21), canmore (improved 07-22), banff (new 07-23), east-calgary (improved 07-24).",
+    "MONDAY 2026-07-27 RANK TRACKING: record rankings week-over-week vs 07-20 baseline; re-check canmore indexing after 07-22 improvement; add banff + east-calgary to tracked set.",
+    "FLAG for Abhi: unverified visible testimonials on south-calgary AND east-calgary pages - verify or remove."
+   ]
   }
  ]
 }
