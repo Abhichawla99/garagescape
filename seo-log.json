@@ -453,6 +453,44 @@
         "MONDAY 2026-07-27 (fires UTC 07-28) RANK TRACKING: record rankings week-over-week vs 07-20 baseline; re-check canmore indexing after 07-22 improvement; add banff/east-calgary/elbow-park to tracked set.",
         "FLAG for Abhi: unverified visible testimonials on south-calgary AND east-calgary pages - verify or remove."
       ]
+    },
+    {
+      "date": "2026-07-26",
+      "weekday_mode": "SUNDAY - TECHNICAL HEALTH",
+      "action": "technical-audit",
+      "notes": "Ran at UTC 2026-07-27 00:05 = local Calgary (MDT) Sun 2026-07-26 evening; last log entry was Sat 07-25 (elbow-park new page), no 07-26 entry existed, so ran the queued Sunday TECHNICAL HEALTH task per the 07-25 plan. Full site health audit - site is in strong shape, only one minor fix needed. Sitemap coverage: sitemap.xml (42 URLs) + sitemap-blog.xml (10 URLs) = 52 total; every one of the 52 live content pages (40 top-level incl. new elbow-park + 4 services/ + 9 blog/ files + index + blog.html) maps 1:1 to an existing file with NO missing files, NO duplicates across sitemaps, and every URL on the correct https://www.garagescape.ca (www) host (sitemap.html human page correctly excluded from XML sitemaps). elbow-park (07-25) confirmed present in sitemap.xml. All 3 sitemaps parse valid XML. JSON-LD: all blocks across all 52 pages parse with 0 errors. H1: exactly one per page sitewide (0 problems). Internal links: 0 broken relative .html links sitewide. Canonicals: present on every page and all www; og:url all www; NO aggregateRating blocks anywhere (07-19 no-invented-reviews fix still holding, no regressions on the newer pages). robots.txt sane (Allow /, Disallow /admin/ + /private/, Sitemap -> sitemap-index.xml). ONLY FIX APPLIED: sitemap-index.xml had a stale <lastmod>2026-05-08 for the sitemap.xml entry while sitemap.xml's newest lastmod is 2026-07-25 (nine new/improved pages added since May) - bumped index lastmod for sitemap.xml to 2026-07-25 so Google treats the sub-sitemap as changed and re-crawls; left sitemap-blog.xml index lastmod at 2026-05-08 (blog genuinely unchanged since then). Live verification post-deploy below.",
+      "audit_results": {
+        "sitemaps": "52 URLs total (42 + 10), 1:1 with live files, no dupes, all www, all parse",
+        "jsonld": "all parse, 0 errors across 52 pages",
+        "h1": "exactly 1 per page (0 problems)",
+        "broken_internal_links": 0,
+        "canonicals": "all present + www; og:url all www",
+        "aggregateRating": "none present (no-invented-reviews holding)",
+        "robots_txt": "sane",
+        "fix_applied": "sitemap-index.xml lastmod for sitemap.xml 2026-05-08 -> 2026-07-25"
+      },
+      "gsc": {
+        "status": "pending-manual",
+        "reason": "Scheduled cloud run - Claude in Chrome on Mac mini / device bridge not reachable (no local connection in scheduled headless sessions). Indexed vs not-indexed counts not captured today.",
+        "manual_instructions": "Open https://search.google.com/search-console?resource_id=sc-domain%3Agaragescape.ca -> Indexing > Pages: record indexed vs not-indexed counts (historical problem was 46 not-indexed / 5 indexed). Sitemaps: resubmit sitemap-index.xml (index lastmod refreshed today). Then Inspect + Request Indexing oldest first from the backlog below."
+      },
+      "indexing_backlog_pending_manual_oldest_first": [
+        "garage-decluttering-calgary.html (improved 07-15)",
+        "garage-organization-springbank-hill.html (new 07-16)",
+        "garage-organization-south-calgary.html (improved 07-17)",
+        "garage-organization-bearspaw.html (new 07-18)",
+        "custom-garage-cabinets-mount-royal.html (new 07-21)",
+        "garage-organization-canmore.html (improved 07-22, unindexed 9+ days)",
+        "garage-organization-banff.html (new 07-23)",
+        "garage-organization-east-calgary.html (improved 07-24)",
+        "garage-organization-elbow-park.html (new 07-25)"
+      ],
+      "next_targets": [
+        "MONDAY 2026-07-27 (fires UTC 07-28) RANK TRACKING + INDEX AUDIT: record rankings week-over-week vs the 07-20 baseline (garage organization/decluttering/cleaning calgary, canmore, custom cabinets calgary, springbank hill, bearspaw, epoxy floor calgary, storage solutions, okotoks) + add banff/east-calgary/elbow-park queries; re-check canmore indexing after the 07-22 improvement; if browser available, resubmit sitemap-index.xml and work the indexing backlog oldest-first.",
+        "NEXT NEW CONTENT (Tue 07-28): next affluent community DISTINCT from all existing - Britannia/Bel-Aire/Mayfair (differentiate carefully from Elbow Park river-valley + Mount Royal heritage) OR West Springs/Wentworth (west luxury) OR Elbow Valley/Harmony (acreage/estate). Single-community, genuinely distinct.",
+        "RESCUE queue (Wed/Fri): north-calgary (~831 words), west-calgary (~843 words) remain thin.",
+        "FLAG for Abhi: unverified visible testimonials on south-calgary AND east-calgary pages - verify or remove."
+      ]
     }
   ]
 }
