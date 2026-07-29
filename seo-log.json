@@ -15,7 +15,7 @@
       "page": "garage-organization-canmore.html",
       "keyword": "garage organization Canmore",
       "city": "Canmore",
-      "notes": "First Bow Valley page — biggest coverage gap (Canmore/Banff had zero pages). SERP check showed no dedicated local competitor page (mostly garage-door companies and California Closets). Angle: mountain gear storage (ski/bike/climbing), wildlife-smart attractant storage, chinook/freeze-thaw moisture, small townhome garages. LocalBusiness + FAQPage + Breadcrumb schema (no invented reviews — aggregateRating omitted). Linked TO garage-organization-calgary, garage-storage-solutions-calgary, garage-cleaning-calgary, spring-garage-cleanout-calgary, decluttering city pages. Linked FROM index.html locations grid (new Canmore card). sitemap.xml updated.",
+      "notes": "First Bow Valley page \u2014 biggest coverage gap (Canmore/Banff had zero pages). SERP check showed no dedicated local competitor page (mostly garage-door companies and California Closets). Angle: mountain gear storage (ski/bike/climbing), wildlife-smart attractant storage, chinook/freeze-thaw moisture, small townhome garages. LocalBusiness + FAQPage + Breadcrumb schema (no invented reviews \u2014 aggregateRating omitted). Linked TO garage-organization-calgary, garage-storage-solutions-calgary, garage-cleaning-calgary, spring-garage-cleanout-calgary, decluttering city pages. Linked FROM index.html locations grid (new Canmore card). sitemap.xml updated.",
       "next_targets": [
         "garage-organization-springbank-hill.html (luxury: newer estates, triple-car garages, epoxy showroom floors)",
         "garage-organization-bearspaw.html (acreage/estate: oversized shops, vehicle lifts, RV storage)",
@@ -516,6 +516,32 @@
         "MONDAY 2026-08-03 RANK TRACKING: record FIRST week-over-week rankings (the 07-27 Monday was missed); include core city + luxury/community queries incl. new west-springs; re-check canmore indexing (improved 07-22).",
         "MANUAL INDEXING BACKLOG (oldest first, all pending-manual - request in GSC when browser access available): decluttering-calgary (07-15), springbank-hill (07-16), south-calgary (07-17), bearspaw (07-18), mount-royal (07-21), canmore (improved 07-22), banff (07-23), east-calgary (07-24), elbow-park (07-25), west-springs (07-28 NEW) + resubmit sitemap-index.xml after 07-19 www normalization",
         "FLAG for Abhi: unverified visible testimonials on south-calgary AND east-calgary pages - verify or remove."
+      ]
+    },
+    {
+      "date": "2026-07-29",
+      "weekday_mode": "WEDNESDAY - IMPROVE + RESCUE",
+      "action": "improved",
+      "page": "garage-organization-west-calgary.html",
+      "keyword": "garage organization West Calgary / custom garage cabinets West Calgary / garage storage systems West Calgary / epoxy garage floor West Calgary",
+      "city": "Calgary (West quadrant - inner-west + west-ridge estate corridor)",
+      "notes": "Ran at UTC 2026-07-29 as scheduled cloud run; Wed IMPROVE+RESCUE. Picked the weakest remaining directional page: garage-organization-west-calgary.html was 843 visible words -> now 1876. Chosen over north-calgary (831w) because West aligns with the affluent-community priority and becomes a valuable internal-linking HUB for the three existing west luxury pages. Angle kept genuinely DISTINCT from the specific community pages (aspen-woods, springbank-hill, west-springs, elbow-park): this page is the WEST-QUADRANT UMBRELLA that routes homeowners and covers west-wide themes rather than duplicating any single community. New/expanded sections (exact site design, styles.css classes copied from east-calgary/canmore templates): (1) decluttering-benefits \"The Two West Sides of Calgary\" - established inner-west (Bowness/Montgomery/Killarney/Glamorgan/Wildwood, 1940s-70s compact detached lane garages, go vertical) vs west-ridge estate corridor (Aspen Woods/Springbank Hill/West Springs/Wentworth/Cougar Ridge/Christie Park/Coach Hill/Discovery Ridge/Crestmont/Valley Ridge, triple attached garages, custom cabinets + epoxy). (2) why-choose-section \"West Calgary Estate & Luxury Garage Communities\" HUB - feature cards linking to aspen-woods, springbank-hill, west-springs with distinct routing copy + luxury keywords (custom garage cabinets, epoxy showroom floors, gear walls). (3) 4-step process-steps section. (4) decluttering-benefits \"The West-Side Garage Through Alberta Seasons\" - mountain-gear pipeline (Trans-Canada/Bow Trail/Sarcee/Stoney -> Kananaskis/Canmore/Banff, WinSport/COP/Paskapoo at the edge -> gear walls), chinook/freeze-thaw on the exposed west escarpment -> epoxy, road salt off Bow Trail/Sarcee/Old Banff Coach Rd, spring swap + winter-tire storage. REMOVED 3 fabricated testimonials (Frank M./Bowness, Brendan & Kate S./West Springs, Nicole P./Signal Hill) - same invented-review pattern flagged on south-calgary (07-17) and east-calgary (07-24); replaced with legitimate expertise/hub content, NO fake names or ratings added. On-page: title tightened to \"West Calgary Garage Organization & Cabinets | GarageScape\" (~56 rendered chars), meta description rewritten (~162 rendered chars), canonical + OG all www, exactly 1 H1, all 3 JSON-LD blocks (LocalBusiness + FAQPage[expanded 5->7 Qs] + BreadcrumbList) validated parse (NO invented reviews/ratings/aggregateRating). Internal links TO 7 existing pages (aspen-woods, springbank-hill, west-springs, calgary flagship, decluttering, cleaning, spring-cleanout, storage-solutions) - added the 3 west luxury pages which were not previously linked; all hrefs verified to resolve to existing files. Linked FROM garage-organization-calgary hub (verified). sitemap.xml: west-calgary lastmod 2026-05-08 -> 2026-07-29, priority 0.75 -> 0.8; sitemap.xml parses valid, no dupes.",
+      "flags": [
+        "FABRICATED TESTIMONIALS: this run REMOVED the 3 fake testimonials from west-calgary (unlike prior runs which left them flagged-in-place). Note for Abhi: south-calgary (07-17) and east-calgary (07-24) STILL carry unverified/fabricated named testimonials left in place - recommend removing or replacing those with real reviews too.",
+        "MONDAY 2026-07-27 RANK TRACKING still not backfilled (noted 07-28). No week-over-week baseline vs 07-20 yet; capture on next Monday 08-03 run."
+      ],
+      "indexing": {
+        "status": "pending-manual",
+        "page": "https://www.garagescape.ca/garage-organization-west-calgary.html",
+        "reason": "Scheduled cloud run - Claude in Chrome on Mac mini / device bridge not reachable in headless scheduled sessions. Could not submit GSC request indexing.",
+        "manual_instructions": "Open https://search.google.com/search-console?resource_id=sc-domain%3Agaragescape.ca then inspect https://www.garagescape.ca/garage-organization-west-calgary.html and click Request Indexing. Also oldest still-awaiting pages worth re-requesting: garage-organization-east-calgary.html (07-24) and garage-organization-elbow-park.html (07-25)."
+      },
+      "next_targets": [
+        "IMPROVE garage-organization-north-calgary.html (now the weakest directional page at 831w; make it the N/NW umbrella hub - link Panorama Hills, Evanston, Beddington, plus affluent NW: Tuscany, Rocky Ridge, Arbour Lake, Sherwood, Sage Hill)",
+        "IMPROVE garage-cleaning-calgary.html (993w, thin service page)",
+        "IMPROVE garage-organization-calgary.html flagship (1024w - deserves depth given it is the hub)",
+        "NEW: garage-organization-lake-bonavista.html or mahogany/auburn-bay estates (lake & executive community angle - not yet covered)",
+        "NEW: Canmore Silvertip/Three Sisters dedicated luxury vacation-property page if distinct enough from canmore hub"
       ]
     }
   ]
