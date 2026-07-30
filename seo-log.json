@@ -15,7 +15,7 @@
       "page": "garage-organization-canmore.html",
       "keyword": "garage organization Canmore",
       "city": "Canmore",
-      "notes": "First Bow Valley page \u2014 biggest coverage gap (Canmore/Banff had zero pages). SERP check showed no dedicated local competitor page (mostly garage-door companies and California Closets). Angle: mountain gear storage (ski/bike/climbing), wildlife-smart attractant storage, chinook/freeze-thaw moisture, small townhome garages. LocalBusiness + FAQPage + Breadcrumb schema (no invented reviews \u2014 aggregateRating omitted). Linked TO garage-organization-calgary, garage-storage-solutions-calgary, garage-cleaning-calgary, spring-garage-cleanout-calgary, decluttering city pages. Linked FROM index.html locations grid (new Canmore card). sitemap.xml updated.",
+      "notes": "First Bow Valley page — biggest coverage gap (Canmore/Banff had zero pages). SERP check showed no dedicated local competitor page (mostly garage-door companies and California Closets). Angle: mountain gear storage (ski/bike/climbing), wildlife-smart attractant storage, chinook/freeze-thaw moisture, small townhome garages. LocalBusiness + FAQPage + Breadcrumb schema (no invented reviews — aggregateRating omitted). Linked TO garage-organization-calgary, garage-storage-solutions-calgary, garage-cleaning-calgary, spring-garage-cleanout-calgary, decluttering city pages. Linked FROM index.html locations grid (new Canmore card). sitemap.xml updated.",
       "next_targets": [
         "garage-organization-springbank-hill.html (luxury: newer estates, triple-car garages, epoxy showroom floors)",
         "garage-organization-bearspaw.html (acreage/estate: oversized shops, vehicle lifts, RV storage)",
@@ -542,6 +542,36 @@
         "IMPROVE garage-organization-calgary.html flagship (1024w - deserves depth given it is the hub)",
         "NEW: garage-organization-lake-bonavista.html or mahogany/auburn-bay estates (lake & executive community angle - not yet covered)",
         "NEW: Canmore Silvertip/Three Sisters dedicated luxury vacation-property page if distinct enough from canmore hub"
+      ]
+    },
+    {
+      "date": "2026-07-30",
+      "weekday_mode": "THURSDAY - NEW CONTENT",
+      "action": "created",
+      "page": "garage-organization-harmony.html",
+      "keyword": "garage organization Harmony / custom garage cabinets Harmony Springbank / garage organization Elbow Valley / lake community garage storage west Calgary",
+      "city": "Springbank, Rocky View County (Harmony & Elbow Valley)",
+      "notes": "Ran at UTC 2026-07-30 00:0x = local Calgary (MDT) Thu 2026-07-30 NEW CONTENT. Last log entry Wed 07-29 (west-calgary rescue); no 07-30 entry existed, so ran the queued Thursday task per the 07-28/07-29 plans: next affluent community DISTINCT from all existing. Target chosen: Harmony + Elbow Valley (Springbank lake-estate communities, Rocky View County, ~8-10 min west of Calgary). SERP check (2 WebSearches): ZERO dedicated Harmony/Elbow Valley garage-organization page exists anywhere - results are national/franchise cabinet vendors (California Closets, Garage Living, Redline, Rollout Drawers, Dream Garage Makeovers, Unique Storage) + an unrelated Western Springs IL result. Clear ranking opening. Angle deliberately DISTINCT from every existing page: LAKE-ESTATE lifestyle communities outside city limits - NOT Bearspaw (NW acreage quonset/RV/workshop), NOT the in-city west-ridge suburban estate pages (Aspen Woods RV/boat+workshops, Springbank Hill builder-basic/third-bay/epoxy, West Springs WinSport ski/bike), NOT Elbow Park (in-city river-valley flood-smart). Unique hooks no competitor covers: (1) lake-fleet storage - paddleboards/kayaks/canoes/wakeboards/wetsuits/beach kit with vertical racks, ceiling hoists, drip-and-dry zone (Harmony lake & beach club; Elbow Valley's Elbow Valley/Clearwater/trout-stocked Fisherman's lakes); (2) golf-community garage - Mickelson National + Launch Pad in Harmony, Elbow Springs + Glencoe near Elbow Valley - bag stands, off-slab off-season storage; (3) big-garage paradox on triple/quad estate garages; (4) ridge chinook + gravel dust + long driveways + road salt off Hwy 8/Trans-Canada -> epoxy/polyaspartic; (5) acreage + detached-shop county living (plan attached garage + separate shop together). Real local texture verified via WebFetch of liveinharmony.ca (8 min west of Calgary in Springbank; Lake & Beach Club, Launch Pad, Mickelson National, four-season Adventure Park; 8 builders; estate/lakefront homes; 9-time Community of the Year) and Elbow Valley neighbourhood guide (Hwy 8; Elbow Valley/Clearwater/Fisherman's lakes + Lott Creek; Residents' Club tennis/playground; Glencoe & Elbow Springs golf; bordered by Springbank & Discovery Ridge; near Westhills/Aspen Landing). 2662 visible words (incl. nav/footer chrome), 1 H1, title 56 chars, meta 147 chars, canonical + OG + Twitter all www, LocalBusiness + FAQPage(6 Qs) + BreadcrumbList JSON-LD all parse (NO invented reviews/ratings/aggregateRating, NO invented phone/address - all business info copied from existing pages; NO fabricated testimonials added given prior flags). Design copied exactly from garage-organization-west-springs.html template (service-hero, why-choose features-grid, decluttering-process process-steps, locations-grid, decluttering-benefits, faq-grid, sticky banner, floating call btn). 15 internal links incl. bearspaw, springbank-hill, west-springs, garage-storage-solutions-calgary, calgary flagship + services/blog (all resolve). Linked FROM index.html (new Harmony & Elbow Valley location card inserted after West Springs). sitemap.xml: new entry lastmod 2026-07-30 (now 44 URLs, parsed valid, no dupes, all www), homepage lastmod bumped 07-28 -> 07-30.",
+      "indexing": {
+        "garage-organization-harmony.html": {
+          "status": "pending-manual",
+          "requested_on": null,
+          "reason": "Scheduled cloud run - Claude in Chrome on Mac mini / device bridge not reachable in headless scheduled sessions.",
+          "note": "Manual indexing needed: open https://search.google.com/search-console?resource_id=sc-domain%3Agaragescape.ca then inspect https://www.garagescape.ca/garage-organization-harmony.html and click REQUEST INDEXING. Then work the oldest backlog first."
+        }
+      },
+      "gsc": {
+        "status": "pending-manual",
+        "reason": "Scheduled cloud run - no device bridge / Claude in Chrome in headless scheduled sessions",
+        "manual_instructions": "Open https://search.google.com/search-console?resource_id=sc-domain%3Agaragescape.ca -> Inspect + Request Indexing for garage-organization-harmony.html (new today). Then work backlog oldest first (GSC ~10-12/day quota - prioritize newest + longest-waiting): decluttering-calgary (07-15), springbank-hill (07-16), south-calgary (07-17), bearspaw (07-18), mount-royal (07-21), canmore (improved 07-22), banff (07-23), east-calgary (07-24), elbow-park (07-25), west-springs (07-28), west-calgary (improved 07-29). Resubmit sitemap-index.xml if not yet done post-07-19 www normalization."
+      },
+      "next_targets": [
+        "FRIDAY 2026-07-31 IMPROVE+RESCUE: garage-organization-north-calgary.html (now the weakest directional page at ~831 words) - make it the N/NW umbrella hub (link Panorama Hills, Evanston, Beddington + affluent NW: Tuscany, Rocky Ridge, Arbour Lake, Sherwood, Sage Hill), expand to 1000+ differentiated words, better title/meta, schema, internal links, then request indexing. Verify actual current word count before choosing. Fallback: garage-cleaning-calgary.html (993w thin service page) or garage-organization-calgary.html flagship (1024w).",
+        "SATURDAY 2026-08-01 NEW CONTENT: next affluent community DISTINCT from all existing - candidates: Britannia/Bel-Aire/Mayfair (inner-city estate; differentiate carefully from Elbow Park river-valley + Mount Royal heritage) OR Lake Bonavista standalone (lake & executive, distinct from the south-calgary hub treatment) OR Watermark at Bearspaw dedicated page if distinct from Bearspaw hub. Single-community, genuinely distinct.",
+        "MONDAY 2026-08-03 RANK TRACKING: record FIRST week-over-week rankings (07-27 Monday was missed) vs 07-20 baseline; include core city + luxury/community queries incl. new harmony/west-springs; re-check canmore indexing (improved 07-22).",
+        "RESCUE queue: north-calgary (~831w), garage-cleaning-calgary (993w), garage-organization-calgary flagship (1024w).",
+        "MANUAL INDEXING BACKLOG (oldest first, all pending-manual): decluttering-calgary (07-15), springbank-hill (07-16), south-calgary (07-17), bearspaw (07-18), mount-royal (07-21), canmore (improved 07-22), banff (07-23), east-calgary (07-24), elbow-park (07-25), west-springs (07-28), west-calgary (07-29), harmony (07-30 NEW) + resubmit sitemap-index.xml.",
+        "FLAG for Abhi: unverified visible testimonials still present on south-calgary (07-17) AND east-calgary (07-24) pages - verify or remove (west-calgary fakes were removed 07-29)."
       ]
     }
   ]
