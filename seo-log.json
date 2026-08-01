@@ -657,6 +657,15 @@
       "keyword": "garage floor cleaning Calgary / garage cleanout Calgary (year-round) / garage junk removal Vancouver / mould in garage Vancouver (informational) / garage cleaning New Westminster / laneway house garage clearing Vancouver",
       "city": "Calgary + Metro Vancouver",
       "notes": "FAVICON: favicon.ico was 347 bytes of invalid data and ZERO of 69 pages had a rel=icon tag — why no icon shows in Google SERPs. Rebuilt multi-size ICO (16/32/48) from favicon-512.png, added 48px PNG (Google's preferred), 180px apple-touch-icon, and injected link tags into all pages. Google re-crawls the homepage favicon on its own schedule; expect days-weeks. PAGES: garage-floor-cleaning-calgary is the priority — site already ranks for the term with no dedicated page (freeze-thaw/chinook/salt angle, seal-prep upsell). garage-cleanout-calgary covers the year-round term the spring page can't. Vancouver adds junk removal (commercial), mould guide (informational magnet, Article schema), New Westminster (city ring), laneway clearing (zero-competition moat). All wired into sitemaps, hub and footers. DO NOT create duplicate pages for these terms."
+    },
+    {
+      "date": "2026-08-01",
+      "weekday_mode": "CANNIBALIZATION FIX - ORGANIZATION CLUSTER",
+      "action": "rebuilt",
+      "page": "garage-organization-calgary.html (flagship) + cluster equity redirect",
+      "keyword": "garage organization Calgary / garage organization services Calgary / garage organization services Vancouver",
+      "city": "Calgary + Vancouver",
+      "notes": "Root cause of organization not ranking while cleaning ranks #1: 7-page cluster with the flagship at 1,024 words while satellites ran 3,200-4,300. Rebuilt flagship to ~2,550 words of Calgary-native content (tire wall, hail-first parking bay, dry-climate rulebook), aligned pricing to the service satellite ($199/$399-$650/$799), removed fabricated testimonials. De-targeted services/organization.html (was competing for the plural term). Added in-content money-anchor link from garage-cleaning-calgary. IMPORTANT FOR FUTURE RUNS: do NOT re-add testimonials/ratings to the flagship, do NOT re-thin it, and do NOT create new pages targeting 'garage organization calgary' head/plural terms — satellites should link UP with descriptive anchors. Vancouver org page now targets the plural term too."
     }
   ]
 }
