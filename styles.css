@@ -2971,3 +2971,192 @@ img {
 [id] {
     scroll-margin-top: calc(var(--header-h) + 56px);
 }
+
+/* ==========================================================================
+   HUB / LINK-CARD DESIGN UNIFICATION
+   One design language for every link component: 14px radius, hairline
+   borders, soft elevation, and a real hover affordance on anything
+   clickable. Scoped overrides bring the legacy location-card in line on
+   the new-style pages without touching the homepage.
+   ========================================================================== */
+
+.related-card {
+    background: var(--white);
+    border: 1px solid #e8e8e8;
+    border-radius: 14px;
+    padding: 1.6rem 1.6rem 1.5rem;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
+    position: relative;
+    transition: transform 0.22s ease, border-color 0.22s ease, box-shadow 0.22s ease;
+}
+
+.related-card strong {
+    font-size: 1.1rem;
+    letter-spacing: -0.01em;
+    padding-right: 3rem;
+    margin-bottom: 0.45rem;
+}
+
+.related-card strong i {
+    margin-right: 0.45rem;
+    font-size: 0.95em;
+}
+
+.related-card span {
+    font-size: 0.95rem;
+    line-height: 1.55;
+    color: #595959;
+}
+
+.related-card::after {
+    content: "\2192";
+    position: absolute;
+    top: 1.35rem;
+    right: 1.35rem;
+    width: 34px;
+    height: 34px;
+    border: 1.5px solid var(--primary-black);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: var(--primary-black);
+    transition: background 0.22s ease, color 0.22s ease, transform 0.22s ease;
+}
+
+.related-card:hover {
+    transform: translateY(-4px);
+    border-color: var(--primary-black);
+    box-shadow: 0 14px 32px rgba(0, 0, 0, 0.1);
+}
+
+.related-card:hover::after {
+    background: var(--primary-black);
+    color: var(--white);
+    transform: translateX(3px);
+}
+
+/* Linked chips read as buttons; plain chips stay quiet tags */
+a.chip {
+    border-width: 1.5px;
+    padding: 0.55rem 1.1rem;
+    background: var(--white);
+}
+
+/* Legacy location-card, harmonized on new-style pages only */
+body.no-call-banner .location-card {
+    border: 1px solid #e8e8e8;
+    border-radius: 14px;
+    padding: 1.9rem;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
+    transition: transform 0.22s ease, border-color 0.22s ease, box-shadow 0.22s ease;
+}
+
+body.no-call-banner .location-card:hover {
+    transform: translateY(-4px);
+    border-color: var(--primary-black);
+    box-shadow: 0 14px 32px rgba(0, 0, 0, 0.1);
+}
+
+body.no-call-banner .location-icon {
+    width: 54px;
+    height: 54px;
+    border-radius: 14px;
+    margin-bottom: 1.1rem;
+}
+
+body.no-call-banner .location-icon i {
+    color: var(--white);
+    font-size: 1.3rem;
+}
+
+body.no-call-banner .location-card h3 {
+    font-size: 1.15rem;
+    margin-bottom: 0.6rem;
+}
+
+body.no-call-banner .location-card > p {
+    font-size: 0.95rem;
+    color: var(--medium-gray);
+    margin-bottom: 0.75rem;
+}
+
+body.no-call-banner .neighborhood-list li {
+    padding: 0.45rem 0 0.45rem 1.5rem;
+    font-size: 0.93rem;
+}
+
+body.no-call-banner .location-link {
+    font-size: 0.95rem;
+    margin-top: 0.5rem;
+}
+
+/* Municipality detail accordions */
+.loc-detail {
+    border: 1px solid #e8e8e8;
+    border-radius: 12px;
+    background: var(--white);
+    margin-bottom: 0.85rem;
+    overflow: hidden;
+}
+
+.loc-detail summary {
+    list-style: none;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+    padding: 1.05rem 1.35rem;
+    font-weight: 600;
+    font-size: 1.05rem;
+    color: var(--primary-black);
+    transition: background 0.15s ease;
+}
+
+.loc-detail summary::-webkit-details-marker { display: none; }
+
+.loc-detail summary:hover { background: var(--light-gray); }
+
+.loc-detail summary::after {
+    content: "+";
+    flex-shrink: 0;
+    width: 28px;
+    height: 28px;
+    border: 1.5px solid #d9d9d9;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.1rem;
+    font-weight: 500;
+    color: var(--medium-gray);
+    transition: all 0.2s ease;
+}
+
+.loc-detail[open] summary { border-bottom: 1px solid #efefef; }
+
+.loc-detail[open] summary::after {
+    content: "\2212";
+    background: var(--primary-black);
+    border-color: var(--primary-black);
+    color: var(--white);
+}
+
+.loc-detail .loc-body { padding: 1.1rem 1.35rem 1.25rem; }
+
+.loc-detail .loc-body p {
+    margin-bottom: 0.9rem;
+    color: #4a4a4a;
+    font-size: 0.98rem;
+}
+
+.loc-detail .loc-body p:last-child { margin-bottom: 0; }
+
+@media (max-width: 640px) {
+    .related-card { padding: 1.35rem 1.25rem; }
+    .related-card::after { top: 1.15rem; right: 1.15rem; width: 30px; height: 30px; }
+    .loc-detail summary { padding: 0.95rem 1.1rem; font-size: 1rem; }
+}
