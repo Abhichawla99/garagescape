@@ -2,6 +2,9 @@
 node_modules/
 package-lock.json
 
+# Source image originals (large PNGs) — optimised JPGs live in images/
+new photos/
+
 # macOS
 .DS_Store
 .AppleDouble
@@ -33,3 +36,6 @@ images/Gemini_Generated_*.png
 
 # Documentation (optional - uncomment if you don't want to track)
 # LOGO_INTEGRATION_COMPLETE.md
+
+# Claude Code local state
+.claude/

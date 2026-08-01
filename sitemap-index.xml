@@ -8,4 +8,8 @@
         <loc>https://www.garagescape.ca/sitemap-blog.xml</loc>
         <lastmod>2026-05-08</lastmod>
     </sitemap>
+    <sitemap>
+        <loc>https://www.garagescape.ca/sitemap-vancouver.xml</loc>
+        <lastmod>2026-08-01</lastmod>
+    </sitemap>
 </sitemapindex>
