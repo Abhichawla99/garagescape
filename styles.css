@@ -2714,3 +2714,260 @@ a.chip:hover {
         max-height: 320px;
     }
 }
+
+/* ==========================================================================
+   RESPONSIVE REFINEMENTS
+   Fluid typography, mobile hero sizing, accessible tap targets and
+   image behaviour. Applies site-wide, including the older service pages
+   which previously had no mobile heading overrides.
+   ========================================================================== */
+
+/* --- Fluid typography: scales smoothly instead of snapping at breakpoints --- */
+h1 { font-size: clamp(2rem, 7.5vw, 3.5rem); }
+h2 { font-size: clamp(1.6rem, 5vw, 2.5rem); }
+h3 { font-size: clamp(1.15rem, 3.2vw, 1.5rem); }
+
+.service-hero-title { font-size: clamp(1.9rem, 7vw, 3rem); }
+.hero-title         { font-size: clamp(2rem, 7.5vw, 3.5rem); }
+.section-title      { font-size: clamp(1.6rem, 5vw, 2.5rem); }
+
+.service-hero-description,
+.section-description {
+    font-size: clamp(1rem, 2.6vw, 1.2rem);
+}
+
+.prose p,
+.prose li {
+    font-size: clamp(1rem, 2.4vw, 1.0625rem);
+}
+
+/* --- Mobile hero: reclaim the dead space --- */
+@media (max-width: 768px) {
+    .service-hero {
+        padding: 96px 0 48px;
+        min-height: 0;
+    }
+
+    .service-hero-description {
+        margin-bottom: 1.5rem;
+    }
+
+    .service-hero-buttons,
+    .cta-buttons {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 0.75rem;
+    }
+
+    .service-hero-buttons .btn,
+    .cta-buttons .btn {
+        width: 100%;
+        justify-content: center;
+    }
+
+    .content-section,
+    .ba-section,
+    .pricing-section,
+    .cleaning-process,
+    .related-section {
+        padding: 3rem 0;
+    }
+
+    .prose h2 { margin-top: 2.25rem; }
+}
+
+/* --- Tap targets: 44px minimum on touch devices --- */
+@media (max-width: 900px) {
+    .nav-list .nav-link,
+    .nav-list .nav-phone {
+        display: flex;
+        align-items: center;
+        min-height: 44px;
+    }
+
+    .footer-section ul li a,
+    .location-link,
+    .sitemap-link {
+        display: inline-flex;
+        align-items: center;
+        min-height: 44px;
+    }
+
+    .social-link {
+        width: 44px;
+        height: 44px;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .breadcrumb a {
+        display: inline-block;
+        padding: 0.35rem 0;
+    }
+}
+
+/* --- Chips: distinguish real links from plain tags --- */
+.chip-grid { gap: 0.5rem; }
+
+span.chip {
+    background: transparent;
+    border-color: #e0e0e0;
+    color: var(--medium-gray);
+    cursor: default;
+}
+
+a.chip {
+    border-color: var(--primary-black);
+    color: var(--primary-black);
+    font-weight: 500;
+    min-height: 40px;
+    display: inline-flex;
+    align-items: center;
+}
+
+a.chip::after {
+    content: "\2192";
+    margin-left: 0.45rem;
+    transition: transform 0.2s ease;
+}
+
+a.chip:hover::after { transform: translateX(3px); }
+
+.chip-label {
+    font-size: 0.78rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--medium-gray);
+    margin: 1.75rem 0 0.5rem;
+}
+
+/* --- Section navigation (hub + city pages) --- */
+.section-nav {
+    position: sticky;
+    top: 0;
+    z-index: 40;
+    background: var(--white);
+    border-bottom: 1px solid #e5e5e5;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+}
+
+.section-nav::-webkit-scrollbar { display: none; }
+
+.section-nav ul {
+    display: flex;
+    gap: 0.25rem;
+    list-style: none;
+    margin: 0;
+    padding: 0 20px;
+    max-width: 1200px;
+    margin-inline: auto;
+    white-space: nowrap;
+}
+
+.section-nav a {
+    display: inline-flex;
+    align-items: center;
+    min-height: 48px;
+    padding: 0 0.9rem;
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: var(--medium-gray);
+    text-decoration: none;
+    border-bottom: 3px solid transparent;
+    transition: color 0.2s ease, border-color 0.2s ease;
+}
+
+.section-nav a:hover {
+    color: var(--primary-black);
+    border-bottom-color: var(--primary-black);
+}
+
+/* --- Images: never overflow, always fluid --- */
+img {
+    max-width: 100%;
+}
+
+.prose img,
+.inline-figure img,
+.ba-item img,
+.img-trio img,
+.hero-figure img,
+.gallery-img {
+    height: auto;
+}
+
+.hero-figure img { height: 52vh; }
+
+@media (max-width: 768px) {
+    .hero-figure img { height: 38vh; min-height: 220px; }
+}
+
+/* --- Tables: readable on small screens --- */
+@media (max-width: 640px) {
+    .data-table { min-width: 480px; font-size: 0.875rem; }
+    .data-table th,
+    .data-table td { padding: 0.7rem 0.8rem; }
+
+    .data-table-wrap {
+        position: relative;
+        border-radius: 2px;
+    }
+
+    .data-table-wrap::after {
+        content: "Swipe to see more \2192";
+        display: block;
+        font-size: 0.75rem;
+        color: var(--medium-gray);
+        padding: 0.5rem 0.8rem;
+        border-top: 1px solid #eee;
+        background: var(--light-gray);
+    }
+}
+
+/* --- Before/after stays side-by-side but stacks on very small screens --- */
+@media (max-width: 420px) {
+    .ba-pair {
+        grid-template-columns: 1fr;
+        gap: 0.5rem;
+    }
+
+    .ba-pair .ba-item img,
+    .ba-pair.tall .ba-item img {
+        aspect-ratio: 4 / 3;
+    }
+}
+
+/* ==========================================================================
+   HEADER OFFSET + STICKY SECTION NAV
+   The global mobile rule reserves 160px for the fixed header *plus* the
+   sticky call banner. Pages without that banner only need the header's
+   height, so they get a scoped override instead of 87px of dead space.
+   ========================================================================== */
+
+:root { --header-h: 88px; }
+
+@media (max-width: 768px) {
+    :root { --header-h: 73px; }
+
+    body.no-call-banner {
+        padding-top: var(--header-h) !important;
+    }
+
+    body.no-call-banner .service-hero {
+        padding-top: 2rem;
+    }
+}
+
+/* Sticky section nav sits directly beneath the fixed header */
+.section-nav {
+    top: var(--header-h);
+}
+
+/* Anchor targets clear both the header and the sticky nav */
+[id] {
+    scroll-margin-top: calc(var(--header-h) + 56px);
+}

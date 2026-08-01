@@ -6,7 +6,15 @@
     "Canmore",
     "Banff",
     "Cochrane",
-    "Airdrie"
+    "Airdrie",
+    "Vancouver",
+    "Burnaby",
+    "Richmond",
+    "North Vancouver",
+    "West Vancouver",
+    "Surrey",
+    "Coquitlam",
+    "New Westminster"
   ],
   "runs": [
     {
@@ -631,6 +639,15 @@
         "MANUAL INDEXING BACKLOG (oldest first, all pending-manual): decluttering-calgary (07-15), springbank-hill (07-16), south-calgary (07-17), bearspaw (07-18), mount-royal (07-21), canmore (improved 07-22), banff (07-23), east-calgary (07-24), elbow-park (07-25), west-springs (07-28), west-calgary (07-29), harmony (07-30), north-calgary (07-31), lake-bonavista (08-01) + resubmit sitemap-index.xml.",
         "FLAG for Abhi (carried): unverified visible testimonials still present on south-calgary (07-17) AND east-calgary (07-24) pages - verify or remove."
       ]
+    },
+    {
+      "date": "2026-08-01",
+      "weekday_mode": "MARKET EXPANSION - VANCOUVER",
+      "action": "created",
+      "page": "13 Metro Vancouver pages (7 service + hub, 6 city)",
+      "keyword": "garage cleaning Vancouver / garage organization Vancouver / garage decluttering Vancouver / garage floor cleaning Vancouver / garage cleanout Vancouver / garage storage solutions Vancouver / garage cleaning Burnaby / Richmond / North Vancouver / West Vancouver / Surrey / Coquitlam",
+      "city": "Vancouver BC + Metro Vancouver (Burnaby, Richmond, North Van, West Van, Surrey/Delta, Tri-Cities)",
+      "notes": "New BC market. Content differentiated on rain-coast specifics (mould, mildew, efflorescence, moss, roof rats, back-lane/laneway garages, Vancouver Specials, strata tandem garages, BC Fire Code) rather than ported from the Calgary pages. 21 project photos optimised 34.8MB->3.4MB with 640w srcset variants. Added before/after component, fluid typography, and fixed body padding-top 160px->73px on pages without the sticky call banner (was 87px of dead space on mobile SITE-WIDE). Also added missing CSS for .pricing-grid/.process-steps which existing Calgary pages referenced but were never defined. All URLs on www host per the 07-19 normalisation. NO aggregateRating on Vancouver pages - no reviews exist yet. OUTSTANDING: Google Business Profile with a BC service area and a 604/778 number; every page currently shows the 587 Alberta number, which is the biggest local-pack blocker."
     }
   ]
 }
