@@ -648,6 +648,15 @@
       "keyword": "garage cleaning Vancouver / garage organization Vancouver / garage decluttering Vancouver / garage floor cleaning Vancouver / garage cleanout Vancouver / garage storage solutions Vancouver / garage cleaning Burnaby / Richmond / North Vancouver / West Vancouver / Surrey / Coquitlam",
       "city": "Vancouver BC + Metro Vancouver (Burnaby, Richmond, North Van, West Van, Surrey/Delta, Tri-Cities)",
       "notes": "New BC market. Content differentiated on rain-coast specifics (mould, mildew, efflorescence, moss, roof rats, back-lane/laneway garages, Vancouver Specials, strata tandem garages, BC Fire Code) rather than ported from the Calgary pages. 21 project photos optimised 34.8MB->3.4MB with 640w srcset variants. Added before/after component, fluid typography, and fixed body padding-top 160px->73px on pages without the sticky call banner (was 87px of dead space on mobile SITE-WIDE). Also added missing CSS for .pricing-grid/.process-steps which existing Calgary pages referenced but were never defined. All URLs on www host per the 07-19 normalisation. NO aggregateRating on Vancouver pages - no reviews exist yet. OUTSTANDING: Google Business Profile with a BC service area and a 604/778 number; every page currently shows the 587 Alberta number, which is the biggest local-pack blocker."
+    },
+    {
+      "date": "2026-08-01",
+      "weekday_mode": "KEYWORD EXPANSION + TECHNICAL FIX",
+      "action": "created",
+      "page": "6 new pages + site-wide favicon fix",
+      "keyword": "garage floor cleaning Calgary / garage cleanout Calgary (year-round) / garage junk removal Vancouver / mould in garage Vancouver (informational) / garage cleaning New Westminster / laneway house garage clearing Vancouver",
+      "city": "Calgary + Metro Vancouver",
+      "notes": "FAVICON: favicon.ico was 347 bytes of invalid data and ZERO of 69 pages had a rel=icon tag — why no icon shows in Google SERPs. Rebuilt multi-size ICO (16/32/48) from favicon-512.png, added 48px PNG (Google's preferred), 180px apple-touch-icon, and injected link tags into all pages. Google re-crawls the homepage favicon on its own schedule; expect days-weeks. PAGES: garage-floor-cleaning-calgary is the priority — site already ranks for the term with no dedicated page (freeze-thaw/chinook/salt angle, seal-prep upsell). garage-cleanout-calgary covers the year-round term the spring page can't. Vancouver adds junk removal (commercial), mould guide (informational magnet, Article schema), New Westminster (city ring), laneway clearing (zero-competition moat). All wired into sitemaps, hub and footers. DO NOT create duplicate pages for these terms."
     }
   ]
 }

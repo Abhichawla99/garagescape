@@ -305,4 +305,48 @@
         </image:image>
     </url>
 
+    <url>
+        <loc>https://www.garagescape.ca/mould-in-garage-vancouver.html</loc>
+        <lastmod>2026-08-01</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.85</priority>
+        <image:image>
+            <image:loc>https://www.garagescape.ca/images/vancouver-garage-cardboard-damp.jpg</image:loc>
+            <image:caption>Damp cardboard and early mould growth on a Vancouver garage floor</image:caption>
+        </image:image>
+    </url>
+
+    <url>
+        <loc>https://www.garagescape.ca/garage-junk-removal-vancouver.html</loc>
+        <lastmod>2026-08-01</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <image:image>
+            <image:loc>https://www.garagescape.ca/images/vancouver-double-garage-before.jpg</image:loc>
+            <image:caption>Unsorted Vancouver garage before junk removal</image:caption>
+        </image:image>
+    </url>
+
+    <url>
+        <loc>https://www.garagescape.ca/garage-cleaning-new-westminster.html</loc>
+        <lastmod>2026-08-01</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <image:image>
+            <image:loc>https://www.garagescape.ca/images/vancouver-lane-garage-after.jpg</image:loc>
+            <image:caption>Heritage lane garage in New Westminster after clearing and organization</image:caption>
+        </image:image>
+    </url>
+
+    <url>
+        <loc>https://www.garagescape.ca/laneway-garage-clearing-vancouver.html</loc>
+        <lastmod>2026-08-01</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.85</priority>
+        <image:image>
+            <image:loc>https://www.garagescape.ca/images/vancouver-lane-garage-before.jpg</image:loc>
+            <image:caption>Vancouver lane garage before clearing for a laneway house build</image:caption>
+        </image:image>
+    </url>
+
 </urlset>
