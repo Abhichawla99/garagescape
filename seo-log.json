@@ -687,6 +687,47 @@
         "Prioritize affluent-community pages still unbuilt: Springbank Hill exists, Bearspaw exists, Mount Royal cabinets exists - consider Elbow Park/Britannia luxury, Silvertip/Three Sisters Canmore, Watermark/Auburn Bay estates.",
         "Do NOT create new pages targeting 'garage organization calgary' head/plural terms (cannibalization rule from Aug-1)."
       ]
+    },
+    {
+      "date": "2026-08-03",
+      "weekday_mode": "MONDAY - RANK TRACKING + INDEX AUDIT",
+      "action": "rank-tracking",
+      "notes": "First proper week-over-week rankings recorded vs the 07-20 baseline (the 07-27 Monday was missed). Method: WebSearch (US datacenter, non-localized) - positions are ordinal within top-10 organic; treat as directional, compare same-method week over week (local Calgary SERP positions will differ). HEADLINE WINS: (1) garage-organization-canmore.html now ranks #1 for 'garage organization canmore' - it was 'not in top 10 / unindexed' on 07-20 and carried a 7-day-unindexed content-improvement flag; the 07-22 +985-word differentiation PLUS the 07-19 www-canonical normalization worked - the page is now clearly indexed and top-ranked. This is the first hard confirmation the www normalization fixed the historical indexing problem. (2) garage-storage-solutions-calgary.html jumped 9 -> 2 for 'garage storage solutions calgary'. (3) garage cleaning calgary improved: services/cleaning.html 6 -> 5, homepage 8 -> 7. SLIPS/FLAT: garage decluttering calgary homepage 1 -> 2 (The Clean Garage Company took #1; still strong on page 1). garage organization calgary, custom garage cabinets calgary, epoxy garage floor calgary all still not in top 10 (SERPs dominated by franchises Garage Living / California Closets / Redline / The Garage Store and epoxy specialists) - these remain the hardest head terms; the Aug-1 flagship rebuild has not yet moved 'garage organization calgary' in US-datacenter results (may show in local pack; re-check). VANCOUVER: garagescape not in top 10 for 'garage cleaning vancouver' or 'garage organization vancouver' - expected, cluster is 2 days old (created Aug-1) and results are US-contaminated (Vancouver WA); needs indexing + the outstanding BC GBP/604-number fix to enter local pack. INDEX AUDIT: GSC not reachable (scheduled cloud run - no Claude-in-Chrome/device bridge). Used site:garagescape.ca as a weak proxy - only canmore surfaced in US index; site: on US datacenter is unreliable for freshly-added CA-targeted pages, so do NOT read the site: negatives as de-indexing. Canmore ranking #1 for its head term is the reliable indexed signal.",
+      "rankings": {
+        "method": "WebSearch top-10 organic, US datacenter, 2026-08-03",
+        "garage organization calgary": "not in top 10 (baseline 07-20: not in top 10) - FLAT",
+        "garage decluttering calgary": "2 (homepage) (baseline 07-20: 1 homepage) - DOWN 1, Clean Garage Company now #1",
+        "garage organization canmore": "1 (garage-organization-canmore.html) (baseline 07-20: not in top 10, unindexed) - MAJOR WIN, now indexed + #1",
+        "custom garage cabinets calgary": "not in top 10 (baseline 07-20: not in top 10) - FLAT",
+        "garage storage solutions calgary": "2 (garage-storage-solutions-calgary.html) (baseline 07-20: 9) - UP 7",
+        "garage organization okotoks": "3 (garage-decluttering-okotoks.html) (baseline 07-20: 3 homepage + 8 okotoks page) - okotoks page holds ~3; homepage dropped from top 10",
+        "garage cleaning calgary": "5 (services/cleaning.html), 7 (homepage) (baseline 07-20: 6 cleaning + 8 homepage) - UP 1 each",
+        "epoxy garage floor calgary": "not in top 10 (baseline 07-20: not in top 10) - FLAT",
+        "garage cleaning vancouver": "not in top 10 (NEW market, cluster created 08-01) - unranked, US-contaminated results",
+        "garage organization vancouver": "not in top 10 (NEW market, cluster created 08-01) - unranked, US-contaminated results"
+      },
+      "index_audit": {
+        "canmore_indexed_confirmed": "YES - ranks #1 for 'garage organization canmore'; resolves the 07-13 request / 7-day-unindexed flag. www normalization + 07-22 improvement effective.",
+        "site_operator_proxy": "US-datacenter site:garagescape.ca surfaced only canmore among the new/improved CA pages; unreliable for fresh CA-targeted pages - not treated as evidence of non-indexing.",
+        "gsc_indexed_vs_not_counts": "NOT CAPTURED - GSC unreachable this run (no browser bridge)"
+      },
+      "gsc": {
+        "status": "pending-manual",
+        "reason": "Scheduled cloud run - Claude in Chrome on Mac mini / device bridge not reachable in headless scheduled sessions.",
+        "manual_instructions": "Open https://search.google.com/search-console?resource_id=sc-domain%3Agaragescape.ca -> Indexing > Pages: record indexed vs not-indexed counts (historical problem 46 not-indexed / 5 indexed - check progress). Sitemaps: confirm sitemap-index.xml resubmitted post-www-normalization. Then Inspect + Request Indexing oldest first (GSC ~10-12/day quota, newest + longest-waiting first): decluttering-calgary (07-15), springbank-hill (07-16), south-calgary (07-17), bearspaw (07-18), mount-royal (07-21), banff (07-23), east-calgary (07-24), elbow-park (07-25), west-springs (07-28), west-calgary (07-29), harmony (07-30), north-calgary (07-31), lake-bonavista (08-01), and the Aug-1 bulk pages (rebuilt flagship garage-organization-calgary.html PRIORITY, garage-floor-cleaning-calgary, garage-cleanout-calgary, 13 Vancouver pages, 6 keyword pages). Canmore now indexed - no longer needs a request."
+      },
+      "outstanding": [
+        "BC GBP: every Vancouver page still shows the 587 Alberta number; a BC service area + 604/778 number remains the top local-pack blocker for the new Vancouver cluster (carried from Aug-1).",
+        "Unverified visible testimonials still present on south-calgary (07-17) AND east-calgary (07-24) pages - verify or remove (west-calgary 07-29 + north-calgary 07-31 fakes were removed).",
+        "Favicon SERP re-crawl by Google still pending (Aug-1 fix) - re-verify SERP icon on a later run."
+      ],
+      "next_targets": [
+        "TUESDAY 2026-08-04 NEW CONTENT: next affluent community DISTINCT from all existing - Britannia/Bel-Aire/Mayfair (inner-city estate; differentiate from Elbow Park river-valley + Mount Royal heritage), Mahogany OR Auburn Bay/Westman Village (NEW SE lake estate - lean new-build to differ from Lake Bonavista's mature angle), Arbour Lake (NW's only lake community), Tuscany/Rocky Ridge (far-NW golf-estate), or Silvertip/Three Sisters Canmore mountain luxury. Single-community, genuinely distinct. Do NOT target 'garage organization calgary' head/plural terms (cannibalization rule).",
+        "WED/FRI IMPROVE+RESCUE: thinnest meaningful pages remaining are garage-cleaning-calgary.html (~1324w service page) - all directional quadrant pages (N/S/E/W) now rescued; consider deepening service pages or the newest thin Vancouver city pages.",
+        "MONDAY 2026-08-10 RANK TRACKING: compare vs this 08-03 baseline; watch whether storage-solutions holds #2, canmore holds #1, decluttering recovers #1, and whether the Aug-1 flagship rebuild starts moving 'garage organization calgary'; add a couple luxury-community queries once those pages index.",
+        "MANUAL INDEXING BACKLOG (oldest first): decluttering-calgary (07-15), springbank-hill (07-16), south-calgary (07-17), bearspaw (07-18), mount-royal (07-21), banff (07-23), east-calgary (07-24), elbow-park (07-25), west-springs (07-28), west-calgary (07-29), harmony (07-30), north-calgary (07-31), lake-bonavista (08-01) + Aug-1 bulk (flagship rebuild PRIORITY, floor-cleaning/cleanout Calgary, 13 Vancouver, 6 keyword pages) + resubmit sitemap-index.xml.",
+        "FLAG for Abhi: (1) BC 604/778 number + GBP service area for Vancouver cluster; (2) unverified testimonials on south-calgary + east-calgary."
+      ]
     }
   ]
 }
