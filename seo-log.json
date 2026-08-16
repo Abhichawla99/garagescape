@@ -23,7 +23,7 @@
       "page": "garage-organization-canmore.html",
       "keyword": "garage organization Canmore",
       "city": "Canmore",
-      "notes": "First Bow Valley page \u2014 biggest coverage gap (Canmore/Banff had zero pages). SERP check showed no dedicated local competitor page (mostly garage-door companies and California Closets). Angle: mountain gear storage (ski/bike/climbing), wildlife-smart attractant storage, chinook/freeze-thaw moisture, small townhome garages. LocalBusiness + FAQPage + Breadcrumb schema (no invented reviews \u2014 aggregateRating omitted). Linked TO garage-organization-calgary, garage-storage-solutions-calgary, garage-cleaning-calgary, spring-garage-cleanout-calgary, decluttering city pages. Linked FROM index.html locations grid (new Canmore card). sitemap.xml updated.",
+      "notes": "First Bow Valley page — biggest coverage gap (Canmore/Banff had zero pages). SERP check showed no dedicated local competitor page (mostly garage-door companies and California Closets). Angle: mountain gear storage (ski/bike/climbing), wildlife-smart attractant storage, chinook/freeze-thaw moisture, small townhome garages. LocalBusiness + FAQPage + Breadcrumb schema (no invented reviews — aggregateRating omitted). Linked TO garage-organization-calgary, garage-storage-solutions-calgary, garage-cleaning-calgary, spring-garage-cleanout-calgary, decluttering city pages. Linked FROM index.html locations grid (new Canmore card). sitemap.xml updated.",
       "next_targets": [
         "garage-organization-springbank-hill.html (luxury: newer estates, triple-car garages, epoxy showroom floors)",
         "garage-organization-bearspaw.html (acreage/estate: oversized shops, vehicle lifts, RV storage)",
@@ -656,7 +656,7 @@
       "page": "6 new pages + site-wide favicon fix",
       "keyword": "garage floor cleaning Calgary / garage cleanout Calgary (year-round) / garage junk removal Vancouver / mould in garage Vancouver (informational) / garage cleaning New Westminster / laneway house garage clearing Vancouver",
       "city": "Calgary + Metro Vancouver",
-      "notes": "FAVICON: favicon.ico was 347 bytes of invalid data and ZERO of 69 pages had a rel=icon tag \u2014 why no icon shows in Google SERPs. Rebuilt multi-size ICO (16/32/48) from favicon-512.png, added 48px PNG (Google's preferred), 180px apple-touch-icon, and injected link tags into all pages. Google re-crawls the homepage favicon on its own schedule; expect days-weeks. PAGES: garage-floor-cleaning-calgary is the priority \u2014 site already ranks for the term with no dedicated page (freeze-thaw/chinook/salt angle, seal-prep upsell). garage-cleanout-calgary covers the year-round term the spring page can't. Vancouver adds junk removal (commercial), mould guide (informational magnet, Article schema), New Westminster (city ring), laneway clearing (zero-competition moat). All wired into sitemaps, hub and footers. DO NOT create duplicate pages for these terms."
+      "notes": "FAVICON: favicon.ico was 347 bytes of invalid data and ZERO of 69 pages had a rel=icon tag — why no icon shows in Google SERPs. Rebuilt multi-size ICO (16/32/48) from favicon-512.png, added 48px PNG (Google's preferred), 180px apple-touch-icon, and injected link tags into all pages. Google re-crawls the homepage favicon on its own schedule; expect days-weeks. PAGES: garage-floor-cleaning-calgary is the priority — site already ranks for the term with no dedicated page (freeze-thaw/chinook/salt angle, seal-prep upsell). garage-cleanout-calgary covers the year-round term the spring page can't. Vancouver adds junk removal (commercial), mould guide (informational magnet, Article schema), New Westminster (city ring), laneway clearing (zero-competition moat). All wired into sitemaps, hub and footers. DO NOT create duplicate pages for these terms."
     },
     {
       "date": "2026-08-01",
@@ -665,7 +665,7 @@
       "page": "garage-organization-calgary.html (flagship) + cluster equity redirect",
       "keyword": "garage organization Calgary / garage organization services Calgary / garage organization services Vancouver",
       "city": "Calgary + Vancouver",
-      "notes": "Root cause of organization not ranking while cleaning ranks #1: 7-page cluster with the flagship at 1,024 words while satellites ran 3,200-4,300. Rebuilt flagship to ~2,550 words of Calgary-native content (tire wall, hail-first parking bay, dry-climate rulebook), aligned pricing to the service satellite ($199/$399-$650/$799), removed fabricated testimonials. De-targeted services/organization.html (was competing for the plural term). Added in-content money-anchor link from garage-cleaning-calgary. IMPORTANT FOR FUTURE RUNS: do NOT re-add testimonials/ratings to the flagship, do NOT re-thin it, and do NOT create new pages targeting 'garage organization calgary' head/plural terms \u2014 satellites should link UP with descriptive anchors. Vancouver org page now targets the plural term too."
+      "notes": "Root cause of organization not ranking while cleaning ranks #1: 7-page cluster with the flagship at 1,024 words while satellites ran 3,200-4,300. Rebuilt flagship to ~2,550 words of Calgary-native content (tire wall, hail-first parking bay, dry-climate rulebook), aligned pricing to the service satellite ($199/$399-$650/$799), removed fabricated testimonials. De-targeted services/organization.html (was competing for the plural term). Added in-content money-anchor link from garage-cleaning-calgary. IMPORTANT FOR FUTURE RUNS: do NOT re-add testimonials/ratings to the flagship, do NOT re-thin it, and do NOT create new pages targeting 'garage organization calgary' head/plural terms — satellites should link UP with descriptive anchors. Vancouver org page now targets the plural term too."
     },
     {
       "date": "2026-08-02",
@@ -862,6 +862,54 @@
         "NEXT IMPROVE+RESCUE DAY: thinnest AB content pages now garage-decluttering-cochrane (1688w) and garage-decluttering-chestermere (1865w) - both core-city decluttering, candidates to deepen with local texture; also services/ pages (cleaning/organization ~1100-1200w, cannibalization-flagged - reframe as booking/spoke, do not expand).",
         "MANUAL INDEXING BACKLOG (oldest first, all pending-manual): decluttering-calgary (07-15), springbank-hill (07-16), south-calgary (07-17), bearspaw (07-18), mount-royal (07-21), banff (07-23), east-calgary (07-24), elbow-park (07-25), west-springs (07-28), west-calgary (07-29), harmony (07-30), north-calgary (07-31), lake-bonavista (08-01), Aug-1 bulk (flagship rebuild PRIORITY + floor-cleaning/cleanout Calgary + 13 Vancouver + 6 keyword pages), mahogany (08-04), garage-cleaning-calgary (08-05), services/flooring (08-12), aspen-woods (08-14) + resubmit sitemap-index.xml. NOTE backlog is large and unactioned because scheduled cloud runs cannot reach GSC - Abhi should run a manual indexing session or set up a local scheduled task with Claude in Chrome.",
         "FLAG for Abhi (carried): (1) BC 604/778 number + GBP service area for Vancouver cluster; (2) unverified testimonials on south-calgary + east-calgary + garage-cleaning-calgary AND NOW noted on aspen-woods (3 named 5-star reviews pre-existing on the page - verify these are real or replace); (3) decide canonical email (inquiry@ vs info@) and unify site-wide."
+      ]
+    },
+    {
+      "date": "2026-08-16",
+      "weekday_mode": "SUNDAY - TECHNICAL HEALTH",
+      "action": "audit",
+      "page": "site-wide (post 08-12 flooring + 08-14 aspen-woods changes)",
+      "notes": "Clean technical audit; one small fix. Enumerated 76 live HTML pages across root/blog/services. SITEMAPS: sitemap.xml (48 URLs) + sitemap-blog.xml (10) + sitemap-vancouver.xml (17) = 75 URLs; ZERO duplicates across all three, ZERO non-www/bad-host URLs, ZERO ghost URLs (every sitemap loc maps to a live file), and every content page is covered (only intentional exclusions: privacy.html, terms.html, sitemap.html). sitemap-index.xml references all three child sitemaps. JSON-LD: every ld+json block on all 76 pages parses with 0 errors. Exactly ONE H1 per page (no 0-H1, no multi-H1). aggregateRating: NONE sitewide (the fabricated-review cleanup from 07-19 has held). INTERNAL LINKS: scanned all 76 pages, 0 broken internal .html links; the two pages changed since last audit verified clean (services/flooring.html 15 internal links / 0 broken; garage-organization-aspen-woods.html 19 / 0 broken). robots.txt sane (Allow /, Disallow /admin/ /private/, Sitemap -> www sitemap-index.xml). HOST: no bare-apex (non-www) references in any canonical/OG/JSON-LD; live apex garagescape.ca 307-redirects to www and follows to 200. FIX MADE: sitemap-index.xml listed sitemap.xml with a stale <lastmod>2026-08-12</lastmod>, but sitemap.xml's newest child URL (aspen-woods) is 2026-08-14 - bumped the index lastmod 08-12 -> 08-14 so crawlers see the child sitemap changed. LIVE VERIFICATION (post-audit, pre-commit): homepage, sitemap.xml, sitemap-index.xml, robots.txt, garage-organization-calgary, aspen-woods, services/flooring, canmore all HTTP 200; apex 307->www confirmed.",
+      "fixes": [
+        "sitemap-index.xml: sitemap.xml lastmod 2026-08-12 -> 2026-08-14 (was stale vs newest child URL aspen-woods@08-14)"
+      ],
+      "health_summary": {
+        "live_html_pages": 76,
+        "sitemap_urls_total": 75,
+        "sitemap_duplicates": 0,
+        "sitemap_ghost_urls": 0,
+        "content_pages_missing_from_sitemap": 0,
+        "jsonld_parse_errors": 0,
+        "pages_multi_h1": 0,
+        "pages_zero_h1": 0,
+        "pages_with_aggregateRating": 0,
+        "broken_internal_links": 0,
+        "bare_apex_host_refs": 0
+      },
+      "gsc": {
+        "status": "pending-manual",
+        "reason": "Scheduled cloud run - Claude in Chrome on Mac mini / device bridge not reachable in scheduled sessions. Indexed vs not-indexed counts not captured today.",
+        "note": "Indexing backlog remains large and unactioned because scheduled cloud runs cannot reach GSC. Abhi should run one manual GSC session (or set up a LOCAL scheduled task with Claude in Chrome) to: resubmit sitemap-index.xml, and Request Indexing oldest-first for the backlog below."
+      },
+      "indexing_backlog_pending_manual_oldest_first": [
+        "garage-decluttering-calgary.html (improved 07-15)",
+        "garage-organization-springbank-hill.html (new 07-16)",
+        "garage-organization-south-calgary.html (improved 07-17)",
+        "garage-organization-bearspaw.html (new 07-18)",
+        "custom-garage-cabinets-mount-royal.html (new 07-21)",
+        "garage-organization-banff.html (07-23), east-calgary (07-24), elbow-park (07-25), west-springs (07-28), west-calgary (07-29), harmony (07-30), north-calgary (07-31), lake-bonavista (08-01)",
+        "Aug-01 bulk (flagship rebuild + floor-cleaning/cleanout Calgary + Vancouver cluster + keyword pages)",
+        "garage-organization-mahogany.html (new 08-04)",
+        "garage-cleaning-calgary.html (improved 08-05)",
+        "services/flooring.html (improved 08-12)",
+        "garage-organization-aspen-woods.html (improved 08-14)"
+      ],
+      "next_targets": [
+        "MON 2026-08-17 RANK TRACKING + INDEX AUDIT: capture ~8-10 rankings vs 08-03 baseline (08-10 missed). Core: garage organization/decluttering/cleaning calgary; garage organization canmore; garage storage solutions calgary. Luxury/head (flooring+aspen now deepened): epoxy garage floor calgary, polyaspartic garage floor calgary, custom garage cabinets calgary, garage organization aspen woods, garage organization mahogany. If browser reachable: resubmit sitemap-index.xml + work indexing backlog oldest-first.",
+        "NEXT NEW-CONTENT DAY (owed - none created since 08-04 Mahogany): next affluent community DISTINCT from all existing - Britannia/Bel-Aire/Mayfair (inner-city estate; differentiate from Elbow Park + Mount Royal), Arbour Lake (NW-only lake community, no page), Tuscany/Rocky Ridge (far-NW golf estate), or Silvertip/Three Sisters Canmore mountain luxury. No near-dup of Mahogany/Lake Bonavista; no head-term cannibalization.",
+        "NEXT IMPROVE+RESCUE DAY: thinnest AB content pages garage-decluttering-cochrane (1688w) and garage-decluttering-chestermere (1865w) - deepen with local texture; services/ pages (cleaning/organization ~1100-1200w) are cannibalization-flagged - reframe as booking/spoke, do not expand.",
+        "MANUAL INDEXING BACKLOG is large and unactioned (see indexing_backlog_pending_manual_oldest_first) - scheduled cloud runs cannot reach GSC. Abhi: run a manual GSC/Claude-in-Chrome session or create a LOCAL scheduled task to clear it.",
+        "FLAG for Abhi (carried): (1) BC 604/778 number + GBP service area for Vancouver cluster; (2) unverified visible testimonials on south-calgary + east-calgary + garage-cleaning-calgary + aspen-woods (named 5-star reviews pre-existing - verify real or replace); (3) decide canonical email (inquiry@ vs info@) and unify site-wide."
       ]
     }
   ]
