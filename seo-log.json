@@ -911,6 +911,52 @@
         "MANUAL INDEXING BACKLOG is large and unactioned (see indexing_backlog_pending_manual_oldest_first) - scheduled cloud runs cannot reach GSC. Abhi: run a manual GSC/Claude-in-Chrome session or create a LOCAL scheduled task to clear it.",
         "FLAG for Abhi (carried): (1) BC 604/778 number + GBP service area for Vancouver cluster; (2) unverified visible testimonials on south-calgary + east-calgary + garage-cleaning-calgary + aspen-woods (named 5-star reviews pre-existing - verify real or replace); (3) decide canonical email (inquiry@ vs info@) and unify site-wide."
       ]
+    },
+    {
+      "date": "2026-08-19",
+      "weekday_mode": "WEDNESDAY - IMPROVE + RESCUE",
+      "action": "improved",
+      "page": "garage-decluttering-cochrane.html",
+      "keyword": "garage decluttering Cochrane / garage cleanout Cochrane / acreage & mountain-gear garage Cochrane",
+      "city": "Cochrane, AB",
+      "notes": "Ran Wed 2026-08-19 IMPROVE+RESCUE. Target chosen: garage-decluttering-cochrane.html - the thinnest AB content page (1188 words) and the explicit next-improve target flagged in the 08-16 Sunday run. Expanded to 2378 words with genuinely differentiated Cochrane foothills texture: outdoor/mountain-gear reality (Kananaskis/Bragg Creek/Ghost Lake/Rockies proximity), chinook + Bow Valley cold-snap + freeze-thaw + Hwy 1A/Cowboy Trail road-grit angle, seasonal tires/snowblower, acreage shops/quonsets toward Bearspaw/Springbank/Grand Valley/Jumping Pound, and neighbourhood-specific angles (Sunset Ridge/Fireside/Heartland/Riversong family homes vs GlenEagles executive vs established Cochrane Heights/Bow Ridge/West Valley/Glenbow). Fixed off-season framing (page was hard-coded 'spring cleanup season' but current date is mid-Aug) -> reframed to year-round + late-summer beat-the-snow reset + chinook window. Added 3 new content sections (Foothills-lifestyle intro, 'What Fills Up a Cochrane Garage', Neighbourhood-specific, Best-Time-to-Declutter) and 2 new FAQs (mountain gear; acreage shops) mirrored in FAQPage JSON-LD. Title tightened to ~55 chars, meta/OG/Twitter rewritten. Added 7 contextual internal links (organization-calgary, storage-solutions-calgary, services/flooring, bearspaw, harmony, decluttering-airdrie, decluttering-calgary). No pricing/phone/contact changes. No invented reviews/awards.",
+      "validation": {
+        "word_count": "1188 -> 2378",
+        "h1_count": 1,
+        "jsonld_blocks_valid": "3/3",
+        "internal_link_targets_exist": "7/7",
+        "sitemaps_valid": true
+      },
+      "sitemap_updates": [
+        "sitemap.xml: garage-decluttering-cochrane lastmod 2026-05-08 -> 2026-08-19",
+        "sitemap-index.xml: sitemap.xml child lastmod 2026-08-14 -> 2026-08-19"
+      ],
+      "indexing": {
+        "garage-decluttering-cochrane.html": {
+          "status": "pending-manual",
+          "requested_on": null,
+          "reason": "Scheduled/unattended cloud run - Claude in Chrome on Mac mini / device bridge not reachable in scheduled sessions, so GSC Request Indexing could not be performed.",
+          "manual_action": "Open https://search.google.com/search-console?resource_id=sc-domain%3Agaragescape.ca -> Inspect https://www.garagescape.ca/garage-decluttering-cochrane.html -> Request Indexing"
+        }
+      },
+      "gsc": {
+        "status": "pending-manual",
+        "reason": "Scheduled cloud run - no Claude-in-Chrome / device bridge in headless sessions.",
+        "manual_instructions": "Backlog remains large (see 08-16 indexing_backlog_pending_manual_oldest_first). Request indexing for cochrane (today) + oldest backlog pages when a browser-enabled/local run is available."
+      },
+      "gap_note": "Prior scheduled firings for Mon 2026-08-17 (RANK TRACKING) and Tue 2026-08-18 (NEW CONTENT) have NO commits/log entries - skipped/failed. A RANK-TRACKING pass and a NEW-CONTENT day are both owed; next Monday should still capture rankings vs 08-03 baseline.",
+      "flags": [
+        "Carried unresolved: unverified visible testimonials on south-calgary (07-17), east-calgary (07-24), garage-cleaning-calgary (08-05), aspen-woods (08-14) - verify real or replace.",
+        "Carried: Vancouver cluster needs BC 604/778 number + GBP service-area decision.",
+        "Carried: unify canonical email (inquiry@ vs info@) site-wide - cochrane page uses info@.",
+        "MISSED RUNS 08-17 & 08-18 (see gap_note)."
+      ],
+      "next_targets": [
+        "MON 2026-08-25 (or next Monday firing) RANK TRACKING + INDEX AUDIT: capture ~8-10 rankings vs 08-03 baseline (08-10 & 08-17 both missed). Core: garage organization/decluttering/cleaning calgary; garage organization canmore; garage storage solutions calgary; garage decluttering cochrane (newly deepened - track it). Luxury/head: epoxy garage floor calgary, custom garage cabinets calgary, garage organization aspen woods, garage organization mahogany.",
+        "NEXT NEW-CONTENT DAY (owed since 08-04 Mahogany): next affluent community DISTINCT from all existing - Britannia/Bel-Aire/Mayfair (inner-city estate), Silvertip/Three Sisters Canmore mountain luxury, or Watermark/Bearspaw estate. No near-dup of existing pages; no head-term cannibalization.",
+        "NEXT IMPROVE+RESCUE DAY: garage-decluttering-chestermere.html (~1333w, now thinnest AB page after cochrane) - deepen with real local texture (Chestermere Lake, lake-life gear, newer family estates, wind exposure). Then request indexing.",
+        "MANUAL INDEXING BACKLOG remains large and unactioned - scheduled cloud runs cannot reach GSC. Abhi: run a manual GSC/Claude-in-Chrome session or create a LOCAL scheduled task to clear it oldest-first."
+      ]
     }
   ]
 }
