@@ -957,6 +957,54 @@
         "NEXT IMPROVE+RESCUE DAY: garage-decluttering-chestermere.html (~1333w, now thinnest AB page after cochrane) - deepen with real local texture (Chestermere Lake, lake-life gear, newer family estates, wind exposure). Then request indexing.",
         "MANUAL INDEXING BACKLOG remains large and unactioned - scheduled cloud runs cannot reach GSC. Abhi: run a manual GSC/Claude-in-Chrome session or create a LOCAL scheduled task to clear it oldest-first."
       ]
+    },
+    {
+      "date": "2026-08-21",
+      "weekday": "Friday",
+      "weekday_mode": "FRIDAY - IMPROVE + RESCUE",
+      "action": "improved",
+      "page": "garage-decluttering-chestermere.html",
+      "keyword": "garage decluttering Chestermere / lake & watercraft gear garage Chestermere / boat & RV storage garage Chestermere",
+      "city": "Chestermere, AB",
+      "notes": "Ran Fri 2026-08-21 IMPROVE+RESCUE. Target chosen: garage-decluttering-chestermere.html - the thinnest AB content page (1340 words, confirmed by word-count sweep) and the explicit next-improve target flagged in the 08-19 Cochrane run. Expanded to 2218 words with genuinely differentiated Chestermere lake-city texture: Chestermere Lake as a powered irrigation reservoir (waterskiing/wakeboarding - unique vs every other Calgary-area community), watercraft & lake-gear storage (paddleboards, kayaks, wakeboards, wetsuits, life jackets), boat/trailer/RV overflow, prairie wind & dust exposure (open prairie, little tree cover vs inner-city Calgary), seasonal tire/winter kit, new-build/reno leftovers in Kinniburgh/Rainbow Falls/Dawson's Landing/Westmere/The Cove, family & yard gear. Added two new sections (What Fills Up a Chestermere Garage; Decluttering Built Around Chestermere Lake Life) plus 3 new FAQ Q&As (lake gear, prairie wind/dust, boat/RV winterizing) mirrored in FAQPage JSON-LD. Retitled to lake & RV gear angle; refreshed meta/OG/Twitter. Distinct from cochrane (foothills/mountain-gear) and airdrie/okotoks - no near-duplication. WebSearched community names first to confirm real local texture.",
+      "validation": {
+        "word_count": "1340 -> 2218",
+        "h1_count": 1,
+        "jsonld_blocks_valid": "3/3 (LocalBusiness, FAQPage, BreadcrumbList)",
+        "internal_link_targets_exist": "contextual links to organization/storage/cleaning-calgary + full footer set all resolve",
+        "sitemaps_valid": true,
+        "copyright_year_fixed": "footer 2025 -> 2026"
+      },
+      "sitemap_updates": [
+        "sitemap.xml: garage-decluttering-chestermere lastmod 2026-05-08 -> 2026-08-21",
+        "sitemap-index.xml: sitemap.xml child lastmod 2026-08-19 -> 2026-08-21"
+      ],
+      "indexing": {
+        "garage-decluttering-chestermere.html": {
+          "status": "pending-manual",
+          "requested_on": null,
+          "reason": "Scheduled/unattended cloud run - Claude in Chrome on Mac mini / device bridge not reachable in scheduled sessions, so GSC Request Indexing could not be performed.",
+          "manual_action": "Open https://search.google.com/search-console?resource_id=sc-domain%3Agaragescape.ca -> Inspect https://www.garagescape.ca/garage-decluttering-chestermere.html -> Request Indexing."
+        }
+      },
+      "gsc": {
+        "status": "pending-manual",
+        "reason": "Scheduled cloud run - no Claude-in-Chrome / device bridge in headless sessions.",
+        "manual_instructions": "Backlog remains large (see 08-16 indexing_backlog_pending_manual_oldest_first). Request indexing for chestermere (today) + oldest backlog pages when a browser-enabled/local session is available."
+      },
+      "gap_note": "Prior scheduled firings for Mon 2026-08-17 (RANK TRACKING) and Tue 2026-08-18 (NEW CONTENT) had no commits/log entries - skipped/failed. A RANK-TRACKING pass and a NEW-CONTENT day remain owed; next Monday should capture rankings vs 08-03 baseline.",
+      "flags": [
+        "Carried unresolved: unverified visible testimonials on south-calgary (07-17), east-calgary (07-24), garage-cleaning-calgary (08-05), aspen-woods (08-14) - verify real or replace.",
+        "Carried: Vancouver cluster needs BC 604/778 number + GBP service-area decision.",
+        "Carried: canonical email inconsistency (inquiry@ vs info@) site-wide - chestermere & cochrane pages use info@.",
+        "MANUAL INDEXING BACKLOG remains large and unactioned - scheduled cloud runs cannot reach GSC."
+      ],
+      "next_targets": [
+        "MON (next Monday firing) RANK TRACKING + INDEX AUDIT: capture ~8-10 rankings vs 08-03 baseline (08-10 & 08-17 both missed). Core: garage organization/decluttering/cleaning calgary; garage organization canmore; garage storage solutions calgary; garage decluttering cochrane & chestermere (both newly deepened - track them). Luxury/head: epoxy garage floor calgary, custom garage cabinets calgary, garage organization aspen woods, garage organization mahogany.",
+        "NEXT NEW-CONTENT DAY (owed since 08-04 Mahogany): next affluent community DISTINCT from all existing - Britannia/Bel-Aire/Mayfair (inner-city estate), Silvertip/Three Sisters Canmore mountain luxury, or Watermark/Auburn Bay estate. No near-dup; no head-term cannibalization.",
+        "NEXT IMPROVE+RESCUE DAY: garage-organization-south-calgary.html (~1472w, now thinnest AB page after chestermere) - deepen with real quadrant texture; OR garage-cleanout-calgary.html (~1754w). Then request indexing. Also resolve the unverified-testimonials flag when improving south-calgary (it carries that flag).",
+        "MANUAL INDEXING BACKLOG remains large and unactioned - scheduled cloud runs cannot reach GSC. Abhi: run a manual GSC/Claude-in-Chrome session or create a LOCAL scheduled task to clear it oldest-first."
+      ]
     }
   ]
 }
