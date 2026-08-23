@@ -1005,6 +1005,41 @@
         "NEXT IMPROVE+RESCUE DAY: garage-organization-south-calgary.html (~1472w, now thinnest AB page after chestermere) - deepen with real quadrant texture; OR garage-cleanout-calgary.html (~1754w). Then request indexing. Also resolve the unverified-testimonials flag when improving south-calgary (it carries that flag).",
         "MANUAL INDEXING BACKLOG remains large and unactioned - scheduled cloud runs cannot reach GSC. Abhi: run a manual GSC/Claude-in-Chrome session or create a LOCAL scheduled task to clear it oldest-first."
       ]
+    },
+    {
+      "date": "2026-08-23",
+      "weekday": "Sunday",
+      "weekday_mode": "SUNDAY - TECHNICAL HEALTH",
+      "action": "audit",
+      "page": "site-wide (post 08-19 cochrane + 08-21 chestermere changes)",
+      "notes": "Clean technical-health audit, ZERO fixes needed. Enumerated 76 live HTML pages (root/blog/services). SITEMAPS: sitemap.xml (48) + sitemap-blog.xml (10) + sitemap-vancouver.xml (17) = 75 URLs; 0 duplicates across all three, 0 non-www/bad-host URLs, 0 ghost URLs (every loc maps to a live file), 0 content pages missing (only intentional exclusions: privacy.html, terms.html, sitemap.html). sitemap-index.xml references all three children and its sitemap.xml lastmod (2026-08-21) correctly matches sitemap.xml's newest child URL (chestermere @ 08-21) - no stale lastmod this week. JSON-LD: 199 ld+json blocks across all 76 pages parse with 0 errors. Exactly ONE H1 per page (0 zero-H1, 0 multi-H1). aggregateRating: NONE sitewide (fabricated-review cleanup from 07-19 still holding). INTERNAL LINKS: scanned all 76 pages, 0 broken internal .html links (the only href flags were valid sms:+1587... click-to-text links, not broken). robots.txt sane (Allow /, Disallow /admin/ /private/, Sitemap -> www sitemap-index.xml). LIVE VERIFICATION: homepage, sitemap.xml, sitemap-index.xml, robots.txt, garage-organization-calgary, garage-decluttering-cochrane, garage-decluttering-chestermere, garage-organization-aspen-woods all HTTP 200; apex garagescape.ca 307-redirects to www.",
+      "fixes": [],
+      "health_summary": {
+        "live_html_pages": 76,
+        "sitemap_urls_total": 75,
+        "sitemap_duplicates": 0,
+        "sitemap_ghost_urls": 0,
+        "content_pages_missing_from_sitemap": 0,
+        "jsonld_blocks_total": 199,
+        "jsonld_parse_errors": 0,
+        "pages_multi_h1": 0,
+        "pages_zero_h1": 0,
+        "pages_with_aggregateRating": 0,
+        "broken_internal_links": 0,
+        "bare_apex_host_refs": 0,
+        "robots_txt": "sane"
+      },
+      "gsc": {
+        "status": "pending-manual",
+        "reason": "Scheduled cloud run - Claude in Chrome on Mac mini / device bridge not reachable in scheduled sessions. Indexed vs not-indexed counts not captured; no Request Indexing performed.",
+        "indexing_backlog_note": "Recently improved pages still need a manual Request Indexing click (only the user can do this): garage-decluttering-cochrane.html (improved 08-19), garage-decluttering-chestermere.html (improved 08-21). Older pending-manual items from prior runs also remain unactioned.",
+        "manual_action": "Open https://search.google.com/search-console?resource_id=sc-domain%3Agaragescape.ca -> Inspect each URL -> click REQUEST INDEXING (oldest pending first, within daily quota)."
+      },
+      "next_targets": [
+        "Mon 08-24 RANK TRACKING + INDEX AUDIT: re-check ~8 core queries (city + affluent-community/luxury keywords) and log positions under rankings; note movement vs prior Monday.",
+        "Tue 08-25 NEW CONTENT: prioritize an affluent-community page with a genuinely distinct angle (e.g. Bel-Aire/Mayfair or Eagle Ridge inner-city estate, or Bearspaw/Springbank acreage-shop) - WebSearch first, avoid near-duplicates of existing pages.",
+        "Wed 08-26 IMPROVE+RESCUE: continue clearing thin AB pages - next thinnest after cochrane/chestermere (check word-count sweep for garage-decluttering-okotoks/airdrie or thin neighbourhood pages like brentwood/dalhousie)."
+      ]
     }
   ]
 }
