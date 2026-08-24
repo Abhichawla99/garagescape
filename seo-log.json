@@ -1040,6 +1040,61 @@
         "Tue 08-25 NEW CONTENT: prioritize an affluent-community page with a genuinely distinct angle (e.g. Bel-Aire/Mayfair or Eagle Ridge inner-city estate, or Bearspaw/Springbank acreage-shop) - WebSearch first, avoid near-duplicates of existing pages.",
         "Wed 08-26 IMPROVE+RESCUE: continue clearing thin AB pages - next thinnest after cochrane/chestermere (check word-count sweep for garage-decluttering-okotoks/airdrie or thin neighbourhood pages like brentwood/dalhousie)."
       ]
+    },
+    {
+      "date": "2026-08-24",
+      "mode": "rank-tracking",
+      "weekday": "Monday",
+      "action": "rank-tracking + index-audit (no new page)",
+      "notes": "Monday rank tracking via WebSearch (US datacenter, top-10 organic). Compared vs 2026-08-03 baseline. Overall STABLE: all prior wins held, one gain, zero losses. Index audit could NOT be performed - scheduled cloud run has no Claude-in-Chrome / device bridge (unchanged since ~07-15). GSC Indexing>Pages counts unread; no indexing requests submitted. Manual backlog compiled below. Correlation flag: newer affluent-community pages (springbank-hill, aspen-woods, cochrane decluttering) are NOT ranking, consistent with them likely still unindexed - the 6-week manual-indexing backlog is now the primary growth blocker, not content.",
+      "rankings": {
+        "method": "WebSearch top-10 organic, US datacenter, 2026-08-24",
+        "garage organization calgary": "not in top 10 (baseline 08-03: not in top 10) - FLAT. Persistent gap; flagship rebuilt 08-01 still not ranking. Competitors: Garage Living, Redline, California Closets, The Garage Store.",
+        "garage decluttering calgary": "2 (homepage) (baseline 08-03: 2 homepage) - FLAT. Clean Garage Company still #1.",
+        "garage organization canmore": "1 (garage-organization-canmore.html) (baseline 08-03: 1) - HOLD #1. Strongest asset.",
+        "garage storage solutions calgary": "2 (garage-storage-solutions-calgary.html) (baseline 08-03: 2) - HOLD #2 (Garage Living #1).",
+        "garage organization okotoks": "2 (garage-decluttering-okotoks.html), 7 (homepage) (baseline 08-03: 3 okotoks page) - UP 1. Only mover this week.",
+        "garage cleaning calgary": "5 (services/cleaning.html), 7 (homepage) (baseline 08-03: 5 + 7) - FLAT/HOLD.",
+        "custom garage cabinets calgary": "not in top 10 (baseline 08-03: not in top 10) - FLAT. mount-royal cabinets page does not rank for generic term.",
+        "epoxy garage floor calgary": "not in top 10 (baseline 08-03: not in top 10) - FLAT. flooring service page not ranking; crowded SERP (Certapro, EpoxyFloorsCanada, etc.).",
+        "garage organization aspen woods": "not in top 10 for dedicated page; homepage appears ~#2. Dedicated aspen-woods page (improved 08-14) NOT ranking - likely still unindexed.",
+        "garage organization springbank hill": "not in top 10 (SERP US-contaminated w/ Spring Hill TN). springbank-hill page not ranking.",
+        "garage organization airdrie": "7 (homepage). No dedicated airdrie org page ranking.",
+        "garage organization cochrane": "not in top 10. garage-decluttering-cochrane (improved 08-19) not yet ranking."
+      },
+      "index_audit": {
+        "status": "pending-manual",
+        "reason": "Scheduled/unattended cloud run - Claude-in-Chrome on Mac mini / device bridge not reachable. GSC could not be opened. This has been the case every scheduled run since ~2026-07-15 (~6 weeks).",
+        "gsc_pages_counts": "unread (browser unavailable)",
+        "manual_backlog_oldest_first": [
+          "garage-decluttering-calgary.html (req since 07-15)",
+          "garage-organization-springbank-hill.html (07-16) - NOT ranking, prioritize",
+          "garage-organization-south-calgary.html (07-17)",
+          "garage-organization-bearspaw.html (07-18)",
+          "custom-garage-cabinets-mount-royal.html (07-21)",
+          "garage-organization-banff.html (07-23)",
+          "garage-organization-east-calgary.html (07-24)",
+          "garage-organization-elbow-park.html (07-25)",
+          "garage-organization-west-springs.html (07-28)",
+          "garage-organization-west-calgary.html (07-29)",
+          "garage-organization-harmony.html (07-30)",
+          "garage-organization-north-calgary.html (07-31)",
+          "garage-organization-lake-bonavista.html (08-01)",
+          "garage-organization-mahogany.html (08-04)",
+          "garage-cleaning-calgary.html (08-05, improved)",
+          "services/flooring.html (08-12)",
+          "garage-organization-aspen-woods.html (08-14) - NOT ranking, prioritize",
+          "garage-decluttering-cochrane.html (08-19) - NOT ranking, prioritize",
+          "garage-decluttering-chestermere.html (08-21)"
+        ],
+        "manual_action": "Open https://search.google.com/search-console?resource_id=sc-domain%3Agaragescape.ca -> Indexing>Pages (record indexed vs not-indexed). Then Inspect + Request Indexing, prioritizing the 3 flagged NOT-ranking pages: springbank-hill, aspen-woods, decluttering-cochrane. Best fix: recreate this as a LOCAL scheduled task on the Mac mini so Claude-in-Chrome is reachable and indexing can be requested automatically."
+      },
+      "next_targets": [
+        "IMPROVE garage-organization-springbank-hill / aspen-woods internal linking (they are content-ready but not ranking - likely index, not content, problem)",
+        "garage-organization-wentworth.html or west-springs improvements (west luxury cluster)",
+        "garage-organization-heritage-pointe.html (acreage/estate near Okotoks - leverage strong Okotoks ranking)",
+        "Consider 'epoxy garage floor' + community landing to break into flooring SERP"
+      ]
     }
   ]
 }
