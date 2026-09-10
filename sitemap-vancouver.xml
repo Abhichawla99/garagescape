@@ -364,4 +364,19 @@
         </image:image>
     </url>
 
+    <url>
+        <loc>https://www.garagescape.ca/garage-organization-surrey.html</loc>
+        <lastmod>2026-09-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <image:image>
+            <image:loc>https://www.garagescape.ca/images/vancouver-double-garage-after.jpg</image:loc>
+            <image:caption>Organized double garage in a newer Surrey BC subdivision with wall-mounted shelving</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.garagescape.ca/images/vancouver-garage-labelled-bins.jpg</image:loc>
+            <image:caption>Labelled storage bins on wall shelving in a Surrey garage</image:caption>
+        </image:image>
+    </url>
+
 </urlset>
