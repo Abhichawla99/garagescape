@@ -39,3 +39,6 @@ images/Gemini_Generated_*.png
 
 # Claude Code local state
 .claude/
+
+# Content automation working files (not part of the site)
+_automation/
