@@ -5,7 +5,7 @@
     <!-- MAIN PAGES -->
     <url>
         <loc>https://www.garagescape.ca/</loc>
-        <lastmod>2026-09-12</lastmod>
+        <lastmod>2026-09-20</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
         <image:image>
@@ -113,7 +113,7 @@
     </url>
     <url>
         <loc>https://www.garagescape.ca/garage-organization-springbank-hill.html</loc>
-        <lastmod>2026-07-16</lastmod>
+        <lastmod>2026-09-20</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
     </url>
@@ -143,11 +143,21 @@
             <image:caption>Garage organization Chestermere - triple garage and lake gear storage systems</image:caption>
         </image:image>
     </url>
+    <url>
+        <loc>https://www.garagescape.ca/garage-organization-eagle-ridge.html</loc>
+        <lastmod>2026-09-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <image:image>
+            <image:loc>https://www.garagescape.ca/images/custom-shelving-installation.jpg</image:loc>
+            <image:caption>Garage organization Eagle Ridge Calgary - reservoir-pathway gear and golf storage for estate garages</image:caption>
+        </image:image>
+    </url>
 
     <!-- CALGARY SERVICE VARIATION PAGES -->
     <url>
         <loc>https://www.garagescape.ca/garage-organization-calgary.html</loc>
-        <lastmod>2026-08-01</lastmod>
+        <lastmod>2026-09-20</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
     </url>
