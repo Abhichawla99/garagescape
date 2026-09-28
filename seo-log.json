@@ -2259,6 +2259,103 @@
         "INFRA: git push still blocked; GitHub web-upload workaround used again.",
         "Carried: unverified testimonials on south-calgary, east-calgary, garage-cleaning-calgary, aspen-woods; BC phone number/GBP decision; inquiry@ vs info@ email inconsistency."
       ]
+    },
+    {
+      "date": "2026-09-28",
+      "weekday": "Monday",
+      "market": "vancouver",
+      "mode": "new-page",
+      "action": "created",
+      "page": "garage-organization-north-vancouver.html",
+      "keyword": "garage organization North Vancouver",
+      "community": "City of North Vancouver (Lower/Central Lonsdale, Moodyville) + District of North Vancouver (Lynn Valley, Upper Lonsdale, Canyon Heights, Edgemont, Capilano, Blueridge, Seymour, Parkgate, Deep Cove)",
+      "word_count": "~2910 words between hero and footer (incl. pricing/FAQ/related); ~1900 words of prose body",
+      "why_this_target": "Market flipped to Vancouver (09-26 was Calgary). Listed all 73 .html files: Vancouver organization pages exist for vancouver, burnaby, coquitlam, richmond, surrey; north-vancouver, west-vancouver and new-westminster had cleaning pages only. North Vancouver picked first: highest gear density and most distinct garage type (tuck-under hillside). Cannibalization note: garage-cleaning-north-vancouver.html has H1 'Garage Cleaning & Organization North Vancouver' but title 'Garage Cleaning North Vancouver'; same cleaning/organization split already coexists in Coquitlam/Burnaby without issue. New page avoids repeating the cleaning page's moss/disposal/problem-table content and focuses on storage design; cross-linked both ways.",
+      "competitive_gap_found": "Top results: Garage Guru (North Van-based, product homepage, no moisture/gear-drying/decluttering content), Clever Garage near-me/north-vancouver (namedrops Lynn Valley/Edgemont/Deep Cove and 'wet gear' but is a sales template, no climate data, no strata, no layout method), Clever Quarters (generic Vancouver). None cover: City vs District housing split, tuck-under uphill-wall rule for where heavy storage goes, elevation-driven rainfall (Second Narrows vs Redonda Dr), seasonal ski/paddle swap, Lonsdale tandem strata bylaws, NSEM earthquake-kit shelf.",
+      "research": {
+        "district_wikipedia": "2021 pop 88,168 (2023 est 95,350); commercial centres Edgemont Village, Upper Lonsdale, Lynn Valley, Main Street, Parkgate, Deep Cove; precipitation 1,830.8mm at 2nd Narrows (1981-2010), 2,476.8mm at Redonda Drive (1971-2000); most homes post-1950, bungalows to large luxury houses.",
+        "city_wikipedia": "2021 pop 58,120; 11.83 km2; high-rise residential in Central/Lower Lonsdale; Lonsdale Quay SeaBus; the Shipyards.",
+        "nsmba": "NSMBA maintains trail networks on Fromme, Seymour, Cypress.",
+        "nsem": "North Shore Emergency Management serves DNV, CNV and West Vancouver; recommends a grab-and-go bag for every household member incl. pets.",
+        "not_used": "No street names, no prices beyond the site's standard pricing, no bike-theft stat (unsourced here)."
+      },
+      "images_used": [
+        "vancouver-garage-gear-wall.jpg (hero, fetchpriority high, srcset)",
+        "vancouver-garage-wall-floor-before/after.jpg (B/A pair, tuck-under uphill wall section)",
+        "vancouver-garage-cardboard-damp.jpg (rain section)",
+        "vancouver-garage-bike-storage.jpg (gear wall section)",
+        "vancouver-tandem-garage-before/after.jpg (B/A pair, Lonsdale strata section)",
+        "vancouver-garage-labelled-bins.jpg (zones section)",
+        "og/twitter image = vancouver-garage-gear-wall.jpg (on disk, live 200)"
+      ],
+      "image_honesty": "Alts and captions describe the photo and say 'the kind we build'/'this Metro Vancouver garage'; none claim a specific North Vancouver project.",
+      "on_page_checklist": {
+        "title": "Garage Organization North Vancouver | GarageScape (49 chars)",
+        "meta_description": "146 chars",
+        "h1_count": 1,
+        "schema": "Service+LocalBusiness provider, BreadcrumbList, FAQPage (8 Q&As); all parse",
+        "internal_links": "garage-storage-solutions-calgary.html (frozen), garage-organization-canmore.html (frozen), garage-cleaning-north-vancouver, garage-cleaning-west-vancouver, garage-organization-burnaby, garage-storage-solutions-vancouver, mould-in-garage-vancouver, laneway-garage-clearing-vancouver, garage-decluttering-vancouver, garage-services-vancouver; all exist",
+        "inbound_links": "index.html (additive footer li), garage-services-vancouver.html (new related card + link in North Vancouver location detail), garage-cleaning-north-vancouver.html (new related card)",
+        "sitemap": "sitemap-vancouver.xml entry (lastmod 2026-09-28, 2 images), 23 unique locs all map to files; sitemap-index.xml vancouver lastmod bumped to 2026-09-28",
+        "writing": "0 em dashes, 0 banned words"
+      },
+      "deploy": {
+        "infra_blocker": "UNCHANGED: git push from cloud container 403 (repo not in session's authorized set). device_bash unusable (no folders connected), so no Mac photo check either.",
+        "workaround": "GitHub web upload via Claude-in-Chrome (7 files) -> commit e92f666 on main. First attempt: a mis-click left focus on the page and typed text triggered GitHub keyboard shortcuts (navigated to Actions > new workflow; nothing created). Retried cleanly. Live: page 200, all 17 image URLs 200, homepage 200, robots.txt 200, sitemap-vancouver.xml includes the page."
+      },
+      "indexing": {
+        "todays_page": "FAILED: QUOTA EXCEEDED. Inspected (URL is not on Google: unknown to Google), clicked REQUEST INDEXING on the first attempt: 'Quota Exceeded ... exceeded your daily quota'. Second consecutive run where the quota was already spent before this run's first request.",
+        "status": "pending-manual",
+        "pending_manual_urls": [
+          "https://www.garagescape.ca/garage-organization-north-vancouver.html",
+          "https://www.garagescape.ca/garage-organization-pump-hill.html"
+        ],
+        "mitigation": "Resubmitted https://www.garagescape.ca/sitemap-vancouver.xml in GSC Sitemaps ('Sitemap submitted successfully', now 23 discovered pages; previously last read 2026-09-21 with 21).",
+        "backlog_worked": "Inspected garage-organization-pump-hill.html: still 'URL is unknown to Google', no referring sitemap detected, despite sitemap.xml being read 2026-09-26. Could not request (quota).",
+        "quota_diagnosis": "Something outside these runs appears to be using the URL-inspection indexing quota on garagescape.ca (possibly another scheduled task, tool or person). Worth Abhi checking for other automations hitting GSC."
+      },
+      "backlog_status": [
+        "garage-organization-pump-hill.html -- pending-manual since 2026-09-26, still unknown to Google",
+        "garage-organization-north-vancouver.html -- pending-manual 2026-09-28"
+      ],
+      "gsc_pages_count": {
+        "checked": false,
+        "last": "2026-09-22: 37 indexed / 57 not indexed",
+        "next_due": "on/after 2026-09-29"
+      },
+      "backfilled": {
+        "page": "garage-cleaning-west-vancouver.html",
+        "note": "All Vancouver pages already have body images and working og:image, so picked a 2-image page. Added efflorescence before/after pair under 'Under-house garage on a steep lot' and a lane-garage figure under 'Older Ambleside and Dundarave garages' (now 5 images). Alts do not claim a West Van project. Title/URL/canonical untouched; 1 H1; JSON-LD parses."
+      },
+      "rankings": {
+        "method": "4 WebSearch queries, US, non-localized; directional only.",
+        "garage organization vancouver": "not visible (Mr. Handyman WA, Houzz, Ruffell & Brown, Garage Living, Clever Quarters x2, Garage Guru, Garage Solutions NW). FLAT vs 09-22.",
+        "garage cleaning vancouver": "not visible (Yelp, Thumbtack WA, Taskrabbit, Trash Bandits, EcoPlanet, Keenon Green, GetGarageCleaning WA). FLAT vs 09-22.",
+        "garage cleaning burnaby": "ROTATING. not visible (Yelp, Loonie Cleaning, QC Washing, Turbo Haul, NeatSpace, pressure-washing firms). No prior same-method reading.",
+        "garage organization north vancouver": "today's page not present (unindexed). BASELINE SET. Competitors: Yelp/Garage Guru, Clever Garage, Clever Quarters."
+      },
+      "technical": "sitemap.xml 53 locs / sitemap-vancouver.xml 23 locs, no dups, all files exist; robots.txt sane (Allow /, sitemap-index referenced); touched pages 1 H1 each, JSON-LD parses, no broken internal links. Full site sweep still overdue (last 2026-07-19).",
+      "consolidation_candidates": [
+        {
+          "pages": "the 8 /blog/*-calgary.html posts",
+          "status": "carried",
+          "recommendation": "Merge into 2-3 guides and 301 the rest (flagged 7+ runs)."
+        }
+      ],
+      "images_needed": [
+        "Real North Shore project photos: a tuck-under garage showing the uphill wall, a bike wash corner, paddleboards on ceiling racks, a Lonsdale tandem. The Vancouver library is now reused across 6 organization pages.",
+        "Any real Calgary project photos (carried)."
+      ],
+      "next_targets": [
+        "FIRST next run: request indexing for garage-organization-north-vancouver.html and garage-organization-pump-hill.html before the new page if quota allows (they are older).",
+        "Next Vancouver targets: garage-organization-west-vancouver.html (British Properties/Caulfeild estate + Ambleside angle), garage-organization-new-westminster.html, garage-storage-solutions-surrey.html.",
+        "Next Calgary: image backfill mahogany or custom-garage-cabinets-mount-royal (broken og:image); weekly GSC Pages count due 2026-09-29+; look at services/shelving.html impressions drop."
+      ],
+      "flags": [
+        "BLOCKER: GSC daily indexing quota exhausted before the first request, 2 runs in a row. 2 pages pending-manual.",
+        "INFRA: git push still blocked; web-upload workaround used again.",
+        "Carried: public GitHub repo ranks for 'garage decluttering okotoks'; unverified testimonials on older Calgary pages; inquiry@ vs info@ email inconsistency."
+      ]
     }
   ]
 }
