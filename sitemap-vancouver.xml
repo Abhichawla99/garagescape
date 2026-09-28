@@ -423,4 +423,18 @@
             <image:caption>New-build Burke Mountain garage in Coquitlam after organization, with wall-mounted shelving installed</image:caption>
         </image:image>
     </url>
+    <url>
+        <loc>https://www.garagescape.ca/garage-organization-north-vancouver.html</loc>
+        <lastmod>2026-09-28</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <image:image>
+            <image:loc>https://www.garagescape.ca/images/vancouver-garage-gear-wall.jpg</image:loc>
+            <image:caption>Garage gear wall with skis, bikes and outdoor equipment hung on wall track, the layout used for North Vancouver garages</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.garagescape.ca/images/vancouver-tandem-garage-after.jpg</image:loc>
+            <image:caption>Tandem garage organized with shallow side-wall shelving and the full floor clear, as used in Lonsdale townhouses</image:caption>
+        </image:image>
+    </url>
 </urlset>
