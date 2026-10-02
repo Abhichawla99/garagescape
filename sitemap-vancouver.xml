@@ -339,6 +339,17 @@
     </url>
 
     <url>
+        <loc>https://www.garagescape.ca/garage-organization-new-westminster.html</loc>
+        <lastmod>2026-10-02</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <image:image>
+            <image:loc>https://www.garagescape.ca/images/vancouver-garage-labelled-bins.jpg</image:loc>
+            <image:caption>Labelled bins on raised garage shelving for a damp New Westminster garage</image:caption>
+        </image:image>
+    </url>
+
+    <url>
         <loc>https://www.garagescape.ca/laneway-garage-clearing-vancouver.html</loc>
         <lastmod>2026-08-01</lastmod>
         <changefreq>weekly</changefreq>
