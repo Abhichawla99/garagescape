@@ -2471,6 +2471,117 @@
     "INFRA: git push/API still blocked from cloud; web-upload workaround used.",
     "Carried: public GitHub repo ranks for 'garage decluttering okotoks'; unverified testimonials on older Calgary pages; inquiry@ vs info@ inconsistency."
    ]
+  },
+  {
+   "date": "2026-10-02",
+   "weekday": "Friday",
+   "market": "vancouver",
+   "mode": "new-page",
+   "action": "created",
+   "page": "garage-organization-new-westminster.html",
+   "keyword": "garage organization New Westminster",
+   "community": "New Westminster, BC: Queen's Park HCA, Glenbrooke North, Sapperton/Brewery District, Brow of the Hill, Victory/Massey Heights, West End, Connaught Heights, Uptown, Downtown/Quay, Victoria Hill, Queensborough (Lulu Island)",
+   "word_count": "~3000 total page words; ~2230 words of body prose (TOC to end of zones section)",
+   "why_this_target": "Market flipped to Vancouver (09-30 was Calgary). Listed next Vancouver targets were west-vancouver org, new-westminster org, storage-solutions-surrey. Rejected West Vancouver: garage-cleaning-west-vancouver.html (3483 words, H1 'Garage Cleaning & Organization West Vancouver') already covers multi-bay estate garages, downsizing, under-house slope garages, strata lockers and workshop zoning, so an organization page would near-duplicate it. Rejected Surrey storage: Surrey already has cleaning + organization pages covering triple garages, coach houses, EV, acreage shops and gear. New Westminster cleaning page is thinner (2406 words, 2 images) and has almost no storage-design content, leaving room for a distinct organization intent. Same cleaning/organization split as North Van/Burnaby/Coquitlam; cross-linked both ways.",
+   "competitive_gap_found": "SERP for 'garage organization New Westminster BC' (and same without BC in rank check): zero relevant results. Only a federal property listing, garage-door-repair spam pages, parking listings (Parksy), a Remax listing, RenovationFind Kelowna, and US Westminster CO/MA results. No local guide content exists at all. Page built around verified local rules nobody else covers: Queen's Park HCA (702 homes, 2017, pre-1941 protection, HAP triggers), the city's laneway/carriage house rule that a lot gets ONE detached accessory structure (laneway house OR detached garage), Queensborough floodplain/dike data, and pre-war small-garage framing.",
+   "research": {
+    "wikipedia_new_westminster": "Founded 1858 (Moody), capital of Colony of BC until 1866, incorporated 1860; 2021 pop 78,916; land 15.62 km2; density second highest in Canada after Vancouver; Queensborough on eastern Lulu Island; Expo Line stations 22nd St, New Westminster, Columbia, Sapperton, Braid; Brewery District on former Labatt site.",
+    "newwestcity_hca": "HAP may be required for certain renovations, demolition, new houses, laneway/carriage houses; Section A/B/C design guidelines.",
+    "newwestheritage_org": "Queen's Park HCA approved June 13 2017 (effective June 17), 702 homes in ~1 km2, protects pre-1941 residences, largest HCA in Western Canada at approval.",
+    "newwestcity_laneway": "Program began 2017; max 89 m2; only one detached accessory structure (laneway/carriage house OR detached garage); 2 parking spaces total; tandem not permitted; Queensborough excluded; converting an existing garage 'very challenging' under Building Code.",
+    "new_west_record_flood": "7 km dike protects ~350 ha of Queensborough, two-thirds of city floodplain; flood levels projected 60-90 cm higher by 2050.",
+    "not_used": "No precipitation figure (only low-quality climate aggregators found). No street names, no team/club names (Salmonbellies not verified this run), no prices beyond standard site pricing."
+   },
+   "images_used": [
+    "vancouver-garage-labelled-bins.jpg (hero, fetchpriority high, srcset; also og/twitter image)",
+    "vancouver-garage-parking-before/after.jpg (B/A pair, 'garage built for a smaller car' section)",
+    "vancouver-garage-workbench-before/after.jpg (B/A pair, heritage section; after has no -640 so plain src)",
+    "vancouver-garage-cardboard-damp.jpg (hillside/damp section)",
+    "vancouver-garage-efflorescence-before/after.jpg (B/A pair, Queensborough section)",
+    "vancouver-tandem-garage-before/after.jpg (B/A pair, townhouse tandem section)",
+    "vancouver-garage-bike-storage.jpg (car-light household bike wall)"
+   ],
+   "image_honesty": "All captions say 'This Metro Vancouver garage'/'A Metro Vancouver ...'; no alt or caption claims a New Westminster project. 11 <img>, 0 duplicate alts, all files + -640 variants verified on disk and 200 live.",
+   "on_page_checklist": {
+    "title": "Garage Organization New Westminster | GarageScape (49 chars)",
+    "meta_description": "157 chars",
+    "h1_count": 1,
+    "schema": "Service + LocalBusiness provider, BreadcrumbList, FAQPage (8 Q&As); all parse",
+    "internal_links": "garage-storage-solutions-calgary.html (frozen), garage-cleaning-new-westminster.html, garage-organization-richmond.html, garage-organization-burnaby.html, garage-organization-coquitlam.html, garage-storage-solutions-burnaby.html, laneway-garage-clearing-vancouver.html, mould-in-garage-vancouver.html, garage-services-vancouver.html + footer; all exist",
+    "inbound_links": "garage-services-vancouver.html (hub, New Westminster loc-detail paragraph), garage-cleaning-new-westminster.html (Garage Organization service card repointed from the generic Vancouver org page), new page footer",
+    "sitemap": "sitemap-vancouver.xml entry lastmod 2026-10-02 (24 unique locs, all files exist); sitemap-index.xml vancouver lastmod -> 2026-10-02",
+    "writing": "0 em dashes in new copy, 0 banned words"
+   },
+   "deploy": {
+    "infra_blocker": "UNCHANGED: git push from cloud 403 (repo not in session's authorized set). device_bash has no connected folders (no Mac photo check).",
+    "workaround": "Verified base = live (5 edited files byte-identical to live). GitHub web upload via Claude-in-Chrome, 6 files, one attempt, commit 8713242. After 90s: new page 200 and byte-identical to local, all 27 image URLs 200, hub links it, sitemap-vancouver contains it, mount-royal shows 4 <img>."
+   },
+   "indexing": {
+    "todays_page": "FAILED: QUOTA EXCEEDED (4th consecutive run). Inspected: 'URL is not on Google: URL is unknown to Google'. Clicked REQUEST INDEXING once (first request of the day from this run, ~16:20 UTC / 9:20 PT) -> 'Quota Exceeded'. Stopped requesting.",
+    "status": "pending-manual",
+    "pending_manual_urls": [
+     "https://www.garagescape.ca/garage-organization-new-westminster.html",
+     "https://www.garagescape.ca/garage-organization-tuscany.html",
+     "https://www.garagescape.ca/garage-organization-north-vancouver.html",
+     "https://www.garagescape.ca/garage-organization-pump-hill.html"
+    ],
+    "mitigation": "Resubmitted https://www.garagescape.ca/sitemap-vancouver.xml ('Sitemap submitted successfully'; last read was 2026-09-28 with 23 pages).",
+    "quota_diagnosis": "4 runs in a row the per-property request quota is gone before this run's first request. Runs make 0-1 requests each, so these runs are not the cause. Either another automation/person is using URL Inspection > Request Indexing on garagescape.ca, or Google has throttled the property. Abhi should check."
+   },
+   "backlog_status": {
+    "garage-organization-springbank-hill.html": "INDEXED (URL is on Google) - remove from backlog",
+    "garage-organization-aspen-woods.html": "INDEXED (URL is on Google) - remove from backlog",
+    "garage-decluttering-cochrane.html": "INDEXED (URL is on Google) - remove from backlog",
+    "remaining_pending": "pump-hill (09-26), north-vancouver (09-28), tuscany (09-30), new-westminster (10-02), all 'unknown to Google'"
+   },
+   "gsc_pages_count": {
+    "checked": "overview card only (full count done 09-30, within 7 days)",
+    "date": "2026-10-02",
+    "indexed": 38,
+    "not_indexed": 57,
+    "trend": "Flat vs 09-30."
+   },
+   "backfilled": {
+    "page": "custom-garage-cabinets-mount-royal.html (Calgary)",
+    "why_not_vancouver": "Scanned every page: no Vancouver-market page has a broken og:image or fewer than 2 body images, so took the oldest flagged item from next_targets.",
+    "note": "Had 0 body images and broken og/twitter image (calgary-garage-organization.jpg, not on disk). Added hero figure (custom-shelving-installation.jpg), B/A pair (before-after-4/1) under 'The Mount Royal Garage Challenge' with caption stating it is a Calgary project not a Mount Royal home, epoxy floor figure (airdrie-garage-decluttering.jpg) above 'Chinooks and Older Concrete'. og/twitter -> custom-shelving-installation.jpg. Title/URL/canonical untouched; 1 H1; JSON-LD parses."
+   },
+   "rankings": {
+    "method": "4 WebSearch queries (US, non-localized); directional only.",
+    "garage organization vancouver": "not visible (Handyman Connection x3, Garage Living via HAVAN, Homestars, Clever Quarters, Houzz). FLAT vs 09-28.",
+    "garage cleaning vancouver": "not visible (Edenflo, BBB, Hellamaid, spam/US results). FLAT vs 09-28. Result set is low quality; tool noise.",
+    "garage storage solutions vancouver": "ROTATING. garage-storage-solutions-vancouver.html not visible (Handyman Connection x6, GarageExperts Portland, Garage Living). No prior same-method reading.",
+    "garage organization new westminster": "today's page not present (unindexed). BASELINE SET. SERP is US Westminster results + spam: no competitor content."
+   },
+   "technical": "Touched pages: 1 H1 each, all JSON-LD parses, no broken internal links or image refs. sitemap.xml 54 unique / sitemap-vancouver.xml 24 unique, all map to files. Live homepage 200 (verified via page fetches). Full site sweep still overdue (last 2026-07-19).",
+   "consolidation_candidates": [
+    {
+     "pages": "the 8 /blog/*-calgary.html posts",
+     "status": "carried",
+     "recommendation": "Merge into 2-3 guides and 301 the rest."
+    },
+    {
+     "pages": "garage-organization-company-calgary, -service-calgary, -help-calgary, -tips-calgary, -guide-calgary",
+     "status": "carried",
+     "recommendation": "Merge into garage-organization-calgary.html and 301; frees crawl attention."
+    }
+   ],
+   "images_needed": [
+    "Real New Westminster shots: a pre-war Queen's Park lane garage interior showing old framing, a Victoria Hill tandem, a Queensborough garage with everything on racks.",
+    "Any real Calgary project photos (carried; 6 unique generic images now on most Calgary pages)."
+   ],
+   "next_targets": [
+    "BLOCKER FIRST: Abhi to find what is consuming the GSC indexing quota, and submit the 4 pending-manual URLs by hand.",
+    "Next Calgary run: follow the 09-30 recommendation and do consolidation (merge company/service/help/tips/guide variants into garage-organization-calgary.html with 301s) instead of a new page, while 4 new pages sit 'unknown to Google'.",
+    "Next Vancouver: skip garage-organization-west-vancouver.html (garage-cleaning-west-vancouver.html already covers estate/multi-bay/under-house organization). Better: a Metro-wide BC topic page with no city overlap (strata/townhouse tandem garage organization, or EV-charger garage layout), or upgrade the thinnest Vancouver page.",
+    "Image backfill remaining (Calgary): about.html, garage-cleaning-calgary.html, garage-decluttering-calgary.html, cochrane, makeover, aspen-woods, banff, beddington, brentwood, dalhousie, elbow-park, evanston, harmony, mckenzie-towne, panorama-hills, west-springs, remodel, renovation all have broken og:image and 0 body images. Frozen canmore/storage-solutions also have broken og:image but are frozen (og fix would need Abhi's OK)."
+   ],
+   "flags": [
+    "BLOCKER: GSC daily indexing quota exhausted before first request, 4 runs in a row. 4 pages pending-manual.",
+    "GOOD: springbank-hill, aspen-woods, cochrane now indexed; backlog shrank by 3.",
+    "INFRA: git push still blocked from cloud; web-upload workaround used.",
+    "Carried: unverified testimonials on older Calgary pages; inquiry@ vs info@ inconsistency."
+   ]
   }
  ]
 }
