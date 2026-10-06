@@ -2687,6 +2687,115 @@
         "INFRA: git push still blocked from cloud; web-upload workaround used.",
         "Carried: unverified testimonials on older Calgary pages; inquiry@ vs info@ inconsistency; McKenzie Towne page claims 'our McKenzie Towne base' (unverified address-type claim)."
       ]
+    },
+    {
+      "date": "2026-10-06",
+      "weekday": "Tuesday",
+      "market": "vancouver",
+      "mode": "new-page",
+      "action": "created",
+      "page": "ev-charger-garage-organization-vancouver.html",
+      "keyword": "EV charger garage organization Vancouver",
+      "community": "Metro Vancouver-wide topic page (no single-city overlap): houses, lane garages, townhouse tandems and strata garages in Vancouver, Burnaby, Richmond, Surrey, Coquitlam, New Westminster, North/West Vancouver",
+      "word_count": "~3190 total page words; ~2000 words of body prose",
+      "why_this_target": "Market flipped to Vancouver (10-04 was Calgary). Followed the 10-02/10-04 next_targets recommendation: a Metro-wide BC topic page with no city overlap. Tandem/strata already covered in depth by Burnaby (51 tandem mentions), North Van (34), Richmond (25) pages, so chose EV-charger layout instead. EV appears only as one paragraph + one FAQ on burnaby/surrey/richmond org pages; no page targets the intent. Distinct from all city pages, so no cannibalization.",
+      "competitive_gap_found": "SERPs for 'EV charger garage setup Vancouver home' and 'EV charger garage organization Vancouver': electricians (Mr. Electric, TDR, Dormit-X), City of Vancouver curbside-charging PDFs, a Globe and Mail condo article, Parksy listings. Zero content on planning/organizing the garage around a charger. Page covers: charger-wall selection (port location, cable reach, panel distance), panel clearance, rain/wet-slab cable handling, EV-ready outlets in new builds, tandem placement, BC strata EV rules (Dec 6 2023), EPR deadlines (Dec 31 2026/2028), BC Hydro $350 rebate, rehoming displaced gear.",
+      "research": {
+        "gov_bc_strata_ev": "Effective Dec 6 2023: owner request must include equipment, location, qualified contractor, cost/timeline; council decides within 3 months; cannot unreasonably refuse; reasonable conditions; can require owner to pay; majority vote for CRF spending on EV; 3/4 for special levy; EPR for 5+ lots by Dec 31 2026 or Dec 31 2028 by region.",
+        "bchydro_rebate": "Up to 50% to max $350, single-family/row homes/duplexes; approved list; new; cUL/CSA etc.; Tesla no longer eligible; electrical permit required; apply within 180 days; multi-unit separate programs.",
+        "bchydro_2026_5keys": "80%+ of BC EV charging at home; $250 Peak Saver bonus; optional Time-of-Day rate saves 5 c/kWh off-peak.",
+        "thinkev_may_2026": "240V circuit needs permit + inspection (~$150, 1-2 weeks); post-2005 200A panels usually OK; 1970s-80s 100A panels often need $1,500-$3,500 upgrade; load-management chargers as alternative.",
+        "electric_autonomy_2021": "City of Vancouver + 13 other BC municipalities require every residential parking space in new developments to have an adjacent wired outlet capable of Level 2.",
+        "drive_tesla_canada": "Tesla Wall Connector sold with 24-ft cable.",
+        "not_used": "No year for Vancouver's EV-ready bylaw (not verified); no Time-of-Day hours; no claim about which authority issues electrical permits in each city."
+      },
+      "images_used": [
+        "vancouver-double-garage-after.jpg (hero, fetchpriority high, srcset)",
+        "vancouver-garage-parking-before/after.jpg (B/A, charging-wall section)",
+        "vancouver-garage-floor-before/after.jpg (B/A, panel section; after shows a clear electrical panel)",
+        "vancouver-garage-cardboard-damp.jpg (rain/wet slab section)",
+        "vancouver-tandem-garage-after.jpg (strata/tandem section)",
+        "vancouver-garage-gear-wall.jpg (displaced gear section)",
+        "og/twitter image = vancouver-garage-parking-after.jpg (on disk, live 200)"
+      ],
+      "image_honesty": "Captions say 'An example Metro Vancouver layout' / 'An example of the finish'; nothing claims a GarageScape EV job. 8 <img>, 8 unique alts, all files + -640 variants on disk and 200 live. None of the library shows an actual charger.",
+      "on_page_checklist": {
+        "title": "EV Charger Garage Organization Vancouver | GarageScape (54 chars)",
+        "meta_description": "151 chars",
+        "h1_count": 1,
+        "schema": "Service + LocalBusiness provider, BreadcrumbList, FAQPage (8 Q&As); all parse",
+        "internal_links_out": "garage-storage-solutions-calgary (frozen), garage-organization-vancouver, garage-storage-solutions-vancouver, garage-floor-cleaning-vancouver, mould-in-garage-vancouver, garage-decluttering-vancouver, garage-organization-burnaby/-richmond/-coquitlam/-surrey/-north-vancouver/-new-westminster, garage-services-vancouver; all exist",
+        "links_in": "garage-services-vancouver.html (hub service card), garage-organization-burnaby.html (EV paragraph)",
+        "sitemap": "sitemap-vancouver.xml once, lastmod 2026-10-06 (25 unique locs, all exist); sitemap-index vancouver lastmod -> 2026-10-06",
+        "writing": "0 em dashes in page, 0 banned words"
+      },
+      "deploy": {
+        "infra_blocker": "UNCHANGED: git push from cloud 403; GitHub API 403 via proxy. device_bash: no connected folders (no Mac photo check).",
+        "workaround": "Fresh clone = base. GitHub web upload via Claude-in-Chrome, 6 files, one attempt. After 90s: new page 200 and byte-identical to local, all 22 image URLs 200 (two returned 000 on first try, 200 on retry), hub + sitemap contain the page, burnaby cleaning shows 5 <img>, homepage 200."
+      },
+      "indexing": {
+        "todays_page": "FAILED: QUOTA EXCEEDED (6th consecutive run). Inspected: 'URL is not on Google: URL is unknown to Google'. Clicked REQUEST INDEXING once (first request from this run, Tue ~16:30 UTC) -> 'Quota Exceeded'. Stopped requesting. Screenshot saved.",
+        "status": "pending-manual",
+        "pending_manual_urls": [
+          "https://www.garagescape.ca/ev-charger-garage-organization-vancouver.html",
+          "https://www.garagescape.ca/garage-organization-cranston.html",
+          "https://www.garagescape.ca/garage-organization-new-westminster.html",
+          "https://www.garagescape.ca/garage-organization-tuscany.html",
+          "https://www.garagescape.ca/garage-organization-north-vancouver.html",
+          "https://www.garagescape.ca/garage-organization-pump-hill.html"
+        ],
+        "mitigation": "Resubmitted https://www.garagescape.ca/sitemap-vancouver.xml ('Sitemap submitted successfully')."
+      },
+      "backlog_status": {
+        "garage-organization-pump-hill.html": "PROGRESS: now 'Discovered - currently not indexed' (was 'unknown to Google' on 10-04); sitemaps sitemap-index.xml + sitemap.xml now detected. Referring page: none detected.",
+        "garage-organization-north-vancouver.html": "'Discovered - currently not indexed'; sitemap-vancouver.xml detected.",
+        "garage-organization-tuscany.html": "'Discovered - currently not indexed'; sitemap.xml detected.",
+        "remaining_pending": "6 pages: pump-hill, north-vancouver, tuscany, new-westminster, cranston, ev-charger. Google now knows the older three; it is choosing not to crawl them yet (crawl priority/site quality, not discovery)."
+      },
+      "gsc_pages_count": {
+        "checked": "skipped (full count 09-30; next due 10-07)"
+      },
+      "backfilled": {
+        "page": "garage-cleaning-burnaby.html (Vancouver)",
+        "note": "No Vancouver page has 0 images or a broken og:image, so took one of the thinnest (2 images). Added efflorescence before/after pair + caption and a cardboard-damp figure directly under the 'What Goes Wrong in Burnaby Garages' table (efflorescence and mould rows). Title/URL/canonical untouched; 1 H1; JSON-LD parses."
+      },
+      "rankings": {
+        "method": "4 WebSearch queries (US, non-localized); directional only.",
+        "garage organization vancouver": "not visible (Handyman Connection x4, Garage Living via HAVAN, Homestars, Clever Quarters, Houzz). FLAT vs 10-02.",
+        "garage cleaning vancouver": "not visible (Edenflo, BBB, Hellamaid, spam). FLAT vs 10-02.",
+        "garage cleaning burnaby": "ROTATING. garage-cleaning-burnaby.html not visible (JustJunk, BBB, Heritage Burnaby, Homestars, spam). No prior same-method reading.",
+        "ev charger garage organization vancouver": "today's page not present (unindexed). BASELINE SET. SERP: City of Vancouver curbside EV pages, UBC library, SBIZ news. No competitor garage content."
+      },
+      "technical": "Touched pages: 1 H1 each, JSON-LD parses, no broken internal links or image refs. sitemap-vancouver.xml 25 unique locs, all map to files; XML parses. robots.txt sane (Allow /, sitemap-index declared). Homepage 200. Full site sweep still overdue (last 2026-07-19).",
+      "consolidation_candidates": [
+        {
+          "pages": "the 8 /blog/*-calgary.html posts",
+          "status": "carried",
+          "recommendation": "Merge into 2-3 guides and 301 the rest."
+        },
+        {
+          "pages": "garage-organization-company-calgary, -service-calgary, -help-calgary, -tips-calgary, -guide-calgary",
+          "status": "carried, awaiting Abhi",
+          "recommendation": "Merge into garage-organization-calgary.html and 301."
+        }
+      ],
+      "images_needed": [
+        "A real Level 2 charger on a garage wall with the cable hung on a hook (none in the library).",
+        "Real Metro Vancouver townhouse tandem with a charger at the front or middle.",
+        "REAL Calgary project photos (carried; Calgary library is AI-generated)."
+      ],
+      "next_targets": [
+        "BLOCKER FIRST: Abhi to find what is consuming the GSC indexing quota (6 runs running), and submit the 6 pending-manual URLs by hand.",
+        "Indexing signal: 3 older pages moved to 'Discovered - currently not indexed'. Google knows them but is not crawling them, which points to crawl priority/site quality. Strongest lever is still the Calgary consolidation (DECISION FOR ABHI).",
+        "Next Vancouver: garage-storage-solutions-surrey.html or a strata/condo storage-locker page are the remaining distinct options; or upgrade a thin 2-image cleaning page (north-vancouver, richmond, surrey, new-westminster cleaning).",
+        "Next Calgary: Discovery Ridge or Priddis if new pages continue; honesty caption fixes on 7 Calgary pages still pending.",
+        "Image backfill remaining (Vancouver, 2 images each): garage-cleaning-new-westminster, -north-vancouver, -richmond, -surrey."
+      ],
+      "flags": [
+        "BLOCKER: GSC indexing quota exhausted before first request, 6 runs in a row. 6 pages pending-manual.",
+        "GOOD: pump-hill, north-vancouver, tuscany moved from 'unknown' to 'Discovered - currently not indexed'.",
+        "INFRA: git push still blocked from cloud; web-upload workaround used."
+      ]
     }
   ]
 }
