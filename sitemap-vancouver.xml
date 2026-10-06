@@ -448,4 +448,18 @@
             <image:caption>Tandem garage organized with shallow side-wall shelving and the full floor clear, as used in Lonsdale townhouses</image:caption>
         </image:image>
     </url>
+    <url>
+        <loc>https://www.garagescape.ca/ev-charger-garage-organization-vancouver.html</loc>
+        <lastmod>2026-10-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.garagescape.ca/images/vancouver-garage-parking-after.jpg</image:loc>
+            <image:caption>Organized Metro Vancouver garage with storage on one wall and the car parked inside, leaving a wall open for an EV charger</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.garagescape.ca/images/vancouver-garage-floor-after.jpg</image:loc>
+            <image:caption>Clean garage floor with the electrical panel left clear for a charger circuit</image:caption>
+        </image:image>
+    </url>
 </urlset>
