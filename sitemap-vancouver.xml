@@ -462,4 +462,18 @@
             <image:caption>Clean garage floor with the electrical panel left clear for a charger circuit</image:caption>
         </image:image>
     </url>
+    <url>
+        <loc>https://www.garagescape.ca/garage-bike-storage-vancouver.html</loc>
+        <lastmod>2026-10-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.garagescape.ca/images/vancouver-garage-bike-storage.jpg</image:loc>
+            <image:caption>Bikes hung from a wall rail in a Metro Vancouver garage with the floor left clear</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.garagescape.ca/images/vancouver-garage-gear-wall.jpg</image:loc>
+            <image:caption>Garage gear wall with kayaks, paddleboards, skis and a snowboard</image:caption>
+        </image:image>
+    </url>
 </urlset>
