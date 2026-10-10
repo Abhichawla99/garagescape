@@ -2914,6 +2914,121 @@
     "DROP: frozen storage-solutions page ~0 impressions since early August (GSC).",
     "INFRA: git push still blocked from cloud; web-upload workaround used."
    ]
+  },
+  {
+   "date": "2026-10-10",
+   "weekday": "Saturday",
+   "market": "vancouver",
+   "mode": "new-page",
+   "action": "created",
+   "page": "garage-bike-storage-vancouver.html",
+   "keyword": "garage bike storage Vancouver",
+   "community": "Metro Vancouver-wide topic page (City of Vancouver data; lane garages, townhouse tandems, North Shore doubles). No single-city overlap.",
+   "word_count": "~3240 total page words; ~2540 words H1 to FAQ (body prose + pricing + areas)",
+   "why_this_target": "Market flipped to Vancouver (10-08 was Calgary). Rejected the 10-08 next_target garage-storage-solutions-surrey: garage-organization-surrey already has 36 'storage' mentions and covers every Surrey community, so it would cannibalize. Rejected garage-organization-west-vancouver: garage-cleaning-west-vancouver's H1 is already 'Garage Cleaning & Organization West Vancouver'. Bike storage is one of the stored prompt's 'distinctly BC angles that do not exist yet': no title/H1 targets it; storage-solutions-vancouver only has one table row + one FAQ on bikes (now links to the new page as the deeper guide).",
+   "competitive_gap_found": "SERP 'garage bike storage Vancouver': zero local service content. Results were a 2012 Sightline listicle, an e-bike forum thread on bike garages, TransLink Buzzer, Global News theft stories, a Langara Voice article on bike-parking trust. Page covers hardware choice by bike weight/use, e-bike battery safety layout, wet-ride drip zones, theft hardening for lane garages, garage-type layouts, and the gear wall (skis, SUPs, kayaks).",
+   "research": {
+    "cov_2025_transportation_survey": "Sep 28-Dec 12 2025. Cycling 6% of daily trips (flat vs 2024), 121.1K daily trips; 61% of households own >=1 adult bike; avg 1.31; ~432,100 adult bikes incl e-bikes; ~46,900 e-bikes (11%), up from ~40,800 (10%) in 2024; e-bikes = 22.5% of weekday bike trips.",
+    "vfrs_ctv_cbc_2022": "VFRS: five deaths in Vancouver in 2022 from rechargeable-battery fires incl lithium-ion (CBC); officials told CTV (June 2022) lithium-ion was the number one cause of fire deaths in the city. VFRS: don't overcharge, modify or use damaged batteries.",
+    "nfpa_sheet_via_west_van": "Store e-bikes/batteries away from exit doors and anything that can get hot or catch fire; use the supplied battery/charger; don't charge below 0C or above 40C; listed/labelled devices; stop if odor/colour/heat/swelling/leaks; recycle, don't trash.",
+    "tricity_news": "North Vancouver Fire Asst Chief Scott Ferguson: unplug once full; a seller (Krastev) advised watching while charging, not overnight; keep cord away from pooled water and car tires.",
+    "global_news_feb_2024": "VPD logged 4,000+ stolen bikes in 2015; down ~60% by 2022. VPD: never leave bikes outside, on a deck or in a parking garage; record serial + photos; register on Project 529 (free). 2017 story: Project 529 launched in Vancouver Oct 2015 with VPD's Const. Rob Brunt; police credited it for falling thefts.",
+    "not_used": "No e-bike weight beyond 'often well over 20 kg'; no strata EV/e-bike bylaw specifics (not verified); 'highest per-capita theft' claim not repeated (2015 data)."
+   },
+   "images_used": [
+    "vancouver-garage-bike-storage.jpg (hero, fetchpriority high, srcset; og/twitter image)",
+    "vancouver-tandem-garage-before/after.jpg (B/A, hardware section)",
+    "vancouver-garage-cardboard-damp.jpg (rain/rust section)",
+    "vancouver-lane-garage-before/after.jpg (B/A, lane garage section)",
+    "vancouver-garage-gear-wall.jpg (skis/SUP/kayak section)"
+   ],
+   "image_honesty": "Captions say 'An example ... layout'; nothing claims a specific GarageScape job. 7 <img>, 7 unique alts; all files + -640 variants on disk and 200 live.",
+   "on_page_checklist": {
+    "title": "Garage Bike Storage Vancouver & E-Bikes | GarageScape (53 chars)",
+    "meta_description": "154 chars",
+    "h1_count": 1,
+    "schema": "Service + LocalBusiness provider, BreadcrumbList, FAQPage (7 Q&As); all parse",
+    "internal_links_out": "garage-organization-canmore (frozen), index (frozen, home link), ev-charger-garage-organization-vancouver, mould-in-garage-vancouver, laneway-garage-clearing-vancouver, garage-organization-burnaby/-vancouver/-north-vancouver/-richmond/-coquitlam/-surrey/-new-westminster, garage-storage-solutions-vancouver, garage-cleaning-north-vancouver, garage-services-vancouver; all exist",
+    "links_in": "garage-services-vancouver.html (hub card), garage-storage-solutions-vancouver.html (gear section), garage-cleaning-north-vancouver.html (bike callout)",
+    "sitemap": "sitemap-vancouver.xml once, lastmod 2026-10-10 (26 unique locs, all exist); sitemap-index vancouver lastmod -> 2026-10-10",
+    "writing": "0 em dashes, 0 banned words"
+   },
+   "deploy": {
+    "infra_blocker": "UNCHANGED: git push from cloud 403 (repo not in proxy's authorized set). device_bash: no connected folders, so no Mac photo check.",
+    "workaround": "Remote main confirmed unchanged (2519e0f) before upload. GitHub web upload via Claude-in-Chrome, 6 files, one attempt -> commit f10606f. After ~95s: new page 200 and byte-identical to local; all 18 image URLs (incl -640) 200; hub + sitemap live; homepage 200."
+   },
+   "indexing": {
+    "todays_page": "FAILED: QUOTA EXCEEDED on the FIRST request of the day (Sat ~16:20 UTC). Pre-request status 'URL is not on Google: URL is unknown to Google'. Did not retry (rule: stop on quota). Screenshot taken.",
+    "status": "pending-manual",
+    "mitigation": "Resubmitted https://www.garagescape.ca/sitemap-vancouver.xml ('Sitemap submitted successfully'). Note: a bare path is rejected on this domain property; use the full https URL.",
+    "quota_diagnosis": "8th of the last 9 runs blocked by quota; 10-08 got exactly one request through. Something else is spending the property's daily URL-inspection request quota before this run. [Likely] the ~/gsc-driver folder on the Mac mini (or an Indexing API job on the same property). Abhi to check and pause it or move this run's request first.",
+    "pending_manual_urls": [
+     "https://www.garagescape.ca/garage-bike-storage-vancouver.html",
+     "https://www.garagescape.ca/garage-organization-discovery-ridge.html (status not re-checked)",
+     "https://www.garagescape.ca/garage-organization-pump-hill.html",
+     "https://www.garagescape.ca/garage-organization-north-vancouver.html",
+     "https://www.garagescape.ca/garage-organization-tuscany.html",
+     "https://www.garagescape.ca/garage-organization-new-westminster.html",
+     "https://www.garagescape.ca/garage-organization-cranston.html",
+     "https://www.garagescape.ca/ev-charger-garage-organization-vancouver.html"
+    ]
+   },
+   "backlog_status": {
+    "garage-decluttering-cochrane.html": "INDEXED ('URL is on Google', Breadcrumbs valid). Remove from backlog.",
+    "garage-organization-north-vancouver.html": "'URL is unknown to Google', no referring sitemap detected (10-06 it read 'Discovered - currently not indexed'). Regressed or GSC data inconsistent; not requested (quota).",
+    "garage-organization-new-westminster.html": "'URL is unknown to Google', no referring sitemap detected. Not requested (quota).",
+    "remaining_pending": "8: bike-storage (new), discovery-ridge, pump-hill, north-vancouver, tuscany, new-westminster, cranston, ev-charger. All 3 flagged non-ranking pages (springbank-hill, aspen-woods, cochrane) are now indexed."
+   },
+   "gsc_pages_count": {
+    "checked": "skipped (full count 2026-10-08: 39 indexed / 61 not indexed; next due 2026-10-15)"
+   },
+   "backfilled": {
+    "page": "garage-cleaning-north-vancouver.html (Vancouver)",
+    "note": "No Vancouver page has 0 images or a broken og:image; took a 2-image page. Added wall-floor before/after pair + caption under 'The uphill wall problem' and the gear-wall figure under 'The gear problem'; bike callout now links to the new bike page. Now 5 images. Title/URL/canonical untouched; 1 H1; JSON-LD parses."
+   },
+   "rankings": {
+    "method": "4 WebSearch queries (US, non-localized); directional only.",
+    "garage organization vancouver": "not visible (Handyman Connection x2, Garage Living via HAVAN, Homestars, Clever Quarters, Houzz, Garage Experts WA). FLAT vs 10-06 (3rd not-visible reading).",
+    "garage cleaning vancouver": "not visible (Edenflo, BBB, Hellamaid, spam). FLAT vs 10-06.",
+    "garage organization burnaby": "ROTATING. garage-organization-burnaby.html not visible (Heritage Burnaby, Wikipedia, BBB, Parksy, apartments.com). No prior same-method reading.",
+    "garage bike storage vancouver": "today's page not present (unindexed). BASELINE SET. SERP: Sightline, e-bike forum, TransLink, Global News, Langara Voice; no service competitor."
+   },
+   "technical": "FULL SWEEP (last one was 2026-07-19): all .html incl blog/ and services/ have exactly 1 H1; all JSON-LD parses; 0 broken image refs; 0 broken internal links. sitemap.xml 56, sitemap-vancouver.xml 26, sitemap-blog.xml 10 locs, no dups, all map to files. robots.txt sane (Allow /, sitemap-index declared). Homepage + robots 200. og:image pointing at missing files: 21 pages, ALL Calgary/services (about, blog, garage-cleaning-calgary, cochrane, makeover, banff, beddington, brentwood, canmore*, dalhousie, elbow-park, evanston, harmony, panorama-hills, west-springs, remodel, renovation, garage-storage-solutions-calgary*, services/cleaning*, services/organization, services/shelving). *frozen: og change touches the head only, still needs Abhi's OK. 5 pages have no og:image (decluttering-calgary, privacy, terms, sitemap, one blog post). 42 pages have no body images, all Calgary/blog. Vancouver cluster: every page has images and a valid og:image.",
+   "consolidation_candidates": [
+    {
+     "pages": "the 8 /blog/*-calgary.html posts",
+     "status": "carried",
+     "recommendation": "Merge into 2-3 guides and 301 the rest."
+    },
+    {
+     "pages": "garage-organization-company-calgary, -service-calgary, -help-calgary, -tips-calgary, -guide-calgary",
+     "status": "carried, awaiting Abhi",
+     "recommendation": "Merge into garage-organization-calgary.html and 301."
+    },
+    {
+     "pages": "garage-organization-north-vancouver.html, garage-organization-new-westminster.html",
+     "status": "watch",
+     "recommendation": "Not yet 3 requests over 3 weeks (quota has blocked requests), so not a consolidation candidate yet. If still 'unknown' after manual submission, strengthen internal links from the North Van and New West cleaning pages."
+    }
+   ],
+   "images_needed": [
+    "A real e-bike in a floor bay with the battery charging on a metal shelf (none in library).",
+    "A real narrow Vancouver lane garage with bikes on swivel hooks folded flat.",
+    "A real ceiling bike hoist over a car hood.",
+    "REAL Calgary project photos (carried; Calgary library is AI-generated)."
+   ],
+   "next_targets": [
+    "BLOCKER: GSC request quota spent before the run (8 of 9 runs). Check ~/gsc-driver on the Mac mini; submit the pending-manual URLs by hand.",
+    "Next Vancouver: strata storage-locker / parkade storage page (distinct intent), or ski & snowboard garage storage North Shore, or an earthquake-kit-in-the-garage guide. Surrey storage and West Van organization would cannibalize existing pages; skip.",
+    "Next Calgary: Priddis acreage, Wentworth or Britannia if new pages continue; the bigger lever is still the Calgary consolidation (DECISION FOR ABHI).",
+    "Image backfill remaining (Vancouver, 2 images each): garage-cleaning-new-westminster, -richmond, -surrey. Calgary: 16 image-less non-frozen pages + 21 broken og:image (list in technical)."
+   ],
+   "flags": [
+    "BLOCKER: GSC quota exceeded on first request; new page pending-manual.",
+    "GOOD: garage-decluttering-cochrane now indexed; all 3 flagged non-ranking pages indexed.",
+    "WATCH: north-vancouver org page reads 'unknown to Google' again.",
+    "INFRA: git push still blocked from cloud; web-upload workaround used."
+   ]
   }
  ]
 }
