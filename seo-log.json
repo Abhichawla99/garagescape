@@ -3029,6 +3029,121 @@
     "WATCH: north-vancouver org page reads 'unknown to Google' again.",
     "INFRA: git push still blocked from cloud; web-upload workaround used."
    ]
+  },
+  {
+   "date": "2026-10-12",
+   "weekday": "Monday",
+   "market": "calgary",
+   "mode": "new-page",
+   "action": "created",
+   "page": "garage-organization-priddis.html",
+   "keyword": "garage organization Priddis",
+   "community": "Priddis, Foothills County hamlet ~10 km west of Calgary city limits, SW of Hwy 22 (Cowboy Trail) / Hwy 22X; named for Charles Priddis (homesteaded on Fish Creek 1886); elev ~1,160 m; Priddis Greens (two private 18-hole courses, Hawk and Raven); U of C Rothney Astrophysical Observatory (1972).",
+   "word_count": "~2425 words H1 to CTA (body prose + FAQ)",
+   "why_this_target": "Market flipped to Calgary (10-10 was Vancouver). Bank check: Wentworth is already in West Springs' title/meta; Britannia is covered by Mount Royal + Elbow Park; Silvertip/Three Sisters would sit directly under the #1 frozen Canmore page and risk cannibalizing 'garage organization canmore', so rejected. Priddis appears on zero existing pages (grep), no title/H1 targets it. Distinct from Bearspaw (NW Rocky View) and Heritage Pointe (SE golf/lake) by geography and keyword.",
+   "competitive_gap_found": "SERP 'garage organization Priddis Alberta': no service page at all. Results were a garage-door directory, a lockers listing, a generic Calgary storage blog, Edmonton/Leduc directories, a Priddis commercial listing. Page covers multi-building acreage planning (garage/shop/shed/barn), lift-bay ceiling mapping, fuel/chemical grouping, BearSmart attractant list applied to feed/pet food/garbage, cougar incidents reported in Priddis, golf station for Priddis Greens, tack/blanket overflow, generator/outage kit.",
+   "research": {
+    "wikipedia_priddis": "Foothills County hamlet; ~10 km west of Calgary limits; SW of Hwy 22 & 22X; Charles Priddis homesteaded on Fish Creek 1886; elev 1,160 m.",
+    "creb_2014": "Priddis Greens ~800 members, two 18-hole courses Hawk and Raven, one of two private 36-hole courses near Calgary; community hall 100+ years old.",
+    "rothney_wikipedia": "U of C observatory near Priddis, dedicated 1972, ~20 km SW of Calgary.",
+    "cbc_cougars": "Priddis residents concerned about cougar attacks on pets: miniature horse killed, puppy attacked on a porch; councillor Suzanne Oel cited six incidents; Alberta Fish and Wildlife said incidents more common province-wide. Article year not stated, so page gives no date.",
+    "alberta_bearsmart_brochure_2011": "Attractants: garbage, pet food, bird seed, barbecues, grain/livestock feed. Garbage in bear-resistant container or building; pet food inside; clean BBQ after use and keep it in the garage.",
+    "listings_forsaleincalgary": "Gated acreage with two triple-car garages + barn (3 stalls, tack room); 7-acre property with 4-car 3-door attached garage, in-floor heat, 13' ceilings for lifts, heated 45x36 shop whose centre bay fits a 40'+ Class A motorhome; 3.81-acre forested lot with oversized double + large shed.",
+    "not_used": "No school names, no builders, no drive times, no dark-sky claim for Rothney (not verified), no community hall age claim on page."
+   },
+   "images_used": [
+    "before-after-3.jpg (hero, fetchpriority high; og/twitter image)",
+    "garage-organization-before-after-1.jpg / okotoks-garage-decluttering.jpg (B/A pair, same minivan garage)",
+    "hero-garage-decluttering.jpg (pegboard shop wall, shop section)",
+    "calgary-garage-decluttering.jpg (bench + cabinets, golf/gear section)"
+   ],
+   "image_honesty": "All captions call the images illustrations; none claims a Priddis job. 5 <img>, 5 unique alts, width/height set, no srcset (Calgary set has no -640). All 200 live.",
+   "on_page_checklist": {
+    "title": "Garage Organization Priddis AB | Acreages | GarageScape (55 chars)",
+    "meta_description": "~157 chars",
+    "h1_count": 1,
+    "schema": "LocalBusiness + FAQPage (8, generated from on-page FAQ) + BreadcrumbList; all parse",
+    "links_out": "heritage-pointe, bearspaw, discovery-ridge, garage-decluttering-okotoks (frozen), garage-storage-solutions-calgary (frozen), services/cleaning (frozen), garage-floor-cleaning-calgary, garage-organization-calgary, canmore (frozen, footer)",
+    "links_in": "index.html location card (added, nothing else changed on the frozen page), heritage-pointe, bearspaw, discovery-ridge",
+    "sitemap": "sitemap.xml +1 (2026-10-12), lastmod bumped for discovery-ridge/heritage-pointe/bearspaw/cochrane; sitemap-index sitemap.xml lastmod 2026-10-12"
+   },
+   "deploy": {
+    "infra_blocker": "UNCHANGED: git push from cloud 403. Mac connected but no connected folders (photo check skipped).",
+    "workaround": "Remote main confirmed 274b2c3 before upload. GitHub web upload via Claude-in-Chrome, 8 files, one attempt -> commit 350805c. After ~90s: new page 200 and byte-identical (md5) to local; all 8 referenced image URLs 200; homepage contains the Priddis link; sitemap.xml live matches local."
+   },
+   "indexing": {
+    "todays_page": "FAILED: QUOTA EXCEEDED on the FIRST request of the day (Mon ~16:20 UTC). Pre-request status 'URL is not on Google: URL is unknown to Google'. Not retried (rule: stop on quota). Screenshot taken.",
+    "status": "pending-manual",
+    "mitigation": "Resubmitted https://www.garagescape.ca/sitemap.xml ('Sitemap submitted successfully').",
+    "quota_diagnosis": "9th of the last 10 runs blocked on the very first request. This run made no prior request, so the quota is being spent elsewhere before ~16:20 UTC. [Likely] ~/gsc-driver on the Mac mini or another tool on this property. Needs Abhi.",
+    "pending_manual_urls": [
+     "https://www.garagescape.ca/garage-organization-priddis.html",
+     "https://www.garagescape.ca/garage-bike-storage-vancouver.html",
+     "https://www.garagescape.ca/garage-organization-discovery-ridge.html",
+     "https://www.garagescape.ca/garage-organization-pump-hill.html",
+     "https://www.garagescape.ca/garage-organization-north-vancouver.html",
+     "https://www.garagescape.ca/garage-organization-tuscany.html",
+     "https://www.garagescape.ca/garage-organization-new-westminster.html",
+     "https://www.garagescape.ca/garage-organization-cranston.html",
+     "https://www.garagescape.ca/ev-charger-garage-organization-vancouver.html"
+    ]
+   },
+   "backlog_status": {
+    "garage-organization-pump-hill.html": "'Discovered - currently not indexed' (sitemap-index + sitemap.xml referring; was 'unknown' on 10-04). Progressed to discovered, not crawled. Not requested (quota).",
+    "garage-organization-tuscany.html": "'Discovered - currently not indexed', sitemaps referring. Not requested (quota).",
+    "garage-organization-cranston.html": "'URL is unknown to Google', no referring sitemap detected. Not requested (quota).",
+    "remaining_pending": "9: priddis (new), bike-storage, discovery-ridge, pump-hill, north-vancouver, tuscany, new-westminster, cranston, ev-charger. None indexed."
+   },
+   "gsc_pages_count": {
+    "checked": "skipped (last full count 2026-10-08: 39 indexed / 61 not indexed; next due 2026-10-15)"
+   },
+   "backfilled": {
+    "page": "garage-decluttering-cochrane.html (Calgary)",
+    "note": "Had 0 body images and a broken og/twitter image (cochrane-garage-decluttering.jpg does not exist). Added hero figure custom-shelving-installation.jpg + before-after-4/before-after-1 B/A pair with 'illustration' caption under 'What Fills Up a Cochrane Garage'; og/twitter now custom-shelving-installation.jpg. Title/URL/canonical untouched; 1 H1; JSON-LD parses. Page was indexed 10-10, so this improves an indexed page rather than a stuck one."
+   },
+   "rankings": {
+    "method": "4 WebSearch queries (US-only tool, non-localized); directional only. GSC Performance used for the frozen rotating page.",
+    "garage organization calgary": "not visible (CREB 2012 x2, RenovationFind x2, Handyman Connection x2, Garage Living sponsor blog, baileylineroad, Homestars Zone Garage). FLAT vs 10-08 (4th not-visible reading).",
+    "garage decluttering calgary": "homepage not visible (cmca x2, 1-800-GOT-JUNK, justinhavre, nwmaids, US blogs). FLAT vs 10-08 (4th not-visible reading under the current tool result set).",
+    "garage organization canmore": "ROTATING. Frozen Canmore page not visible in WebSearch (results are US/generic blogs, Yamnuska Wikipedia, Homestars Canmore). GSC CROSS-CHECK (28 days to 10-10): canmore page 4 clicks, 67 impressions, avg position 10.4, impressions trending UP into October; top queries 'canmore storage' (pos 24) and 'storage canmore' (28). 'garage organization canmore' itself shows no impressions, so the '#1' in the prompt is on a near-zero-volume query. NO DROP.",
+    "garage organization priddis": "today's page not present (unindexed). BASELINE SET. SERP: generic US organizing blogs only, no local competitor."
+   },
+   "technical": "Changed files + sitemaps: sitemap.xml 57 / sitemap-vancouver 26 / sitemap-blog 10 locs, no dups, all map to files, all https+www. JSON-LD parses and exactly 1 H1 on all 6 changed pages; 0 broken internal links on them. robots.txt sane. Homepage 200. Full sweep not due (last 2026-10-10).",
+   "consolidation_candidates": [
+    {
+     "pages": "the 8 /blog/*-calgary.html posts",
+     "status": "carried",
+     "recommendation": "Merge into 2-3 guides and 301 the rest."
+    },
+    {
+     "pages": "garage-organization-company-calgary, -service-calgary, -help-calgary, -tips-calgary, -guide-calgary",
+     "status": "carried, awaiting Abhi",
+     "recommendation": "Merge into garage-organization-calgary.html and 301."
+    },
+    {
+     "pages": "garage-organization-pump-hill.html, garage-organization-tuscany.html",
+     "status": "watch",
+     "recommendation": "Never successfully requested (quota every time), so the 3-request rule is not met. 'Discovered - not crawled' 2+ weeks after launch fits the site-wide crawl-priority problem; if still not crawled by 11-01 after a manual request, merge the content into west-calgary / an inner-city guide rather than keep adding community pages."
+    }
+   ],
+   "images_needed": [
+    "REAL Priddis/acreage project photos: a heated detached shop with tractor and attachments, a quad-bay garage with a lift, a sealed feed/pet-food station.",
+    "REAL Calgary project photos (carried; Calgary/generic library is AI-generated with a visible sparkle watermark).",
+    "A real golf-bag station by a house door."
+   ],
+   "next_targets": [
+    "BLOCKER: GSC request quota spent before the run (9 of 10 runs). Check ~/gsc-driver on the Mac mini; submit the 9 pending-manual URLs by hand, Priddis first.",
+    "DECISION FOR ABHI (repeat): stop new Calgary community pages until the 'Discovered - not indexed' backlog clears; do the Calgary consolidation instead. Remaining genuinely distinct Calgary targets are thin (Watermark-only, Britannia/Wentworth already covered); Silvertip/Three Sisters would risk the frozen Canmore page.",
+    "Next Vancouver: strata storage-locker / parkade storage page, or ski & snowboard garage storage North Shore, or earthquake-kit-in-the-garage guide.",
+    "Honesty fix (carried, cheap): reword 'Calgary project' / 'garage we organized' captions on mount-royal, lake-bonavista, mahogany, pump-hill, tuscany, west-calgary, garage-renovation-calgary to 'illustration'.",
+    "Image backfill remaining (Calgary, image-less non-frozen): about, garage-cleaning-calgary, garage-decluttering-calgary, makeover, banff, beddington, brentwood, dalhousie, elbow-park, evanston, harmony, panorama-hills, west-springs, remodel, renovation. Vancouver: new-westminster, richmond, surrey cleaning pages (2 images each)."
+   ],
+   "flags": [
+    "BLOCKER: GSC quota exceeded on first request; Priddis page pending-manual.",
+    "GOOD: pump-hill and tuscany moved from 'unknown' to 'Discovered - not indexed'.",
+    "NO DROP: frozen Canmore page impressions trending up (GSC).",
+    "INFRA: git push still blocked from cloud; web-upload workaround used."
+   ]
   }
  ]
 }
