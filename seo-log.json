@@ -3144,6 +3144,127 @@
     "NO DROP: frozen Canmore page impressions trending up (GSC).",
     "INFRA: git push still blocked from cloud; web-upload workaround used."
    ]
+  },
+  {
+   "date": "2026-10-14",
+   "weekday": "Wednesday",
+   "market": "vancouver",
+   "mode": "new-page",
+   "action": "created",
+   "page": "earthquake-ready-garage-vancouver.html",
+   "keyword": "earthquake garage storage Vancouver (earthquake-ready / earthquake-proof garage shelving)",
+   "community": "Metro Vancouver-wide topic page (BC coast seismic risk; lane garages, strata tandems, attached doubles). Distinctly BC angle from the stored prompt's list ('earthquake-kit storage').",
+   "word_count": "~3140 words H1 to FAQ end (body prose + pricing + areas + FAQ)",
+   "why_this_target": "Market flipped to Vancouver (10-12 was Calgary). 10-12 next_targets offered strata locker / North Shore ski / earthquake kit. Grep: no title/H1 targets earthquake; only North Van organization has a 2-paragraph kit section (now links to the new page as the deeper guide). Earthquake-ready storage is a different intent from 'garage organization <city>' so no cannibalization. Strata parkade lockers rejected (not a garage service, weaker fit).",
+   "competitive_gap_found": "SERP 'earthquake proof garage storage Vancouver' and 'earthquake ready garage storage vancouver': zero service pages. Results were forum threads (GarageJournal, Arachnoboards), a 2005 Inman piece, City of Vancouver WA prep page, West Van and CBC/CTV preparedness news. No one combines anchoring, load order, overhead-rack rules, chemical separation, utility clear zones, kit storage in damp garages and exit routes for BC garage types.",
+   "research": {
+    "bc_risk_assessment_via_cp_dec2025": "B.C. disaster and climate risk assessment (Oct 2025), Canadian Press 2025-12-29: M9.0 megathrust scenario, 2-10% chance in 30 years, heaviest damage Vancouver Island + ~20 km mainland band incl Vancouver, US border to Sunshine Coast; >3,400 deaths, >10,000 injuries day one, $128B; report flags uncertainty.",
+    "preparedbc_earthquake_tsunami_guide_mar2024": "~4,000 quakes recorded in BC per year; anchor shelving/cabinets to studs with L or corner brackets; push/pull latches; strap water heater; licensed gas contractor for flexible line; wrench by gas valve, only shut off if instructed, only licensed contractor turns back on; 4 L/person/day for at least two weeks; supplies together in one accessible place; grab-and-go bag per person; Drop Cover Hold On, count to 60; most injuries from being knocked over or hit by debris.",
+    "preparedbc_condo_guide_apr2024": "Raise emergency planning with strata council/AGM; shared central storage for water and blankets; (says min one week water, page uses the earthquake guide's two weeks).",
+    "flash_org": "Screws must reach studs, drywall/plaster screws pull out; connect adjacent units; heavy items low; water heater strapped top and bottom with heavy-gauge metal into studs.",
+    "shakeout": "Saanich page: Great BC ShakeOut 2026 is Oct 15, 2026.",
+    "not_used": "No claim that BC/Vancouver code mandates water heater straps (only a 2014 blog hearsay). No Richmond liquefaction claim (not verified). No product brands."
+   },
+   "images_used": [
+    "vancouver-garage-labelled-bins.jpg (hero, fetchpriority high, srcset; og/twitter image)",
+    "vancouver-double-garage-before.jpg / vancouver-double-garage-after.jpg (B/A under 'Why the garage throws the most')",
+    "vancouver-garage-workbench-before.jpg / vancouver-garage-workbench-after.jpg (B/A in chemicals section; after has no -640 so plain src)",
+    "vancouver-garage-cardboard-damp.jpg (kit storage section)"
+   ],
+   "image_honesty": "Captions say 'An example layout/reset'; nothing claims a specific job. 6 <img>, 6 unique alts, width/height set; all files + -640 variants on disk and 200 live.",
+   "on_page_checklist": {
+    "title": "Earthquake-Ready Garage Storage Vancouver | GarageScape (55 chars)",
+    "meta_description": "~165 chars",
+    "h1_count": 1,
+    "schema": "Service + LocalBusiness provider, BreadcrumbList, FAQPage (7 Q&As generated from on-page FAQ); all parse",
+    "internal_links_out": "index (frozen, home link), garage-storage-solutions-calgary (frozen), garage-organization-vancouver/-burnaby/-richmond/-surrey/-coquitlam/-new-westminster/-north-vancouver, garage-cleaning-west-vancouver, garage-bike-storage-vancouver, garage-storage-solutions-vancouver, garage-decluttering-vancouver, laneway-garage-clearing-vancouver, mould-in-garage-vancouver, garage-services-vancouver; 0 broken",
+    "links_in": "garage-services-vancouver.html (hub card, icon fa-shield-halved), garage-organization-north-vancouver.html (earthquake section)",
+    "sitemap": "sitemap-vancouver.xml +1 (2026-10-14), lastmod bumped for services hub, North Van org, Richmond cleaning; 27 unique locs, all exist; sitemap-index vancouver lastmod 2026-10-14",
+    "writing": "0 em dashes in new copy, 0 banned words"
+   },
+   "deploy": {
+    "infra_blocker": "UNCHANGED: git push from cloud 403 (repo not in proxy's authorized set). device_bash: no connected folders, so no Mac photo check.",
+    "workaround": "Remote main confirmed 36ecd09 before upload. GitHub web upload via Claude-in-Chrome, 6 files, one attempt -> commit 9e3546d; git diff origin/main vs local = empty. After ~90s: new page 200 and md5-identical to local; all 13 referenced image URLs 200; hub 200; homepage 200."
+   },
+   "indexing": {
+    "todays_page": "CONFIRMED: 'Indexing requested' shown for https://www.garagescape.ca/earthquake-ready-garage-vancouver.html (~16:20 UTC). Pre-request status 'URL is unknown to Google'. First click did not register; second click on the button succeeded. Quota NOT exceeded today.",
+    "backlog_requests": {
+     "ev-charger-garage-organization-vancouver.html": "'URL is unknown to Google', no referring sitemap detected -> Indexing requested (CONFIRMED).",
+     "garage-organization-cranston.html": "'URL is unknown to Google', no referring sitemap -> Indexing requested (CONFIRMED).",
+     "garage-organization-new-westminster.html": "PROGRESSED to 'Discovered - currently not indexed' (sitemap-index + sitemap-vancouver referring) -> Indexing requested (CONFIRMED; Chrome tab group closed mid-step once, reopened and redone)."
+    },
+    "pending_manual_urls_remaining": [
+     "https://www.garagescape.ca/garage-organization-priddis.html",
+     "https://www.garagescape.ca/garage-bike-storage-vancouver.html",
+     "https://www.garagescape.ca/garage-organization-discovery-ridge.html",
+     "https://www.garagescape.ca/garage-organization-pump-hill.html",
+     "https://www.garagescape.ca/garage-organization-north-vancouver.html",
+     "https://www.garagescape.ca/garage-organization-tuscany.html"
+    ],
+    "quota_note": "First run in 10 where quota was available; 4 requests succeeded. Whatever spent it earlier (suspected ~/gsc-driver) may have stopped or ran later today."
+   },
+   "backlog_status": {
+    "requested_today": "earthquake-ready (new), ev-charger, cranston, new-westminster",
+    "remaining_not_requested": "6: priddis, bike-storage, discovery-ridge, pump-hill, north-vancouver, tuscany. None confirmed indexed yet.",
+    "note": "ev-charger and cranston show 'no referring sitemap detected' although both are in sitemaps; GSC has not re-read the sitemaps for them. Next run should do priddis, bike-storage, discovery-ridge first (never successfully requested)."
+   },
+   "gsc_pages_count": {
+    "checked": "skipped (last full count 2026-10-08: 39 indexed / 61 not indexed; due 2026-10-15, next run)"
+   },
+   "backfilled": {
+    "page": "garage-cleaning-richmond.html (Vancouver)",
+    "note": "No Vancouver page is image-less and all og:images resolve, so took the weakest: Richmond cleaning had 2 images. Added tandem B/A pair (vancouver-tandem-garage-before/after, srcset) under 'Townhouse tandem garage' with 'example layout' caption, and vancouver-garage-cardboard-damp under 'What Goes Wrong'. Honesty fix: the two existing efflorescence alts claimed 'Richmond garage'; reworded to describe the scene without claiming location. Title/URL/canonical untouched; 1 H1; now 5 images."
+   },
+   "rankings": {
+    "method": "4 WebSearch queries (US-only tool, non-localized); directional only.",
+    "garage organization vancouver": "not visible (Handyman Connection x2, Garage Living via HAVAN, Clever Quarters, Homestars, Houzz, Garage Experts WA). FLAT vs 10-10 (4th not-visible reading).",
+    "garage cleaning vancouver": "not visible (Edenflo, BBB, Hellamaid, spam, WA directories). FLAT vs 10-10.",
+    "garage storage solutions vancouver": "ROTATING. garage-storage-solutions-vancouver.html not visible (Handyman Connection Vancouver x5, Garage Experts WA, Garage Living HAVAN, Parksy). No prior same-method reading.",
+    "earthquake ready garage storage vancouver": "today's page not present (unindexed). BASELINE SET. SERP: Jon Eakes, Vancouver WA city page, UBC SRS, West Van emergency page, CBC/CTV news; no service competitor."
+   },
+   "technical": "Changed files + sitemaps: sitemap-vancouver 27 locs no dups all exist, XML parses; JSON-LD parses and 1 H1 on new page, Richmond, North Van, services hub; 0 broken internal links on new page; homepage 200. Full sweep not due (last 2026-10-10).",
+   "consolidation_candidates": [
+    {
+     "pages": "the 8 /blog/*-calgary.html posts",
+     "status": "carried",
+     "recommendation": "Merge into 2-3 guides and 301 the rest."
+    },
+    {
+     "pages": "garage-organization-company-calgary, -service-calgary, -help-calgary, -tips-calgary, -guide-calgary",
+     "status": "carried, awaiting Abhi",
+     "recommendation": "Merge into garage-organization-calgary.html and 301."
+    },
+    {
+     "pages": "garage-organization-pump-hill.html, garage-organization-tuscany.html",
+     "status": "watch",
+     "recommendation": "Still not successfully requested (do next run). If 'Discovered - not indexed' persists past 11-01 after a request, fold into west-calgary."
+    },
+    {
+     "pages": "ev-charger-garage-organization-vancouver.html, garage-organization-cranston.html",
+     "status": "watch",
+     "recommendation": "First successful request today. If still 'unknown' in 3 weeks, add more internal links from indexed pages (Vancouver storage page, Calgary storage hub) before considering a merge."
+    }
+   ],
+   "images_needed": [
+    "A real shelving unit with visible L-bracket stud anchors and a front bar on each shelf.",
+    "A real latched low chemical cabinet in a garage.",
+    "A real garage emergency-kit zone: water containers on a low shelf, gasketed bins labelled 'Earthquake kit'.",
+    "A strapped hot water tank in a garage with a clear zone and a wrench by the gas valve.",
+    "REAL Calgary project photos (carried; Calgary/generic library is AI-generated)."
+   ],
+   "next_targets": [
+    "GSC: request priddis, bike-storage, discovery-ridge first (never successfully requested); weekly Indexing > Pages count due.",
+    "Next Calgary: still recommend pausing new community pages for consolidation (DECISION FOR ABHI). If continuing: Watermark/Bearspaw-adjacent acreage is the only distinct option left.",
+    "Next Vancouver: ski & snowboard garage storage North Shore, or strata townhouse garage organization guide (bylaws, common walls, freestanding layouts). Skip Surrey storage / West Van organization (cannibalization).",
+    "Image backfill (Vancouver): garage-cleaning-surrey, garage-cleaning-new-westminster (2 images each). Calgary: image-less non-frozen pages list from 10-12.",
+    "Honesty fix (carried): reword 'Calgary project' captions on mount-royal, lake-bonavista, mahogany, pump-hill, tuscany, west-calgary, garage-renovation-calgary to 'illustration'."
+   ],
+   "flags": [
+    "GOOD: GSC quota available today: new page + 3 backlog pages indexing CONFIRMED.",
+    "GOOD: new-westminster progressed from 'unknown' to 'Discovered - not indexed'.",
+    "NO DROP: Vancouver tracking queries flat (not visible in non-localized tool).",
+    "INFRA: git push still blocked from cloud; web-upload workaround used."
+   ]
   }
  ]
 }
