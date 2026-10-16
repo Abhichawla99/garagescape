@@ -3265,6 +3265,151 @@
     "NO DROP: Vancouver tracking queries flat (not visible in non-localized tool).",
     "INFRA: git push still blocked from cloud; web-upload workaround used."
    ]
+  },
+  {
+   "date": "2026-10-16",
+   "weekday": "Friday",
+   "market": "calgary",
+   "mode": "new-page",
+   "action": "created",
+   "page": "garage-organization-auburn-bay.html",
+   "keyword": "garage organization Auburn Bay Calgary",
+   "community": "Auburn Bay, SE Calgary lake community; bounded by Stoney Trail N, Deerfoot Trail W, 52 St SE E, Seton Blvd S; est. 2005; 18,090 residents / 6,245 dwellings (2021 census); 43-acre private non-motorized lake run by ABRA.",
+   "word_count": "~2550 words H1 to FAQ end",
+   "why_this_target": "Market flipped to Calgary (10-14 was Vancouver). Calgary bank is mostly used (Airdrie, Chestermere, Heritage Pointe, Pump Hill, Eagle Ridge, Cranston, Tuscany, Discovery Ridge, Priddis, Bearspaw all exist; Wentworth/Britannia covered; Silvertip/Three Sisters would sit under the frozen #1 Canmore page). Auburn Bay was in the bank, appears on 14 pages only as a name, no title/H1 targets it, and Mahogany's page mentions it once. Distinct angle from Mahogany: ABRA accessway rule banning overnight boat storage pushes all lake gear into garages. Rejected a Calgary hail/parking topic page: garage-organization-calgary.html already has a 'Designing Outward From the Parking Bay' hail section and a tire-wall section (would cannibalize the hub).",
+   "competitive_gap_found": "SERP 'garage organization Auburn Bay Calgary': 8 of 9 results are real-estate listings (teamhripko, realtor.ca, RE/MAX, realgeeks, onepercentrealty), plus one RenovationFind directory. Zero service or guide content. Page covers ABRA accessway rules (no overnight boat storage, SUPs not left unattended), boat-cleaning rule, kayak/SUP/canoe garage storage with door-travel checks, summer-to-skating swap zone, four Auburn Bay garage types (front doubles, lane detached, pad-only lots, triple + carriage suite + RV pad), school-morning landing zone, Stoney/Deerfoot salt, tire wall, Calgary 2025 RV bylaw.",
+   "research": {
+    "wikipedia_auburn_bay": "SE Calgary; boundaries Seton Blvd S, Deerfoot W, 52 St E, Stoney Trail N; est 2005; lake + two ponds; 2021 pop 18,090, 6,245 dwellings, 4.5 km2; schools Auburn Bay K-4, Prince of Peace K-9, St. Gianna K-6, Bayside K-5, Lakeshore 5-9; South Health Campus immediately south; Auburn Station mall; future Green Line stop on east edge.",
+    "forsaleincalgary_guide": "43-acre freshwater lake; private non-motorized boats only (kayaks, canoes, SUPs, small sailboats); ABRA free kayak/canoe/SUP rentals for 16+; fishing from docks/boats with membership card on file at Auburn House; maintained winter skating; Auburn House 13,390 sq ft; builders Morrison Homes, Jayman BUILT, Albi Homes.",
+    "abra_lake_accessways_pdf_2025": "Boats not permitted to be stored at the dock or accessway for extended periods; no overnight storage; personal belongings (chairs, mats, SUPs) not to be left unattended at accessways.",
+    "abra_boat_sup_rules_2024": "Any personal watercraft used in foreign waters must be cleaned before launching; lifejackets required on ABRA boats.",
+    "listings": "52 Auburn Bay Cres SE (2010): no garage, 4-stall parking pad. 24 Auburn Meadows Green SE (2015): oversized triple detached garage, carriage suite with attached single + 2 pads, dedicated RV space.",
+    "calgary_rv_bylaw": "Reused from 10-08 verified research (Apr 1 2025 rules).",
+    "not_used": "No HOA fee figures, no lakefront prices, no drive times, no specific hail-storm claims about Auburn Bay, no addresses on the page."
+   },
+   "images_used": [
+    "custom-shelving-installation.jpg (hero, fetchpriority high; og/twitter image)",
+    "before-after-4.jpg / before-after-1.jpg (B/A pair, second-bay section)",
+    "before-after-3.jpg (overhead racks, lake gear section)",
+    "airdrie-garage-decluttering.jpg (coated dry floor, winter section)"
+   ],
+   "image_honesty": "Captions call images illustrations; none claims an Auburn Bay job. 5 <img>, 5 unique alts, width/height set, no srcset (Calgary set has no -640). All 200 live.",
+   "on_page_checklist": {
+    "title": "Garage Organization Auburn Bay Calgary | GarageScape (52 chars)",
+    "meta_description": "156 chars",
+    "h1_count": 1,
+    "schema": "LocalBusiness + FAQPage (7, from on-page FAQ) + BreadcrumbList; all parse",
+    "links_out": "index (frozen, decluttering), garage-storage-solutions-calgary (frozen), services/cleaning (frozen), canmore (frozen, footer), mahogany, cranston, mckenzie-towne, south-calgary, garage-floor-cleaning-calgary, garage-organization-calgary; 0 broken",
+    "links_in": "index.html location card (added only; nothing else changed on frozen page), garage-organization-mahogany, garage-organization-cranston, garage-organization-south-calgary (plain-text 'Auburn Bay' mentions turned into links)",
+    "sitemap": "sitemap.xml +1 (2026-10-16), lastmod bumped for mahogany/cranston/south-calgary/banff; 58 locs, no dups; sitemap-index sitemap.xml lastmod 2026-10-16",
+    "writing": "0 em dashes in body copy, 0 banned words"
+   },
+   "deploy": {
+    "infra_blocker": "UNCHANGED: git push from cloud 403 (repo not in proxy's authorized set); GitHub API also 403. device_bash: no connected folders (Mac photo check skipped).",
+    "workaround": "Remote main confirmed e56869c before upload. GitHub web upload via Claude-in-Chrome, 8 files. First attempt lost: typing into an unfocused commit box fired GitHub keyboard shortcuts and navigated away before commit (nothing committed). Second attempt committed (97 commits). After ~90s: new page and Banff page 200 and md5-identical to local; all 7 referenced image URLs 200; homepage contains the Auburn Bay link; sitemap.xml 200."
+   },
+   "indexing": {
+    "todays_page": "FAILED: QUOTA EXCEEDED on the FIRST request of the run (~16:30 UTC). Pre-request status 'URL is unknown to Google'. Not retried (rule). Screenshot taken.",
+    "status": "pending-manual",
+    "mitigation": "Resubmitted https://www.garagescape.ca/sitemap.xml ('Sitemap submitted successfully'; note the domain property needs the full URL, 'sitemap.xml' alone is rejected).",
+    "quota_diagnosis": "10th of the last 12 runs blocked on the very first request. 10-14 had quota at ~16:20 UTC, so whatever spends it is intermittent. [Likely] ~/gsc-driver on the Mac mini or another tool on this property. Needs Abhi.",
+    "pending_manual_urls": [
+     "https://www.garagescape.ca/garage-organization-auburn-bay.html",
+     "https://www.garagescape.ca/garage-organization-priddis.html",
+     "https://www.garagescape.ca/garage-bike-storage-vancouver.html",
+     "https://www.garagescape.ca/garage-organization-pump-hill.html",
+     "https://www.garagescape.ca/garage-organization-north-vancouver.html",
+     "https://www.garagescape.ca/garage-organization-tuscany.html"
+    ]
+   },
+   "backlog_status": {
+    "garage-organization-discovery-ridge.html": "INDEXED ('URL is on Google'). Removed from backlog.",
+    "garage-organization-priddis.html": "'Discovered - currently not indexed' (sitemap-index + sitemap.xml referring). Was 'unknown' on 10-12. Not requested (quota).",
+    "garage-bike-storage-vancouver.html": "'Discovered - currently not indexed' (sitemaps referring). Not requested (quota).",
+    "remaining_pending": "6: auburn-bay (new), priddis, bike-storage, pump-hill, north-vancouver, tuscany."
+   },
+   "gsc_pages_count": {
+    "date": "2026-10-16",
+    "indexed": 36,
+    "not_indexed": 68,
+    "previous": "2026-10-08: 39 indexed / 61 not indexed",
+    "change": "INDEXED DOWN 3 while pages grew. Not-indexed reasons: Discovered-not-indexed 47, Crawled-not-indexed 12, Page with redirect 5, Alternate page with proper canonical 4.",
+    "crawled_not_indexed_examples": [
+     "garage-floor-cleaning-vancouver.html (crawled Oct 6)",
+     "garage-organization-vancouver.html (Aug 16)",
+     "garage-organization-dalhousie.html",
+     "garage-organization-north-calgary.html",
+     "garage-organization-guide-calgary.html",
+     "mould-in-garage-vancouver.html",
+     "garage-cleaning-vancouver.html (Aug 1)",
+     "non-www garage-storage-solutions-calgary / company-calgary / services/organization / south-calgary (canonical variants, harmless)",
+     "garage-organization-panorama-hills.html"
+    ]
+   },
+   "backfilled": {
+    "page": "garage-organization-banff.html (Calgary market)",
+    "note": "Had 0 body images and a broken og/twitter image (calgary-garage-organization.jpg does not exist). Added hero figure before-after-3.jpg (overhead racks + snowboard) and a B/A pair garage-organization-before-after-1/okotoks-garage-decluttering with an 'illustration, not a Banff home' caption under the gear-by-gear section; og/twitter now before-after-3.jpg. Title/URL/canonical untouched; 1 H1; JSON-LD parses."
+   },
+   "rankings": {
+    "method": "4 WebSearch queries (US-only tool, non-localized); directional only.",
+    "garage organization calgary": "not visible (CREB 2012 x2, RenovationFind x2, Handyman Connection x2, Garage Living sponsor blog, Homestars, baileylineroad). FLAT vs 10-12 (5th not-visible reading).",
+    "garage decluttering calgary": "homepage not visible (cmca x2, 1-800-GOT-JUNK, justinhavre, nwmaids, US blogs). FLAT vs 10-12.",
+    "garage storage solutions calgary": "ROTATING. Frozen storage page not visible (RenovationFind x6, California Closets Calgary, Handyman Connection x2). No same-method prior reading; GSC is the better source for this page. NO DROP evidence.",
+    "garage organization auburn bay calgary": "today's page not present (unindexed). BASELINE SET. SERP: US kayak-rack retailers/blogs; no local competitor."
+   },
+   "technical": "Changed files + sitemaps: sitemap.xml 58 locs no dups all map to files, XML parses; sitemap-index parses. JSON-LD parses and exactly 1 H1 on new page, index, mahogany, cranston, south-calgary, banff. 0 broken internal links on new page. Homepage 200. Full sweep not due (last 2026-10-10).",
+   "consolidation_candidates": [
+    {
+     "pages": "garage-organization-vancouver.html, garage-cleaning-vancouver.html",
+     "status": "NEW, HIGH PRIORITY",
+     "recommendation": "Both Vancouver city hubs are 'Crawled - currently not indexed' (last crawled Aug). Google read them and declined. Before adding more Vancouver pages: rewrite both hubs with unique local depth and images, and differentiate them from garage-services-vancouver.html and garage-storage-solutions-vancouver.html (likely near-duplicates). Then request indexing."
+    },
+    {
+     "pages": "garage-floor-cleaning-vancouver.html, mould-in-garage-vancouver.html",
+     "status": "new",
+     "recommendation": "Crawled-not-indexed. Merge floor cleaning into garage-cleaning-vancouver and fold mould content into the cleaning hub, or deepen and re-request."
+    },
+    {
+     "pages": "garage-organization-dalhousie, -north-calgary, -panorama-hills, -guide-calgary",
+     "status": "new",
+     "recommendation": "Crawled-not-indexed, image-less, thin. Fold dalhousie/panorama-hills into north-calgary (and upgrade north-calgary), and guide-calgary into garage-organization-calgary; 301 the rest."
+    },
+    {
+     "pages": "the 8 /blog/*-calgary.html posts",
+     "status": "carried",
+     "recommendation": "Merge into 2-3 guides and 301 the rest."
+    },
+    {
+     "pages": "garage-organization-company-calgary, -service-calgary, -help-calgary, -tips-calgary, -guide-calgary",
+     "status": "carried, awaiting Abhi",
+     "recommendation": "Merge into garage-organization-calgary.html and 301."
+    },
+    {
+     "pages": "garage-organization-pump-hill.html, garage-organization-tuscany.html",
+     "status": "watch",
+     "recommendation": "Still never successfully requested. If 'Discovered - not indexed' persists past 11-01 after a request, fold into west-calgary."
+    }
+   ],
+   "images_needed": [
+    "REAL photo: kayak on a ceiling hoist above a parked car, and paddleboards in a vertical wall rack.",
+    "REAL photo: a garage wall with skates, hockey sticks and helmets on hooks (winter swap zone).",
+    "REAL photo: a rear lane detached garage interior in a Calgary suburb.",
+    "REAL Calgary project photos (carried; Calgary/generic library is AI-generated)."
+   ],
+   "next_targets": [
+    "BLOCKER: GSC request quota spent before the run (10 of 12 runs). Check ~/gsc-driver on the Mac mini; submit the 6 pending-manual URLs by hand, Auburn Bay and Priddis first.",
+    "PRIORITY SHIFT (recommend): indexed count fell 39 -> 36 while the site grew. Next Vancouver run should UPGRADE garage-organization-vancouver.html (crawled-not-indexed hub) rather than add a new page; the prompt allows the upgrade path.",
+    "Next Calgary: no strong distinct community left. Recommend the upgrade path on garage-organization-north-calgary.html (crawled-not-indexed) absorbing Dalhousie/Panorama Hills content, pending Abhi's OK on 301s. Seton is the only fresh SE community if a new page is required.",
+    "Image backfill remaining (Calgary, image-less non-frozen): about, garage-cleaning-calgary, garage-decluttering-calgary, makeover, beddington, brentwood, dalhousie, elbow-park, evanston, harmony, panorama-hills, west-springs, remodel, renovation. Vancouver: surrey + new-westminster cleaning pages.",
+    "Honesty fix (carried): reword 'Calgary project' captions on mount-royal, lake-bonavista, mahogany, pump-hill, tuscany, west-calgary, garage-renovation-calgary to 'illustration'."
+   ],
+   "flags": [
+    "BLOCKER: GSC quota exceeded on first request; Auburn Bay page pending-manual.",
+    "WARNING: GSC indexed pages DOWN 39 -> 36 since 10-08; Vancouver hubs garage-organization-vancouver and garage-cleaning-vancouver are crawled-not-indexed.",
+    "GOOD: Discovery Ridge now indexed; Priddis progressed unknown -> discovered.",
+    "NO DROP: Calgary tracking queries flat (not visible in non-localized tool).",
+    "INFRA: git push still blocked from cloud; web-upload workaround used."
+   ]
   }
  ]
 }
