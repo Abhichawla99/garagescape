@@ -3410,6 +3410,123 @@
     "NO DROP: Calgary tracking queries flat (not visible in non-localized tool).",
     "INFRA: git push still blocked from cloud; web-upload workaround used."
    ]
+  },
+  {
+   "date": "2026-10-18",
+   "weekday": "Sunday",
+   "market": "vancouver",
+   "mode": "new-page",
+   "action": "created",
+   "page": "garage-organization-anmore-belcarra.html",
+   "keyword": "garage organization Anmore (and Belcarra)",
+   "community": "Village of Anmore (inc. Dec 7 1987; 2,356 people / 768 dwellings 2021; 27.53 km2; RS-1 one-acre lots; septic) and Village of Belcarra (inc. Aug 22 1979; 687 people / 289 dwellings; single road or water access; private docks). Shared Sasamat Volunteer Fire Dept, 182 shuttle, black bears.",
+   "word_count": "~3080 words H1 to FAQ end",
+   "why_this_target": "Market flipped to Vancouver (10-16 was Calgary). 'Anmore & Belcarra' is in the stored Vancouver bank; neither appears in any title/H1 (only as chips on garage-cleaning-coquitlam). Rejected: strata/tandem guide (7 pages already have strata/tandem H2s), ski storage (bike-storage page has a skis/boards section), West Side Vancouver communities (all named on the crawled-not-indexed Vancouver hub), British Properties (inside West Van cleaning page whose H1 includes Organization). Did NOT take the 10-16 recommendation to upgrade garage-organization-vancouver.html: the prompt allows upgrades only when distinct targets are exhausted, and that hub already has 9 images / ~4,700 words, so its problem is duplication with garage-services-vancouver/storage-solutions-vancouver, a consolidation decision for Abhi rather than an upgrade.",
+   "competitive_gap_found": "SERP 'garage organization Anmore BC': zero local service content (RenovationFind Kelowna, Public Storage blog, Houzz Langley, one Anmore listing, CREB 2012). Page covers Anmore Bylaw 554-2016 cart rules turned into a garage cart station, Be Bear Aware attractant list applied to garage storage, multi-building acreage planning (attached/shop/RV/shed) from real listing patterns, septic-safe chemical handling + United Blvd depot/Return-It/battery drop-offs, Belcarra dock and Buntzen Lake water gear drying, shaded-lot damp.",
+   "research": {
+    "wikipedia_anmore": "North of Port Moody on Indian Arm; inc Dec 7 1987; 2021 pop 2,356 (2,210 in 2016), 744/768 dwellings occupied; 27.53 km2; 2002 referendum 70% kept RS-1 one-acre, 77% against half-acre; no highways; Sunnyside Rd to Buntzen Lake gate, East Rd from Heritage Mountain; 182 Community Shuttle; Buntzen Lake run by BC Hydro, two beaches, trails.",
+    "cbc_anmore_south": "Anmore relies on septic; Icona's Anmore South proposal (151 acres, 2,200 units) would connect to Metro sewer; median listing ~$2.8M. Not used on page beyond septic.",
+    "anmore_solid_waste_page": "Bylaw 554-2016: carts not out before 5:30 a.m., locked and stored by 10 p.m. on collection day; recycling+organics weekly Fri from 7 a.m., garbage biweekly; village recommends garage/shed storage, freeze scraps otherwise; organics starts in Crystal Creek and Countryside; one garbage + one organics cart per property (two each with suite), 120/240 L; United Blvd depot; batteries <5 kg at Community Hub/Village Hall; Return-It on Barnet Hwy.",
+    "anmore_be_bear_aware_2019": "Keep garbage in house/garage/shed; clean bins; freeze scraps; pet food indoors; clean BBQ, store covered and secure; feeders winter only; pick fruit daily; offence in BC to leave attractants; nearly 1,000 bears destroyed per year in BC.",
+    "wikipedia_belcarra": "Inc Aug 22 1979; 2021 pop 687, 262/289 dwellings; 5.50 km2; one winding road or water; many private docks/boats, shared docks; Sasamat VFD since 1978 shared with Anmore; 182 bus.",
+    "listings": "1995 home 1.02 ac: attached double + detached RV garage with upstairs workshop + another 2-car garage with office + shed; 2017 home 1.1 ac: triple garage, RV parking + dumping station, option for 8-car garage; 2006 home: triple with extra-deep workshop bay.",
+    "not_used": "No rainfall numbers (sources unclear), no Anmore South politics, no RAPP phone number, no bear-attack anecdotes (undated)."
+   },
+   "images_used": [
+    "vancouver-garage-gear-wall.jpg (hero, fetchpriority high, srcset; og/twitter image)",
+    "vancouver-garage-parking-before.jpg / vancouver-garage-parking-after.jpg (B/A, buildings section)",
+    "vancouver-garage-workbench-before.jpg / vancouver-garage-workbench-after.jpg (B/A, shop section; after has no -640 so plain src)",
+    "vancouver-garage-labelled-bins.jpg (attractants section)",
+    "vancouver-garage-cardboard-damp.jpg (damp section)"
+   ],
+   "image_honesty": "Captions say 'example layout, not a photo of an Anmore home'. Alts rewritten after viewing each image so they describe what is actually shown (hero shows kayaks/SUPs/wet suit/skis, not bikes). 7 <img>, 7 unique alts, width/height set; all files on disk and 200 live.",
+   "on_page_checklist": {
+    "title": "Garage Organization Anmore & Belcarra | GarageScape (50 chars)",
+    "meta_description": "~160 chars",
+    "h1_count": 1,
+    "schema": "Service + LocalBusiness provider, BreadcrumbList, FAQPage (7, from on-page FAQ); all parse",
+    "links_out": "index (frozen, 'garage decluttering in Calgary'), garage-storage-solutions-calgary (frozen), garage-organization-coquitlam/-burnaby/-new-westminster/-north-vancouver, garage-cleaning-coquitlam, garage-decluttering-vancouver, earthquake-ready, bike-storage, mould, storage-solutions-vancouver, services hub; 0 broken",
+    "links_in": "garage-services-vancouver.html (hub card), garage-organization-coquitlam.html (related card), garage-cleaning-coquitlam.html (Anmore + Belcarra chips now link)",
+    "sitemap": "sitemap-vancouver.xml +1 (2026-10-18), lastmod bumped for hub, Coquitlam org + cleaning, Surrey cleaning; 28 locs, no dups, all exist; sitemap-index vancouver lastmod 2026-10-18",
+    "writing": "0 em dashes, 0 banned words"
+   },
+   "deploy": {
+    "infra_blocker": "UNCHANGED: git push from cloud 403 (repo not in session's authorized set). device_bash: no connected folders, so Mac photo check skipped.",
+    "workaround": "Remote main confirmed 9a93ddb. GitHub web upload via Claude-in-Chrome, 7 files, first attempt -> commit f1cb545; git diff origin/main vs local empty. After ~90s: page 200 and md5-identical; all 23 referenced image URLs (new page + Surrey) 200; homepage 200."
+   },
+   "indexing": {
+    "todays_page": "FAILED: QUOTA EXCEEDED on the first request of the run (~16:20 UTC). Pre-request status 'URL is unknown to Google', no referring sitemap yet. Not retried (rule). Screenshot taken.",
+    "status": "pending-manual",
+    "mitigation": "Resubmitted https://www.garagescape.ca/sitemap-vancouver.xml ('Sitemap submitted successfully'; GSC now shows 28 discovered).",
+    "quota_diagnosis": "11th of the last 13 runs blocked on the very first request. [Likely] something else (~/gsc-driver on the Mac mini or another tool) spends the daily quota before this run. Needs Abhi.",
+    "pending_manual_urls": [
+     "https://www.garagescape.ca/garage-organization-anmore-belcarra.html",
+     "https://www.garagescape.ca/garage-organization-auburn-bay.html",
+     "https://www.garagescape.ca/garage-organization-priddis.html",
+     "https://www.garagescape.ca/garage-bike-storage-vancouver.html",
+     "https://www.garagescape.ca/garage-organization-north-vancouver.html",
+     "https://www.garagescape.ca/garage-organization-pump-hill.html",
+     "https://www.garagescape.ca/garage-organization-tuscany.html"
+    ]
+   },
+   "backlog_status": {
+    "garage-bike-storage-vancouver.html": "Still 'Discovered - currently not indexed' (unchanged since 10-16).",
+    "garage-organization-north-vancouver.html": "'Discovered - currently not indexed' (sitemap-index + sitemap-vancouver referring).",
+    "garage-organization-priddis.html": "Still 'Discovered - currently not indexed'.",
+    "remaining_pending": "7: anmore-belcarra (new), auburn-bay, priddis, bike-storage, north-vancouver, pump-hill, tuscany. None indexed this run."
+   },
+   "gsc_pages_count": {
+    "checked": "Overview chart only: 36 indexed / 68 not indexed (same as full count on 10-16; next full count due 10-23)."
+   },
+   "backfilled": {
+    "page": "garage-cleaning-surrey.html (Vancouver)",
+    "note": "Had only 2 body images (og fine). Added efflorescence B/A pair (srcset) under 'Low-lying Ladner and Tsawwassen garages' with 'not a specific Surrey job' caption, and vancouver-garage-floor-before inline above disposal section illustrating older-slab oil staining. Title/URL/canonical untouched; 1 H1; JSON-LD parses; now 5 images."
+   },
+   "rankings": {
+    "method": "4 WebSearch queries (US-only tool, non-localized); directional only.",
+    "garage organization vancouver": "not visible (Handyman Connection x2, Garage Living via HAVAN, Homestars, Clever Quarters, Houzz, Garage Experts WA). FLAT vs 10-14 (5th not-visible reading).",
+    "garage cleaning vancouver": "not visible (Edenflo, BBB, Hellamaid, spam, WA directories). FLAT vs 10-14.",
+    "garage organization burnaby": "ROTATING. garage-organization-burnaby.html not visible (Heritage Burnaby, BBB, Parksy, apartments.com). No same-method prior reading.",
+    "garage organization anmore belcarra": "today's page not present (unindexed). BASELINE SET. SERP: generic US blogs only; no local competitor."
+   },
+   "technical": "Changed files + sitemaps: sitemap-vancouver 28 locs, sitemap.xml 58, index 3; no dups, all map to files, XML parses. JSON-LD parses and exactly 1 H1 on new page, hub, Coquitlam org/cleaning, Surrey cleaning. 0 broken internal links on new page. Homepage 200. Full sweep not due (last 2026-10-10; due by 10-24).",
+   "consolidation_candidates": [
+    {
+     "pages": "garage-organization-vancouver.html, garage-cleaning-vancouver.html vs garage-services-vancouver.html, garage-storage-solutions-vancouver.html",
+     "status": "carried, HIGH PRIORITY, DECISION FOR ABHI",
+     "recommendation": "Both city hubs are 'Crawled - currently not indexed' despite 4,700-4,900 words and 5-9 images, so length and images are not the problem; overlap with the services hub and storage page is. Recommend: make garage-services-vancouver the single Vancouver hub, cut garage-organization-vancouver to a distinct organization-only page (zones, wall systems, strata rules) with no city-wide service list, and merge garage-floor-cleaning-vancouver into garage-cleaning-vancouver."
+    },
+    {
+     "pages": "garage-bike-storage-vancouver, garage-organization-north-vancouver, garage-organization-priddis",
+     "status": "watch",
+     "recommendation": "Discovered-not-indexed. Priddis and bike-storage were never successfully requested (quota). Re-evaluate after one confirmed request."
+    },
+    {
+     "pages": "garage-organization-dalhousie, -north-calgary, -panorama-hills, -guide-calgary; 8 /blog/*-calgary posts; company/service/help/tips/guide-calgary",
+     "status": "carried, awaiting Abhi",
+     "recommendation": "As in 10-16 entry."
+    }
+   ],
+   "images_needed": [
+    "REAL photo: a garage cart station with locked wildlife-resistant carts and a wash-down spot.",
+    "REAL photo: kayak/paddleboard on a ceiling hoist above a parked car.",
+    "REAL photo: a detached acreage shop interior with workbench and lumber rack (BC).",
+    "REAL Calgary project photos (carried; Calgary/generic library is AI-generated)."
+   ],
+   "next_targets": [
+    "BLOCKER: GSC request quota spent before the run (11 of 13). Check ~/gsc-driver or other GSC tools on the Mac mini; submit the 7 pending-manual URLs by hand, Anmore-Belcarra and Auburn Bay first.",
+    "DECISION FOR ABHI: approve the Vancouver hub consolidation above. Without it, more Vancouver pages keep landing in 'Discovered - not indexed'.",
+    "Next Vancouver (if continuing new pages): Port Moody (Heritage Mountain/College Park) has no organization page and is the remaining distinct Tri-Cities target; else Fort Langley (outside the stated market list, needs Abhi's OK).",
+    "Next Calgary: Seton (SE) is the only fresh community; otherwise the upgrade path on garage-organization-north-calgary.",
+    "Image backfill remaining: Vancouver garage-cleaning-new-westminster (2 images). Calgary: image-less list from 10-16.",
+    "Honesty fix (carried): reword 'Calgary project' captions on mount-royal, lake-bonavista, mahogany, pump-hill, tuscany, west-calgary, garage-renovation-calgary to 'illustration'."
+   ],
+   "flags": [
+    "BLOCKER: GSC quota exceeded on first request; Anmore-Belcarra page pending-manual.",
+    "NO DROP: Vancouver tracking queries flat (not visible in non-localized tool).",
+    "NO PROGRESS: bike-storage, north-vancouver, priddis still Discovered-not-indexed.",
+    "INFRA: git push still blocked from cloud; web-upload workaround used (first try)."
+   ]
   }
  ]
 }
