@@ -4,7 +4,7 @@
 
     <url>
         <loc>https://www.garagescape.ca/garage-services-vancouver.html</loc>
-        <lastmod>2026-10-14</lastmod>
+        <lastmod>2026-10-18</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.95</priority>
         <image:image>
@@ -277,7 +277,7 @@
 
     <url>
         <loc>https://www.garagescape.ca/garage-cleaning-surrey.html</loc>
-        <lastmod>2026-08-01</lastmod>
+        <lastmod>2026-10-18</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
         <image:image>
@@ -292,7 +292,7 @@
 
     <url>
         <loc>https://www.garagescape.ca/garage-cleaning-coquitlam.html</loc>
-        <lastmod>2026-09-22</lastmod>
+        <lastmod>2026-10-18</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
         <image:image>
@@ -422,7 +422,7 @@
 
     <url>
         <loc>https://www.garagescape.ca/garage-organization-coquitlam.html</loc>
-        <lastmod>2026-09-22</lastmod>
+        <lastmod>2026-10-18</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
         <image:image>
@@ -488,6 +488,20 @@
         <image:image>
             <image:loc>https://www.garagescape.ca/images/vancouver-double-garage-after.jpg</image:loc>
             <image:caption>Double garage reorganized with low shelving, wall-hung bikes and only light gear overhead</image:caption>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://www.garagescape.ca/garage-organization-anmore-belcarra.html</loc>
+        <lastmod>2026-10-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.garagescape.ca/images/vancouver-garage-gear-wall.jpg</image:loc>
+            <image:caption>Garage slat wall holding kayaks, paddleboards, a wet suit, skis and a snowboard</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.garagescape.ca/images/vancouver-garage-parking-after.jpg</image:loc>
+            <image:caption>Garage reset with the car parked inside, lidded bins on shelving and bikes on wall hooks</image:caption>
         </image:image>
     </url>
 </urlset>
