@@ -3527,6 +3527,100 @@
     "NO PROGRESS: bike-storage, north-vancouver, priddis still Discovered-not-indexed.",
     "INFRA: git push still blocked from cloud; web-upload workaround used (first try)."
    ]
+  },
+  {
+   "date": "2026-10-23",
+   "weekday": "Friday",
+   "market": "calgary-cleaning",
+   "mode": "new-page",
+   "action": "created",
+   "page": "estate-garage-cleanout-calgary.html",
+   "keyword": "estate garage cleanout Calgary",
+   "buyer": "Adult child or personal representative (executor) clearing a deceased or downsizing parent's Calgary garage against a listing or possession date; often out of town.",
+   "why_this_target": "First run of the calgary-cleaning task. Tier 1 money moment, listed first. Existing Calgary cleaning pages (garage-cleaning, garage-cleanout, decluttering, floor-cleaning, spring-cleanout) only touch estate work in one H3 on garage-cleanout-calgary. Rejected for today: same-day junk removal Calgary (SERP is local-pack and national haulers, harder to win with one page), pre-listing cleanout (overlaps cleanout page's possession section more than estate does).",
+   "competitive_gap_found": "SERP 'estate garage cleanout calgary' (gl=ca, 2026-10-23): #1 garagescape.ca homepage snippet ('Full cleanouts with junk removal start at $299'), #2 freshstartpropertyservices.ca garage-cleanout page with one estate line, #3 clearoutcrew.ca estate cleanouts page: whole-home generic copy (keepsakes set aside, volume pricing), nothing garage-specific: no firearms, propane, chemicals, found valuables, executor authority or City disposal rules. Then local pack (Junk Man, Local Lads, Bjunkless), Taskrabbit, Pick-n-Haul bins, JUSTJUNK, Aladdin. No page answers what to do with a parent's garage specifically.",
+   "people_also_ask_used": [
+    "How much does a move-out clean cost in Calgary? (not used, off-topic)",
+    "How much does the dump cost in Calgary?",
+    "What items are accepted at Calgary Community Cleanups?",
+    "Where can seniors in Calgary get free hoarding help? (not used)",
+    "What is the best way to clean out my deceased parents' house?",
+    "What to do with deceased parents stuff?",
+    "What is the minimum cost for junk removal? / What is the cheapest way to get rid of junk?"
+   ],
+   "research": {
+    "calgary_landfill_rates_2026": "calgary.ca/waste/drop-off/landfill-rates.html: basic sanitary $113/tonne, flat $25/load under 250 kg, refrigerant surcharge $17/item, electronics/HHW/textiles/tires free residential, mixed free+charged load pays for whole load.",
+    "landfill_faq": "Weigh in once = charged highest rate for all materials; loads must be covered and secured.",
+    "hhw": "Free HHW drop-off at fire stations (8 a.m.-6 p.m., sources disagree on site count, page tells readers to check calgary.ca/hhw); propane under 30 lb free, do not puncture; vehicle propane tanks not accepted at Eco Centres/landfills; 20 L per visit.",
+    "community_cleanups": "Hosted by community associations; 2026 events finished, next schedule spring 2027; accepted and not-accepted lists used verbatim in substance.",
+    "firearms": "CPS non-emergency 403-266-1234 (calgary.ca contact page); RCMP Canadian Firearms Program 1-800-731-4000. No CPS-specific surrender page found, so the page tells the executor to call and ask rather than describing a CPS procedure.",
+    "alberta_term": "'Personal representative' used for executor (Alberta estate terminology)."
+   },
+   "custom_elements": [
+    "Estate garage contents triage table (9 categories: firearms, propane/chemicals, paperwork, cash/jewellery, tools, collections, chest freezer, stewardship items, vehicles) with why-it-needs-care and what-happens columns",
+    "Firearms / propane / chemicals stop protocol with real Calgary and federal phone numbers and City HHW rules (30 lb cylinders, 20 L per visit, vehicle tanks excluded)",
+    "Six-step executor timeline from securing the garage (opener codes) to listing-photo slab, with appraisal/sale window before anything is weighed",
+    "Found-valuables and paperwork protocol (set-aside box to personal representative only, all paper kept)",
+    "Out-of-town family section: approval method, access, where set-aside items go",
+    "Cost drivers tied to actual 2026 City of Calgary rates (per-tonne, 250 kg minimum, $17 refrigerant, mixed-load rule) with no GarageScape prices",
+    "Calgary specifics: inner-city detached lane garages (Mount Royal, Elbow Park, Bowness, Bridgeland), chest freezer through a chinook, why Community Cleanups don't fit, Bow Valley wildlife attractants"
+   ],
+   "h2_skeleton_check": "Compared with garage-cleanout-calgary, garage-decluttering-calgary and garage-cleaning-calgary: no shared H2s; no packages/pricing/testimonials sections.",
+   "word_count": "~2,780 words H1 to FAQ end",
+   "images_used": [
+    "vancouver-garage-workbench-before.jpg (+640, inline figure, og/twitter image)",
+    "vancouver-lane-garage-before.jpg (+640, lane garage section)"
+   ],
+   "image_honesty": "Both captions say 'Illustration, not a client's garage.' Alts written after viewing each image (workbench with jars, paint tins, aerosols, toaster; detached wooden garage with rusted bike, stained boxes, clay pots). Both are Vancouver-named files reused as generic illustrations. All 4 image URLs 200 live.",
+   "on_page_checklist": {
+    "title": "Estate Garage Cleanout Calgary | Paced for Executors (52 chars)",
+    "meta_description": "~150 chars",
+    "h1_count": 1,
+    "schema": "Service + LocalBusiness provider (no price/offer), BreadcrumbList (3 levels), FAQPage (8, matches visible FAQ); all parse",
+    "cta": "Call + walk-through buttons in hero, mid-page listing-date note, bottom CTA",
+    "links_out": "16 internal .html targets incl. cleanout, floor cleaning, cleaning, decluttering, spring cleanout, Airdrie/Okotoks/Cochrane/Chestermere decluttering",
+    "links_in": "garage-cleanout-calgary (estate H3 sentence + related card + footer), garage-cleaning-calgary (feature item), garage-floor-cleaning-calgary (related card), index.html (Garage Cleanout card 'Estate cleanout services' + footer)",
+    "sitemap": "added to sitemap.xml, lastmod 2026-10-23"
+   },
+   "deploy": "Pushed e9cca38; live 200 within ~30 s; checked in Chrome (title, 1 H1, 8 FAQs, layout OK).",
+   "indexing": {
+    "site_check": "DNS fixed: apex 216.150.1.1, www CNAME to vercel-dns; robots.txt loads in Chrome.",
+    "requests": [
+     {
+      "url": "https://www.garagescape.ca/garage-organization-pump-hill.html",
+      "pre_status": "URL is unknown to Google; no referring sitemaps detected",
+      "result": "QUOTA EXCEEDED on first request (~live test then dialog). Not retried."
+     }
+    ],
+    "not_attempted": "Remaining backlog and today's page: quota is daily per account, so further requests would fail the same way.",
+    "status": "pending-manual",
+    "pending_manual_urls": [
+     "https://www.garagescape.ca/garage-organization-pump-hill.html",
+     "https://www.garagescape.ca/garage-organization-north-vancouver.html",
+     "https://www.garagescape.ca/garage-organization-tuscany.html",
+     "https://www.garagescape.ca/garage-bike-storage-vancouver.html",
+     "https://www.garagescape.ca/garage-organization-priddis.html",
+     "https://www.garagescape.ca/garage-organization-auburn-bay.html",
+     "https://www.garagescape.ca/garage-organization-anmore-belcarra.html",
+     "https://www.garagescape.ca/estate-garage-cleanout-calgary.html"
+    ]
+   },
+   "flags": [
+    "BLOCKER (carried): GSC quota exceeded on the first request again. Other scheduled tasks on the same Google account spend it first (see memory: ruminatex-daily-seoaeo 1:30am etc.).",
+    "SITEMAP: pump-hill shows 'No referring sitemaps detected' although it is in sitemap.xml. robots.txt points to sitemap-index.xml; check that sitemap-index.xml lists sitemap.xml and that GSC has the index submitted.",
+    "PRICING CONFLICT for Abhi: homepage and its Google snippet say cleanouts 'Starting at $299', garage-cleanout-calgary says 'from $349' (and schema offer 349). New page uses no prices until Abhi confirms which is real.",
+    "CONFIRM WITH ABHI: out-of-town approval by texted photos and holding set-aside items are written as process commitments; confirm the crew works this way. Insurance/WCB not mentioned because no source; add if Abhi confirms coverage (buyers ask).",
+    "HONESTY (out of scope, not touched): garage-cleaning-calgary has a 'What Calgary Homeowners Say' testimonials section; verify those are real.",
+    "needs real pricing from Abhi: an estate-specific starting range would help this page convert once confirmed."
+   ],
+   "next_targets": [
+    "1. Same-day garage junk removal Calgary (Tier 1; no Calgary junk-removal page exists, only Vancouver). Angle: what can go same day vs what can't (HHW hours, refrigerant), lane access.",
+    "2. Pre-listing / moving garage cleanout Calgary for sellers and realtors (Tier 1). Must differ from estate page: listing-photo standard, realtor coordination, possession-day walkthrough.",
+    "3. Hoarding garage cleanup Calgary (Tier 1, discreet). PAA surfaced 'Where can seniors in Calgary get free hoarding help?' worth answering honestly.",
+    "4. Garage pressure washing Calgary / oil stain removal (Tier 1); check overlap with garage-floor-cleaning-calgary first.",
+    "5. Post-renovation garage cleanup Calgary (Tier 1).",
+    "Then Tier 2: Mount Royal / Elbow Park white-glove cleanout (lane garages), Bearspaw acreage cleanout."
+   ]
   }
  ]
 }
