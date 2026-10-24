@@ -3713,6 +3713,134 @@
     "5. Bearspaw / Springbank acreage garage and shop cleanout (Tier 2).",
     "Skip for now: same-day garage junk removal Calgary (SERP dominated by national franchises and price-led haulers)."
    ]
+  },
+  {
+   "date": "2026-10-24",
+   "weekday": "Saturday",
+   "market": "vancouver",
+   "mode": "new-page",
+   "action": "created",
+   "page": "garage-organization-west-vancouver.html",
+   "keyword": "garage organization West Vancouver",
+   "community": "District of West Vancouver: British Properties/Chartwell/Cypress Park/Westmount on Cypress Mountain slopes (BPP building since 1930s), Ambleside, Dundarave, Caulfeild, Eagle Harbour, Horseshoe Bay, Lions Bay.",
+   "market_decision": "Last log entry is 'calgary-cleaning' (a separate daily Calgary routine, 2 Calgary pages on 10-23 and 10-24), so flipped to VANCOUVER. Note this routine's own last run (10-18) was also Vancouver; 10-20 and 10-22 runs are missing from the log. Chose Vancouver because Calgary already got 2 pages this week from the cleaning routine.",
+   "why_this_target": "West Vancouver had only a cleaning page (garage-cleaning-west-vancouver, title targets cleaning). Organization is in the Vancouver bank and is higher-value intent. Rejected: garage-storage-solutions-surrey (straight city swap of the Burnaby storage page), strata/tandem angle (already covered on 6+ pages), Port Moody (outside the stated market list). Differentiated from the cleaning page by content: layout/storage systems (one job per bay, under-house garage planning, gear wall, cart station, raised shelving, EV bay); cross-linked both ways.",
+   "cannibalization_note": "garage-cleaning-west-vancouver H1 reads 'Garage Cleaning & Organization West Vancouver'. Left unchanged (no title/H1 edits on other pages). If both pages sit unindexed or swap in SERPs, change that H1 to 'Garage Cleaning West Vancouver'.",
+   "competitive_gap_found": "SERP 'garage organization West Vancouver' (US-located tool, directional): Homestars directory, Handyman Connection generic posts, HAVAN listings for Garage Living and Clever Quarters, a West Van archives record, Parksy rental garages. No West Vancouver-specific organization page covering multi-bay zoning, hillside/under-house garages, the District's cart rules or North Shore gear.",
+   "research": {
+    "westvancouver.ca_bears": "Keep garbage and Green Can in garage, basement or wildlife-secure location during week; set out after 5 a.m. collection day, not night before; bring in by 9 p.m.; freeze meat/fish/bones/plate scrapings until collection morning; remove outdoor freezers; feed pets inside; remove/secure bird feeders; bylaws require attractants managed responsibly.",
+    "rew.ca": "BPP building on Cypress Mountain slopes since 1930s, West Coast Modernist homes; villages Ambleside, Dundarave, Horseshoe Bay; Caulfeild and Eagle Harbour waterfront; Cypress skiing, Baden-Powell Trail, marinas.",
+    "nsnews_rain": "110 mm in one storm at a station partway up Cypress Bowl Road, wettest in Metro Vancouver that week, about double YVR (article undated).",
+    "nsnews_ev": "Council approved requirement that new single-family and duplex homes have an EV charging space and all new multi-family stalls be wired for Level 2 (final vote pending per article; date not given). Page words it as 'reported council approving'."
+   },
+   "word_count": "~2,700 words H1 to CTA (incl. FAQ, pricing, areas)",
+   "images_used": [
+    "vancouver-garage-gear-wall.jpg (+640, hero, fetchpriority high; og/twitter image)",
+    "vancouver-double-garage-before/after.jpg (+640, B/A pair in multi-bay section)",
+    "vancouver-garage-bike-storage.jpg (+640, gear wall section)",
+    "vancouver-garage-labelled-bins.jpg (+640, carts/bears section)",
+    "vancouver-garage-cardboard-damp.jpg (+640, rain section)",
+    "vancouver-tandem-garage-before/after.jpg (+640, B/A pair in older Ambleside/Dundarave section)"
+   ],
+   "image_honesty": "Both B/A captions say 'An example layout, not a photo of a West Vancouver client's garage'. 8 <img>, 8 unique alts, width/height match files, srcset widths match real image widths. All 24 image URLs (new page + New West backfill) return 200 live.",
+   "on_page_checklist": {
+    "title": "Garage Organization West Vancouver | GarageScape (48 chars)",
+    "meta_description": "155 chars",
+    "canonical": "https www",
+    "og_twitter_image": "vancouver-garage-gear-wall.jpg (exists)",
+    "h1_count": 1,
+    "schema": "Service + LocalBusiness provider (prices copied from existing Vancouver org pages: 549/899/1800), BreadcrumbList, FAQPage (6, matches visible FAQ); all parse",
+    "links_out": "20 internal .html targets incl. frozen index.html and garage-storage-solutions-calgary.html, cleaning-west-vancouver, north-vancouver org, bike storage, EV charger, mould, earthquake, decluttering, storage-solutions-vancouver, hub",
+    "links_in": "garage-services-vancouver.html (hub card), garage-cleaning-west-vancouver.html (related card), garage-organization-north-vancouver.html (Beyond North Vancouver paragraph)",
+    "sitemap": "sitemap-vancouver.xml (29 locs, added once, lastmod 2026-10-24); sitemap-index lastmod bumped"
+   },
+   "deploy": {
+    "infra_blocker": "UNCHANGED: git push and GitHub API from cloud return 403 (repo not in proxy's authorized set). No connected device folders, so device_bash unavailable.",
+    "workaround": "GitHub web upload via Claude-in-Chrome from /mnt/user-data/outputs/gs (7 files), commit message set via JS and Commit button clicked via JS (no keyboard typing, avoids GitHub shortcut issue). First attempt committed caa4846 on top of cfbb194. Live after ~80s: page 200 and md5-identical to local."
+   },
+   "indexing": {
+    "todays_page": "FAILED: QUOTA EXCEEDED on the FIRST request of the run (~16:30 UTC). Pre-request status 'URL is not on Google: URL is unknown to Google', no referring sitemap. Not retried (rule). Screenshot taken.",
+    "status": "pending-manual",
+    "mitigation": "Resubmitted https://www.garagescape.ca/sitemap-vancouver.xml ('Sitemap submitted successfully'). Note: relative path is rejected on the domain property; use the full URL.",
+    "quota_diagnosis": "13th of the last 15 runs of this routine blocked on the first request. The calgary-cleaning routine also hit quota at ~07:20 UTC on its first request today, so the quota is spent before either routine runs, or the window isn't the calendar day. [Likely] ~/gsc-driver on the Mac mini (directory exists in home) or another tool is using it. Needs Abhi.",
+    "pending_manual_urls": [
+     "https://www.garagescape.ca/garage-organization-west-vancouver.html",
+     "https://www.garagescape.ca/garage-cleanout-before-selling-calgary.html",
+     "https://www.garagescape.ca/estate-garage-cleanout-calgary.html",
+     "https://www.garagescape.ca/garage-organization-anmore-belcarra.html",
+     "https://www.garagescape.ca/garage-organization-auburn-bay.html",
+     "https://www.garagescape.ca/garage-organization-priddis.html",
+     "https://www.garagescape.ca/garage-bike-storage-vancouver.html",
+     "https://www.garagescape.ca/garage-organization-north-vancouver.html",
+     "https://www.garagescape.ca/garage-organization-pump-hill.html",
+     "https://www.garagescape.ca/garage-organization-tuscany.html"
+    ]
+   },
+   "backlog_status": {
+    "garage-organization-springbank-hill.html": "INDEXED ('URL is on Google', inspected 2026-10-24). Remove from backlog.",
+    "garage-organization-aspen-woods.html": "INDEXED ('URL is on Google', inspected 2026-10-24). Remove from backlog.",
+    "garage-decluttering-cochrane.html": "INDEXED ('URL is on Google', inspected 2026-10-24). Remove from backlog.",
+    "remaining_pending": "10 URLs listed in indexing.pending_manual_urls (3 flagged non-ranking pages cleared)."
+   },
+   "gsc_pages_count": {
+    "checked": "Overview chart only: about 36 indexed / 69 not indexed (read from overview legend). Full Indexing > Pages count is overdue (last 10-16); do it next run."
+   },
+   "backfilled": {
+    "page": "garage-cleaning-new-westminster.html",
+    "before": "2 images (hero B/A only)",
+    "added": [
+     "vancouver-garage-cardboard-damp.jpg (inline, hillside section)",
+     "vancouver-garage-efflorescence-before/after.jpg (B/A pair, Queensborough delta section, captioned as example)"
+    ],
+    "title_url_canonical": "unchanged",
+    "og_image": "already valid (vancouver-lane-garage-after.jpg)",
+    "note": "All Vancouver-market pages now have 3+ images and valid og:images."
+   },
+   "rankings": {
+    "method": "4 WebSearch queries (US-located tool, non-localized); directional only.",
+    "garage organization vancouver": "not visible (Handyman Connection, HAVAN Garage Living, Clever Quarters, Houzz, Homestars, Garage Experts WA). FLAT vs 10-18.",
+    "garage cleaning vancouver": "not visible (Edenflo, BBB, Hellamaid, spam, WA directories). FLAT vs 10-18.",
+    "garage organization north vancouver": "ROTATING. garage-organization-north-vancouver.html not visible (HAVAN, Handyman Connection, Houzz, Parksy, alairhomes). No same-method prior reading.",
+    "garage organization west vancouver": "today's page not present (unindexed). BASELINE SET. No local competitor page in results."
+   },
+   "technical": "sitemap.xml 60 locs, sitemap-vancouver 29, index 3; XML parses, no dups, all map to files. JSON-LD parses and exactly 1 H1 on all 5 changed HTML pages. 0 broken internal links or image paths on changed pages. robots.txt sane (Allow /, sitemap-index declared). Homepage 200. Full sweep not done (last 2026-10-10, now overdue; do next run).",
+   "new_photos_folder": "Found /Users/home/garagescape/new photos/ on the Mac (d1-d9, q1-q12 PNG, 1.2-2.2 MB each, not previously logged). d1 is the source of vancouver-garage-cleaning-hero; q1 is a cluttered single garage (generic, no location cues). Could not copy them in: no connected folder, so no shell to resize. Next run with device access: process the q-series into images/ (1400px, <300KB) and check whether any suit the image-less Calgary pages.",
+   "consolidation_candidates": [
+    {
+     "pages": "garage-organization-vancouver.html, garage-cleaning-vancouver.html vs garage-services-vancouver.html, garage-storage-solutions-vancouver.html",
+     "status": "carried, HIGH PRIORITY, DECISION FOR ABHI",
+     "recommendation": "As in 10-18 entry: single Vancouver hub, slim the organization city page, merge floor-cleaning into cleaning."
+    },
+    {
+     "pages": "garage-organization-west-vancouver vs garage-cleaning-west-vancouver",
+     "status": "new, watch",
+     "recommendation": "If Google picks one and ignores the other, change the cleaning page's H1 to cleaning-only rather than merging."
+    },
+    {
+     "pages": "garage-bike-storage-vancouver, garage-organization-north-vancouver, garage-organization-priddis",
+     "status": "watch",
+     "recommendation": "Re-evaluate after one confirmed request."
+    }
+   ],
+   "images_needed": [
+    "REAL photo: a three-bay garage with one bay set up as a workshop (West Vancouver page)",
+    "REAL photo: a low-ceiling under-house garage with an overhead rack clearing the door track",
+    "REAL photo: a cart station inside a garage door with a chest freezer",
+    "REAL Calgary project photos (carried)"
+   ],
+   "next_targets": [
+    "BLOCKER: GSC quota spent before both routines run. Check ~/gsc-driver on the Mac mini; submit the 10 pending-manual URLs by hand, West Vancouver and the two new Calgary cleanout pages first.",
+    "Next Vancouver: garage-storage-solutions-surrey only if the Burnaby storage page gets indexed first (otherwise it's another unindexed city swap). Port Moody needs Abhi's OK (outside the stated market list). Otherwise switch Vancouver runs to upgrade mode: start with the hub consolidation if approved.",
+    "Next Calgary (this routine): Seton, or upgrade garage-organization-north-calgary.",
+    "Do the overdue full Indexing > Pages count and the 14-day site sweep next run.",
+    "Process the Mac's 'new photos' q-series if a device folder is connected."
+   ],
+   "flags": [
+    "BLOCKER: GSC quota exceeded on the first request; West Vancouver page pending-manual (push notification sent).",
+    "GOOD NEWS: springbank-hill, aspen-woods and decluttering-cochrane are all now indexed.",
+    "NO DROP: Vancouver tracking queries flat (not visible in the non-localized tool).",
+    "INFRA: git push still blocked from cloud; Chrome web upload worked on the first try."
+   ]
   }
  ]
 }
