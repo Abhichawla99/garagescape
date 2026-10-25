@@ -3841,6 +3841,103 @@
     "NO DROP: Vancouver tracking queries flat (not visible in the non-localized tool).",
     "INFRA: git push still blocked from cloud; Chrome web upload worked on the first try."
    ]
+  },
+  {
+   "date": "2026-10-25",
+   "weekday": "Sunday",
+   "market": "calgary-cleaning",
+   "mode": "sunday-strengthen",
+   "action": "strengthened",
+   "page": "garage-decluttering-calgary.html",
+   "keyword": "garage decluttering Calgary",
+   "buyer": "Calgary homeowner whose garage is full of undecided stuff (not pure junk) and who needs both someone to sort with them and someone to carry, donate and handle paint/propane; often deciding between a professional organizer and a junk hauler.",
+   "why_this_target": "Sunday rule: strengthen the weakest existing Calgary cleaning page. garage-decluttering-calgary was the thinnest Calgary cleaning page (1,793 words), unchanged since 2026-09-11, 'Discovered - currently not indexed' in GSC (inspected 2026-10-25, referring page none despite ~40 internal inbound links), and built from template blocks (generic Benefits grid, 'Emotional Support' card, an unsourced '<20% to landfill' stat). Homepage currently ranks #1 for the query with a generic snippet.",
+   "competitive_gap_found": "SERP 'garage decluttering calgary' (gl=ca, 2026-10-25): #1 garagescape.ca homepage; local pack is 3 professional organizers (Space Reclaimers, Light At The End Of The Clutter, Room to Breathe); ads from Happy Panda, Bright HQ, 1-800-GOT-JUNK; then Taskrabbit ($30/hr), freshstartpropertyservices, legacyjunkremoval DIY guide, garagecleaningpro, Junk Movement listicle, SPARX hourly packages, Houzz, Pick-n-Haul bin. Nobody explains organizer vs hauler vs declutter crew, which part needs the homeowner present, or Calgary-specific keep/go rules and disposal routes.",
+   "people_also_ask_used": [
+    "How much does it cost to clean and organize a garage?",
+    "How can I declutter my garage quickly?",
+    "How can I declutter my garage? (answered as 'How do I decide what to keep')",
+    "Where can seniors in Calgary get free hoarding help?"
+   ],
+   "research": {
+    "hoarding_resources": "From live SERP 2026-10-25: Sage Seniors Association 'This Full House' (55+, compulsive hoarding), Elements Calgary Mental Health Centre decluttering program (adults), City of Calgary Home Services for Seniors via 311, Hoarding Disorder Foundation of Alberta Calgary resources page. Linked by name/site only, no phone numbers.",
+    "city_rules": "Reused verified 2026-10-23 City figures in qualitative form (HHW drop-off free with per-visit limit, small propane accepted, landfill by weight with small-load flat fee, refrigerant fee per appliance). No dollar figures on this page.",
+    "product_rules": "Drop-side cribs banned from sale in Canada since Dec 2016 (Health Canada crib regs); car seat expiry on shell; tire age framed as 'many tire makers recommend ~6-10 years' with DOT date code. General knowledge, not re-verified today."
+   },
+   "custom_elements": [
+    "Organizer vs junk hauler vs GarageScape declutter comparison table (decides, lifts, hazardous, donation/sell, billing model, pick-this-when)",
+    "'The part that needs you' table: each declutter-day stage with whether the homeowner must be present",
+    "Calgary keep-or-go category rules table with destination per category (winter tires date code, snowblower, kids' gear, car seats/drop-side cribs, paint, propane, reno leftovers to ReStore, garage freezers, duplicate tools, cardboard on the slab)",
+    "Seasonal resale calendar for Calgary Marketplace/Kijiji (Oct-Nov winter gear, Mar-May bikes/mowers, off-season donate)",
+    "Five-step 20-minute prep list (never-touch list, category rules, driveway/lane clearing, hazardous/heavy heads-up, one decider)",
+    "Honest 'more than a busy household' section pointing seniors/hoarding situations to free Calgary programs first",
+    "Calgary garage-type section: inner-city lane garages (Mount Royal, Elbow Park, Altadore, Hillhurst, Bridgeland), suburban front-drive doubles, Bearspaw/Springbank acreage shops"
+   ],
+   "h2_skeleton_check": "All old H2s replaced. Compared against garage-cleanout-calgary, estate-garage-cleanout-calgary and garage-cleanout-before-selling-calgary: no shared H2s.",
+   "word_count": "~2,690 words H1 to end of CTA (was 1,793)",
+   "images_used": [
+    "vancouver-double-garage-before.jpg (+640, category rules section, og/twitter image)",
+    "vancouver-garage-cardboard-damp.jpg (+640, chinook meltwater paragraph)"
+   ],
+   "image_honesty": "Both captioned 'Illustration, not a client's garage.' Alts written after viewing. Rejected images/calgary-garage-decluttering.jpg: AI render of a finished showroom garage (slatwall, cabinets, Gemini sparkle mark), which is organization content and misleading on a decluttering page; also swapped it out of the sitemap image entry. All 4 image URLs return 200 live.",
+   "on_page_checklist": {
+    "title": "Garage Decluttering Calgary | Hire Help to Sort & Clear (55 chars)",
+    "meta_description": "158 chars",
+    "h1_count": 1,
+    "schema": "FAQPage (8, matches visible FAQ exactly), BreadcrumbList now Home > Garage Cleaning Calgary > Decluttering (was under Organization), LocalBusiness unchanged except email aligned to inquiry@ (footer address); all parse",
+    "cta": "Hero 'Send 3 Photos for a Quote' + call; bottom CTA same",
+    "links_out": "11 internal .html targets: cleanout, estate, before-selling, cleaning, floor cleaning, spring cleanout, organization, Airdrie/Okotoks/Cochrane/Chestermere decluttering",
+    "links_in_added": "garage-cleaning-calgary (new related feature card), garage-cleanout-before-selling-calgary (contextual sentence in count-back section). Already linked from index.html, garage-cleanout-calgary, estate page.",
+    "sitemap": "lastmod 2026-07-15 -> 2026-10-25; image entry replaced; sitemap-index sitemap.xml lastmod -> 2026-10-25"
+   },
+   "deploy": "Pushed 72b30e3; live within ~30 s. Checked in Chrome: new title, 1 H1, 8 FAQs, 3 tables, no horizontal overflow, images 200.",
+   "indexing": {
+    "site_check": "robots.txt loads in Chrome at ~01:18 MDT.",
+    "requests": [
+     {
+      "url": "https://www.garagescape.ca/garage-organization-pump-hill.html",
+      "pre_status": "Discovered - currently not indexed; both sitemaps detected; referring page none",
+      "result": "QUOTA EXCEEDED after live test (~01:21 MDT). Not retried."
+     }
+    ],
+    "inspected_only": [
+     {
+      "url": "https://www.garagescape.ca/garage-decluttering-calgary.html",
+      "status": "Discovered - currently not indexed; sitemaps detected; referring page none; no crawl"
+     }
+    ],
+    "not_attempted": "Rest of backlog and the strengthened page; quota already spent at the first request, third day running.",
+    "status": "pending-manual",
+    "pending_manual_urls": [
+     "https://www.garagescape.ca/garage-organization-pump-hill.html",
+     "https://www.garagescape.ca/garage-organization-north-vancouver.html",
+     "https://www.garagescape.ca/garage-organization-tuscany.html",
+     "https://www.garagescape.ca/garage-bike-storage-vancouver.html",
+     "https://www.garagescape.ca/garage-organization-priddis.html",
+     "https://www.garagescape.ca/garage-organization-auburn-bay.html",
+     "https://www.garagescape.ca/garage-organization-anmore-belcarra.html",
+     "https://www.garagescape.ca/estate-garage-cleanout-calgary.html",
+     "https://www.garagescape.ca/garage-cleanout-before-selling-calgary.html",
+     "https://www.garagescape.ca/garage-decluttering-calgary.html"
+    ]
+   },
+   "flags": [
+    "BLOCKER (carried, 3rd day): GSC quota exhausted on the very first request at ~01:21 MDT. These runs request nothing. Abhi should request the pending URLs by hand, move this run earlier/later, or stop other routines spending the property's quota.",
+    "CONFIRM WITH ABHI: page commits to quoting from 3 photos, setting a sell pile aside (owner lists it), sorting inside for lane garages, walkthrough quotes for acreages, and GarageScape doing the HHW drop-off runs itself. The HHW claim was on the old page; the rest is new.",
+    "CONFIRM: '4 to 8 hours on site' carried over from the old page.",
+    "PRICING CONFLICT (carried): homepage snippet 'Garage decluttering starts at $199 ... cleanouts start at $299' ranks #1 for this query; garage-cleanout-calgary says 'from $349'. This page uses no prices.",
+    "needs real pricing from Abhi: the SERP is full of hourly numbers (Taskrabbit $30/hr, SPARX packages, $299 cleanouts); a 'declutters from $X' line would help once the $199/$299/$349 conflict is settled.",
+    "images/calgary-garage-decluttering.jpg is an AI-rendered organization showroom; still referenced in one other sitemap entry. Consider retiring it site-wide.",
+    "Other routine committed e9b4591 'SEO Sunday technical-health' today (sitemap-index lastmod). No overlap with this page."
+   ],
+   "next_targets": [
+    "1. Hoarding garage cleanup Calgary (Tier 1, discreet). Today's page now answers the free-help PAA briefly and links out; the new page should go deeper on the paid side (discretion, unmarked truck if true, biohazard limits) and link back here.",
+    "2. Garage pressure washing / oil stain removal Calgary (Tier 1); find an angle garage-floor-cleaning-calgary doesn't cover.",
+    "3. Post-renovation garage cleanup Calgary (Tier 1).",
+    "4. Mount Royal / Elbow Park white-glove lane-garage cleanout (Tier 2).",
+    "5. Bearspaw / Springbank acreage garage and shop cleanout (Tier 2).",
+    "Skip for now: same-day garage junk removal Calgary (franchise/price-led SERP)."
+   ]
   }
  ]
 }
