@@ -3938,6 +3938,113 @@
     "5. Bearspaw / Springbank acreage garage and shop cleanout (Tier 2).",
     "Skip for now: same-day garage junk removal Calgary (franchise/price-led SERP)."
    ]
+  },
+  {
+   "date": "2026-10-26",
+   "weekday": "Monday",
+   "market": "calgary-cleaning",
+   "mode": "new-page",
+   "action": "created",
+   "page": "hoarding-garage-cleanup-calgary.html",
+   "keyword": "hoarding garage cleanup Calgary",
+   "buyer": "Adult child, spouse, landlord, or the owner themselves, facing a garage packed for years, often with mice, sometimes with a 311 complaint or Remedial Order or a sale date; wants it cleared quietly without judgment.",
+   "why_this_target": "Tier 1 money moment (discreet hoarding cleanup), ranked #1 in the last two runs' next_targets. Not touched by any other task today (git log clean since a618d43).",
+   "competitive_gap_found": "SERP 'hoarding garage cleanup calgary' (gl=ca, 2026-10-26): #1 garagescape.ca homepage (generic snippet, 'Missing: hoarding'), #2 freshstartpropertyservices garage-cleanout page with one hoarding paragraph, Taskrabbit, Mayken hazmat blog (whole-home, 'Missing: garage'), YYC Junk hoarding page ('Missing: garage'), DKI, Cal-Waste (whole-home, publishes $1,500-$4,000 homes), City Community Cleanups. Local pack: Mayken, Junk Man, Aladdin; ads Happy Panda, Mayken. Nobody covers the garage itself: mice/hantavirus, consent when the garage isn't the caller's, Remedial Orders, what 'discreet' concretely means, or clutter-vs-hoarding-vs-biohazard triage.",
+   "people_also_ask_used": [
+    "Where can I find hoarder cleaning services in Calgary?",
+    "How much does it cost to clean up a hoarder's house? / How much to clear out a garage? (answered as hoarded garage cost factors)",
+    "How long should it take to clean a garage?",
+    "What to do with an elderly hoarder?",
+    "Where can seniors in Calgary get free hoarding help?",
+    "From related SERP: How do I safely clean mouse droppings in my garage?",
+    "Not used: Is it legal to wash your car in your driveway in Calgary? (off-topic)"
+   ],
+   "research": {
+    "alberta_hantavirus": "alberta.ca/reducing-the-risk-of-hantavirus (read 2026-10-26): 81 cases, 15 deaths in Alberta since 1989 incl. one death in 2026; usually deer mice; ventilate and stay out 30 min; rubber gloves; soak 1:9 bleach or disinfectant, 5 min; never disturb before soaking; paper towels, sealed bag, lidded bin; wash gloves then hands; never sweep/vacuum; heavy infestation in enclosed space -> Health Link 811.",
+    "calgary_untidy_property": "calgary.ca/bylaws/untidy-properties (read): boxes, furniture, appliances, machinery, auto parts must not be visible from outside the property; offensive material/pest attractants prohibited; open storage of oil/antifreeze prohibited; outdoor fridges locked or door removed and not visible.",
+    "calgary_remedial_order": "calgary.ca/bylaws/complaints (read): 311 complaint -> peace officer; private property gets Remedial Order with 21 days; if unresolved, Notice of Corrective Action and City crews/contractor do the work and invoice the owner. Community Standards page snippet mentions $500 for failing to comply; page says 'the bylaw sets a penalty' without the number.",
+    "home_services_for_seniors": "calgary.ca/social-services/seniors/home-services (read): program ended Sept 30, 2026, no new clients; Government of Alberta Special Needs Assistance for Seniors via Alberta Supports 1-877-644-9992. Used to correct garage-decluttering-calgary (said 'reached through 311').",
+    "city_rates": "Reused 2026-10-23 verified figures: $113/tonne, $25 flat <250 kg, $17 refrigerant, HHW free at fire stations up to 20 L/visit, vehicle propane tanks not accepted."
+   },
+   "custom_elements": [
+    "Clutter vs hoarding vs biohazard vs safety triage table (what you see / what it is / who to call first), incl. referral out to biohazard firms and ATCO/electrician",
+    "Consent section by relationship: parent still living there, spouse, landlord with a tenant's goods, deceased (link to estate page)",
+    "Alberta hantavirus protocol with province's numbers (81 cases/15 deaths since 1989, 2026 death), 6 steps, Health Link 811 for enclosed lane garages, 'don't make a start by sweeping' warning",
+    "Clear-a-path priority list: house door, electrical panel/chewed cords, water heater/furnace, overhead door auto-reverse, rafters",
+    "Remedial Order 21-day plan-backwards timeline from the City's untidy-property and complaint rules, focused on lane-visible overflow in Mount Royal/Elbow Park/Bowness/Bridgeland/Capitol Hill",
+    "Concrete discretion checklist (door down while sorting, lane loading, early starts, neighbour script, no photos, one contact)",
+    "Pace decision table (ready owner / item-by-item / with counsellor / deadline / family authority)",
+    "Where-it-goes list with mouse-contaminated goods bagged to landfill and City disposal rules"
+   ],
+   "h2_skeleton_check": "Compared with estate-garage-cleanout-calgary, garage-decluttering-calgary and garage-cleanout-before-selling-calgary: no shared H2s (only the standard 'On this page' TOC heading).",
+   "word_count": "~3,500 words H1 to end of FAQ",
+   "images_used": [
+    "vancouver-tandem-garage-before.jpg (+640, path section, fetchpriority high, og/twitter image)",
+    "vancouver-garage-cardboard-damp.jpg (+640, mice section, lazy)"
+   ],
+   "image_honesty": "Both captioned 'Illustration, not a client's garage.' Alts written after viewing each image (narrow packed tandem garage with water heater and house door at back; collapsed water-wicked boxes with salt marks). Vancouver-named files reused as generic illustrations. No Calgary or hoarding photos exist in /images. All 4 image URLs 200 live.",
+   "on_page_checklist": {
+    "title": "Hoarding Garage Cleanup Calgary | Discreet, No Judgment (55 chars)",
+    "meta_description": "150 chars",
+    "h1_count": 1,
+    "schema": "Service + LocalBusiness provider (no prices), BreadcrumbList (Home > Garage Cleanout Calgary > Hoarding), FAQPage 8 matching visible FAQ exactly; all parse",
+    "links_out": "18 internal .html targets (cleanout, estate, decluttering, floor cleaning, before-selling, garage-cleaning, spring cleanout, Cochrane/Airdrie/Okotoks/Chestermere, nav/footer) plus alberta.ca, calgary.ca x2, Sage, Elements, HDFA",
+    "links_in": "index.html (Garage Cleanout service card + footer), garage-cleaning-calgary.html (feature item), garage-cleanout-calgary.html (related card + footer), estate-garage-cleanout-calgary.html (related card + footer), garage-cleanout-before-selling-calgary.html (footer), garage-decluttering-calgary.html (contextual link in hoarding section)",
+    "sitemap": "sitemap.xml, lastmod 2026-10-26"
+   },
+   "also_changed": "garage-decluttering-calgary.html: 'Home Services for Seniors is reached through 311' corrected in schema FAQ, visible FAQ and body (program ended 2026-09-30).",
+   "indexing": {
+    "site_check": "robots.txt loads in Chrome.",
+    "requests": [
+     {
+      "url": "https://www.garagescape.ca/garage-organization-pump-hill.html",
+      "pre_status": "Discovered - currently not indexed; both sitemaps detected; referring page none",
+      "result": "QUOTA EXCEEDED after live test. Not retried."
+     }
+    ],
+    "inspected_only": [
+     {
+      "url": "https://www.garagescape.ca/estate-garage-cleanout-calgary.html",
+      "status": "URL is on Google (indexed), breadcrumbs valid"
+     },
+     {
+      "url": "https://www.garagescape.ca/garage-cleanout-before-selling-calgary.html",
+      "status": "URL is on Google (indexed), breadcrumbs valid"
+     }
+    ],
+    "not_attempted": "Rest of backlog and today's page; quota spent at first request, 4th day running.",
+    "status": "pending-manual",
+    "pending_manual_urls": [
+     "https://www.garagescape.ca/garage-organization-pump-hill.html",
+     "https://www.garagescape.ca/garage-organization-north-vancouver.html",
+     "https://www.garagescape.ca/garage-organization-tuscany.html",
+     "https://www.garagescape.ca/garage-bike-storage-vancouver.html",
+     "https://www.garagescape.ca/garage-organization-priddis.html",
+     "https://www.garagescape.ca/garage-organization-auburn-bay.html",
+     "https://www.garagescape.ca/garage-organization-anmore-belcarra.html",
+     "https://www.garagescape.ca/garage-organization-west-vancouver.html",
+     "https://www.garagescape.ca/garage-decluttering-calgary.html",
+     "https://www.garagescape.ca/hoarding-garage-cleanup-calgary.html"
+    ]
+   },
+   "flags": [
+    "BLOCKER (carried, 4th day): GSC quota exhausted on the first request. Requests from these runs achieve nothing; Abhi should request pending URLs by hand or find what spends the quota first.",
+    "GOOD NEWS: estate-garage-cleanout-calgary (10-23) and garage-cleanout-before-selling-calgary (10-24) are both indexed without any successful request, so strong internal linking + sitemap is getting new cleaning pages crawled within 2-3 days. Removed from pending.",
+    "CONFIRM WITH ABHI: page commits to door-down sorting, lane loading, early starts, a neighbour script, no photos without written OK, one contact, following Alberta hantavirus steps with gloves/masks, bagging nested boxes unopened, photographing a landlord's garage before starting, and not clearing a living owner's garage without their agreement. Also says 'send three photos to inquiry@ and we'll tell you if it's ours to do.'",
+    "CONFIRM: page says GarageScape refers biohazard (human/pet waste, sewage, needles, larger dead animals) to certified remediation firms. Confirm that's the real scope line.",
+    "needs real pricing from Abhi: Cal-Waste publishes $1,500-$4,000 for most hoarded homes and Taskrabbit $30/hr; a 'hoarded garages typically from $X' line would help once the $199/$299/$349 conflict is settled. Page uses no prices.",
+    "PRICING CONFLICT (carried): homepage 'Starting at $299' vs garage-cleanout-calgary 'from $349'.",
+    "Insurance/WCB still not mentioned anywhere on the cleaning pages; buyers of hoarding/estate work ask. Add if Abhi confirms coverage."
+   ],
+   "next_targets": [
+    "1. Garage pressure washing / oil stain removal Calgary (Tier 1); find an angle garage-floor-cleaning-calgary doesn't cover (e.g. pressure washing vs scrubbing on cold slabs, efflorescence, sealed vs bare concrete).",
+    "2. Post-renovation garage cleanup Calgary (Tier 1): drywall dust, leftover materials to ReStore, contractor debris rules at City landfills.",
+    "3. Mount Royal / Elbow Park white-glove lane-garage cleanout (Tier 2).",
+    "4. Bearspaw / Springbank acreage garage and shop cleanout (Tier 2).",
+    "5. Car-collector / show-garage cleaning and epoxy floor maintenance (Tier 2 luxury angle).",
+    "Skip for now: same-day garage junk removal Calgary (franchise/price-led SERP)."
+   ],
+   "deploy": "Pushed c94fc75; live 200 within ~20 s. Checked in Chrome: title, 1 H1, 8 FAQs, 2 tables, no horizontal overflow, image URLs 200."
   }
  ]
 }
