@@ -4160,6 +4160,97 @@
         "4. Full Indexing > Pages breakdown (reasons for the 73) and the 14-day site sweep are still overdue.",
         "5. Image backfill queue (Calgary, broken og): evanston, dalhousie, beddington, brentwood, harmony, elbow-park, makeover, remodel, renovation."
       ]
+    },
+    {
+      "date": "2026-10-27",
+      "weekday": "Tuesday",
+      "market": "calgary-cleaning",
+      "mode": "new-page",
+      "action": "created",
+      "page": "post-renovation-garage-cleanup-calgary.html",
+      "keyword": "post-renovation garage cleanup Calgary",
+      "buyer": "Homeowner whose basement, kitchen or garage renovation just finished; contractor gone, garage still holds surplus drywall, lumber, tile, paint and sanding dust; wants the car back in before winter. Secondary: sellers who renovated to list.",
+      "why_this_target": "Tier 1 money moment, #2 in last run's next_targets. Skipped #1 (pressure washing / oil stains) because garage-floor-cleaning-calgary already has an 'Oil Stains: Why Pressure Alone Fails' section and covers pressure vs scrubbing, salt and sealing; a separate page would cannibalize it. No other task touched cleaning pages today (no commits since 7ab11e4 Seton org page).",
+      "competitive_gap_found": "SERP 'post renovation garage cleanup calgary' (gl=ca, 2026-10-27): #1 freshstartpropertyservices generic garage cleanout, #2 garagescape.ca homepage, local pack Post Construction Calgary Cleaning Service / Alliance Renovations (garage builder) / Aladdin junk removal, then AnyClean post-reno (whole-home), Taskrabbit ($30/hr), Garage Clean Pro (one line on construction cleans), ServiceMaster commercial post-construction, Legacy junk removal DIY guide, Yelp; ads Eshine and Newgen (commercial). Nobody covers the garage after a home reno: contractor scope, where leftover materials go in Calgary, asbestos for pre-1990 houses, or dust removal order.",
+      "people_also_ask_used": [
+        "How much does it cost to clean and organize a garage? (answered as post-reno cost factors)",
+        "What is the typical cost of a deep clean in Calgary?",
+        "What items are accepted at Calgary Community Cleanups?",
+        "From asbestos SERP: Can I remove asbestos myself in Alberta?",
+        "From asbestos SERP: How to tell if your drywall has asbestos in it?",
+        "Not used: average cost per square foot for a home renovation in Calgary (off-topic)"
+      ],
+      "research": {
+        "city_rates_2026": "calgary.ca/waste/drop-off/landfill-rates (read 2026-10-27): drywall $90/t (<2% contaminants; wet, painted, vinyl-covered OK), recyclable wood $90/t (untreated), scrap metal $113/t (up to 1.2 m), basic sanitary $113/t, $25 flat <250 kg, mixed charge/free load pays for whole load, >=250 kg highest applicable rate, Hard-to-Handle $275/load.",
+        "drywall_disposal": "calgary.ca drywall-cement-grout page: small quantities in black cart (60 kg limit, lid closes); large to Eco Centre, charged; separated drywall load gets reduced rate.",
+        "fibreglass": "calgary.ca: small double-bagged in black cart; large to Eco Centre, charged.",
+        "asbestos": "calgary.ca asbestos page: Shepard Landfill only, Mon-Fri 8:30-1:30, wetted, double-bagged 6-mil poly, sealed; improper packaging rejected or Hard-to-Handle surcharge. Alberta OHS bulletin 'Asbestos exposure in demolition and renovation' (open.alberta.ca, 2023): pre-1990 buildings higher risk. AHS 2013 Calgary flood release: drywall mud in pre-mid-1980s houses.",
+        "hhw": "calgary.ca search snippets: up to 20 L per visit, max container 20 L, full/empty/dry paint cans accepted. Paint page URL 404s directly.",
+        "restore": "habitatsouthernab.ca donation guidelines (read): accepts usable lumber, new drywall, insulation, cabinets, doors, unopened flooring, sinks/faucets/tubs, new lighting/electrical, hardware/tools; declines paint/stains/chemicals, used flooring, used windows, dirty/rotten lumber, used lighting, used toilets, etc. Free pickup for larger items; 3 ReStores; (403) 291-6764 ext 1.",
+        "community_cleanups": "Google snippet of calgary.ca accepted-items page (page itself 404'd via direct URL): residential, non-donatable furniture and oversized items into City garbage trucks."
+      },
+      "custom_elements": [
+        "Contractor-scope checklist: five questions to settle before final payment (final clean scope, bin removal, returns for credit, deficiency list, paint codes + build year)",
+        "Pre-1990 asbestos gate with GarageScape's stated line (we don't handle it, test first, Shepard Landfill rules), naming inner-city communities where it applies and suburbs where it doesn't",
+        "Leftover-to-destination table with City 2026 per-tonne rates and ReStore accept/decline, incl. why mixed loads cost more",
+        "Touch-up box list (one can per colour labelled, spare tiles by dye lot, hardware, manuals) with freeze warning for attached Calgary garages",
+        "Top-down dust removal order (opener, tracks, ledges, stored belongings, floor last) with Calgary dry-air note",
+        "Post-reno floor damage list (screws in expansion joints/magnetic sweep, joint-compound footprints, tile-saw slurry, adhesive, overspray)",
+        "Walkthrough-to-car-back-in timeline table with who's needed at each step"
+      ],
+      "h2_skeleton_check": "Compared with garage-cleanout-calgary, garage-floor-cleaning-calgary and hoarding-garage-cleanup-calgary: no shared H2s apart from the standard 'On this page' TOC and 'Other Calgary Cleaning Services' related heading (same as hoarding page). 'What Moves the Quote' deliberately differs from hoarding's 'What Sets the Price'.",
+      "word_count": "~3,070 words H1 to end of FAQ",
+      "images_used": [
+        "vancouver-garage-workbench-before.jpg (+640, leftovers section, fetchpriority high, og/twitter image)",
+        "vancouver-garage-wall-floor-before.jpg (+640, floor section, lazy)"
+      ],
+      "image_honesty": "Both captioned 'Illustration, not a client's garage.' Alts written after viewing each image (cluttered workbench with offcuts, paint cans, cords; fresh white wall and baseboard over a blotchy scuffed slab). Vancouver-named files reused as generic illustrations; no post-renovation or Calgary photos exist in /images. All 4 image URLs 200 live.",
+      "on_page_checklist": {
+        "title": "Post-Renovation Garage Cleanup Calgary | Dust & Leftovers (57 chars)",
+        "meta_description": "~165 chars",
+        "h1_count": 1,
+        "schema": "Service + LocalBusiness provider (no prices), BreadcrumbList (Home > Garage Cleanout Calgary > Post-Renovation), FAQPage 8 matching visible FAQ exactly; all parse",
+        "links_out": "20 internal .html targets incl. cleanout, cleaning, floor cleaning, before-selling, estate, hoarding, spring cleanout, decluttering, renovation, organization, Airdrie/Cochrane/Okotoks/Chestermere; external alberta.ca OHS bulletin, ReStore guidelines, calgary.ca landfill rates",
+        "links_in": "index.html (Garage Cleanout service card list + footer), garage-cleaning-calgary.html (feature item), garage-cleanout-calgary.html (related card + footer), garage-floor-cleaning-calgary.html (contextual paragraph in 'When to Book It'), estate-garage-cleanout-calgary.html (footer), garage-cleanout-before-selling-calgary.html (footer), hoarding-garage-cleanup-calgary.html (footer)",
+        "sitemap": "sitemap.xml, lastmod 2026-10-27"
+      },
+      "indexing": {
+        "site_check": "robots.txt loads in Chrome.",
+        "requests": [],
+        "blocked": "Search Console redirected to Google 'Verify it's you' (re-sign-in for abhi@paperkites.co). Claude can't enter passwords, so no URLs were inspected or requested this run.",
+        "status": "pending-manual",
+        "pending_manual_urls": [
+          "https://www.garagescape.ca/garage-organization-pump-hill.html",
+          "https://www.garagescape.ca/garage-organization-north-vancouver.html",
+          "https://www.garagescape.ca/garage-organization-tuscany.html",
+          "https://www.garagescape.ca/garage-bike-storage-vancouver.html",
+          "https://www.garagescape.ca/garage-organization-priddis.html",
+          "https://www.garagescape.ca/garage-organization-auburn-bay.html",
+          "https://www.garagescape.ca/garage-organization-anmore-belcarra.html",
+          "https://www.garagescape.ca/garage-organization-west-vancouver.html",
+          "https://www.garagescape.ca/garage-decluttering-calgary.html",
+          "https://www.garagescape.ca/hoarding-garage-cleanup-calgary.html",
+          "https://www.garagescape.ca/post-renovation-garage-cleanup-calgary.html"
+        ]
+      },
+      "flags": [
+        "BLOCKER (new): GSC session expired; Google asks to re-verify the account in Chrome. Abhi needs to sign in once before tomorrow's 1:30 AM-ish runs or every routine on this account loses indexing.",
+        "BLOCKER (carried, 5th day): even when signed in, quota was exhausted at the first request on 10-23 to 10-26.",
+        "CONFIRM WITH ABHI: page commits to: not handling asbestos (test first, abatement contractor), HEPA-filter vacuum then damp-wipe, magnetic sweep of slab and apron, wiping door tracks but leaving roller/spring lubrication to door techs, setting aside a labelled touch-up box, carrying paint to the basement on request, a 15-minute walkthrough then working with the door code and sending photos, staging donations for ReStore pickup, and 'usually book within the week' for post-1990 houses.",
+        "needs real pricing from Abhi: Taskrabbit shows $30/hr for Calgary garage cleaning; a post-reno 'typical double garage from $X' would help once the $199/$299/$349 conflict is settled. Page uses only City disposal rates, no GarageScape prices.",
+        "PRICING CONFLICT (carried): homepage 'Starting at $299' and SERP snippet 'decluttering starts at $199, cleanouts $299' vs garage-cleanout-calgary 'from $349'.",
+        "Insurance/WCB still not mentioned on any cleaning page (carried).",
+        "Skipped pressure washing/oil stain page: garage-floor-cleaning-calgary already owns that intent. If Abhi wants it, better to strengthen that page on a Sunday than add a competing URL."
+      ],
+      "next_targets": [
+        "1. Mount Royal / Elbow Park white-glove lane-garage cleanout (Tier 2): narrow lanes, detached garages, older houses, discretion; links naturally to estate and post-reno pages.",
+        "2. Bearspaw / Springbank acreage garage and shop cleanout (Tier 2): outbuildings, long hauls, scrap metal and farm chemicals.",
+        "3. Car-collector / show-garage cleaning and epoxy floor maintenance (Tier 2 luxury).",
+        "4. Sunday 11-01: strengthen garage-floor-cleaning-calgary (pressure washing angle, em dashes, any 'Discovered - not indexed' status) instead of a new page.",
+        "5. Fall winterizing cleanout is late for 2026 (publish Aug-Sep); queue for August 2027. Spring post-winter grit page already exists; refresh in Feb 2027.",
+        "Skip for now: same-day garage junk removal Calgary (franchise/price-led SERP)."
+      ],
+      "deploy": "Pushed 2e36ee8; live 200 within ~30 s. Checked in Chrome: title, 1 H1, 8 FAQs, 2 tables, no horizontal overflow, image URLs 200."
     }
   ]
 }
