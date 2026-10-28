@@ -514,4 +514,18 @@
             <image:caption>Garage reset with the car parked inside, lidded bins on shelving and bikes on wall hooks</image:caption>
         </image:image>
     </url>
+    <url>
+        <loc>https://www.garagescape.ca/garage-organization-kerrisdale.html</loc>
+        <lastmod>2026-10-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.garagescape.ca/images/vancouver-lane-garage-after.jpg</image:loc>
+            <image:caption>Old wooden lane garage organized with lidded bins on side-wall shelving and a bike by the door</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.garagescape.ca/images/vancouver-garage-parking-after.jpg</image:loc>
+            <image:caption>Single-car garage on a Vancouver West Side street with the car parked on a clear floor</image:caption>
+        </image:image>
+    </url>
 </urlset>
