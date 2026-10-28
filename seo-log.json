@@ -4383,6 +4383,137 @@
         "4. Sunday 11-01: strengthen garage-floor-cleaning-calgary (pressure washing, oil stains) instead of a new page.",
         "Skip for now: same-day garage junk removal Calgary (franchise/price-led SERP)."
       ]
+    },
+    {
+      "date": "2026-10-28",
+      "weekday": "Wednesday",
+      "market": "vancouver",
+      "mode": "new-page",
+      "action": "created",
+      "page": "garage-organization-kerrisdale.html",
+      "keyword": "garage organization Kerrisdale Vancouver",
+      "community": "Kerrisdale, Vancouver West Side (resident boundaries W 33rd to W 57th, Granville to Blenheim, incl. Southlands)",
+      "market_decision": "This routine's last run (2026-10-26) was calgary, so flipped to VANCOUVER. calgary-cleaning entries ignored for the flip.",
+      "why_this_target": "Vancouver luxury-community bank item. Kerrisdale appeared only as a chip on garage-organization-vancouver, laneway-garage-clearing-vancouver and in a hub card; no page targets it. Distinct angle from the city page: three garage eras on one block (Point Grey-era lane garages, mid-1980s rebuild doubles, post-2009 laneway-house lots) plus greenway bikes, arena/pool gear and downsizing to condos north of 41st. Rejected garage-storage-solutions-surrey (city swap, prior run advised waiting for Burnaby storage indexing).",
+      "competitive_gap_found": "SERP for 'garage organization kerrisdale' (US tool, directional) is 100% real-estate listings (chrisbrownrealestate, mikegrahame, nestpresales), apartments.com, Parksy, a Houzz Langley directory and Bob Vila. No service business has any Kerrisdale garage content.",
+      "research": [
+        "Wikipedia Kerrisdale: 1905 interurban stop at Wilson Road (W 41st) named by Mrs. William McKinnon; Point Grey municipality amalgamated with Vancouver 1 Jan 1929; resident boundaries 33rd-57th, Granville-Blenheim; Southlands on Fraser North Arm floodplain; large modern houses from mid-1980s; Arbutus Greenway on former CPR line; Cyclone Taylor Arena built 1949 on East Blvd; schools Kerrisdale Elem, Magee, Point Grey, Crofton House",
+        "REW Kerrisdale guide: ~50 heritage-inventory structures; Elm Park tennis/baseball/soccer/lawn bowling; Kerrisdale Lumber since 1921; 2011 census 65+ = 16.4%",
+        "City of Vancouver: Kerrisdale Community Centre 5851 West Blvd, indoor pool; arena two blocks away",
+        "Heritage Site Finder 2967 W 42nd: Craftsman pre-1912, garage or room permitted 1928",
+        "Wikipedia Climate of Vancouver: YVR 169.5 precip days/yr (1991-2020), Nov 174.6 / Jan 174.0 / Dec 172.2 mm",
+        "Wikipedia Laneway house: 2009 bylaw, first occupancy May 2010, rules updated July 2013; laneway house sits in the space normally reserved for a garage"
+      ],
+      "word_count": 2777,
+      "images_used": [
+        "vancouver-garage-parking-after.jpg (+640, hero, fetchpriority high; og/twitter image)",
+        "vancouver-lane-garage-before/after.jpg (+640, B/A pair in Point Grey-era lane garage section)",
+        "vancouver-garage-cardboard-damp.jpg (+640, rain section)",
+        "vancouver-garage-bike-storage.jpg (+640, Arbutus Greenway section)",
+        "vancouver-garage-workbench-before.jpg (+640) / vancouver-garage-workbench-after.jpg (no srcset, B/A pair in rebuild/workshop section)",
+        "vancouver-garage-labelled-bins.jpg (+640, downsizing section)"
+      ],
+      "image_honesty": "Both B/A captions say example layout, not a Kerrisdale client's garage. 8 imgs, 8 unique alts, width/height match files. All 15 image URLs return 200 live.",
+      "on_page_checklist": {
+        "title": "Garage Organization Kerrisdale, Vancouver | GarageScape (55 chars)",
+        "meta_description": "~160 chars",
+        "canonical": "https www",
+        "og_twitter_image": "images/vancouver-garage-parking-after.jpg (exists)",
+        "h1_count": 1,
+        "schema": "Service + LocalBusiness provider (549/899/1800 copied from Vancouver org pages), BreadcrumbList, FAQPage (6, matches visible); all parse",
+        "links_out": "index.html (frozen), garage-storage-solutions-calgary.html (frozen), garage-organization-vancouver, laneway-garage-clearing-vancouver, garage-bike-storage-vancouver, ev-charger, mould, earthquake, storage-solutions-vancouver, cleanout-vancouver, decluttering-vancouver, west-vancouver, burnaby, services hub; 0 broken",
+        "links_in": "garage-services-vancouver.html (hub related card), garage-organization-vancouver.html (Kerrisdale chip now a link), laneway-garage-clearing-vancouver.html (Kerrisdale chip now a link)",
+        "sitemap": "sitemap-vancouver.xml (30 locs, added once, lastmod 2026-10-28); sitemap-index lastmod bumped"
+      },
+      "deploy": "Cloud git push still 403. GitHub web upload via Chrome (7 files) on top of c6253ad, commit 0aec8e2, tree identical to local. Live ~90 s: page 200 and md5-identical; all image URLs 200; homepage 200.",
+      "indexing": {
+        "todays_page": "FAILED: QUOTA EXCEEDED on the first request (~16:30 UTC). Pre-request status 'URL is not on Google: URL is unknown to Google', no referring sitemap. Not retried. Screenshot taken.",
+        "status": "pending-manual",
+        "mitigation": "Resubmitted https://www.garagescape.ca/sitemap-vancouver.xml (Submitted Oct 28, 2026; Success).",
+        "quota_diagnosis": "calgary-cleaning routine made 5 accepted requests at ~07:45 UTC today; quota was gone by 16:30 UTC. Both routines (plus possibly ~/gsc-driver) share the property's daily allowance. Suggest giving each routine a fixed share or moving all requests to one routine.",
+        "inspected_only": [
+          {
+            "url": "https://www.garagescape.ca/garage-organization-priddis.html",
+            "status": "Discovered - currently not indexed; sitemap-index + sitemap.xml"
+          },
+          {
+            "url": "https://www.garagescape.ca/garage-organization-auburn-bay.html",
+            "status": "INDEXED (URL is on Google). Removed from backlog."
+          },
+          {
+            "url": "https://www.garagescape.ca/garage-organization-anmore-belcarra.html",
+            "status": "Discovered - currently not indexed"
+          }
+        ],
+        "counts_overview": {
+          "date": "2026-10-28",
+          "indexed": 37,
+          "not_indexed": 73,
+          "source": "GSC Overview chart (unchanged vs 10-26; full Pages count not due)"
+        },
+        "pending_manual_urls": [
+          "https://www.garagescape.ca/garage-organization-kerrisdale.html",
+          "https://www.garagescape.ca/garage-organization-seton.html",
+          "https://www.garagescape.ca/garage-organization-priddis.html",
+          "https://www.garagescape.ca/garage-organization-anmore-belcarra.html",
+          "https://www.garagescape.ca/garage-organization-west-vancouver.html",
+          "https://www.garagescape.ca/garage-decluttering-calgary.html",
+          "https://www.garagescape.ca/hoarding-garage-cleanup-calgary.html",
+          "https://www.garagescape.ca/post-renovation-garage-cleanup-calgary.html"
+        ]
+      },
+      "backlog_status": {
+        "garage-organization-auburn-bay.html": "INDEXED 2026-10-28, removed",
+        "remaining_pending": "8 URLs incl. today's page"
+      },
+      "backfilled": {
+        "page": "garage-organization-elbow-park.html (Calgary)",
+        "reason": "No Vancouver-market page needs backfill (all have 3+ images and valid og:image), so took the Calgary page matching today's Mount Royal/Elbow Park cleanout page.",
+        "added": [
+          "custom-shelving-installation.jpg (hero)",
+          "garage-organization-before-after-1.jpg / okotoks-garage-decluttering.jpg (B/A pair, illustration caption)",
+          "before-after-3.jpg (inline, overhead racks)"
+        ],
+        "og_image": "og:image + twitter:image repointed from missing calgary-garage-organization.jpg to custom-shelving-installation.jpg",
+        "title_url_canonical": "unchanged"
+      },
+      "rankings": {
+        "method": "4 WebSearch queries (US-located, non-localized); directional only.",
+        "garage organization vancouver": "not visible (Handyman Connection, HAVAN Garage Living/Clever Quarters, Homestars, Houzz, Garage Experts WA). FLAT vs 10-24.",
+        "garage cleaning vancouver": "not visible (Edenflo, BBB, Hellamaid, Homestars, spam). FLAT vs 10-24.",
+        "garage organization burnaby": "ROTATING. garage-organization-burnaby.html not visible (Heritage Burnaby, Parksy, BBB, US spam). No same-method prior reading.",
+        "garage organization kerrisdale vancouver": "today's page not present (unindexed). BASELINE SET. SERP all real-estate listings."
+      },
+      "technical": "sitemap.xml 64 locs, sitemap-vancouver 30, index 3; all parse, no dups, all map to files. JSON-LD parses and 1 H1 on new page; 0 broken internal links or image paths on changed pages. Homepage 200. Full 14-day sweep still overdue (last 2026-10-10); skipped to stay in scope.",
+      "consolidation_candidates": [
+        {
+          "pages": "garage-organization-vancouver, garage-cleaning-vancouver vs garage-services-vancouver, garage-storage-solutions-vancouver",
+          "status": "carried, DECISION FOR ABHI",
+          "recommendation": "single Vancouver hub as per 10-18 entry"
+        },
+        {
+          "pages": "garage-organization-priddis, garage-organization-anmore-belcarra",
+          "status": "watch",
+          "recommendation": "Still 'Discovered - currently not indexed' ~2 weeks after creation with no accepted request yet; does not meet the 3-requests rule. Re-check after one accepted request."
+        }
+      ],
+      "images_needed": [
+        "REAL photo: a narrow 1920s-30s detached lane garage behind a Vancouver character house, before and after",
+        "REAL photo: a hockey bag drying station in a garage",
+        "REAL photo: a cargo bike / e-bike parking and charging spot in a garage",
+        "REAL Calgary project photos (carried)"
+      ],
+      "next_targets": [
+        "BLOCKER: GSC quota shared between routines; submit pending-manual URLs by hand (Kerrisdale, Seton, West Vancouver first).",
+        "Next Vancouver: another West Side community with its own angle (Dunbar-Southlands or Point Grey) only if Kerrisdale gets indexed; otherwise Shaughnessy (First Shaughnessy heritage area) or switch to upgrade mode on garage-organization-vancouver.",
+        "Next Calgary (this routine): upgrade garage-organization-north-calgary or new Airdrie organization page if not yet built.",
+        "Overdue: 14-day full site sweep."
+      ],
+      "flags": [
+        "BLOCKER: GSC quota exceeded on first request; Kerrisdale page pending-manual (push sent).",
+        "GOOD NEWS: garage-organization-auburn-bay.html is now indexed.",
+        "NO DROP: Vancouver tracking queries flat (not visible in non-localized tool)."
+      ]
     }
   ]
 }
