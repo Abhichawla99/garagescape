@@ -4514,6 +4514,134 @@
         "GOOD NEWS: garage-organization-auburn-bay.html is now indexed.",
         "NO DROP: Vancouver tracking queries flat (not visible in non-localized tool)."
       ]
+    },
+    {
+      "date": "2026-10-29",
+      "weekday": "Thursday",
+      "market": "calgary-cleaning",
+      "mode": "new-page",
+      "action": "created",
+      "page": "acreage-garage-cleanout-bearspaw-springbank.html",
+      "keyword": "acreage garage cleanout Bearspaw (also acreage cleanout Springbank, shop/quonset cleanout Rocky View County)",
+      "buyer": "Bearspaw / Springbank / Elbow Valley acreage owner, or family clearing a parent's acreage before sale, with an attached garage plus a shop, quonset, sea-can or barn to empty in one booking.",
+      "why_this_target": "Tier 2, #1 in the last two calgary-cleaning runs' next_targets. No cleaning page targeted acreages (only org-side garage-organization-bearspaw and passing mentions on hoarding/post-reno/Cochrane pages). No other task had touched cleaning pages today (HEAD cab53f9 at pull = 10-28 Vancouver Kerrisdale run).",
+      "competitive_gap_found": "SERP 'acreage garage cleanout bearspaw' (gl=ca, 2026-10-29): #1 garagescape.ca homepage (snippet 'Bearspaw Acreage & estate services', $199/$299), #2 Junk Direct Bearspaw page (town-name swap, no disposal specifics), Big Timber acreage cleanout ('Missing: garage'), Sheep River Landscaping (yard garbage), Garage Clean Pro / garagecleanoutcalgary / Mighty Junk ('Missing: bearspaw'), BinsNow Bearspaw bins; ad 1-800-GOT-JUNK. 'acreage cleanout springbank calgary': landscapers, Junk Direct Springbank, JUSTJUNK, no garage/shop page. Nobody covers multiple outbuildings, septic/well access, deer mice in quonsets, Rocky View County transfer-site rules or the residential-only split.",
+      "people_also_ask_used": [
+        "How much does it cost to remove junk in Calgary? (answered as acreage cost factors)",
+        "How much does the dump cost in Calgary? (answered with RVC + City rates)",
+        "What is the minimum price for junk removal?",
+        "How much to clean and organize a garage? (answered as cleanout vs organization)",
+        "Derived from RVC research: ammunition disposal; empty pesticide containers; can you work while we're away",
+        "Not used: move-out clean cost, 24x24 garage build cost, Calgary garage permits (off-topic)"
+      ],
+      "research": {
+        "rvc_fees": "rockyview.ca/services/waste-and-recycling/fees-and-tickets (read 2026-10-29): bulk waste $50/half-ton load, furniture $22/item, refrigerant $23/compressor, non-freon appliance $10, non-resident $25/visit, untreated wood $33/half-ton (Irricana only).",
+        "springbank_transfer_site": "rockyview.ca springbank-transfer-site page (read): 32190 Twp Rd 245; residential drop-off only, no commercial material; winter hours Nov 1-Mar 31 Wed & Sat 9-5; accepts tires with/without rims, used oil/gear oil/hydraulic/antifreeze/filters, paint & aerosol paint, batteries, bulbs/tubes, e-waste, propane <=30 lb, fire extinguishers, grain bags rolled+twine, twine clean in clear bags, rolled wire, branches <6 in May-Oct; HHW not accepted. Page is internally inconsistent on oil ('will be included at a later date'); page says oil accepted.",
+        "rvc_hhw": "rockyview.ca/hhw (read): year-round HHW at Bragg Creek, Langdon, Irricana, Cochrane, Airdrie; 2026 roundups incl. Bearspaw Chuck Wagon 25240 Nagway Rd Sept 23; ammunition/explosives/asbestos/PCBs not accepted, ammunition to fire/police/RCMP.",
+        "rvc_ag": "rockyview.ca special-collection-programs (read): Bragg Creek, Springbank, Springhill, Irricana, Langdon, Airdrie accept Ag materials year-round. SERP snippets: unused labelled pesticides accepted at Ag Roundups; empty chemical containers no longer accepted, return to retailer (2024 news).",
+        "hantavirus": "Reused 2026-10-26 alberta.ca figures (81 cases, 15 deaths since 1989; 30 min ventilation, 1:9 bleach soak 5 min, no sweeping/vacuuming, Health Link 811).",
+        "general_knowledge_not_reverified": "PCB ballasts in pre-~1980 fluorescent fixtures; seasonal spring weight restrictions on County roads (phrased 'many County roads'); Bearspaw/Springbank geography."
+      },
+      "custom_elements": [
+        "Building-by-building table (attached triple garage, heated shop, quonset/pole barn, sea-can, barn tack/feed room) with typical contents and what slows each one",
+        "Acreage yard access checklist: septic field and wellhead, gate/cattle guard/turnaround, spring thaw and County road restrictions, winter path ploughing, animals and gates, blocked building doors",
+        "Deer-mouse first-hour protocol for closed outbuildings from Alberta guidance",
+        "Fuel/chemicals/ammunition set-aside list with RVC destinations (ammo to RCMP, fuel to year-round HHW sites, PCB ballast note, propane 30 lb limit)",
+        "'Your transfer-site run, our truck' split-load table with Springbank Transfer Site free items and 2026 County fees, built on the residential-only rule",
+        "Farm materials prep rules (twine in clear bags, grain bags rolled, wire rolled, empty pesticide containers to retailer, branches seasonal)"
+      ],
+      "word_count": 2790,
+      "images_used": [
+        "vancouver-garage-workbench-before.jpg (+640, first inline figure, fetchpriority high; og/twitter image)",
+        "vancouver-double-garage-before.jpg (+640, split-load section)"
+      ],
+      "image_honesty": "Both are generic illustration images (Vancouver-named files); captions say 'Illustration, not a client's shop/garage'. No acreage, quonset or sea-can photo exists in /images. All 4 image URLs return 200 live.",
+      "on_page_checklist": {
+        "title": "Acreage Garage & Shop Cleanout | Bearspaw, Springbank (53 chars)",
+        "meta_description_chars": 153,
+        "canonical": true,
+        "h1_count": 1,
+        "schema": "Service + LocalBusiness provider, BreadcrumbList, FAQPage (7 Q, matches visible FAQ); all parse",
+        "links_out": "20 unique internal pages",
+        "links_in": [
+          "index.html services card + footer",
+          "garage-cleanout-calgary.html related card",
+          "hoarding-garage-cleanup-calgary.html (indexed) cost-factor line",
+          "estate-garage-cleanout-calgary.html acreage estates paragraph",
+          "post-renovation-garage-cleanup-calgary.html access line",
+          "garage-decluttering-cochrane.html acreage paragraph",
+          "garage-cleanout-mount-royal-calgary.html footer"
+        ],
+        "sitemap": "sitemap.xml lastmod 2026-10-29; sitemap-index.xml sitemap.xml lastmod bumped"
+      },
+      "deploy": "Pushed fba62d4; live URL 200 with correct title ~2 min later; page viewed in Chrome.",
+      "indexing": {
+        "site_check": "robots.txt loads in Chrome.",
+        "session": "GSC signed in.",
+        "requests": [
+          {
+            "url": "https://www.garagescape.ca/garage-decluttering-calgary.html",
+            "pre_status": "URL is on Google (indexed)",
+            "result": "not requested; removed from backlog"
+          },
+          {
+            "url": "https://www.garagescape.ca/hoarding-garage-cleanup-calgary.html",
+            "pre_status": "URL is on Google (indexed)",
+            "result": "not requested; removed from backlog"
+          },
+          {
+            "url": "https://www.garagescape.ca/garage-organization-seton.html",
+            "pre_status": "URL is on Google (indexed)",
+            "result": "not requested; removed from backlog"
+          },
+          {
+            "url": "https://www.garagescape.ca/post-renovation-garage-cleanup-calgary.html",
+            "pre_status": "URL is unknown to Google; no referring sitemaps",
+            "result": "INDEXING REQUESTED"
+          },
+          {
+            "url": "https://www.garagescape.ca/garage-organization-priddis.html",
+            "pre_status": "Discovered - currently not indexed",
+            "result": "INDEXING REQUESTED"
+          },
+          {
+            "url": "https://www.garagescape.ca/garage-organization-anmore-belcarra.html",
+            "pre_status": "Discovered - currently not indexed",
+            "result": "INDEXING REQUESTED"
+          },
+          {
+            "url": "https://www.garagescape.ca/garage-organization-west-vancouver.html",
+            "pre_status": "URL is on Google (indexed)",
+            "result": "not requested; removed from backlog"
+          },
+          {
+            "url": "https://www.garagescape.ca/garage-organization-kerrisdale.html",
+            "pre_status": "URL is on Google (indexed)",
+            "result": "not requested; removed from backlog"
+          },
+          {
+            "url": "https://www.garagescape.ca/acreage-garage-cleanout-bearspaw-springbank.html",
+            "pre_status": "URL is unknown to Google (new today)",
+            "result": "INDEXING REQUESTED after deploy"
+          }
+        ],
+        "status": "4 of 4 requests accepted, no quota errors. 5 backlog URLs found already indexed.",
+        "pending_manual_urls": []
+      },
+      "flags": [
+        "CONFIRM WITH ABHI: page commits to: keeping the truck off septic fields and away from wellheads (carrying further instead), a 30-minute air-out and soak-not-sweep protocol in closed outbuildings, stopping and leaving ammunition/firearms in place without transporting them, staging tires/oil/farm plastics for the owner's own County run (split load), not opening unlabelled jars, setting aside pre-1980 fluorescent fixtures, and taking the County items ourselves on request.",
+        "COMMERCIAL RULE: RVC transfer sites say residential drop-off only, no commercial material. Page tells owners the free items need their own run. Abhi to confirm where GarageScape's truck actually dumps acreage loads; page only quotes City rates 'for comparison'.",
+        "HOMEPAGE SNIPPET: Google shows the homepage for this query with 'Same-day garage cleanout. Bearspaw Acreage & estate services. Garage decluttering starts at $199. Full cleanouts ... $299'. Pricing conflict with $349 (carried) still unresolved; new page uses no GarageScape prices.",
+        "Insurance/WCB still not on any cleaning page (carried); acreage and estate buyers ask.",
+        "Image gap: no acreage/shop/quonset photo in /images. A real shop or quonset job photo would strengthen this page."
+      ],
+      "next_targets": [
+        "1. Car-collector / show-garage cleaning and epoxy floor maintenance (Tier 2 luxury); check overlap with garage-floor-cleaning-calgary first.",
+        "2. Aspen Woods / Springbank Hill front-drive triple-garage cleanout (Tier 2), only with an angle distinct from Mount Royal lanes and today's acreage page.",
+        "3. Sunday 11-01: strengthen garage-floor-cleaning-calgary (pressure washing, oil stains) instead of a new page.",
+        "4. Heritage Pointe / Pump Hill estate-style cleanout if SERP shows no local competitor.",
+        "Skip for now: same-day garage junk removal Calgary (franchise/price-led SERP); fall winterizing queued for Aug 2027."
+      ]
     }
   ]
 }
