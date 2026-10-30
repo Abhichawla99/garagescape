@@ -4642,6 +4642,145 @@
         "4. Heritage Pointe / Pump Hill estate-style cleanout if SERP shows no local competitor.",
         "Skip for now: same-day garage junk removal Calgary (franchise/price-led SERP); fall winterizing queued for Aug 2027."
       ]
+    },
+    {
+      "date": "2026-10-30",
+      "weekday": "Friday",
+      "market": "calgary-cleaning",
+      "mode": "new-page",
+      "action": "created",
+      "page": "epoxy-garage-floor-cleaning-calgary.html",
+      "keyword": "epoxy garage floor cleaning Calgary (also polyaspartic / coated / show garage floor cleaning)",
+      "buyer": "Owner of a coated (epoxy, polyaspartic, flake) garage floor, often with a collector or stored car, whose floor now shows brine rings, calcium chloride haze, pickle grit scratches and tire marks; wants it cleaned without dulling the coating or voiding the installer warranty.",
+      "why_this_target": "#1 in last run's next_targets (car-collector / show-garage / epoxy floor maintenance, Tier 2 luxury). Overlap checked: garage-floor-cleaning-calgary is bare-concrete (hot water, oxalic, rotary surface cleaner, poultice) and says coatings need different handling; the new page is the coated-floor counterpart and the floor page now links to it. No other task touched the repo today (HEAD b70a098 at pull).",
+      "competitive_gap_found": "SERP 'epoxy garage floor cleaning calgary' (gl=ca, 2026-10-30): local pack AK Epoxy, Shark Epoxy, Zone Garage (all installers); organic akepoxy, Garage Living Floortex ('Missing: epoxy'), Garage Floors 4 Less ad, garagescape garage-floor-cleaning-calgary (bare-concrete page, 'From $179'), thegaragestore DIY tips, EverLine (commercial), CertaPro, Garage Granite, Deluxe Concrete, Concrete Inspirations. Nobody sells cleaning or maintenance of an existing coated floor. Related searches include 'professional epoxy garage floor cleaning calgary', '... cost', '... price'. 'show garage cleaning service calgary car collector': homepage #1, High Torque detail garage (cars, not floors), Silvertip (parking lots), nobody on show-garage floors.",
+      "people_also_ask_used": [
+        "Is it okay to pressure wash an epoxy garage floor?",
+        "What is the best way to clean an epoxy garage floor?",
+        "What is the best cleaner for garage epoxy floors?",
+        "Can you use Dawn dish soap to clean epoxy floors?",
+        "What is the downside of an epoxy garage floor?",
+        "What do epoxy floors look like after 5 years?",
+        "From collector SERP: Is it legal to wash your car at home in Calgary?",
+        "How much does it cost (answered as cost factors). Not used: How much do people charge to epoxy garage floors? (installation, off-scope)"
+      ],
+      "research": {
+        "calgary_salt_plan": "calgary.ca/roads/conditions/snow-ice-salt (read 2026-10-30): 0 to -14 C road surface -> rock salt and salt brines; below -15 C with colder forecast -> Pickle (3% salt, 97% gravel) and liquid calcium chloride; materials include salt, chloride and beet brines; ~40,000-50,000 tonnes road salts annually.",
+        "stormwater_bylaw": "calgary.ca/bylaws/car-washing (read): Stormwater Bylaw 37M2005, only water may enter storm sewers, all soaps/detergents prohibited incl. biodegradable, specified fine $3,000 for soap car wash on street. calgary.ca drainage-bylaw-faq (read): fines $75 to $10,000 and/or remedial orders; commercial car washes drain to wastewater treatment.",
+        "coating_care": "coated.ca Canadian homeowner guide (read, May 2026): pressure washer below 1,500 PSI, wide fan, keep moving, avoid edges/damaged areas; pH-neutral or mild dish soap; avoid acids/bleach/repeated citrus solvents; steel wool and hard scrapers scratch; rubber-backed mats can stain lighter coatings; tire plasticiser staining; calcium/magnesium chloride dull the surface; late-Nov and April rinses; polyaspartic/polyurea resist hot tire pickup better.",
+        "site_source": "blog/epoxy-garage-flooring-calgary.html lifespan figures (DIY kit 3-5 yrs, pro 100% solids + PU topcoat 12-20 yrs) reused in the 5-year FAQ and attributed to that guide."
+      },
+      "word_count": 2860,
+      "images_used": [
+        "vancouver-garage-floor-after.jpg (+640, first figure, fetchpriority high; og/twitter image) - grey speckled coated floor with control joints",
+        "vancouver-garage-floor-before.jpg (+640) - oily bare concrete, used as the 'this is not a coated floor' contrast"
+      ],
+      "image_honesty": "Both captioned 'Illustration, not a client's garage.' Alt text describes what is actually in each file (viewed before use). Both and their -640 variants exist; live URLs return 200. No coated-floor job photo exists in /images; a real Calgary coated floor before/after would help.",
+      "custom_elements": [
+        "Coated vs sealed vs bare two-minute water-drop check table routing to the right service page",
+        "Calgary road material table from the City salt plan (rock salt/brine, liquid calcium chloride, Pickle, chinook melt, summer tire plasticiser) with what each looks like on a coating and how it comes off",
+        "'Your installer's care sheet comes first' warranty checklist",
+        "'Where the rinse water goes' section built on Stormwater Bylaw 37M2005 (soap prohibited, $3,000 fine, $75-$10,000 range), wet-vac pickup to sanitary drain, floor-drain caution",
+        "Collector cars / lifts / non-running car house rules",
+        "Two-cleans-a-year Calgary timing plan (pre-storage Oct-Nov, owner winter upkeep, April-May after the last Pickle, pre-listing)",
+        "Post-clean coating condition note (door-edge peeling, chips, dull tire lanes, scratches through topcoat)"
+      ],
+      "on_page_checklist": {
+        "title": "Epoxy Garage Floor Cleaning Calgary | Coated Floors (51 chars)",
+        "meta_description_chars": 156,
+        "canonical": true,
+        "h1_count": 1,
+        "em_dashes": 0,
+        "jsonld": "Service + LocalBusiness provider, BreadcrumbList, FAQPage (8 Q, identical to visible FAQ); all parse; no ratings/reviews",
+        "links_out_contextual": [
+          "garage-floor-cleaning-calgary.html",
+          "garage-cleaning-calgary.html",
+          "garage-cleanout-calgary.html",
+          "garage-cleanout-before-selling-calgary.html",
+          "spring-garage-cleanout-calgary.html",
+          "post-renovation-garage-cleanup-calgary.html",
+          "acreage-garage-cleanout-bearspaw-springbank.html",
+          "garage-cleanout-mount-royal-calgary.html",
+          "garage-storage-solutions-calgary.html",
+          "services/flooring.html",
+          "blog/epoxy-garage-flooring-calgary.html",
+          "garage-organization-aspen-woods.html",
+          "garage-organization-springbank-hill.html"
+        ],
+        "links_in": [
+          "garage-floor-cleaning-calgary.html (new paragraph after 'Cleaning First, Then Sealing')",
+          "garage-cleaning-calgary.html (new related feature card)",
+          "blog/epoxy-garage-flooring-calgary.html (maintenance paragraph)",
+          "index.html footer Services list",
+          "footer 'Calgary Services' lists on 8 cleaning pages (cleanout, estate, hoarding, post-reno, before-selling, Mount Royal, acreage)"
+        ],
+        "not_touched": "garage-organization-calgary.html footer link was added by script then reverted (org-side page, scope guard). index.html has no cleaning-service card in the grid, so the page went in the footer list only.",
+        "sitemap": "sitemap.xml once, lastmod 2026-10-30; sitemap-index.xml sitemap.xml lastmod bumped"
+      },
+      "deploy": "Pushed 7ce046d; live 200 within ~15 s; verified in Chrome (title, H1, 8 FAQs).",
+      "indexing": {
+        "site_check": "robots.txt loads in Chrome at ~01:17 MDT.",
+        "session": "GSC signed in.",
+        "requests": [
+          {
+            "url": "https://www.garagescape.ca/estate-garage-cleanout-calgary.html",
+            "pre_status": "URL is on Google (indexed)",
+            "result": "not requested"
+          },
+          {
+            "url": "https://www.garagescape.ca/garage-cleanout-before-selling-calgary.html",
+            "pre_status": "URL is on Google (indexed)",
+            "result": "not requested"
+          },
+          {
+            "url": "https://www.garagescape.ca/spring-garage-cleanout-calgary.html",
+            "pre_status": "Discovered - currently not indexed; sitemap-index + sitemap.xml; referring page blog/five-easy-garage-organization-calgary.html",
+            "result": "QUOTA EXCEEDED on first request (~01:21 MDT). Not retried."
+          },
+          {
+            "url": "https://www.garagescape.ca/garage-cleanout-mount-royal-calgary.html",
+            "pre_status": "URL is on Google (indexed)",
+            "result": "inspected only"
+          },
+          {
+            "url": "https://www.garagescape.ca/post-renovation-garage-cleanup-calgary.html",
+            "pre_status": "URL is on Google (indexed)",
+            "result": "inspected only"
+          },
+          {
+            "url": "https://www.garagescape.ca/acreage-garage-cleanout-bearspaw-springbank.html",
+            "pre_status": "URL is on Google (indexed, 1 day after request)",
+            "result": "inspected only"
+          },
+          {
+            "url": "https://www.garagescape.ca/epoxy-garage-floor-cleaning-calgary.html",
+            "pre_status": "new today",
+            "result": "not requested (quota gone)"
+          }
+        ],
+        "status": "Quota already exhausted at ~01:21 MDT, before this run's first request. Something else used the property's daily allowance earlier than usual.",
+        "pending_manual_urls": [
+          "https://www.garagescape.ca/spring-garage-cleanout-calgary.html",
+          "https://www.garagescape.ca/epoxy-garage-floor-cleaning-calgary.html"
+        ]
+      },
+      "flags": [
+        "BLOCKER: GSC quota was gone by ~01:21 MDT on the first request. Another routine (or ~/gsc-driver) ran earlier than 1:30 AM tonight. Consider moving this run earlier or giving each routine a fixed share.",
+        "GOOD NEWS: Mount Royal, post-reno and acreage cleaning pages all indexed; estate and before-selling confirmed indexed.",
+        "CONFIRM WITH ABHI: page commits to asking for the installer care sheet and following it, spot-testing cleaner under shelving, no acids/bleach/steel wool/narrow tips on coatings, pressure washer only if the care sheet allows (<1,500 PSI, wide fan), soapy and final rinse water picked up by wet-vac and emptied to a sanitary drain the owner picks, no cleaner down a floor drain of unknown destination, crew never drives client cars or operates lifts, and a written condition note with photos after each job.",
+        "needs real pricing from Abhi: competitors publish nothing for coated-floor cleaning; a 'from $X' for a coated double would help. Page has no GarageScape prices. Bare-concrete page shows from $179/$249/$399.",
+        "CONSISTENCY: garage-floor-cleaning-calgary says 'We don't sell coatings' while services/flooring.html describes grinding and coating. New page says only that the cleaning crew doesn't patch or recoat and links to services/flooring.html for installation. Abhi to confirm whether GarageScape installs coatings.",
+        "Insurance/WCB still not on any cleaning page (carried).",
+        "PRICING CONFLICT (carried): homepage 'Starting at $299' vs garage-cleanout-calgary 'from $349'.",
+        "Image gap: no real coated-floor photo in /images."
+      ],
+      "next_targets": [
+        "1. Sunday 11-01: strengthen spring-garage-cleanout-calgary (stuck 'Discovered - currently not indexed'); weakest Calgary cleaning page by GSC status. Also link it from the indexed floor and cleanout pages.",
+        "2. Aspen Woods / Springbank Hill front-drive triple-garage cleanout (Tier 2), angle distinct from Mount Royal lanes and the acreage page (HOA/architectural guidelines, no lane, bin on the driveway).",
+        "3. Heritage Pointe / Pump Hill estate-style cleanout if the SERP shows no local competitor.",
+        "4. Garage pressure washing Calgary (driveway apron + floor) only if it can be split cleanly from garage-floor-cleaning-calgary; otherwise fold into a Sunday strengthen.",
+        "Skip for now: same-day garage junk removal Calgary (franchise/price-led SERP); fall winterizing queued for Aug 2027; spring post-winter grit push Feb 2027."
+      ]
     }
   ]
 }
