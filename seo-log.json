@@ -4781,6 +4781,113 @@
         "4. Garage pressure washing Calgary (driveway apron + floor) only if it can be split cleanly from garage-floor-cleaning-calgary; otherwise fold into a Sunday strengthen.",
         "Skip for now: same-day garage junk removal Calgary (franchise/price-led SERP); fall winterizing queued for Aug 2027; spring post-winter grit push Feb 2027."
       ]
+    },
+    {
+      "date": "2026-10-31",
+      "weekday": "Saturday",
+      "market": "calgary-cleaning",
+      "mode": "new-page",
+      "action": "created",
+      "page": "garage-cleanout-aspen-woods-springbank-hill.html",
+      "keyword": "garage cleanout Aspen Woods / Springbank Hill / West Springs (also junk removal Aspen Woods, clear garage for trailer winter Calgary)",
+      "buyer": "Owner of a 1999-2005 front-drive house in Aspen Woods, Springbank Hill or West Springs with a boat, camper or trailer that has to come off the front driveway on November 1, and a third or tandem bay full of 20 years of family storage.",
+      "why_this_target": "#2 in last run's next_targets (Tier 2 affluent west end, angle distinct from Mount Royal lanes and the acreage page). #1 was a Sunday task; today is Saturday. Timing: City of Calgary bans RVs/trailers/boats on front driveways from Nov 1 to Mar 31, so the buying moment is this week. Overlap checked: garage-organization-aspen-woods/-springbank-hill/-west-springs are organization pages owned by the other task (linked to, not edited). The only other commit today was the organization task's south-calgary upgrade (232f366, 10-30).",
+      "competitive_gap_found": "'garage cleanout aspen woods calgary' (gl=ca, 2026-10-31): GarageScape homepage #1; local pack The Garage Guys, Happy Panda, Calgary Junk Removal; organic garagecleanoutcalgary.com, freshstartpropertyservices, happypandajunk, Taskrabbit, cleangaragecompany (Cochrane), redstonejunk, mightyjunk, localladsjunkremoval. Every organic result shows 'Missing: aspen woods'. 'garage cleaning service springbank hill west springs calgary': same, plus our acreage page ('Missing: hill'). 'junk removal aspen woods calgary': threenorthclean and bepservices have thin service-area mentions only; nobody covers the Nov 1 driveway rule or front-drive logistics.",
+      "people_also_ask_used": [
+        "How much to clean and organize a garage? / How much does it cost to clean and organize a garage? (answered as cost factors + City rates)",
+        "How much does it cost to use the dump in Calgary?",
+        "How to get rid of garage clutter?",
+        "How often should you clean the garage?",
+        "From City RV bylaw FAQ: How long can I park my RV on my front driveway? / Where else on my property can I park my RV?",
+        "Buyer questions: Do I need to be home? Will you move the trailer in?",
+        "Not used: How much does a move-out clean cost (house cleaning), Where can seniors get free hoarding help (off-angle), What is the minimum charge for junk removal (would need real pricing)"
+      ],
+      "research": {
+        "rv_bylaw": "calgary.ca/bylaws/recreational-vehicles.html (read 2026-10-31): RV = motor homes, trailers, campers, boats; Community Standards + Traffic Bylaws; fines $400-$10,000. Apr 1-Oct 31: front driveway 3 consecutive days then off 48 h, nothing within 1 m of sidewalk; no street parking if you have a front driveway. Nov 1-Mar 31: no front-driveway parking; street 3 days then off-site 48 h. Detached trailers/campers never on streets or alleys. Land Use Bylaw allows side yard setback/back yard, no time limit, sight lines. Complaints via 311.",
+        "carts": "calgary.ca SERP snippets (2026-10-31): carts out by 7 a.m., not before 7 p.m. the day before, in by 7 p.m.; black cart ~4 bags; green cart every other week from week of Nov 2; no items >1.25 m or >20 kg; no automobile waste incl. tires and batteries.",
+        "communities": "Wikipedia (read): Aspen Woods est. 2001, annexed 1956, 2021 pop 9,435, 3.1 people/household 'among the largest', 77% single-detached (City Community Profile 2023); Springbank Hill est. 1999, annexed 1994, bounded 17 Ave SW / Stoney Trail / 69 St SW / 101 St SW, Ernest Manning HS; West Springs est. 2001, annexed 1995, formerly East Springbank in MD of Rocky View, West Springs Elementary (2010), West Ridge School (2017).",
+        "car_seats": "tc.canada.ca (SERP, Sept 2026): don't use past expiry/useful life date; canada.ca second-hand car seat page: don't use if history unknown.",
+        "reused_verified": "City landfill rates 2026 ($113/t garbage, $25 <250 kg, $90/t drywall and clean wood, $113/t scrap, $17 refrigerant), HHW free up to 20 L/visit, ReStore donation rules, street use permit (driveway = private property) from 10-27/10-28 runs.",
+        "general_knowledge_not_reverified": "City landfills are NW (Spyhill) and SE (East Calgary, Shepard), none in the west end; some hillside lots with sloped driveways."
+      },
+      "word_count": 3299,
+      "images_used": [
+        "vancouver-garage-parking-before.jpg (+640; og/twitter image, fetchpriority high)",
+        "vancouver-garage-parking-after.jpg (+640)"
+      ],
+      "image_honesty": "Both captioned 'Illustration, not a client's garage', and the caption says it's a detached garage, not an Aspen Woods attached triple. Alt text written after viewing both files. Paths verified locally and live. No west-end attached triple-garage photo exists in /images; a real Calgary job photo with a trailer bay would help.",
+      "custom_elements": [
+        "Nov 1 to Mar 31 RV/boat/trailer parking table from the City bylaw page (driveway, street, detached trailer, side yard, garage by season) with fines and 311 complaint route",
+        "'Will it fit?' third-bay measuring checklist before booking (door height at opener rail, length with tongue/motor, height on trailer, ceiling racks/opener, posts/steps, backing-in geometry)",
+        "Front-drive loading plan: truck on driveway (no permit), no overnight driveway pile, 7 p.m./7 a.m./7 p.m. cart rules and the Nov 2 green-cart change, school drop-off timing (West Springs Elementary, West Ridge, Ernest Manning), ice on sloped drives",
+        "Builder's leftovers keep/donate/dispose table for 1999-2005 houses (colour-coded paint, spare shingles/siding for hail repairs, unopened tile/flooring, manuals and remotes)",
+        "Two-pass sort for large households (3.1 people/household) with photo piles sent for absent family members, plus car-seat and tire disposal rules",
+        "Front-drive cost-factor table (no GarageScape prices)"
+      ],
+      "on_page_checklist": {
+        "title": "Garage Cleanout Aspen Woods & Springbank Hill | Calgary (55)",
+        "meta_description_chars": 149,
+        "h1": 1,
+        "og_twitter": true,
+        "schema": "Service with LocalBusiness provider + BreadcrumbList + FAQPage (8 Qs, identical to visible FAQ); JSON-LD parses",
+        "em_dashes": 0,
+        "banned_words": 0,
+        "internal_links_out": "17 unique internal pages linked from body/FAQ/related/footer",
+        "inbound_links_added": [
+          "index.html services list + footer",
+          "garage-cleanout-calgary.html (new paragraph in winter section, related card, footer)",
+          "garage-cleanout-mount-royal-calgary.html (contextual sentence + footer)",
+          "acreage-garage-cleanout-bearspaw-springbank.html (contextual sentence + footer)",
+          "epoxy-garage-floor-cleaning-calgary.html (footer)"
+        ],
+        "sitemap": "added to sitemap.xml lastmod 2026-10-31"
+      },
+      "deploy": {
+        "commit": "59fa086",
+        "live_check": "200 within ~90 s; loaded in Chrome, H1, table and both images render"
+      },
+      "indexing": {
+        "site_check": "robots.txt loads in Chrome at ~01:18 MDT.",
+        "session": "GSC signed in.",
+        "requests": [
+          {
+            "url": "https://www.garagescape.ca/spring-garage-cleanout-calgary.html",
+            "pre_status": "Discovered - currently not indexed; sitemap-index + sitemap.xml; referring page blog/hire-vs-diy-garage-organization-calgary.html",
+            "result": "QUOTA EXCEEDED on first request (~01:20 MDT). Not retried."
+          },
+          {
+            "url": "https://www.garagescape.ca/epoxy-garage-floor-cleaning-calgary.html",
+            "pre_status": "Discovered - currently not indexed; referring page sitemap.xml",
+            "result": "inspected only (quota gone)"
+          },
+          {
+            "url": "https://www.garagescape.ca/garage-cleanout-aspen-woods-springbank-hill.html",
+            "pre_status": "new today",
+            "result": "not requested (quota gone)"
+          }
+        ],
+        "status": "Second night running the quota was already gone before this run's first request (~01:20 MDT).",
+        "pending_manual_urls": [
+          "https://www.garagescape.ca/spring-garage-cleanout-calgary.html",
+          "https://www.garagescape.ca/epoxy-garage-floor-cleaning-calgary.html",
+          "https://www.garagescape.ca/garage-cleanout-aspen-woods-springbank-hill.html"
+        ]
+      },
+      "flags": [
+        "BLOCKER (2nd night): GSC indexing quota exhausted before ~01:20 MDT. Another routine or ~/gsc-driver is spending it first. Either move this run earlier (e.g. 00:30) or give each routine a fixed share. 3 Calgary cleaning URLs now pending-manual; Abhi can request them by hand.",
+        "CONFIRM WITH ABHI: page commits to: asking for trailer length/height/width and door measurements before booking a trailer-bay cleanout and saying so if it won't fit; crew doesn't tow, back up trailers or drive client vehicles; truck on the driveway, nothing left on the driveway overnight; wheeling carts back in on collection day; timing truck arrival after school drop-off; ice melt and mats from November; asking before throwing out builder leftovers and keeping them in one labelled box; photo piles sent for absent family members with an end-of-day donation deadline; not donating car seats; taking tires on request; no speed promise ('first day we can do it').",
+        "Insurance/WCB still not on any cleaning page (carried). West-end buyers compare against 'licensed & insured' competitors.",
+        "PRICING CONFLICT (carried): homepage 'Starting at $299' / SERP 'decluttering $199' vs garage-cleanout-calgary 'from $349'. New page uses City rates only.",
+        "Image gap: no attached triple-garage or trailer-bay photo in /images.",
+        "garage-cleanout-calgary.html still has em dashes in headings and body (e.g. 'Winter Cleanouts — Yes, Really'); left alone today, candidate for a Sunday clean-up."
+      ],
+      "next_targets": [
+        "1. Sunday 11-01: strengthen spring-garage-cleanout-calgary (still 'Discovered - currently not indexed'): thicken it, link it from the indexed cleanout/floor pages, and remove em dashes.",
+        "2. Heritage Pointe / Pump Hill estate-style cleanout if the SERP shows no local competitor (Tier 2).",
+        "3. Garage pressure washing Calgary (driveway apron + floor) only if it splits cleanly from garage-floor-cleaning-calgary.",
+        "4. Edgemont / Varsity Estates front-drive cleanout only with an angle distinct from today's page (ravine lots, older 1970s-80s houses).",
+        "Skip for now: same-day garage junk removal Calgary (franchise/price-led SERP); fall winterizing queued for Aug 2027; spring post-winter grit push Feb 2027."
+      ]
     }
   ]
 }
