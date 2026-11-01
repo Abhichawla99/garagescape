@@ -23,12 +23,12 @@
     <!-- SEASONAL / HIGH-PRIORITY LANDING PAGE -->
     <url>
         <loc>https://www.garagescape.ca/spring-garage-cleanout-calgary.html</loc>
-        <lastmod>2026-05-08</lastmod>
+        <lastmod>2026-11-01</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.95</priority>
         <image:image>
-            <image:loc>https://www.garagescape.ca/images/spring-garage-cleanout.jpg</image:loc>
-            <image:caption>Spring garage cleanout Calgary - fresh start for spring</image:caption>
+            <image:loc>https://www.garagescape.ca/images/vancouver-double-garage-before.jpg</image:loc>
+            <image:caption>Illustration of a garage full of boxes, bikes, paint cans and a lawn mower before a spring cleanout</image:caption>
         </image:image>
     </url>
 
