@@ -4888,6 +4888,95 @@
         "4. Edgemont / Varsity Estates front-drive cleanout only with an angle distinct from today's page (ravine lots, older 1970s-80s houses).",
         "Skip for now: same-day garage junk removal Calgary (franchise/price-led SERP); fall winterizing queued for Aug 2027; spring post-winter grit push Feb 2027."
       ]
+    },
+    {
+      "date": "2026-11-01",
+      "weekday": "Sunday",
+      "market": "calgary-cleaning",
+      "mode": "sunday-strengthen",
+      "action": "strengthened",
+      "page": "spring-garage-cleanout-calgary.html",
+      "keyword": "spring garage cleanout Calgary (also spring garage cleanout cost Calgary, garage cleanout after winter Calgary)",
+      "buyer": "Calgary homeowner in late March to May whose garage still holds winter tires, the snowblower, ice melt and a winter of road gravel, and who needs the car parked inside before the City sweeps their street and before hail season.",
+      "why_this_target": "Sunday rule, and #1 in the 10-31 next_targets. Page was 'Discovered - currently not indexed' (inspected 2026-11-01, referring page blog/hire-vs-diy-garage-organization-calgary.html), last touched 2026-05-08, and the weakest Calgary cleaning page on trust: 21 em dashes, unsourced stats (500+ cleanouts, 90%, 80%, 100% guarantee), three 'Verified Customer' testimonials with no source, $199/$299/$499 package tiers that conflict with the homepage and cleanout page, a Transformation tier that sold organization installs (off scope), and an AI-rendered showroom image (before-after-1.jpg). Publishing now also meets the Tier 3 rule (indexed well ahead of the Feb-Mar demand).",
+      "competitive_gap_found": "SERP 'spring garage cleanout calgary' (gl=ca, 2026-11-01): #1 garagescape.ca homepage (snippet 'Spring Garage Cleanout Season...'), garagecleaningpro, ironmuleservices, Taskrabbit ($30/hr); ads JUSTJUNK, 1-800-GOT-JUNK; local pack JUSTJUNK, The Junk Man, Happy Panda; then a Facebook post, legacyjunkremoval DIY guide, freshstartpropertyservices, Happy Panda, and the City's Spring Clean-up street cleaning page. The spring page itself isn't ranking. No competitor ties the spring cleanout to street sweeping, winter grit or Calgary disposal routes. 'spring garage cleanout calgary cost': calgarydumprunners 'from $70', our acreage page, Taskrabbit, freshstart 'from $299'; rest is garage-door-spring noise.",
+      "people_also_ask_used": [
+        "How much to clean and organize a garage?",
+        "How do I clear out a garage?",
+        "Can I wash my car in my driveway in Calgary?",
+        "How much to clear out a garage? (as cost factors)",
+        "Where to dispose of yard waste in Calgary? / Does the City pick up yard waste bags? (combined)",
+        "Buyer questions: Do I need to be home? When should I book?",
+        "Not used: How much does a move-out clean cost (house cleaning), How much does a 20x20 garage package cost (would need real pricing)"
+      ],
+      "research": {
+        "street_sweeping": "calgary.ca/roads/maintenance/spring-street-cleaning.html (read 2026-11-01, FAQ expanded): mid-April to July, community sweeping Mon-Fri 8-4, majors overnight; 17,000+ lane km; City says move car to driveway, garage or alley; signs a few days ahead, small 3-ft tow signs 24 h+; e-mail/text alert 24 h before via calgary.ca/sweep; tickets $80 within 10 days / $90 before 30 / $120 after (camera vehicles, by mail); tow/impound; schedule rotates over 3 years; spring snow suspends sweeping; back lanes not swept except hilly paved lanes by mid-June; lane parking 5 m from alley entrance, 3 m clearance, 1.5 m from garage/driveway; swept debris double-bagged, <20 kg, inside black cart.",
+        "green_cart": "calgary.ca SERP snippets 2026-11-01: weekly April-October, every other week from week of Nov 2, weekly resumes April 2027.",
+        "reused_verified": "Salt plan (rock salt/brine to -14 C, Pickle 3% salt/97% gravel + liquid CaCl2 below -15 C) and Stormwater Bylaw 37M2005 ($3,000 soap car wash, soap prohibited) from 10-30 run; landfill $113/t, $25 under 250 kg, mixed-load rule, HHW free up to 20 L, tires/electronics free, Community Cleanups accept/refuse lists and '2027 schedule expected in spring' from estate/aspen-woods runs.",
+        "general_knowledge_not_reverified": "June 13, 2020 NE Calgary hailstorm; ~7 C winter-tire swap rule of thumb; snowblower storage per manual (run dry or stabilizer)."
+      },
+      "word_count": "~3,300 words H1 to CTA (was 2,058, much of it package and testimonial blocks)",
+      "images_used": [
+        "vancouver-double-garage-before.jpg (+640; first figure, fetchpriority high; og/twitter/sitemap image)",
+        "vancouver-garage-efflorescence-before.jpg (+640; floor section)"
+      ],
+      "image_honesty": "Both captioned 'Illustration, not a client's garage.' Efflorescence caption says it's mineral bloom, not road salt, used as a look-alike. Alts written after viewing. Removed before-after-1.jpg (AI showroom render with Gemini mark, organization content). Sitemap image entry pointed at images/spring-garage-cleanout.jpg, which doesn't exist; replaced.",
+      "custom_elements": [
+        "Calgary spring calendar table (chinook melt, green cart back to weekly, City sweeping mid-April to July, spring snow pauses, hilly lanes swept by mid-June, hail season) with what each means for the garage",
+        "Sweep-day section: how you're notified, ticket amounts $80/$90/$120, towing, City naming the garage as where to park, and lane-garage clearance rules (5 m, 3 m, 1.5 m)",
+        "'What the winter left on the floor': Pickle gravel bagged per City debris rules, bonded salt crust handed to the floor-cleaning service, water-damaged cardboard, wet-vac rule under the Stormwater Bylaw",
+        "Winter-to-summer swap table (tires, snowblower, ice melt, shovels, mower, propane, bikes, holiday decor, garden chemicals): if staying vs if leaving",
+        "Free-before-paid spring disposal order, including staging bulky items for a spring Community Cleanup",
+        "Spring cost-factor table (weight of gravel/wet cardboard, free routes, HHW trips, floor wash add-on, deadline, access, sorting)",
+        "Painter's-tape booking checklist (photos, deadline, mark what stays, 15-minute start, car moved out)"
+      ],
+      "h2_skeleton_check": "All old H2s replaced. Compared against garage-cleanout-calgary, garage-floor-cleaning-calgary, garage-decluttering-calgary and garage-cleanout-aspen-woods-springbank-hill: no shared H2s.",
+      "on_page_checklist": {
+        "title": "Spring Garage Cleanout Calgary | Book Before Sweep Day (54 chars)",
+        "meta_description_chars": 151,
+        "canonical": true,
+        "h1_count": 1,
+        "em_dashes": 0,
+        "jsonld": "Service + LocalBusiness provider, BreadcrumbList (Home > Garage Cleanout Calgary > Spring), FAQPage 8 Q identical to visible FAQ; all parse; no ratings/reviews",
+        "cta": "Hero call + 'Email 3 Photos for a Quote' (inquiry@, was info@); bottom CTA same",
+        "links_out_contextual": 16,
+        "links_in_added": "garage-cleanout-calgary.html (rewrote the 'spring garage cleanout special' paragraph, which promised a cleanout+floor package), garage-floor-cleaning-calgary.html (new sentence in 'When to Book It'). Already linked from index.html, garage-cleaning-calgary and many others. Footer link added on this page.",
+        "sitemap": "lastmod 2026-05-08 -> 2026-11-01; broken image entry replaced; sitemap-index lastmod -> 2026-11-01",
+        "side_fixes": "garage-cleanout-calgary: em dashes removed from two H2s ('Winter Cleanouts Work Too', 'Garage Cleanout Calgary FAQs'); body still has em dashes"
+      },
+      "deploy": "Pushed 73983fc; live within ~30 s. Checked in Chrome: new title, H1, 'Sweep Day Needs an Empty Bay' H2. Hero sentence fix shipped with the log commit.",
+      "indexing": {
+        "site_check": "robots.txt loads in Chrome at ~01:19 MDT.",
+        "session": "GSC signed in.",
+        "requests": [
+          {
+            "url": "https://www.garagescape.ca/spring-garage-cleanout-calgary.html",
+            "pre_status": "Discovered - currently not indexed; sitemap-index + sitemap.xml; referring page blog/hire-vs-diy-garage-organization-calgary.html",
+            "result": "QUOTA EXCEEDED after live test (~01:21 MDT). Not retried."
+          }
+        ],
+        "status": "Third night running the quota was gone before this run's first request.",
+        "pending_manual_urls": [
+          "https://www.garagescape.ca/spring-garage-cleanout-calgary.html",
+          "https://www.garagescape.ca/epoxy-garage-floor-cleaning-calgary.html",
+          "https://www.garagescape.ca/garage-cleanout-aspen-woods-springbank-hill.html"
+        ]
+      },
+      "flags": [
+        "BLOCKER (3rd night): GSC indexing quota exhausted before ~01:21 MDT. Move this run earlier (e.g. 00:30) or split the quota between routines. 3 Calgary cleaning URLs pending-manual.",
+        "REMOVED, CONFIRM WITH ABHI: spring package tiers $199/$299/$499 (needs real pricing from Abhi if he wants numbers back), stats '500+ spring cleanouts / 90% one day / 80% donated / 100% satisfaction', badges 'Fully Insured', '5-Star Rated', 'Same-Day Available', and three 'Verified Customer' testimonials (Stephanie & Mark R., Brentwood; Diane K., Airdrie; Jason & Laura T., McKenzie Towne). If any of these are real, they're in git at aa48e3e and can go back with a source.",
+        "CONFIRM WITH ABHI: page commits to bagging floor gravel during a cleanout, offering a same-day floor wash add-on, staging bulky items for a Community Cleanup when the dates line up, painter's-tape marking, 15-minute start or video call, working from a door code, not driving client vehicles.",
+        "Homepage still shows a 'Spring Garage Cleanout Season' block with an em dash and 'Book now before our schedule fills up' (an unverified scarcity claim). It's the #1 result for the spring query. Left alone because index.html is shared; worth aligning with this page.",
+        "Insurance/WCB still not stated on any cleaning page (carried); the old 'Fully Insured' badge was removed today.",
+        "garage-cleanout-calgary.html body still has ~38 em dashes and a 'Calgary Garage Cleanout Packages' section with prices; candidate for next Sunday."
+      ],
+      "next_targets": [
+        "1. Heritage Pointe / Pump Hill estate-style cleanout if the SERP shows no local competitor (Tier 2).",
+        "2. Garage pressure washing Calgary (driveway apron + floor) only if it splits cleanly from garage-floor-cleaning-calgary.",
+        "3. Edgemont / Varsity Estates front-drive cleanout with a distinct angle (ravine lots, 1970s-80s houses).",
+        "4. Next Sunday 11-08: garage-cleanout-calgary.html (em dashes, price/package section vs pricing conflict).",
+        "Skip for now: same-day garage junk removal Calgary (franchise/price-led SERP); fall winterizing Aug 2027; spring push is now covered by this page, revisit Feb 2027 with GSC data."
+      ]
     }
   ]
 }
