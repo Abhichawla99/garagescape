@@ -5066,6 +5066,102 @@
     "4. Sunday 11-08: garage-cleanout-calgary.html (em dashes, price/package section).",
     "Skip for now: same-day garage junk removal Calgary (franchise/price-led SERP); fall winterizing Aug 2027."
    ]
+  },
+  {
+   "date": "2026-11-02",
+   "weekday": "Monday",
+   "market": "calgary",
+   "mode": "upgrade",
+   "action": "upgraded",
+   "page": "garage-organization-north-calgary.html",
+   "keyword": "garage organization north calgary (NW + NE hub)",
+   "market_decision": "This routine's last run (2026-10-28) was vancouver, so flipped to CALGARY. calgary-cleaning entries ignored for the flip.",
+   "why_this_target": "Calgary target bank is effectively exhausted for distinct intents: Wentworth is already in the West Springs page's title/keywords, Britannia is covered by the Elbow Park page, and a Silvertip page would compete with the #1 Canmore page. 10-26 run recommended upgrade mode. GSC showed this hub 'Crawled - currently not indexed' since its last crawl Aug 4, 2026 with 0 body images, the textbook thin/low-value signal. Title, URL and canonical unchanged.",
+   "competitive_gap_found": "'garage organization north calgary' (US tool, directional): no service business with a north-side page; results are BBB/RenovationFind directories, CREB 2012 tips, calgaryhomes blog and spam. Nobody covers NE hail-season parking or north-side disposal points.",
+   "research": {
+    "hail_2020": "The Weather Network: June 13, 2020 storm, IBC $1.2B insured, 4th costliest natural disaster in Canada, ~70,000 homes and vehicles damaged, tennis-ball-size hail up to 100 km/h, Saddle Ridge pictured.",
+    "hail_2024": "insurance-canada.ca (IBC/CatIQ release): Aug 5, 2024, nearly $2.8B initial insured, 2nd costliest insured event after 2016 Fort McMurray, 130,000+ claims, nearly 1 in 5 Calgary homes affected, chicken-egg hail per ECCC. CTV Feb 2025: IBC $3.25B estimate; hundreds of NE homes damaged.",
+    "spyhill": "calgary.ca landfill page: Spyhill Landfill and Eco Centre 11808 69 St NW (HHW page lists Eco Centre at 11950 69 St NW), Mon-Sat 7:30-5, closed Sun; minimum charge, by weight/material.",
+    "hhw": "calgary.ca HHW page: free residential HHW at 8 fire stations 8am-6pm daily, no appointment; north ones Varsity #17 3400 37 St NW, Country Hills #31 11955 Country Village Link NE, Cornerstone #38 128 Cornerstone Heights NE, Vista Heights #4 1991 18 Ave NE; original labelled containers, never mix, mixed garbage triggers charges."
+   },
+   "changes": [
+    "Hero figure + og/twitter image -> airdrie-garage-decluttering.jpg",
+    "B/A pair in Three Norths section",
+    "New section 'Hail Season in the Northeast' with ceiling-rack detail image",
+    "New section 'Where North-Side Garage Leftovers Go' (HHW fire stations, Spyhill, links to garage-cleanout-calgary and frozen services/cleaning)",
+    "Workbench detail image in seasons section",
+    "2 new FAQs (visible + JSON-LD)",
+    "index.html: 'Northwest Calgary' list item now links to this hub (link-only change to frozen page)"
+   ],
+   "word_count": 3102,
+   "images_used": [
+    "airdrie-garage-decluttering.jpg (hero, fetchpriority high, og/twitter)",
+    "before-after-4.jpg / okotoks-garage-decluttering.jpg (B/A pair)",
+    "before-after-3.jpg (hail/ceiling racks)",
+    "calgary-garage-decluttering.jpg (workbench)"
+   ],
+   "image_honesty": "All captions say illustration, not a client's garage. Generic set is AI-rendered imagery (sparkle mark visible), so never labelled as a project. 5 imgs, 5 unique alts, width/height 1024 match files, no srcset (no -640 variants).",
+   "deploy": "Cloud git push still 403 (repo not in proxy's authorized set). GitHub web upload via Chrome (4 files) on top of 90c8e60 -> 6e39ec1, tree identical to local. Live: page 200 and md5-identical; all 8 image URLs 200; homepage 200 with new link; Evanston 200.",
+   "indexing": {
+    "todays_page": "FAILED: attempt 1 'Oops! Something went wrong'; attempt 2 after reload 'Quota Exceeded' (~17:10 UTC). Pre-request status 'Crawled - currently not indexed', last crawl Aug 4, 2026. Screenshots taken. calgary-cleaning routine also hit quota on its first request earlier today.",
+    "status": "pending-manual",
+    "backlog_inspected": {
+     "garage-organization-springbank-hill.html": "INDEXED (URL is on Google)",
+     "garage-organization-aspen-woods.html": "INDEXED",
+     "garage-decluttering-cochrane.html": "INDEXED"
+    },
+    "counts_overview": {
+     "date": "2026-11-02",
+     "indexed": 37,
+     "not_indexed": 73,
+     "source": "GSC Overview chart, unchanged since 10-26"
+    },
+    "pending_manual_urls": [
+     "https://www.garagescape.ca/garage-organization-north-calgary.html",
+     "https://www.garagescape.ca/garage-organization-evanston.html",
+     "https://www.garagescape.ca/garage-organization-kerrisdale.html",
+     "https://www.garagescape.ca/garage-organization-seton.html",
+     "https://www.garagescape.ca/garage-organization-priddis.html",
+     "https://www.garagescape.ca/garage-organization-anmore-belcarra.html",
+     "https://www.garagescape.ca/garage-organization-west-vancouver.html",
+     "https://www.garagescape.ca/garage-decluttering-calgary.html",
+     "https://www.garagescape.ca/hoarding-garage-cleanup-calgary.html",
+     "https://www.garagescape.ca/post-renovation-garage-cleanup-calgary.html",
+     "https://www.garagescape.ca/garage-cleanout-heritage-pointe.html"
+    ]
+   },
+   "backlog_status": "The three flagged non-ranking pages (springbank-hill, aspen-woods, cochrane) are all indexed now; removed from the flagged list.",
+   "backfilled": {
+    "page": "garage-organization-evanston.html",
+    "fixed": "og:image pointed at non-existent images/garage-organization-evanston.jpg -> custom-shelving-installation.jpg; added missing twitter:image",
+    "added": [
+     "custom-shelving-installation.jpg (hero)",
+     "garage-organization-before-after-1.jpg / before-after-1.jpg (B/A pair, illustration caption)"
+    ],
+    "note": "Title/URL/canonical untouched. Page has a 'What Evanston Homeowners Say' testimonial section; same unverifiable-testimonial question as Panorama Hills, needs Abhi."
+   },
+   "rankings": {
+    "method": "4 WebSearch queries, US-only tool, non-localized; directional only.",
+    "garage organization calgary": "not visible; FLAT vs 10-26 (7th not-visible reading).",
+    "garage decluttering calgary": "homepage not visible; FLAT vs 10-26.",
+    "garage storage solutions calgary": "ROTATING (frozen #2 page). Not visible in this tool (renovationfind, California Closets, Garage Living, baileylineroad). No previous reading from this tool to compare; NO DROP evidence, check GSC Performance.",
+    "garage organization north calgary": "BASELINE for upgraded page: not visible (BBB, directories, spam)."
+   },
+   "technical": "sitemap.xml 68 locs, sitemap-vancouver.xml 30, 0 dups, 0 missing files; robots.txt sane; homepage 200; changed pages 1 H1 each, JSON-LD parses, no broken internal links. North Calgary + Evanston + homepage lastmod 2026-11-02.",
+   "consolidation_candidates": "North Calgary hub was 'Crawled - currently not indexed' for 3 months; upgraded today rather than consolidated. If still not indexed by ~2026-12-01 after a successful request, consider merging Beddington/Dalhousie/Brentwood thin pages into it.",
+   "images_needed": [
+    "REAL Calgary project before/after pairs (carried)",
+    "REAL photo of an NE Calgary double garage with both cars parked inside",
+    "-640 variants for the generic set so srcset can be used",
+    "Note: the generic set is AI-rendered; real photos would strengthen trust and image search"
+   ],
+   "next_targets": [
+    "1. BLOCKER (6th day running): GSC daily quota is gone before this routine runs. Give this routine first claim or move all requests to one routine; submit pending-manual list by hand, north-calgary and Kerrisdale first.",
+    "2. Next Calgary run: upgrade garage-organization-panorama-hills.html once Abhi rules on testimonials, or garage-organization-beddington.html (broken og).",
+    "3. Next Vancouver run: upgrade mode or garage-storage-solutions-surrey if Burnaby storage page is indexed.",
+    "4. Full Indexing > Pages breakdown and 14-day site sweep still overdue.",
+    "5. Backfill queue (Calgary broken og): dalhousie, beddington, brentwood, harmony, makeover, remodel, renovation."
+   ]
   }
  ]
 }
