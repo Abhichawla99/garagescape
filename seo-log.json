@@ -5162,6 +5162,110 @@
     "4. Full Indexing > Pages breakdown and 14-day site sweep still overdue.",
     "5. Backfill queue (Calgary broken og): dalhousie, beddington, brentwood, harmony, makeover, remodel, renovation."
    ]
+  },
+  {
+   "date": "2026-11-03",
+   "weekday": "Tuesday",
+   "market": "calgary-cleaning",
+   "mode": "new-page",
+   "action": "created",
+   "page": "garage-cleanout-pump-hill-bayview.html",
+   "keyword": "garage cleanout Pump Hill / Bayview (also junk removal Pump Hill Calgary, junk removal Bayview, downsizing garage cleanout southwest Calgary)",
+   "buyer": "Long-time owner (or their adult children) of a 1967-80s house in Pump Hill, Bayview or Palliser on the Glenmore Reservoir, clearing a decades-full garage for a move to a condo or a sale; secondary buyer is any south-shore household whose canoe/kayak/dinghy came home when the City boat racks closed Oct 31.",
+   "why_this_target": "#1 in the 11-02 next_targets (Tier 2 affluent: Bayview had the city's highest median household income in the 2000 census). Overlap checked: garage-organization-pump-hill is org-side (linked to, not edited; its homepage card got a link-only line, same pattern as Heritage Pointe). H2 skeleton checked against heritage-pointe, mount-royal, estate, aspen-woods and before-selling pages; none shared. No other commit today before this run (HEAD 594411f at pull).",
+   "competitive_gap_found": "'garage cleanout pump hill calgary' (gl=ca, 2026-11-03): #1 garagescape.ca homepage, local pack The Junk Man / The Garage Guys / Local Lads; organic garagecleanoutcalgary, garagecleaningpro, freshstart, calgarydumprunners, Taskrabbit all 'Missing: hill'; our org page ranks ~#9. 'junk removal bayview pump hill calgary': only curbsidejunkremovalyyc has a thin Pump Hill area page ('From $69'); everything else 'Missing: bayview pump hill'. 'downsizing garage cleanout calgary seniors': senior movers (ONESource, YYCdownsizing, Destination Seniors) all 'Missing: garage'. Nobody ties the reservoir boat season, the City's mixed-load landfill rule or the condo-locker problem to these communities.",
+   "people_also_ask_used": [
+    "How much does it cost to remove junk in Calgary? (answered as cost factors + City rates)",
+    "How much does it cost to use the dump in Calgary?",
+    "What is the cheapest way to get rid of junk?",
+    "Derived from City boat-rack page: Where do I store a canoe or kayak in winter?",
+    "Buyer: Can you clear my parents' garage before a condo move? Do I need to be home? What won't you take?",
+    "Not used: What is the minimum price for junk removal? (needs real pricing), At what age do seniors downsize? (no source), seniors hoarding help / move-out clean cost (off-angle)"
+   ],
+   "research": {
+    "bayview": "en.wikipedia.org/wiki/Bayview,_Calgary (read 2026-11-03): est. 1967, built by Alcan Design Homes, first lot sold Feb 1967 (Calgary Herald 11 Feb 1967), occupancy Jan 1968; all homes front garages, no laneways; peninsula on Glenmore Reservoir south shore, one of two marinas; 2012 pop 682 in 249 dwellings; median household income $184,383 (2000, highest in city); 100% single-detached.",
+    "pump_hill": "en.wikipedia.org/wiki/Pump_Hill,_Calgary (read): bounded 90 Ave SW/reservoir, 14 St SW, Southland Dr, 19 St SW; developed from 1967; 2012 pop 1,614 in 563 dwellings. Community association: Palliser-Pump Hill-Bayview.",
+    "boat_racks": "calgary.ca/bookings/boat-racks.html (read): racks at South Glenmore Park and Heritage Park, summer May 1-Oct 31; South Glenmore Park no winter storage; Heritage Park gravel lot winter Nov 1-Apr 23. calgary.ca Glenmore Sailing School rules (SERP snippets): no swimming, no inflatables, no power motors; 'only facility in Calgary for sailing, disabled sailing, dragon boat racing, rowing, canoeing and kayaking'; good park user guide: PFDs worn at all times, boating May 1-Oct 31.",
+    "landfill_rates": "calgary.ca/waste/drop-off/landfill-rates.html (read, last updated Jan 2026): mix of free and charge items = pay for entire load; <250 kg $25 flat; >=250 kg whole load by weight, highest applicable rate; basic sanitary $113/t; refrigerant $17/item + weight; hard-to-handle $275/load; drywall $90/t; recyclable wood $90/t; scrap metal (<=1.2 m) $113/t; yard waste $50/t; free: electronics, HHW, clothing/textiles, tires, foam.",
+    "hhw": "calgary.ca household-hazardous-waste-drop-off-program (read): 11 sites (8 fire stations + 3 Eco Centres), fire stations 8 a.m.-6 p.m. daily; SW: Lincoln Park/Garrison Green #20 2800 Peacekeepers Way SW, Cedarbrae #24 2607 106 Ave SW, Evergreen #37 2511 Eversyde Ave SW; some items Eco Centre only; non-HHW in the drop-off triggers charges.",
+    "seniors": "calgary.ca Home Services for Seniors (SERP snippet): 403-SENIORS (403-736-4677) or 211."
+   },
+   "word_count": 3304,
+   "word_count_note": "Whole-body text count incl. nav/footer, same method as prior entries; main content ~2,600.",
+   "images_used": [
+    "vancouver-garage-workbench-before.jpg (+ -640 srcset; inline, og/twitter)"
+   ],
+   "image_honesty": "One generic workbench illustration (AI-rendered set). Caption says it is an illustration, not a Pump Hill or Bayview client's garage; alt describes what is actually shown. Width/height 1152x928 match file; both variants return 200 live.",
+   "custom_elements": [
+    "Glenmore Reservoir boat-season section + table: City rack dates (South Glenmore no winter storage, Heritage Park gravel lot Nov 1-Apr 23) and keep/where-it-goes for canoes, dinghies, inflatables (banned on the reservoir), PFDs, paddles",
+    "'Layers' table for a garage filling since 1968: door / side walls / bench / under-bench / rafters, with how each sorts; pre-1990s lead paint and hands-off rule on original building materials (asbestos check)",
+    "Condo storage-locker fit method: get locker dimensions, tape its outline on the garage floor, big items first",
+    "City mixed-load rule explainer ('mix free and charged = pay for the whole load', highest rate applies) with a 2026 stream table from a southwest address incl. Cedarbrae Fire Station #24 and the $275 hard-to-handle surcharge for bulky light loads",
+    "No-lane / sloped-driveway logistics for Bayview crescents and Pump Hill slopes, and a parent-at-their-pace protocol (video walkthrough, bring items to the parent, set-aside pile, 403-SENIORS pointer)"
+   ],
+   "on_page_checklist": {
+    "title": "Garage Cleanout & Junk Removal: Pump Hill, Bayview (53 chars)",
+    "meta_description_chars": 153,
+    "h1": 1,
+    "faq_visible": 7,
+    "faq_schema": 7,
+    "schema": "Service(provider LocalBusiness) + BreadcrumbList + FAQPage, no ratings/reviews",
+    "em_dashes": 0,
+    "internal_links_out": 24,
+    "inbound_links_added": "index.html x3 (services list, Pump Hill location card link-only line, footer list); contextual on garage-cleanout-calgary, estate-garage-cleanout-calgary, garage-cleanout-before-selling-calgary; footer list on 7 Calgary cleaning pages (incl. indexed epoxy page)",
+    "sitemap": "added to sitemap.xml lastmod 2026-11-03",
+    "also_fixed": "'See see' typo on garage-cleanout-heritage-pointe.html"
+   },
+   "deploy_check": "Pushed a359ea7 from local; live URL 200 within ~20 s, title/H1/7 FAQs confirmed in Chrome, both image variants and sitemap entry 200.",
+   "indexing": {
+    "site_check": "robots.txt loaded in Chrome ~01:17 CST.",
+    "session": "GSC signed in.",
+    "requests": [
+     {
+      "url": "https://www.garagescape.ca/epoxy-garage-floor-cleaning-calgary.html",
+      "pre_status": "URL is on Google (indexed)",
+      "result": "No request needed; removed from pending."
+     },
+     {
+      "url": "https://www.garagescape.ca/garage-cleanout-aspen-woods-springbank-hill.html",
+      "pre_status": "Discovered - currently not indexed; referring page sitemap.xml",
+      "result": "QUOTA EXCEEDED after live test (~01:22 CST). Not retried."
+     },
+     {
+      "url": "https://www.garagescape.ca/spring-garage-cleanout-calgary.html",
+      "pre_status": "Discovered - currently not indexed (inspect only)",
+      "result": "Not requested (quota gone)."
+     },
+     {
+      "url": "https://www.garagescape.ca/garage-cleanout-heritage-pointe.html",
+      "pre_status": "Not indexed (inspect only)",
+      "result": "Not requested (quota gone)."
+     }
+    ],
+    "new_page": "Not requested; quota exhausted.",
+    "status": "Fifth night running the quota was gone before this run's first request.",
+    "pending_manual_urls": [
+     "https://www.garagescape.ca/garage-cleanout-aspen-woods-springbank-hill.html",
+     "https://www.garagescape.ca/spring-garage-cleanout-calgary.html",
+     "https://www.garagescape.ca/garage-cleanout-heritage-pointe.html",
+     "https://www.garagescape.ca/garage-cleanout-pump-hill-bayview.html"
+    ]
+   },
+   "flags": [
+    "BLOCKER (5th night): GSC indexing quota exhausted before the first request (~01:22 CST). This routine needs to run before the others or the others need a cap. 4 Calgary cleaning URLs pending-manual.",
+    "CONFIRM WITH ABHI: page says we don't touch original building materials (old wallboard, ceiling tiles, pipe wrap) in 1960s-70s houses and refer suspected asbestos to an abatement contractor; also restates no firearms/ammunition, no towing or moving boats/vehicles, door-code + set-aside pile, video walkthrough with remote family.",
+    "CONFIRM WITH ABHI: page offers to tape a condo locker outline on the floor and run shorter split visits for a parent; both are process promises.",
+    "Homepage snippets in Google still show 'Full cleanouts with junk removal start at $299' while cleaning pages quote factors only; worth reconciling.",
+    "Needs real pricing from Abhi to answer PAA 'What is the minimum price for junk removal?' (skipped again).",
+    "Carried: insurance/WCB still not stated on any cleaning page; garage-decluttering-okotoks.html FAQ $150-$900 ranges may conflict."
+   ],
+   "next_targets": [
+    "1. Edgemont / Varsity Estates cleanout (Tier 2): ravine and hillside lots, 1970s-80s front-drive houses; verify SERP first.",
+    "2. Garage pressure washing Calgary, only if it splits cleanly from garage-floor-cleaning-calgary (check SERP intent).",
+    "3. Elbow Valley / Watermark (Rocky View) cleanout: lake community covenants, RVC disposal already researched on the acreage page.",
+    "4. Sunday 11-08: strengthen garage-cleanout-calgary.html (em dashes, $199/$299 package section vs factor-only pages).",
+    "Skip for now: same-day garage junk removal Calgary (franchise/price-led SERP); fall winterizing Aug 2027."
+   ]
   }
  ]
 }
