@@ -5266,6 +5266,106 @@
     "4. Sunday 11-08: strengthen garage-cleanout-calgary.html (em dashes, $199/$299 package section vs factor-only pages).",
     "Skip for now: same-day garage junk removal Calgary (franchise/price-led SERP); fall winterizing Aug 2027."
    ]
+  },
+  {
+   "date": "2026-11-04",
+   "weekday": "Wednesday",
+   "market": "calgary-cleaning",
+   "mode": "new-page",
+   "action": "created",
+   "page": "garage-cleanout-edgemont-varsity-calgary.html",
+   "keyword": "garage cleanout Edgemont / Varsity Estates (also junk removal Edgemont Calgary, junk removal Varsity Calgary, garage cleanout NW Calgary)",
+   "buyer": "Long-time owners (or their adult children) of late-1970s/80s Edgemont houses and 1960s-70s Varsity Estates houses clearing a decades-full front-drive garage for a sale, downsizing move or to get the car inside before January; secondary buyer is anyone wanting a floor wash this month who needs to hear about Stage 4.",
+   "why_this_target": "#1 in the 11-03 next_targets (Tier 2 affluent: Varsity Estates is Varsity's most upscale area per Wikipedia). No Edgemont/Varsity pages on the site (org-side has Dalhousie/Brentwood/Tuscany, not edited). H2 skeleton checked against pump-hill-bayview, aspen-woods, mount-royal and estate pages; none shared. No other commit today before this run (HEAD d2ed62d at pull). Pressure-washing target (#2) parked: Stage 4 bans driveway washing from 11-04 for ~4 weeks.",
+   "competitive_gap_found": "'garage cleanout edgemont calgary' (gl=ca, 2026-11-04): local pack The Garage Guys / Junk Removal Pros / Calgary Junk Removal; garagescape.ca homepage organic #1 but 'Missing: edgemont'; only edgemont-specific result is calgaryjunk.com/locations/edgemont, a swap-the-city template (Airdrie base, '32 min', price calculator, placeholder 403-555-JUNK phone). freshstart, garagecleanoutcalgary, redstone, Taskrabbit, Mighty Junk, Happy Panda all 'Missing: edgemont'. 'junk removal varsity estates calgary': only curbsidejunkremovalyyc Varsity curbside page ('Missing: estates'); everyone else missing varsity. Nobody mentions Stage 4, sloped NW driveways, park-edge attractants or the Varsity fire-station HHW depot.",
+   "people_also_ask_used": [
+    "How much does it cost to remove junk in Calgary? (cost factors + City 2026 rates)",
+    "How to get rid of a couch in Calgary?",
+    "What is the cheapest way to get rid of junk? (new NW answer: Varsity FS #17, Spyhill)",
+    "How to tackle cleaning out a garage?",
+    "Buyer/timely: Can you pressure wash my garage floor in November 2026? (Stage 4)",
+    "Buyer: Is it safe to leave the garage open if we back onto Nose Hill/Bowmont? Do I need to be home?",
+    "Not used: What is the minimum charge for junk removal? (needs real pricing); How much does a move-out clean cost? (off-angle); seniors free hoarding help (covered on hoarding page)"
+   ],
+   "research": {
+    "edgemont": "en.wikipedia.org/wiki/Edgemont,_Calgary (read 2026-11-04): established 1978; NW extension of Nose Hill, steep escarpments at SE end, highest 1245 m, views of Rockies; bounded John Laurie Blvd, Sarcee Tr, Country Hills Blvd, Shaganappi Tr; 2012 pop 15,898 in 5,421 dwellings; subareas oldest to newest Edgemont Estates, Edgedale, Edenwold, Edgepark, Edgevalley, Edgebrook, Edgeridge; Ward 4.",
+    "varsity": "en.wikipedia.org/wiki/Varsity,_Calgary (read): developed 1960s-early 1970s on plateau north of Bow valley; Varsity Acres, Varsity Village, Varsity Estates; Varsity Estates most upscale, almost entirely single-detached without rear lanes, much adjacent to Bowmont Natural Park or Silver Springs Golf and Country Club; bounded N/E by Crowchild Tr, W by Bow River, S by 32 Ave NW.",
+    "stage4": "calgary.ca/savewater -> /planning/water/bearspaw-feeder-main/water-restrictions.html (read 2026-11-04): Stage 4 effective Nov 4; Bearspaw South Feeder Main shut ~4 weeks for connection; no outdoor water use with exceptions; don't wash sidewalks, driveways or walkways incl. outdoor parkades; building operators encouraged to reschedule indoor parkade cleaning; don't clean outdoor building surfaces/windows; no car washing in driveway/street (indoor car wash OK); fines start at $3,000.",
+    "hhw": "calgary.ca household-hazardous-waste-drop-off-program (read 2026-11-04): 11 sites; NW = Varsity Fire Station #17, 3400 37 St NW (NE corner of lot) and Spyhill Eco Centre, 11950 69 St NW; fire stations 8 a.m.-6 p.m. daily; some items Eco Centre only; non-HHW in the drop-off can trigger charges.",
+    "yard_waste": "calgary.ca green-cart SERP snippet (2026-11-04): free fall yard waste drop-off at Eco Centres until Oct 31, 2026; weekly green cart resumes in spring.",
+    "coyotes": "calgary.ca Ward 2 article 'Coyote Activity in Kincora' (SERP snippet, Jun 30 2026): secure pet food, garbage, compost, fallen fruit, bird seed. Page phrases it as a 2026 coyote notice for a NW community.",
+    "reused_verified": "Landfill 2026 rates ($25 <250 kg, $113/t garbage, $17 refrigerant), mixed-load rule, black cart 1.25 m/20 kg limit, community cleanups finished for 2026, green cart biweekly from week of Nov 2, hantavirus wet-then-bag method (10-26 to 11-03 runs).",
+    "general_knowledge_not_reverified": "some Edgemont driveways north-facing/shaded in winter; chinook melt-refreeze glaze on slopes; Spyhill landfill accepts scrap metal and refrigerant appliances (drywall/wood deliberately left off the table)."
+   },
+   "word_count": 2338,
+   "image_honesty": "One existing image reused: images/vancouver-garage-parking-before.jpg (+640 variant), a stock/illustrative full garage with car on the driveway; caption says 'Example photo, not an Edgemont house.' Same file used as og/twitter image. Both variants 200 live.",
+   "custom_elements": [
+    "Stage 4 water restrictions explainer (live City rule as of 11-04) with a now vs after-restrictions table splitting dry cleanout work from the floor wash",
+    "Sloped-driveway November loading checklist for Edgemont's Nose Hill escarpment streets (truck position, thaw timing, dolly vs two-person carry, reschedule-if-glazed rule) plus Varsity Estates no-lane cul-de-sac note",
+    "Park-edge wildlife attractant table for Bowmont Park / Nose Hill garages (pet food, birdseed, second freezer, bagged garbage, green cart, mouse droppings)",
+    "Northwest drop-off map table: Varsity Fire Station #17 HHW depot, Spyhill Eco Centre, Spyhill scale rates, donation",
+    "Edgemont subarea sequence (Edgemont Estates to Edgeridge) and a '45 years in one garage' layer list (original paint, kids' things, retired electronics, second freezer, golf/garden gear near Silver Springs)"
+   ],
+   "on_page_checklist": {
+    "title": "Garage Cleanout & Junk Removal: Edgemont, Varsity Estates (57 chars)",
+    "meta_description_chars": 154,
+    "h1": 1,
+    "faq_visible": 7,
+    "faq_schema": 7,
+    "schema": "Service(provider LocalBusiness) + BreadcrumbList + FAQPage generated from visible FAQ text; no ratings/reviews",
+    "em_dashes": 0,
+    "internal_links_out": "8 contextual in body + 6 related cards + footer list",
+    "inbound_links_added": "index.html x2 (services list, footer list); contextual on garage-cleanout-calgary and estate-garage-cleanout-calgary (both indexed); Stage 4 notice on garage-floor-cleaning-calgary linking to #water; footer list on 8 Calgary cleaning pages",
+    "sitemap": "added to sitemap.xml lastmod 2026-11-04"
+   },
+   "deploy_check": "Pushed 8b5d451; live URL 200 after ~60 s, title/H1/7 FAQs/3 JSON-LD blocks confirmed in Chrome; images, sitemap entry and floor-page notice live.",
+   "indexing": {
+    "site_check": "robots.txt loaded in Chrome ~01:17 CST.",
+    "session": "GSC signed in.",
+    "requests": [
+     {
+      "url": "https://www.garagescape.ca/garage-cleanout-aspen-woods-springbank-hill.html",
+      "pre_status": "Discovered - currently not indexed; no referring sitemaps; referring page https://garagescape.ca/sitemap.xml",
+      "result": "INDEXING REQUESTED (~01:21 CST), added to priority crawl queue"
+     },
+     {
+      "url": "https://www.garagescape.ca/spring-garage-cleanout-calgary.html",
+      "pre_status": "Discovered - currently not indexed; sitemap-index + sitemap.xml; referring page blog/hire-vs-diy-garage-organization-calgary.html",
+      "result": "QUOTA EXCEEDED after live test (~01:23 CST). Not retried."
+     },
+     {
+      "url": "https://www.garagescape.ca/garage-cleanout-heritage-pointe.html",
+      "pre_status": "Discovered - currently not indexed; referring page sitemap.xml",
+      "result": "inspected only (quota gone)"
+     },
+     {
+      "url": "https://www.garagescape.ca/garage-cleanout-pump-hill-bayview.html",
+      "pre_status": "URL is unknown to Google; no referring sitemaps or pages",
+      "result": "inspected only (quota gone)"
+     }
+    ],
+    "new_page": "Not requested; quota exhausted.",
+    "status": "First accepted request in 6 nights, but the quota ran out after one request.",
+    "pending_manual_urls": [
+     "https://www.garagescape.ca/spring-garage-cleanout-calgary.html",
+     "https://www.garagescape.ca/garage-cleanout-heritage-pointe.html",
+     "https://www.garagescape.ca/garage-cleanout-pump-hill-bayview.html",
+     "https://www.garagescape.ca/garage-cleanout-edgemont-varsity-calgary.html"
+    ]
+   },
+   "flags": [
+    "STAGE 4 (time-sensitive): City-wide Stage 4 outdoor water restrictions from 2026-11-04 for ~4 weeks; washing driveways/walkways banned, fines from $3,000. The new page and a notice on garage-floor-cleaning-calgary say we aren't doing wet floor washes until it lifts. CONFIRM WITH ABHI, and check whether epoxy-garage-floor-cleaning-calgary, spring-garage-cleanout-calgary, the homepage floor-cleaning card and any ads/GBP posts still sell pressure washing this month. Remove the notice when the City lifts Stage 4.",
+    "CONFIRM WITH ABHI (process promises on the new page): dry-only floor work during Stage 4 with an optional second visit for the wash; reschedule if a sloped driveway is glazed; truck backs up the driveway when needed; wildlife attractants pulled first; door between house and garage kept shut for pets; door-code jobs with photo set-aside pile.",
+    "GSC quota: one request accepted before Quota Exceeded at ~01:23 CST. Still too little for the backlog; 4 Calgary cleaning URLs pending-manual.",
+    "Carried: homepage still shows 'Starting at $299' on the cleanout card vs factor-only cleaning pages; needs real pricing from Abhi for the 'minimum charge for junk removal' PAA; insurance/WCB still not stated on any cleaning page."
+   ],
+   "next_targets": [
+    "1. Elbow Valley / Watermark (Rocky View) cleanout (Tier 2): lake community covenants, RVC disposal already researched on the acreage page; verify SERP first.",
+    "2. Same-day / last-minute garage cleanout before possession (Tier 1) only if a non-price angle exists (possession-day timeline, CREB noon possession); franchise SERP still price-led.",
+    "3. Britannia / Bel-Aire / Mayfair cleanout (Tier 2, Elbow Drive estates) with an angle distinct from Mount Royal lanes.",
+    "4. Sunday 11-08: strengthen garage-cleanout-calgary.html (em dashes, $199/$299 package section vs factor-only pages) and check every floor page for Stage 4 wording.",
+    "Parked: garage pressure washing Calgary until Stage 4 lifts (~early Dec); then publish ahead of spring. Fall winterizing Aug 2027."
+   ]
   }
  ]
 }
