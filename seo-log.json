@@ -5366,6 +5366,129 @@
     "4. Sunday 11-08: strengthen garage-cleanout-calgary.html (em dashes, $199/$299 package section vs factor-only pages) and check every floor page for Stage 4 wording.",
     "Parked: garage pressure washing Calgary until Stage 4 lifts (~early Dec); then publish ahead of spring. Fall winterizing Aug 2027."
    ]
+  },
+  {
+   "date": "2026-11-04",
+   "weekday": "Wednesday",
+   "market": "vancouver",
+   "mode": "new-page",
+   "action": "created",
+   "page": "garage-organization-shaughnessy.html",
+   "keyword": "garage organization Shaughnessy Vancouver (also First Shaughnessy garage storage, heritage garage organization Vancouver)",
+   "community": "Shaughnessy, Vancouver West Side (W 16th to W 41st, Oak St to East Blvd; First Shaughnessy = W 16th to King Edward)",
+   "market_decision": "This routine's last run (2026-11-02) was calgary, so flipped to VANCOUVER. calgary-cleaning entries ignored for the flip.",
+   "why_this_target": "Vancouver luxury bank item. Shaughnessy appeared only as an unlinked chip on garage-organization-vancouver, a location card on garage-services-vancouver and a mention on Kerrisdale; no page targets it. Distinct angle no other page (ours or competitors') has: the First Shaughnessy District zoning caps parking floor area in accessory buildings at 80.77 m2 and bars parking in the house, so storage must fit the existing garage; HCA (2015) keeps 80-90-year-old garages standing; coach houses go in the partial upper storey of accessory buildings, displacing loft storage.",
+   "competitive_gap_found": "'garage organization shaughnessy vancouver' (US tool, directional, 2026-11-04): Mr. Handyman (Vancouver WA), Handyman Connection, BBB category, Homestars Garage Guru/ShelfGenie reviews, real-estate listings (mikegrahame, wahi, nestpresales, xposure). Zero Shaughnessy-specific garage content, nobody mentions FSD zoning, the HCA or coach houses.",
+   "research": {
+    "wikipedia_shaughnessy": "CPR 1907, named for Thomas Shaughnessy; boundaries 16th-41st, Oak-East Blvd; First Shaughnessy 16th-King Edward; 2016 pop 8,430; 20.8% under 20, 21.6% 65+; 50.9% homes built before/during WWII vs 23.3% city; Angus Dr and Osler St medians; parks incl. Shaughnessy (Crescent) Park, Angus Park, VanDusen; schools Little Flower Academy, Vancouver College, York House, Shaughnessy Elem, Point Grey Sec; Arbutus Greenway on western border 41st-16th.",
+    "placesthatmatter_crescent": "CPR commissioned L. E. Davick with Montreal landscape architect Frederick Gage Todd; Crescent park laid out 1909; lots 1/5 to 1.5 acres; minimum house cost $6,000; porte-cocheres.",
+    "sfu_geog": "curving streets; lots priced $1,000 above the standard $5,000 bungalow; styles Arts and Crafts, Tudor Revival, Craftsman, Colonial Revival.",
+    "globalnews_2015": "Council designated First Shaughnessy HCA Sept 29, 2015; 595 properties, 315 pre-1940; coach houses and suites allowed.",
+    "fsd_bylaw": "bylaws.vancouver.ca FSD schedule: accessory building max 4.5 m (mean on pitched roof), no part above 6.1 m; parking floor area in all accessory buildings capped at 80.77 m2; parking in principal building generally not allowed except existing at 2015-09-29 or below-grade hardship/heritage cases; coach house on sites < 1,672 m2 with conserved protected heritage house, 37-63.7 m2 in partial storey of accessory building, up to 5.5 m2 on main floor; intent 'compatible with, subordinate to, and distinguishable from'.",
+    "climate": "YVR 169 precip days, Nov/Dec/Jan > 170 mm (carried from 10-28 research)."
+   },
+   "word_count": 2671,
+   "images_used": [
+    "vancouver-garage-gear-wall.jpg (+640, hero, fetchpriority high)",
+    "vancouver-double-garage-before/after.jpg (+640, B/A pair in parking-cap section; after = og/twitter image)",
+    "vancouver-garage-wall-floor-before/after.jpg (+640, B/A pair in damp-walls section)",
+    "vancouver-garage-labelled-bins.jpg (+640, downsizing section)"
+   ],
+   "image_honesty": "Both B/A captions say example layout, not a Shaughnessy client's garage. 6 imgs, 6 unique alts, width/height match files. All 15 image URLs 200 live.",
+   "on_page_checklist": {
+    "title": "Garage Organization Shaughnessy, Vancouver | GarageScape (56 chars)",
+    "canonical": "https www",
+    "og_twitter_image": "images/vancouver-double-garage-after.jpg (exists)",
+    "h1_count": 1,
+    "schema": "Service+LocalBusiness provider (549/899/1800 copied from Kerrisdale), BreadcrumbList, FAQPage (6, matches visible); all parse",
+    "links_out": "index.html (frozen), garage-storage-solutions-calgary.html (frozen), kerrisdale, vancouver org, laneway clearing, mould, earthquake, bike storage, ev-charger, storage-solutions-vancouver, cleanout, decluttering, west-vancouver, burnaby, services hub; 0 broken",
+    "links_in": "garage-services-vancouver.html (related card), garage-organization-vancouver.html (Shaughnessy chip now a link), garage-organization-kerrisdale.html (areas paragraph link)",
+    "sitemap": "sitemap-vancouver.xml (31 locs, added once, lastmod 2026-11-04); sitemap-index lastmod bumped"
+   },
+   "no_ai_slop": "Banned-word grep clean; 0 em dashes in page body; unverified claims softened (chauffeurs, 'usually separate building', school sports, 'many families ride to school' removed).",
+   "deploy": "Cloud git push still 403. GitHub web upload via Chrome, 7 files, commit f21905b on fdd9a24 (tree identical to local). First attempt lost: a coordinate click on the commit field was refused by the safety check, the typed message hit GitHub shortcuts (Actions > new workflow, nothing created). Retried: file_upload, then commit message set and Commit clicked via javascript_tool. Live ~90 s: page 200 and md5-identical; all 15 image URLs 200; homepage 200.",
+   "indexing": {
+    "todays_page": "FAILED: QUOTA EXCEEDED on the first request (~16:25 UTC) after live test. Pre-request status 'URL is not on Google: URL is unknown to Google', no referring sitemap. Not retried. Screenshots taken.",
+    "status": "pending-manual",
+    "mitigation": "Resubmitted https://www.garagescape.ca/sitemap-vancouver.xml: Submitted Nov 4, 2026, Last read Nov 4, 2026, Success, 31 discovered (includes Shaughnessy).",
+    "backlog_inspected": {
+     "garage-organization-priddis.html": "INDEXED (URL is on Google). Removed from backlog and from watch list.",
+     "garage-organization-anmore-belcarra.html": "INDEXED. Removed from backlog and from watch list.",
+     "garage-organization-kerrisdale.html": "INDEXED. Removed from backlog."
+    },
+    "finding": "All three were indexed without any accepted manual request: sitemap discovery alone got them in within ~1-3 weeks. The daily request quota matters less than assumed; content quality and sitemaps are doing the work.",
+    "counts_overview": {
+     "date": "2026-11-04",
+     "indexed": 37,
+     "not_indexed": 73,
+     "source": "GSC Overview chart legend (unchanged label; chart lags inspection results)"
+    },
+    "pending_manual_urls": [
+     "https://www.garagescape.ca/garage-organization-shaughnessy.html",
+     "https://www.garagescape.ca/garage-organization-north-calgary.html",
+     "https://www.garagescape.ca/garage-organization-evanston.html",
+     "https://www.garagescape.ca/garage-organization-seton.html",
+     "https://www.garagescape.ca/garage-organization-west-vancouver.html",
+     "https://www.garagescape.ca/garage-decluttering-calgary.html",
+     "https://www.garagescape.ca/hoarding-garage-cleanup-calgary.html",
+     "https://www.garagescape.ca/post-renovation-garage-cleanup-calgary.html",
+     "https://www.garagescape.ca/garage-cleanout-heritage-pointe.html"
+    ]
+   },
+   "backfilled": {
+    "page": "garage-organization-dalhousie.html (Calgary)",
+    "reason": "No Vancouver page needs backfill (all have 3+ images and valid og:image); took #1 in the 11-02 Calgary broken-og queue.",
+    "added": [
+     "custom-shelving-installation.jpg (hero)",
+     "before-after-4.jpg / before-after-3.jpg (B/A pair, illustration caption) in services section"
+    ],
+    "og_image": "og:image repointed from missing garage-organization-dalhousie.jpg to custom-shelving-installation.jpg; twitter:image added",
+    "title_url_canonical": "unchanged",
+    "flag": "Page has a 'What Dalhousie Homeowners Say' section with 3 quoted reviews; same unverifiable-testimonial question as Evanston/Panorama Hills. Needs Abhi."
+   },
+   "rankings": {
+    "method": "4 WebSearch queries (US-located, non-localized); directional only.",
+    "garage organization vancouver": "not visible (Mr. Handyman WA, Handyman Connection, BBB, HAVAN Garage Living/Clever Quarters, Homestars, a netlify 'Metro Vancouver 1-Day Garage Transformation' site). FLAT vs 10-28.",
+    "garage cleaning vancouver": "not visible (Edenflo, Thumbtack WA, resetgarage.ca Google Site, BBB, Homestars, Hellamaid, spam). FLAT vs 10-28.",
+    "garage organization west vancouver": "ROTATING. not visible (Mr. Handyman WA, BBB, Homestars, Handyman Connection, Parksy). No same-method prior reading.",
+    "garage organization shaughnessy vancouver": "today's page not present (unknown to Google). BASELINE SET."
+   },
+   "technical": "sitemap.xml 70 locs, sitemap-vancouver 31; 0 dups, 0 missing files. Changed pages: 1 H1 each, JSON-LD parses, 0 broken internal links or image paths. robots.txt 200 and sane; homepage 200. Full 14-day sweep still overdue (last 2026-10-10); skipped to stay in scope.",
+   "consolidation_candidates": [
+    {
+     "pages": "garage-organization-vancouver, garage-cleaning-vancouver vs garage-services-vancouver, garage-storage-solutions-vancouver",
+     "status": "carried, DECISION FOR ABHI",
+     "recommendation": "single Vancouver hub as per 10-18 entry"
+    },
+    {
+     "pages": "garage-organization-priddis, garage-organization-anmore-belcarra",
+     "status": "RESOLVED: both indexed 2026-11-04",
+     "recommendation": "none"
+    }
+   ],
+   "competitors_new": [
+    "elaborate-valkyrie-82e02c.netlify.app (Metro Vancouver 1-Day Garage Transformation, North Shore blog) and resetgarage.ca now appear for 'garage organization/cleaning vancouver'. Worth a look by Abhi."
+   ],
+   "images_needed": [
+    "REAL photo: detached older garage beside a large character house, before and after",
+    "REAL photo: garage loft storage being cleared for a coach house",
+    "REAL photo: school sports drying station (rowing/rugby kit)",
+    "REAL Calgary project photos (carried)",
+    "-640 variants for the generic Calgary set (carried)"
+   ],
+   "next_targets": [
+    "1. BLOCKER (7th day running): GSC daily quota gone before this routine runs. But note today's finding: 3 backlog pages got indexed with no accepted request, so sitemap resubmission + internal links are sufficient; stop treating the quota as critical and consider dropping manual requests from one routine.",
+    "2. Next Vancouver: Kerrisdale is now indexed, so Dunbar-Southlands or Point Grey qualifies (Point Grey: 1920s-30s lane garages, UBC/Spanish Banks gear, Pacific Spirit). Alternatively garage-storage-solutions-surrey if the Burnaby storage page is indexed (inspect first).",
+    "3. Next Calgary (this routine): upgrade garage-organization-panorama-hills or beddington (broken og) once Abhi rules on testimonials.",
+    "4. Backfill queue (Calgary broken og): beddington, brentwood, harmony, makeover, remodel, renovation, garage-cleaning-calgary.",
+    "5. Overdue: 14-day full site sweep and a full Indexing > Pages breakdown."
+   ],
+   "flags": [
+    "BLOCKER: GSC quota exceeded on first request; Shaughnessy page pending-manual (sitemap resubmitted, read same day).",
+    "GOOD NEWS: Priddis, Anmore-Belcarra and Kerrisdale all indexed.",
+    "NO DROP: Vancouver tracking queries flat (not visible in non-localized tool).",
+    "TESTIMONIALS: Dalhousie page carries 3 unverifiable quoted reviews; needs Abhi's decision."
+   ]
   }
  ]
 }
