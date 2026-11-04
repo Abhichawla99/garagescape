@@ -528,4 +528,18 @@
             <image:caption>Single-car garage on a Vancouver West Side street with the car parked on a clear floor</image:caption>
         </image:image>
     </url>
+    <url>
+        <loc>https://www.garagescape.ca/garage-organization-shaughnessy.html</loc>
+        <lastmod>2026-11-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.garagescape.ca/images/vancouver-double-garage-after.jpg</image:loc>
+            <image:caption>Double garage organized with both parking bays clear and storage on the back and side walls</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.garagescape.ca/images/vancouver-garage-gear-wall.jpg</image:loc>
+            <image:caption>Garage gear wall with skis, bikes and helmets hung above a clear floor</image:caption>
+        </image:image>
+    </url>
 </urlset>
