@@ -5489,6 +5489,88 @@
     "NO DROP: Vancouver tracking queries flat (not visible in non-localized tool).",
     "TESTIMONIALS: Dalhousie page carries 3 unverifiable quoted reviews; needs Abhi's decision."
    ]
+  },
+  {
+   "date": "2026-11-05",
+   "weekday": "Thursday",
+   "market": "calgary-cleaning",
+   "mode": "new-page",
+   "action": "created",
+   "page": "garage-cleanout-elbow-valley.html",
+   "keyword": "garage cleanout Elbow Valley (also junk removal Elbow Valley, garage junk removal Elbow Valley Calgary, garage cleanout Rocky View County)",
+   "buyer": "Elbow Valley homeowner (699 homes, Rocky View County, Hwy 8) clearing a garage for a sale, a move or winter parking; lake-lot owners with boats/boards/golf gear; owners away for winter who need a door-code job.",
+   "why_this_target": "#1 in the 11-04 next_targets (Tier 2 affluent). Only Elbow Valley content on the site was org-side (garage-organization-harmony, linked to, not edited) and a passing mention on the acreage page. Watermark dropped from the target: it is in Bearspaw (north), not next to Elbow Valley, so pairing them would be a geographic mismatch. H2 skeleton checked against acreage-bearspaw-springbank, heritage-pointe and aspen-woods-springbank-hill; none shared. No other commit today before this run (HEAD fdd9a24 at pull).",
+   "competitive_gap_found": "'garage cleanout elbow valley calgary' (gl=ca, 2026-11-05): our Mount Royal/Elbow Park page and homepage rank 1-2 on the word 'Elbow' only; freshstart, redstone, garagecleanoutcalgary, Mighty Junk, Star Disposal, Taskrabbit all 'Missing: elbow valley'; local pack Local Lads / Aladdin / Junk Direct. 'junk removal elbow valley': only dumpsterrentalsdepot.ca has an Elbow Valley page (generic list template); JustJunk mentions Elbow Valley in a service-area list. Nobody covers the private roads, Residents Club, Chuck Wagon, the residential-only rule at County transfer sites, or lake gear.",
+   "people_also_ask_used": [
+    "What is the minimum charge for junk removal? (answered without a number: Chuck Wagon is cheaper for small loads)",
+    "What is the cheapest way to get rid of junk? (Chuck Wagon + Springbank Transfer Site)",
+    "How much does it cost to remove junk in Calgary? (factors + RVC 2026 fees)",
+    "How do I clear out a garage? (reframed as before-selling timeline)",
+    "Buyer: Do I need Residents Club permission? Can you pressure wash in November? Do I need to be home?",
+    "Not used: How much is 1-800-GOT-JUNK in Canada (competitor), How much does a move-out clean cost (off-angle), How much to clean and organize a garage (pointed to org page instead)"
+   ],
+   "research": {
+    "evrc": "elbowvalley.com/general-information (read 2026-11-05): 699 homes, ~400 acres home-sites + ~600 acres common lands (roads, parks, playgrounds, lakes, environmental land); entire community private property except County roads Lott Creek Dr and Clearwater Dr; straddles Hwy 8, Hidden Hollow Villas + phases 1-4 south, 5-6 north; six bare-land condo phases + Hidden Hollow Villas; sub-HOAs Alpine Meadows, Bent Tree Village, Diamond Willow Point, Stag's Leap (south), Riverside Villas (north); four lot types low to high fee: semi-detached, detached, Fisherman's Bend & acreage, lake; fees secured by encumbrance; estoppel certificate before resale requires delinquent fees paid; operating costs include road snow removal within 6-12 h typically, homeowner garbage removal and recycling program, private security patrols, docks/lakes/beach; water Westridge (403) 228-2543; golf Elbow Springs, Glencoe, Pinebrook, River Spirit. Contact page snippet: clubhouse (403) 240-4386.",
+    "chuck_wagon": "rockyview.ca/elbow-valley-chuck-wagon (read 2026-11-05): 31040 Lott Creek Dr, Saturday 9-3; household garbage 1 tag-a-bag ticket per bag (buy on site by cheque, online, other County sites, County Hall); newsprint, mixed paper, clear glass, cardboard, plastic, small metal only; grass/leaves May 1-Oct 31 only, limit 5 bags; loose organics.",
+    "reused_2026_10_29": "Springbank Transfer Site 32190 Twp Rd 245, residential only/no commercial, winter Nov 1-Mar 31 Wed & Sat 9-5, accepted list; RVC HHW year-round sites Bragg Creek, Langdon, Irricana, Cochrane, Airdrie; RVC fees bulk $50/half-ton, furniture $22/item.",
+    "stage4": "Google SERP 2026-11-05 (CBC, City newsroom, calgary.ca): Stage 4 in effect from Nov 4. Could NOT confirm whether Westridge Utilities customers in Elbow Valley are under it; page says so plainly.",
+    "not_used": "No EVRC Rules & Regulations text found online (bins, contractors, RVs), so no bylaw is quoted; page tells owners to call the clubhouse before renting a bin. Lake names from the org-side Harmony page not reused (unverified)."
+   },
+   "word_count": 2571,
+   "image_honesty": "One existing image reused: images/vancouver-tandem-garage-before.jpg (+640), a stock/illustrative cluttered tandem garage (also used on the hoarding page); caption says 'Example photo, not an Elbow Valley house.' Same file as og/twitter image. Both variants 200 live.",
+   "custom_elements": [
+    "Private-road access table: north/south of Hwy 8 by phase, the five neighbourhood associations, the four EVRC lot types, driveway loading, 6-12 h snow-clearing window, call the clubhouse before a bin",
+    "Three-places load split table: Elbow Valley Chuck Wagon (Saturday, tag-a-bag) vs Springbank Transfer Site (Wed/Sat winter) vs RVC HHW sites vs our truck, built on the County's residential-only rule that bars our truck from County sites",
+    "Lake-lot gear sorting list (boats/boards, life jackets, inflatables, fishing hooks sealed, golf sets, skates)",
+    "Selling timeline worked back from possession around the EVRC estoppel certificate and what-stays-with-the-house decisions",
+    "Westridge Utilities water note: honest 'not confirmed' on Stage 4 applicability, dry-sweep only until Calgary lifts it"
+   ],
+   "on_page_checklist": "Title 50 chars, meta 160, OG/Twitter, canonical, 1 H1, 7 visible FAQs = FAQPage JSON-LD, Service+LocalBusiness provider + BreadcrumbList, no ratings/reviews/prices of ours, 0 em dashes in copy, JSON-LD parses.",
+   "internal_links": "Outbound: 42 internal hrefs incl. contextual links to garage-cleanout-calgary, acreage-bearspaw-springbank, aspen-woods-springbank-hill, heritage-pointe, estate, before-selling, hoarding, floor-cleaning, epoxy floor, decluttering-calgary, decluttering-cochrane, garage-organization-harmony. Inbound: acreage page body ('Elbow Valley' linked), aspen-woods-springbank-hill nearby-communities paragraph, index.html cleanout card list, footer 'Cleanout: Elbow Valley' on 8 cleaning pages. sitemap.xml updated.",
+   "deploy_check": "Pushed 2bd4885 to main; live URL 200 in curl and Chrome, H1 and sections render; hero image variants 200.",
+   "indexing": {
+    "site_check": "robots.txt loaded in Chrome at run start.",
+    "session": "GSC signed in.",
+    "requests": [
+     {
+      "url": "https://www.garagescape.ca/spring-garage-cleanout-calgary.html",
+      "pre_status": "Discovered - currently not indexed; sitemaps sitemap-index + sitemap.xml; referring page blog/hire-vs-diy-garage-organization-calgary.html",
+      "result": "QUOTA EXCEEDED after live test on the first request. Not retried."
+     },
+     {
+      "url": "https://www.garagescape.ca/garage-cleanout-pump-hill-bayview.html",
+      "pre_status": "URL is unknown to Google",
+      "result": "inspected only (quota gone)"
+     },
+     {
+      "url": "https://www.garagescape.ca/garage-cleanout-edgemont-varsity-calgary.html",
+      "pre_status": "URL is unknown to Google",
+      "result": "inspected only (quota gone)"
+     }
+    ],
+    "new_page": "Not requested; quota exhausted.",
+    "status": "Quota already exhausted at the first request again (second time in three nights). Other routines are using it before this run starts.",
+    "pending_manual_urls": [
+     "https://www.garagescape.ca/spring-garage-cleanout-calgary.html",
+     "https://www.garagescape.ca/garage-cleanout-heritage-pointe.html",
+     "https://www.garagescape.ca/garage-cleanout-pump-hill-bayview.html",
+     "https://www.garagescape.ca/garage-cleanout-edgemont-varsity-calgary.html",
+     "https://www.garagescape.ca/garage-cleanout-elbow-valley.html"
+    ]
+   },
+   "flags": [
+    "GSC quota: exhausted before this run's first request. 5 Calgary cleaning URLs now pending-manual, 2 of them 'unknown to Google'. Worth Abhi requesting these by hand, or moving this run earlier / another routine later.",
+    "CONFIRM WITH ABHI (process promises on the new page): one-truck jobs with nothing left on the lot, door-code or neighbour-key jobs with photo set-aside pile, cardboard/recycling staged for the owner's Chuck Wagon run, lake gear sorted before anything leaves, hooks sealed.",
+    "CHECK: whether Westridge Utilities (Elbow Valley) is under Calgary's Stage 4 restrictions. Page says 'not confirmed'; update if Abhi or Westridge knows.",
+    "Carried: Stage 4 notice removal when the City lifts it (~early Dec); homepage 'Starting at $299' vs factor-only cleaning pages; needs real pricing from Abhi for the 'minimum charge for junk removal' PAA; insurance/WCB still not stated on any cleaning page."
+   ],
+   "next_targets": [
+    "1. Britannia / Bel-Aire / Mayfair cleanout (Tier 2, Elbow Drive estates) with an angle distinct from the Mount Royal lane page; verify SERP first.",
+    "2. Same-day / last-minute garage cleanout before possession (Tier 1) only if a non-price angle exists (possession-day timeline); franchise SERP still price-led.",
+    "3. Watermark at Bearspaw cleanout (Tier 2) only if it can stand apart from the acreage page (architectural controls, no acreage outbuildings); else skip.",
+    "4. Sunday 11-08: strengthen garage-cleanout-calgary.html (em dashes, $199/$299 package section vs factor-only pages) and check every floor page for Stage 4 wording.",
+    "Parked: garage pressure washing Calgary until Stage 4 lifts (~early Dec); fall winterizing Aug 2027."
+   ]
   }
  ]
 }
