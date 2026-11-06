@@ -5571,6 +5571,103 @@
     "4. Sunday 11-08: strengthen garage-cleanout-calgary.html (em dashes, $199/$299 package section vs factor-only pages) and check every floor page for Stage 4 wording.",
     "Parked: garage pressure washing Calgary until Stage 4 lifts (~early Dec); fall winterizing Aug 2027."
    ]
+  },
+  {
+   "date": "2026-11-06",
+   "weekday": "Friday",
+   "market": "calgary",
+   "mode": "new-page",
+   "action": "created",
+   "page": "garage-organization-cochrane.html",
+   "keyword": "garage organization Cochrane AB (also garage storage Cochrane, garage organizer Cochrane Alberta)",
+   "community": "Town of Cochrane, AB (Heritage Hills, GlenEagles, Riversong, Sunset Ridge, Fireside, Heartland, West Terrace, Glenbow, Cochrane Heights, East End, Downtown)",
+   "market_decision": "This routine's last run (2026-11-04) was vancouver, so flipped to CALGARY. calgary-cleaning entries ignored for the flip.",
+   "why_this_target": "Not in the written bank, but the same distinct-intent pattern as Chestermere (decluttering page existed, organization page added 09-16). Cochrane had only garage-decluttering-cochrane.html (indexed since 11-02); no page targeted organization/storage in Cochrane. Okotoks organization deliberately NOT chosen because decluttering-okotoks is frozen #2 and an org page could cannibalize it. Upgrade path (panorama-hills/beddington) still blocked on the testimonial ruling.",
+   "competitive_gap_found": "'garage organization cochrane alberta' / 'garage organization cochrane ab' (US tool, 2026-11-06): only BBB category pages for other towns, Homestars 'garage specialist pros Cochrane' list, Parksy. Zero service-business pages for Cochrane garage organization. Nobody covers the Oct 22 driveway trailer cutoff, walkout-basement vs garage split, laned Riversong/Heritage Hills garages or Cochrane Eco Centre limits.",
+   "research": {
+    "calgaryhomes_neighbourhoods": "calgaryhomes.ca/blog/best-neighbourhoods-cochrane-ab.html: pop ~11,000 (2001) to ~32,000 (2021); Hwy 1A/22; Riversong front-drive + laned, 19 km pathways, Bow River; Heritage Hills late-2000s to late-2010s, walkouts, front garage or laned; West Terrace late-1990s, 1,100-1,800 sq ft, Mitford Park fishing; Glenbow 1970s to new; GlenEagles villas + golf; Sunset Ridge 6-acre pond; Heartland near Ghost Lake and 1A; Cochrane Heights original community.",
+    "eco_centre": "cochrane.ca/ecocentre (read 2026-11-06): paint/aerosols up to 30 L/week/household; HHW up to 10 L/week/household labelled+sealed; e-waste anything with cord/battery; mixed metal bin; tires NOT accepted (return to retailer/dealer); appliance fees (fridge/freezer $40, stove/washer/dryer $30, HWT $15) not quoted on page; phone 403-851-2277.",
+    "trailer_rule": "cochranenow.com 2021-05-03 (Peace Officer Bob Hope): driveway trailer parking May 1 to Oct 22; on-road must be hitched, max 72 h; >11 m combined banned in residential; fines >= $250. Page attributes it as what officers have told residents (dated source).",
+    "wind": "cochranenow.com 2021-12-10: ECCC/Terri Lang forecast gusts 80-90 km/h through Cochrane."
+   },
+   "word_count": 2183,
+   "images_used": [
+    "airdrie-garage-decluttering.jpg (hero, fetchpriority high, og/twitter)",
+    "before-after-4.jpg / before-after-1.jpg (B/A pair, same scene)",
+    "custom-shelving-installation.jpg (overhead racks, garage-type section)",
+    "calgary-garage-decluttering.jpg (workbench, gear section)"
+   ],
+   "image_honesty": "Generic AI-rendered set; alts describe what is shown and never claim a Cochrane client; captions say 'illustration'. 5 imgs, 5 unique alts, width/height 1024, no srcset (no -640 variants).",
+   "on_page_checklist": "title 50 chars, meta desc ~155, canonical, OG+Twitter (image exists), 1 H1, LocalBusiness+FAQPage(7)+Breadcrumb JSON-LD parse, links to decluttering-cochrane, garage-storage-solutions-calgary (frozen), garage-organization-canmore (frozen), services/cleaning (frozen), acreage-bearspaw-springbank, bearspaw, shelving, flooring, garage-organization-calgary. Inbound: index.html Cochrane card (link-only li) + garage-decluttering-cochrane.html. sitemap.xml once, lastmod 2026-11-06; sitemap-index lastmod bumped. No prices stated.",
+   "no_ai_slop": "Banned-word scan clean; 0 em dashes in new copy.",
+   "deploy": "Cloud git push still 403 (proxy). GitHub web upload via Chrome (6 files) -> d27639f on 1461bea; live files were byte-identical to base before overwrite. Live ~80 s: page 200 and byte-identical; all 8 image URLs 200; homepage link live; Beddington images live.",
+   "indexing": {
+    "todays_page": "FAILED: QUOTA EXCEEDED on first click (~16:30 UTC). Pre-request status 'URL is not on Google: URL is unknown to Google'. Screenshot taken. Not retried.",
+    "status": "pending-manual",
+    "mitigation": "Resubmitted https://www.garagescape.ca/sitemap.xml: 'Sitemap submitted successfully', 72 discovered (includes Cochrane).",
+    "backlog_inspected": {
+     "garage-organization-north-calgary.html": "NOT indexed: Crawled - currently not indexed, last crawl Aug 4, 2026 (no recrawl since 11-02 upgrade).",
+     "garage-organization-evanston.html": "NOT indexed: Discovered - currently not indexed.",
+     "garage-organization-seton.html": "INDEXED. Removed from backlog."
+    },
+    "pending_manual_urls": [
+     "https://www.garagescape.ca/garage-organization-cochrane.html",
+     "https://www.garagescape.ca/garage-organization-north-calgary.html",
+     "https://www.garagescape.ca/garage-organization-shaughnessy.html",
+     "https://www.garagescape.ca/garage-organization-evanston.html",
+     "https://www.garagescape.ca/garage-organization-west-vancouver.html",
+     "https://www.garagescape.ca/garage-decluttering-calgary.html",
+     "https://www.garagescape.ca/hoarding-garage-cleanup-calgary.html",
+     "https://www.garagescape.ca/post-renovation-garage-cleanup-calgary.html",
+     "https://www.garagescape.ca/garage-cleanout-heritage-pointe.html"
+    ],
+    "counts": "Skipped (last recorded 2026-11-04, within 7 days). Overview chart still 37 indexed / 73 not indexed."
+   },
+   "backfilled": {
+    "page": "garage-organization-beddington.html",
+    "fixed": "og:image pointed at non-existent garage-organization-beddington.jpg -> hero-garage-decluttering.jpg; added missing twitter:image",
+    "added": [
+     "hero-garage-decluttering.jpg (hero, fetchpriority high)",
+     "garage-organization-before-after-1.jpg / okotoks-garage-decluttering.jpg (B/A pair, illustration caption)"
+    ],
+    "note": "Title/URL/canonical untouched; sitemap lastmod 2026-11-06. Page still has an unverified 'What Beddington Heights Homeowners Say' testimonial section: needs Abhi's ruling."
+   },
+   "rankings": {
+    "method": "4 WebSearch queries, US-only tool, non-localized; directional only.",
+    "garage organization calgary": "not visible (calgaryhomes, Homestars, CREB 2012, BBB, RenovationFind, Handyman Connection, baileylineroad, California Closets). FLAT vs 11-02.",
+    "garage decluttering calgary": "homepage not visible (calgaryhomes, calmorder, cmca, 1-800-GOT-JUNK, JustJunk hoarding). FLAT vs 11-02. Tool does not reflect GSC #2; no drop evidence.",
+    "garage organization canmore": "ROTATING (frozen #1 page). Not visible in this tool (BBB, Homestars, explorecanmore Sports Garage, Parksy). No prior same-tool reading; NO DROP evidence, check GSC Performance.",
+    "garage organization cochrane ab": "BASELINE: today's page not present (unknown to Google). SERP is BBB/Homestars/Parksy only."
+   },
+   "technical": "sitemap.xml 72 locs, sitemap-vancouver.xml 31, 0 dups, 0 missing files; new page + Beddington 1 H1, JSON-LD parses, no broken internal links; homepage 200. Noted: sw.js precaches images/hero-garage-organization.jpg and garage-organization-before-after-2.jpg which 404 (pre-existing; harmless but worth fixing).",
+   "consolidation_candidates": [
+    {
+     "pages": "garage-organization-north-calgary",
+     "status": "watch",
+     "recommendation": "Still 'Crawled - currently not indexed' (crawl Aug 4). If no recrawl/index by 2026-12-01, merge Beddington/Dalhousie/Brentwood into it."
+    },
+    {
+     "pages": "garage-organization-evanston",
+     "status": "watch",
+     "recommendation": "'Discovered - currently not indexed'; requested 3+ times since October without acceptance. Candidate to merge into north-calgary hub if still out on 12-01."
+    }
+   ],
+   "images_needed": [
+    "REAL photo: Cochrane garage holding trailer/camping gear in bins after the driveway season",
+    "REAL photo: paddleboard/rod ceiling hoist or wall rack",
+    "REAL Calgary-area project before/after pairs (carried)",
+    "-640 variants for the generic Calgary set (carried)"
+   ],
+   "next_targets": [
+    "1. BLOCKER (8th day): GSC request quota is exhausted before this routine runs every time. Sitemap resubmission + internal links are what is actually getting pages indexed (Seton indexed today with no accepted request). Recommend Abhi submit pending-manual list by hand or move all requests to one routine.",
+    "2. Next Calgary: garage-organization-okotoks is NOT safe (frozen #2 decluttering page). Options: garage-storage-solutions-airdrie or garage-organization-cochrane follow-ups are thin; better: upgrade panorama-hills/beddington/evanston once testimonial ruling lands.",
+    "3. Next Vancouver: Point Grey or Dunbar-Southlands; or garage-storage-solutions-surrey if Burnaby storage page is indexed.",
+    "4. Backfill queue (Calgary broken og): brentwood, harmony, makeover, remodel, renovation, garage-cleaning-calgary.",
+    "5. Overdue: 14-day full site sweep and full Indexing > Pages breakdown."
+   ],
+   "flags": [
+    "Testimonial sections on beddington, evanston, panorama-hills need Abhi's ruling (possibly unverifiable)."
+   ]
   }
  ]
 }
