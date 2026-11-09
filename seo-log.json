@@ -5847,6 +5847,94 @@
         "4. Car-collector / show-garage cleaning (luxury angle) if the SERP shows a gap.",
         "Parked: garage pressure washing Calgary until Stage 4 lifts; fall winterizing Aug 2027; spring refresh Feb 2027. Next Sunday (11-15): strengthen garage-cleaning-calgary.html or garage-floor-cleaning-calgary.html (check em dashes and $179/$249/$399 against pricing rule)."
       ]
+    },
+    {
+      "date": "2026-11-09",
+      "weekday": "Monday",
+      "market": "calgary-cleaning",
+      "mode": "new-page",
+      "action": "created",
+      "page": "garage-cleanout-britannia-bel-aire-mayfair.html",
+      "keyword": "garage cleanout Britannia Bel-Aire Mayfair Calgary (also junk removal Bel-Aire, junk removal Britannia Calgary, garage cleanout Mayfair Calgary)",
+      "buyer": "Owners of original late-1950s/1960s homes west of Elbow Drive (Britannia, Bel-Aire, Mayfair) clearing a long-held garage for a downsizing move or sale; out-of-town heirs/executors; realtors prepping a listing; builders or new owners clearing contents before a demolition and rebuild.",
+      "why_this_target": "#1 in the 11-08 next_targets (Tier 2 affluent). Tier 1 is fully built except oil-stain and pressure washing, both blocked by Stage 4 (City banner confirmed 11-09: city-wide Stage 4 since Nov 4 for the Bearspaw South Feeder Main). West Springs already ranks via the Aspen Woods page. Satellite check confirmed all three communities have curving streets with no rear lanes (Britannia: Coronation Dr, Elizabeth Rd, Imperial Way, Edinburgh Rd, Britannia Dr along Britannia Slopes; Mayfair/Bel-Aire: Massey Pl, Moorgate Pl, Beverley Pl, Malibou Rd, Baldwin Cres, Bel-Aire Dr), so the Mount Royal lane page was the wrong fit. Cannibalization handled: Mount Royal local note no longer lists Britannia/Bel-Aire and points to the new page (its schema areaServed still includes Britannia, left as is). H2 skeleton checked against mount-royal, pump-hill-bayview and edgemont-varsity; none shared. No other Calgary-cleaning commit today (HEAD 180dd92 Vancouver org page at pull).",
+      "competitive_gap_found": "'garage cleanout britannia calgary' (gl=ca, 2026-11-09): our homepage #1 (snippet 'Britannia, Roxboro & Rideau Park ... start at $299') and Mount Royal page #3 on the word Britannia only; garagecleanoutcalgary, freshstart, Star Disposal, Happy Panda, Aladdin, Local Lads, Mighty Junk all 'Missing: britannia'; local pack Junk Direct (ad) / Junk Man / Aladdin / Junk Pros. 'junk removal bel-aire mayfair calgary': no dedicated page from anyone; Mighty Junk SW Calgary page lists Bel-Aire in a service-area list; JUSTJUNK, Anytime, Local Lads, YYC Junk 'Missing: bel-aire mayfair'. Nobody covers no-lane loading, the MBCA restrictive covenants, pre-demolition contents clearing or the nearest HHW site.",
+      "people_also_ask_used": [
+        "How to empty out a garage? (Britannia SERP)",
+        "How much does it cost to use the dump in Calgary? (Bel-Aire SERP; City 2026 rates)",
+        "What is the cheapest way to get rid of junk? (Bel-Aire SERP; Fire Station #20)",
+        "Where can I dispose of furniture in Calgary? (Bel-Aire SERP)",
+        "Buyer: clear before demolition? do I need to be home? floor wash during Stage 4?",
+        "Not used: move-out clean cost (off-angle); how much to clean and organize a garage (org side); where can seniors get free hoarding help (no verified source read today); minimum junk removal price (answered on same-day page)"
+      ],
+      "research": {
+        "wikipedia": "Bel-Aire: SW, annexed 1954, established 1960, 159 dwellings (2012), all single-detached, none rented; east of Glenmore Reservoir/Elbow River, north of Mayfair, Calgary Country Club north boundary. Mayfair: established 1957, 156 dwellings (2012), bounded by Bel-Aire N, Elbow Dr E, Glenmore Trail S, reservoir W. Britannia: annexed 1910, established 1956, mostly late-1950s development, 309 dwellings (2012), bounded by Elbow Dr E, 50 Ave S, Elbow River/Riverdale Park W, Britannia Dr N.",
+        "mbca": "mayfairbelaire.ca/about-us (read 2026-11-09): association registered Nov 13, 1958; 314 dwellings, just over 900 residents, 'numerous original homesteaders'; wildlife rabbits, coyotes, deer, occasional bobcat; near Calgary Golf and Country Club, Earl Grey Golf Course, Britannia Shopping Centre. /restrictive-covenants: covenants registered on title to most lots, run with the land, operate as a building scheme outside zoning; association's legal position is they preclude secondary/backyard suites, citing Deagle v 1678452 AB Ltd., Dec 2013. /safety-and-crime: most common concerns social disorder, thefts, break and enters; links 9PM Routine checklist.",
+        "hhw": "calgary.ca/waste/residential/household-hazardous-waste-drop-off-program.html (read 2026-11-09): 8 fire-station depots + 3 Eco Centres, fire stations open 7 days 8-6; SW sites Lincoln Park/Garrison Green #20 2800 Peacekeepers Way SW, Cedarbrae #24, Evergreen #37. #20 is nearest to all three communities. Free if only HHW; mixed loads may be charged.",
+        "reused_verified": "City landfill 2026 rates ($25 <250 kg, $113/t, $17 refrigerant), Sunday closures, tarp rule, CPS non-emergency 403-266-1234 (11-07 research); $2M general liability (index.html); hours Mon-Fri 8-6, Sat 9-4.",
+        "not_claimed": "No street-parking or bin-on-road rule quoted (page says call 311). No claim that demo contractors exclude contents (page says check your quote). No teardown rate claimed. Britannia covenants not described (only Mayfair/Bel-Aire)."
+      },
+      "word_count": 2822,
+      "image_honesty": "2 existing generic AI-rendered images (vancouver-garage-cardboard-damp.jpg, also og/twitter; vancouver-double-garage-before.jpg) with -640 srcset variants verified on disk; alts describe what is shown; captions say 'an illustration ... not a photo of a client's garage'. No Calgary-specific photo claimed.",
+      "custom_elements": [
+        "No-lane loading table: curving streets, short Place streets/crescents (turnaround check), Elbow Drive frontage, sorting in view of the street, icy drives, collection day",
+        "Who's-booking decision table: owner downsizing, out-of-town heir/executor, realtor, builder planning a rebuild, each with how the day is set up",
+        "Before-the-bungalow-comes-down pre-demolition sequence: check the demo quote for contents, book before the demo date, salvage first, attached materials/asbestos left to abatement, rafters last",
+        "Restrictive-covenants section: MBCA legal position that covenants preclude backyard suites (Deagle v. 1678452 AB Ltd., 2013), so the garage stays a garage; covenants read at sale",
+        "Item-by-item destination table for a long-held garage routed to Lincoln Park/Garrison Green Fire Station #20 and City landfill fees",
+        "Wildlife and break-in protocol from MBCA's own lists (coyotes, deer, bobcat; thefts and B&E): food/garbage out first, door down when not carrying, nothing outside overnight"
+      ],
+      "internal_links": "Out: 12 contextual body links (estate, before-selling, post-renovation, garage-cleanout-calgary, same-day, mount-royal, pump-hill, custom-cabinets-mount-royal, organization-elbow-park, floor-cleaning, plus related cards hoarding, same-day). In: mount-royal local note (Britannia/Bel-Aire moved here), garage-cleanout-calgary neighbourhood paragraph, pump-hill crescents section, index.html cleanout service list + footer, footer list on 10 Calgary cleanout pages. sitemap.xml added (lastmod 2026-11-09).",
+      "no_ai_slop": "Self-checked against eval.md: 0 em dashes, no stats beyond sourced census/MBCA counts, unsourced generalisations removed before ship (teardown frequency, demo-quote practice, rafters, paperwork row).",
+      "deploy": "Commit 601964b pushed; live URL loaded in Chrome ~90 s later with correct title/H1.",
+      "indexing": {
+        "site_check": "robots.txt loaded in Chrome at run start.",
+        "requests": [
+          {
+            "url": "https://www.garagescape.ca/spring-garage-cleanout-calgary.html",
+            "pre_status": "Discovered - currently not indexed",
+            "result": "INDEXING REQUESTED (first click did nothing; worked after re-inspecting)"
+          },
+          {
+            "url": "https://www.garagescape.ca/garage-cleanout-heritage-pointe.html",
+            "pre_status": "Discovered - currently not indexed (referring page garagescape.ca/sitemap.xml)",
+            "result": "INDEXING REQUESTED"
+          },
+          {
+            "url": "https://www.garagescape.ca/garage-cleanout-pump-hill-bayview.html",
+            "pre_status": "Discovered - currently not indexed",
+            "result": "INDEXING REQUESTED"
+          },
+          {
+            "url": "https://www.garagescape.ca/garage-cleanout-edgemont-varsity-calgary.html",
+            "pre_status": "URL is unknown to Google",
+            "result": "INDEXING REQUESTED"
+          },
+          {
+            "url": "https://www.garagescape.ca/garage-cleanout-britannia-bel-aire-mayfair.html",
+            "pre_status": "URL is unknown to Google (new today)",
+            "result": "INDEXING REQUESTED after deploy"
+          }
+        ],
+        "status": "Quota available today: 5 of 5 requests accepted. First run since 11-05 without quota exhaustion.",
+        "pending_manual_urls": [
+          "https://www.garagescape.ca/garage-cleanout-elbow-valley.html",
+          "https://www.garagescape.ca/same-day-garage-cleanout-calgary.html",
+          "https://www.garagescape.ca/garage-cleanout-calgary.html"
+        ]
+      },
+      "flags": [
+        "CONFIRM WITH ABHI (process claims on this page): walkthrough by video, door-code work, photographed set-aside pile, where-it-went list, door kept down when not carrying, $2M liability certificate on request.",
+        "Mount Royal page schema areaServed and meta keywords still include Britannia; body note now points Britannia/Bel-Aire to the new page. Tidy schema on a Sunday run if Britannia queries split badly.",
+        "Carried: needs real pricing from Abhi (one starting price for garage-cleanout-calgary and homepage); Stage 4 wording on floor/cleanout pages to remove when lifted; WCB coverage still not stated anywhere; homepage card still says 'Next-day service' and 'Starting at $299'."
+      ],
+      "next_targets": [
+        "1. Request indexing for elbow-valley, same-day and garage-cleanout-calgary first thing tomorrow while quota is open.",
+        "2. Watermark at Bearspaw cleanout (Tier 2) only if it can stand apart from the acreage page; verify SERP.",
+        "3. Car-collector / show-garage cleaning (luxury angle) if the SERP shows a gap.",
+        "4. Lakeview / Eagle Ridge cleanout (Tier 2, reservoir east side) if distinct from Pump Hill; Altadore infill lane garages as an alternative.",
+        "Parked: oil stain removal and garage pressure washing until Stage 4 lifts (~early Dec); fall winterizing Aug 2027; spring refresh Feb 2027. Next Sunday (11-15): strengthen garage-cleaning-calgary.html or garage-floor-cleaning-calgary.html (check em dashes and $179/$249/$399 against pricing rule)."
+      ]
     }
   ]
 }
