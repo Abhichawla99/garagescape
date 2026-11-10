@@ -5935,6 +5935,100 @@
         "4. Lakeview / Eagle Ridge cleanout (Tier 2, reservoir east side) if distinct from Pump Hill; Altadore infill lane garages as an alternative.",
         "Parked: oil stain removal and garage pressure washing until Stage 4 lifts (~early Dec); fall winterizing Aug 2027; spring refresh Feb 2027. Next Sunday (11-15): strengthen garage-cleaning-calgary.html or garage-floor-cleaning-calgary.html (check em dashes and $179/$249/$399 against pricing rule)."
       ]
+    },
+    {
+      "date": "2026-11-10",
+      "weekday": "Tuesday",
+      "market": "calgary-cleaning",
+      "mode": "new-page",
+      "action": "created",
+      "page": "garage-cleanout-lakeview-calgary.html",
+      "keyword": "garage cleanout Lakeview Calgary (also junk removal Lakeview Calgary, garage junk removal Lakeview SW, garage cleanout Lakeview Village)",
+      "buyer": "Lakeview owners (2,338 dwellings, mostly 1960s bungalows) with detached garages off a back lane: original owners downsizing or selling, families clearing a parent's garage, owners clearing an old garage before a backyard-suite rebuild, and anyone who needs it done in winter when the lane is unplowed.",
+      "why_this_target": "#4 in the 11-09 next_targets (Tier 2, Lakeview named in the task's affluent list). #2 Watermark skipped (no clear separation from the acreage page yet). #3 car-collector cleaning dropped after SERP check: 'car collection garage cleaning calgary' returns generic garage-cleaning and car-detailing results, no buyer query to win. Lakeview is the opposite of yesterday's Britannia page: back lanes and detached garages, so it adds a lane-in-winter angle no other page uses (Mount Royal covers lane access in general and bin permits, not winter lane conditions). Tier 1 remains built except oil-stain and pressure washing, still parked by Stage 4 (City construction update 11-09: work continues, restrictions in place). H2 skeleton checked against mount-royal, britannia-bel-aire-mayfair, pump-hill-bayview, edgemont-varsity, garage-cleanout-calgary and same-day; none shared. No other commit today before this run (HEAD c224d23 at pull).",
+      "competitive_gap_found": "'garage cleanout lakeview calgary' (gl=ca, 2026-11-10): garagescape.ca homepage #1 (snippet 'start at $299'), garagecleanoutcalgary, freshstart, Taskrabbit, Red Stone, Happy Panda all 'Missing: lakeview'; local pack The Garage Guys / The Junk Man / Local Lads; ad Junk Direct. 'junk removal lakeview calgary': JUSTJUNK, Legacy, Anytime, YYC Junk, The Junk Movement, 1-800-GOT-JUNK all 'Missing: lakeview'; ads Local Lads, Junk Toss, 1-800-GOT-JUNK, JUSTJUNK. Nobody has a Lakeview page or covers unplowed lanes, detached-garage freeze damage or the lane giveaway pile.",
+      "people_also_ask_used": [
+        "How do I clear out a garage? (Lakeview cleanout SERP)",
+        "What is a garage clean out? (Lakeview cleanout SERP)",
+        "What is the cheapest way to get rid of junk? (Lakeview junk SERP; Fire Station #20)",
+        "How much does it cost to use the dump in Calgary? (Lakeview junk SERP; City 2026 rates)",
+        "Buyer: can you reach a garage off a rutted lane? do I need to be home? floor wash during Stage 4?",
+        "Not used: minimum price for junk removal (answered on same-day page), where to dispose of furniture (answered on Britannia page), move-out clean cost (off-angle), free hoarding help for seniors (no verified source read)"
+      ],
+      "research": {
+        "wikipedia": "Lakeview, Calgary (read 2026-11-10): SW, Ward 11, annexed 1956, established 1962; bounded by Glenmore Trail, Crowchild Trail and 37 St SW; Tsuut'ina Nation to the west; Lakeview Village south of 66 Ave with larger homes; many original homes by Engineered Homes Ltd.; Calgary Rowing Club and Calgary Canoe Club in the south next to the reservoir; 2012 census 5,468 people in 2,338 dwellings; residents east of 30 St may also join North Glenmore Park CA.",
+        "lca": "lakeviewyyc.ca (lakeviewcommunity.org redirects; read 2026-11-10): north shore of Glenmore Reservoir, Tsuut'ina directly west.",
+        "lanes": "Google results 2026-11-10 for Lakeview listings: 5316 La Salle Cres SW (double detached garage, 'Back Lane'), 5712 Lakeview Dr SW (oversized single detached, 'Back Lane'), 3608 58 Ave SW (double detached), 5907 Lockinvar Rd SW ('Back Lane'), a sold listing with 'double detached garage with alley access'. Page says listings on these streets describe lanes; it does not claim every Lakeview home has one, and points Lakeview Village attached garages to the Pump Hill page.",
+        "lane_snow": "calgary.ca/roads/conditions/snow-ice-faqs.html (read 2026-11-10): 'Back lanes and alleys are not part of our winter maintenance services.'",
+        "reservoir": "calgary.ca Glenmore Sailing School pages (search snippets 2026-11-10): boating May 1 to Oct 31; boat stall and mooring bookings not available for winter.",
+        "suites": "calgary.ca 'Building a Backyard Suite' snippet: suite above or attached to a garage needs fire separation. Zoning/suite rules changed in 2026 per several third-party snippets (repeal of blanket rezoning, July 2026 council vote); page only says rules changed during 2026 and to check with the City.",
+        "stage4": "Google past-24h results 2026-11-10: City construction update Nov 9 says work continues and Stage 4 remains; CityNews 'fifth day in a row conserving'. One Global News snippet said restrictions lifted but appears to describe an earlier lift; not relied on.",
+        "reused_verified": "HHW Fire Station #20 2800 Peacekeepers Way SW 8-6 daily, free (11-09); propane under 30 lb at fire-hall HHW, 8-5 per City snippet (11-07); landfill 2026 rates $25 <250 kg, $113/t, $17 refrigerant, tires free when separate, mixed loads charged, Sunday closures (11-07); untidy property bylaw: items not visible from outside, outdoor fridge locked or door removed, $100-$500 fines, 311 complaints (11-07); $2M liability, hours Mon-Fri 8-6 Sat 9-4 (index.html/about.html).",
+        "not_claimed": "No distances or drive times to landfills. No bin or street-parking rule. No claim about which Lakeview streets lack lanes. Freeze-damage notes kept general (water-based products can separate or go lumpy)."
+      },
+      "word_count": 2609,
+      "images_used": [
+        "vancouver-lane-garage-before.jpg (+640, lane section, og/twitter image)",
+        "vancouver-lane-garage-after.jpg (+640, quote section)"
+      ],
+      "image_honesty": "Both are from the existing AI-rendered Vancouver lane-garage set (also used on Mount Royal and estate pages). Alts describe what is shown; captions say 'An illustration ... not a photo of a Lakeview client's garage.' No Calgary or client claim. Lazy-loaded, width/height set, srcset with -640 variants; all four files return 200 live.",
+      "custom_elements": [
+        "Winter lane-condition table: bare/packed, frozen chinook ruts, plow ridge across the door, neighbour's trailer narrowing the lane, no usable lane, collection-day carts, each with the plan for the day (built on the City's statement that back lanes get no winter maintenance)",
+        "Freeze-sensitive item table for an unheated detached garage: what the cold does and where each item goes (Fire Station #20, set-aside pile, landfill with refrigerant fee)",
+        "'Free pile in the lane' section: Calgary lane-giveaway habit vs the untidy property bylaw, with an inside-the-garage giveaway alternative",
+        "Garage-making-way-for-a-suite sequence: empty before measuring, salvage first, structure left to the demolition contractor, lane kept clear for the build; City fire-separation requirement",
+        "Lake-gear context from the Rowing and Canoe clubs plus the City's May 1-Oct 31 boating season and no winter stall/mooring bookings"
+      ],
+      "internal_links": {
+        "outbound_contextual": "28 unique internal links incl. garage-cleanout-calgary, same-day, estate, before-selling, post-renovation, hoarding, pump-hill-bayview, britannia, mount-royal, aspen-woods, floor-cleaning, garage-organization-calgary",
+        "inbound_added": "Contextual: garage-cleanout-mount-royal-calgary (local note), garage-cleanout-calgary (neighbourhood paragraph), garage-cleanout-pump-hill-bayview (bin paragraph), garage-cleanout-britannia-bel-aire-mayfair (local note). index.html: cleanout services list + footer list. Footer 'Cleanout: Lakeview' on 11 Calgary cleaning pages. sitemap.xml lastmod 2026-11-10."
+      },
+      "no_ai_slop": "Self-checked against eval.md: no em dashes, no stats or reviews invented, no puffery openers, sentences tied to Lakeview facts; delete test passes (lane-in-winter, Rowing/Canoe clubs, Engineered Homes, Lakeview Village, NGP association split).",
+      "deploy": "Commit a16aa74 pushed; live URL 200 within ~90 s; Chrome check: title, H1, 7 FAQ items, 2 tables render; images 200.",
+      "indexing": {
+        "site_check": "robots.txt loaded in Chrome at run start.",
+        "requests": [
+          {
+            "url": "https://www.garagescape.ca/garage-cleanout-elbow-valley.html",
+            "pre_status": "Discovered - currently not indexed (referring page sitemap.xml)",
+            "result": "QUOTA EXCEEDED on first request (~run start)"
+          },
+          {
+            "url": "https://www.garagescape.ca/same-day-garage-cleanout-calgary.html",
+            "pre_status": "URL is unknown to Google (no referring sitemap detected, though it is in sitemap.xml)",
+            "result": "not requested (quota)"
+          },
+          {
+            "url": "https://www.garagescape.ca/garage-cleanout-calgary.html",
+            "pre_status": "Discovered - currently not indexed (referring page garage-floor-cleaning-calgary.html)",
+            "result": "not requested (quota)"
+          },
+          {
+            "url": "https://www.garagescape.ca/garage-cleanout-lakeview-calgary.html",
+            "pre_status": "new today",
+            "result": "not requested (quota)"
+          }
+        ],
+        "status": "Quota exhausted before the first request, so another routine used it earlier today. 0 of 4 accepted.",
+        "pending_manual_urls": [
+          "https://www.garagescape.ca/garage-cleanout-elbow-valley.html",
+          "https://www.garagescape.ca/same-day-garage-cleanout-calgary.html",
+          "https://www.garagescape.ca/garage-cleanout-calgary.html",
+          "https://www.garagescape.ca/garage-cleanout-lakeview-calgary.html"
+        ]
+      },
+      "flags": [
+        "GSC quota was gone before this run's first request. If this keeps happening, this routine needs an earlier slot than the other routines, or Abhi can request the 4 pending URLs by hand.",
+        "CONFIRM WITH ABHI (process claims on this page): booking late morning after chinook refreeze, carrying through the yard gate when the lane is unusable, giveaway pile kept inside the garage, $2M liability certificate sent to builder/realtor.",
+        "Carried: needs real pricing from Abhi (one starting price for garage-cleanout-calgary and homepage); Stage 4 wording on floor/cleanout pages to remove when lifted; WCB coverage still not stated anywhere; homepage card still says 'Next-day service' and 'Starting at $299'; Mount Royal schema areaServed still lists Britannia."
+      ],
+      "next_targets": [
+        "1. Request indexing for elbow-valley, same-day, garage-cleanout-calgary and lakeview first thing tomorrow (all 4 pending).",
+        "2. Altadore / Marda Loop infill lane garages (Tier 2) if the SERP shows no page; distinct from Lakeview by the infill/new-build angle.",
+        "3. Eagle Ridge / Kelvin Grove cleanout only if it can stand apart from Pump Hill; verify SERP.",
+        "4. Watermark at Bearspaw if it can stand apart from the acreage page.",
+        "Dropped: car-collector garage cleaning (no buyer SERP, 11-10). Parked: oil stain removal and pressure washing until Stage 4 lifts (~early Dec); spring refresh Feb 2027; fall winterizing Aug 2027. Next Sunday (11-15): strengthen garage-cleaning-calgary.html or garage-floor-cleaning-calgary.html (em dashes and $179/$249/$399 vs pricing rule)."
+      ]
     }
   ]
 }
