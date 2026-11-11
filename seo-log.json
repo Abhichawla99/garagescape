@@ -6029,6 +6029,100 @@
         "4. Watermark at Bearspaw if it can stand apart from the acreage page.",
         "Dropped: car-collector garage cleaning (no buyer SERP, 11-10). Parked: oil stain removal and pressure washing until Stage 4 lifts (~early Dec); spring refresh Feb 2027; fall winterizing Aug 2027. Next Sunday (11-15): strengthen garage-cleaning-calgary.html or garage-floor-cleaning-calgary.html (em dashes and $179/$249/$399 vs pricing rule)."
       ]
+    },
+    {
+      "date": "2026-11-11",
+      "weekday": "Wednesday",
+      "market": "calgary-cleaning",
+      "mode": "new-page",
+      "action": "created",
+      "page": "garage-cleanout-altadore-marda-loop-calgary.html",
+      "keyword": "garage cleanout Altadore Calgary (also junk removal Marda Loop, garage junk removal Altadore, rental garage cleanout Calgary, garage cleanout Garrison Woods)",
+      "buyer": "Altadore / Marda Loop owners of one half of a semi-detached pair whose garage sits beside a neighbour's; landlords clearing a garage a tenant left full (29% of Altadore dwellings are rented); new owners who find a seller's leftovers in the garage on possession day.",
+      "why_this_target": "#2 in the 11-10 next_targets (Tier 2, Altadore named in the task's affluent list). Separated from Lakeview by housing type rather than lanes: City 2018 figures via Wikipedia show only 38% detached, 30% semi-detached/duplex, 29% rentals, so the page is built around shared garages, tenant leftovers under Alberta RTA s.31, and possession-day garages. H2 skeleton checked against lakeview, britannia-bel-aire-mayfair, mount-royal, estate and before-selling; none shared. No other commit today before this run (HEAD e55d688 at pull).",
+      "competitive_gap_found": "'garage cleanout altadore calgary' (gl=ca, 2026-11-11): local pack Aladdin General Services (1510 30 Ave SW), The Junk Man, Local Lads; ad Junk Direct, JUSTJUNK; organic garagescape.ca homepage #1, freshstart, garagecleanoutcalgary, TJ's (Facebook), stardisposalservices, Yelp, Happy Panda, Legacy, Taskrabbit, all 'Missing: altadore'. 'junk removal marda loop calgary': ads JUSTJUNK, 1-800-GOT-JUNK, Junk Busters YYC, Happy Panda; only Three North Clean mentions Marda Loop (in a service-area list); a Marda Loop YYC Facebook post offering dump runs. Nobody has an Altadore or Marda Loop cleanout page, and nobody covers shared semi-detached garages or tenant-abandoned goods.",
+      "people_also_ask_used": [
+        "How much to clean and organize a garage? (Altadore cleanout SERP; answered with cost factors, organization quoted separately)",
+        "How to get rid of garage clutter? (Altadore cleanout SERP; answered for an absentee landlord)",
+        "What is the cheapest way to get rid of junk? (Marda Loop junk SERP; Fire Station #20)",
+        "How much does it cost to use the dump in Calgary? (Marda Loop junk SERP; City 2026 rates)",
+        "How long do I have to keep tenant belongings? (Alberta RTA SERP; alberta.ca summary of s.31)",
+        "Buyer: can you clear only my half of a shared garage? are you insured in a finished garage?",
+        "Not used: move-out clean cost (off-angle), minimum junk removal price (answered on same-day page; no real pricing), free hoarding help for seniors (no verified source read)"
+      ],
+      "research": {
+        "wikipedia": "Altadore, Calgary (read 2026-11-11): bounded by 33 Ave SW and South Calgary (N), River Park and 14 St SW (E), Garrison Woods and Crowchild Trail (W), 50 Ave SW (S); established 1945; part of Marda Loop Communities Association with Garrison Woods and South Calgary; Marda Loop BRZ on 33 and 34 Ave; gentrification with many high-end semi-detached homes built in the last 15 years; 2018 municipal census 6,831 people in 3,218 dwellings (excl. Garrison Woods); 38% detached, 30% semi/duplex, 9% row, 23% apartments; 29% rentals.",
+        "listings": "Google results 2026-11-11: 2042 49 Ave SW semi (double detached garage insulated, drywalled; Back Lane), 4921 21A St SW 'Semi Detached (Half Duplex)' with detached garage and back lane, 2023 37 Ave SW (double detached garage onto paved back lane), 4415 16A St SW (alley access, double detached), 2005 44 Ave SW semi (insulated, heated, drywalled double detached garage, paved back alley). Page says 'some describe the garage as insulated, drywalled and heated'.",
+        "rta": "alberta.ca/common-problems-landlords-and-tenants 'Belongings left behind' (read 2026-11-11): dispose immediately if landlord believes goods worth < $2,000 or would depreciate substantially in storage; $2,000+ store 30 days; tenant reclaims by paying moving and storage; after 30 days sale by public auction or private sale with court approval; RTA s.31. Page tells readers the value call is theirs and to check the RTA handbook or a lawyer.",
+        "main_streets": "calgary.ca snippet (~11-04): Marda Loop Main Streets work on 33 and 34 Ave SW complete. Not used on the page.",
+        "reused_verified": "HHW Fire Station #20, 2800 Peacekeepers Way SW, 8-6 daily, free; propane < 30 lb 8-5; landfill 2026 $25 < 250 kg, $113/t, $17 refrigerant, tires/electronics free when separate, mixed loads charged, Sunday closures; $2M liability (about.html); hours Mon-Fri 8-6, Sat 9-4.",
+        "not_claimed": "No community boundaries for South Calgary or Garrison Woods beyond MLCA membership. No share of semis registered as condos. No GarageScape job counts in Altadore. No Stage 4 / floor-wash claim (avoids stale wording)."
+      },
+      "word_count": 2650,
+      "images_used": [
+        "vancouver-double-garage-before.jpg (+640, intro section, og/twitter image)",
+        "vancouver-double-garage-after.jpg (+640, price section)"
+      ],
+      "image_honesty": "Both from the existing AI-rendered Vancouver double-garage set (also on same-day, Britannia, spring pages). Alts describe what is shown; captions say 'An illustration ... not a photo of an Altadore client's garage.' Lazy-loaded with width/height and -640 srcset; all files return 200 live.",
+      "custom_elements": [
+        "'Whose Half Is It?' table: six shared-garage setups on semi-detached lots (side-by-side garages, split building with open attic, shared double with no wall, shared pad, condo-registered side-by-side, neighbour's things in your half) with what we ask before booking and what happens on the day",
+        "Tenant-leftover flow built on Alberta RTA s.31 ($2,000 threshold, 30-day storage, reclaim on paying costs, auction or court-approved sale) plus a five-step rental cleanout order (photograph first, separate valuables pile, landlord decides, papers sealed, sort and haul)",
+        "Possession-day checklist for new owners: date-stamped photos, realtor and purchase contract, keep matching materials (flooring, siding, paint codes) before calling it junk",
+        "Disposal routing table with drop-off cost column (HHW Fire Station #20, propane hours, free tires/electronics, refrigerant fee, donation, landfill rates)"
+      ],
+      "internal_links": {
+        "outbound_contextual": "12 unique internal targets in body (garage-cleanout-calgary, same-day, estate, before-selling, hoarding, post-renovation, mount-royal, lakeview, britannia, garage-floor-cleaning, garage-organization-calgary, about via nav) plus 6 related cards and FAQ links",
+        "inbound_added": "Contextual: garage-cleanout-calgary (neighbourhood paragraph), garage-cleanout-mount-royal-calgary (local note), garage-cleanout-lakeview-calgary (local note), garage-cleanout-britannia-bel-aire-mayfair (local note). index.html: cleanout services list + footer list. Footer 'Cleanout: Altadore & Marda Loop' on 12 Calgary cleaning pages. sitemap.xml lastmod 2026-11-11."
+      },
+      "no_ai_slop": "Self-checked against eval.md: no em dashes, no invented stats or reviews, removed two unsupported claims in draft ('a lot of our calls here', 'Altadore sells a lot of newer semis'), no puffery openers or recap ending; delete test passes (MLCA three communities, 33/34 Ave, 38/30/29% housing mix, half-duplex listings, RTA s.31).",
+      "deploy": "Commit 4e4e340 pushed; live URL 200 within ~10 s; Chrome check: title, 1 H1, 7 FAQ items matching FAQPage schema, 2 tables; images 200.",
+      "indexing": {
+        "site_check": "robots.txt loaded in Chrome at run start (01:17 CST).",
+        "requests": [
+          {
+            "url": "https://www.garagescape.ca/garage-cleanout-elbow-valley.html",
+            "pre_status": "Discovered - currently not indexed (referring page sitemap.xml)",
+            "result": "QUOTA EXCEEDED on first request (~01:20 CST, after the 1-2 min live test)"
+          },
+          {
+            "url": "https://www.garagescape.ca/same-day-garage-cleanout-calgary.html",
+            "result": "not requested (quota)"
+          },
+          {
+            "url": "https://www.garagescape.ca/garage-cleanout-calgary.html",
+            "result": "not requested (quota)"
+          },
+          {
+            "url": "https://www.garagescape.ca/garage-cleanout-lakeview-calgary.html",
+            "result": "not requested (quota)"
+          },
+          {
+            "url": "https://www.garagescape.ca/garage-cleanout-altadore-marda-loop-calgary.html",
+            "pre_status": "new today",
+            "result": "not requested (quota)"
+          }
+        ],
+        "status": "Quota exhausted before the first request for the second day running. 0 of 4 accepted.",
+        "pending_manual_urls": [
+          "https://www.garagescape.ca/garage-cleanout-elbow-valley.html",
+          "https://www.garagescape.ca/same-day-garage-cleanout-calgary.html",
+          "https://www.garagescape.ca/garage-cleanout-calgary.html",
+          "https://www.garagescape.ca/garage-cleanout-lakeview-calgary.html",
+          "https://www.garagescape.ca/garage-cleanout-altadore-marda-loop-calgary.html"
+        ]
+      },
+      "flags": [
+        "GSC quota gone at 01:20 CST two days running (also 11-10). Hypothesis, not verified: GSC's daily quota may roll over on Pacific time (02:00 CST), so this run may be landing in the tail of the previous Pacific day after other routines have spent it. Worth moving this routine to after 02:00 CST, or Abhi requesting the 5 pending URLs by hand.",
+        "CONFIRM WITH ABHI (process claims on this page): moving a tenant's goods to a storage unit the landlord rents; handing over papers and IDs sealed; sending photos and a list before the truck leaves; sending the insurance certificate to a condo board.",
+        "Carried: needs real pricing from Abhi (one starting price for garage-cleanout-calgary and homepage); Stage 4 wording on floor/cleanout pages to remove when lifted; WCB coverage still not stated anywhere; homepage card still says 'Next-day service' and 'Starting at $299'; Mount Royal schema areaServed still lists Britannia."
+      ],
+      "next_targets": [
+        "1. Request indexing for elbow-valley, same-day, garage-cleanout-calgary, lakeview, altadore (5 pending) as soon as quota allows.",
+        "2. Eagle Ridge / Kelvin Grove cleanout only if it can stand apart from Pump Hill; verify SERP.",
+        "3. Watermark at Bearspaw if it can stand apart from the acreage page.",
+        "4. Roxboro / Rideau Park only if the SERP and angle separate it from the Mount Royal page (river-lot flood history, small lanes); otherwise skip.",
+        "Parked: oil stain removal and pressure washing until Stage 4 lifts (~early Dec); spring refresh Feb 2027; fall winterizing Aug 2027. Sunday (11-15): strengthen garage-cleaning-calgary.html or garage-floor-cleaning-calgary.html (em dashes and $179/$249/$399 vs pricing rule)."
+      ]
     }
   ]
 }
