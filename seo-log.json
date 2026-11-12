@@ -6123,6 +6123,107 @@
         "4. Roxboro / Rideau Park only if the SERP and angle separate it from the Mount Royal page (river-lot flood history, small lanes); otherwise skip.",
         "Parked: oil stain removal and pressure washing until Stage 4 lifts (~early Dec); spring refresh Feb 2027; fall winterizing Aug 2027. Sunday (11-15): strengthen garage-cleaning-calgary.html or garage-floor-cleaning-calgary.html (em dashes and $179/$249/$399 vs pricing rule)."
       ]
+    },
+    {
+      "date": "2026-11-12",
+      "weekday": "Thursday",
+      "market": "calgary-cleaning",
+      "mode": "new-page",
+      "action": "created",
+      "page": "garage-cleanout-bin-calgary.html",
+      "keyword": "garage clean out bin Calgary (also garage cleanout bin rental Calgary, bin rental vs junk removal Calgary, bin permit back lane Calgary)",
+      "buyer": "Calgary homeowner pricing a roll-off bin to empty a garage: ready to pay someone this month, comparing a bin rental against a crew.",
+      "why_this_target": "Data-led. GSC (28 days) shows 'yard waste bin calgary / garage clean out bin calgary' at 23 impressions, position 37.7, with no page targeting it, and the homepage already ranks in that SERP with stale prices. Stronger floor/wash signals ('floor cleaning calgary' 110 impr @17.7, 'concrete garage cleaning' 38 @16.3, 'garage power washing' 10 @15.1, 'power wash garage floor near me' 4 @7.0) point to pressure washing, but Calgary is still under Stage 4 outdoor water restrictions (Calgary Herald, 11-11/12), so that page stays parked. Tier 2 candidates (Eagle Ridge, Watermark, Roxboro) had no query data. H2 skeleton checked against garage-cleanout-calgary, same-day, decluttering and altadore; none shared. The hub has one short 'Thinking about a bin?' paragraph; this page goes deep on the bin buyer and the hub now links to it. No other commit today before this run (HEAD 51584a5 at pull, 11-11 redesign).",
+      "competitive_gap_found": "'garage clean out bin calgary' (gl=ca, 2026-11-12): ads JUSTJUNK, Junk Busters YYC, trashgordon; organic garagescape.ca homepage (#1 organic, snippet still 'starts at $199 / $299'), Pick-n-Haul 12-yard garage dumpster $350+GST, Taskrabbit, Anytime Bin Rentals from $195 plus landfill fees, stardisposal, Red-E-Bins from $170 (Facebook), freshstart, Yelp, clean-upcrew. 'bin rental vs junk removal calgary': 310 DUMP, Clearout Crew, calgaryjunkremoval, Bin Kings and JUSTJUNK have generic bin-vs-junk articles; none is garage-specific (refused garage items, bin blocking the garage door, lane garages, winter) and none walks through the City street use permit with its fee.",
+      "people_also_ask_used": [
+        "How much does it cost to rent a bin in Calgary? (bin vs junk SERP)",
+        "What can you put in a rental bin? / What can you not put in a garbage bin? (prohibited-items SERP)",
+        "What are the rules for garbage bins in the City of Calgary? (permit SERP; answered as the lane/street permit question)",
+        "What items are accepted at Calgary Community Cleanups? (garage bin SERP)",
+        "How to clean out a garage full of stuff? (garage bin SERP)",
+        "What is the cheapest option for junk removal? (bin vs junk SERP)",
+        "Not used: 'How much does it cost to use the dump in Calgary?' (already an FAQ on Lakeview and Altadore), move-out clean cost (off-angle), black cart rules (no verified source read)"
+      ],
+      "research": {
+        "street_use_permit": "calgary.ca/roads/permits/street-use.html (read 2026-11-12): required to exclusively use any City road right-of-way (street, sidewalk, alley, walkway, back lane, boulevard); 'Placement of a garbage bin or a moving container' listed; $31.50/day excl. GST; apply via myID; lower-impact closures minimum 5 business days ahead; hoarding permit also if closure >24 h or peak hours; issued at Traffic Engineer's discretion under Streets Bylaw 20M88.",
+        "community_cleanups": "calgary.ca/waste/drop-off/community-cleanup-items.html (read 2026-11-12): 'Community Cleanups have wrapped up ... Check back in Spring 2027'; accepted and unaccepted lists used verbatim in substance; commercial/contractor waste not accepted; host CA may vary items. Ward 8 snippet: 2026 cleanups ran April 25 to September 27.",
+        "bin_rules": "Bin company rule pages via SERP snippets 2026-11-12 (Pick-n-Haul, Calgary Binz, Cal-Waste, Bins Now, Hippo Bins): paint, aerosols, batteries, propane tanks and chemicals refused; tires, mattresses, fridges, freezers, ACs accepted by some for a per-item fee. Page names no bin company.",
+        "bin_prices": "Advertised starting prices in the 2026-11-12 SERP: Red-E-Bins $170, Anytime $195 plus landfill fees, Pick-n-Haul 12-yard $350+GST. Page says '$170 to $350, at least one plus landfill fees' without naming companies.",
+        "hhw": "calgary.ca HHW program snippets (2026-11-12): accepts used motor oil, antifreeze, lead-acid vehicle batteries, propane tanks, paint. Reused verified: Fire Station #20, 2800 Peacekeepers Way SW, 8-6 daily, free; propane <30 lb.",
+        "reused_verified": "Back lanes not part of winter maintenance (calgary.ca, 11-10); landfill 2026 $25 flat <250 kg, $17 refrigerant fee, tires/electronics free when separate, mixed loads charged; $2M liability; hours Mon-Fri 8-6, Sat 9-4.",
+        "garagescape_price": "Homepage (Abhi's 11-11 redesign commit) lists 'Starting at $399' for full cleanouts with junk removal. The page cites that published starting price and nothing else.",
+        "not_claimed": "No bin overage rate per tonne (only source was a low-trust site). No claim about Airdrie/Cochrane/Okotoks/Rocky View bin rules beyond 'check with them'. No battery-retailer take-back claim (unverified, removed)."
+      },
+      "word_count": 3029,
+      "images_used": [
+        "vancouver-tandem-garage-before.jpg (+640, shelf section, og/twitter image)",
+        "vancouver-tandem-garage-after.jpg (+640, Community Cleanups section)"
+      ],
+      "image_honesty": "Both from the existing AI-rendered Vancouver tandem-garage set (also on hoarding and elbow-valley pages). Alts describe what is shown (paint cans, treadmill, rolled rug; emptied garage with shelving). Captions say 'An illustration ... not a photo of a Calgary client's garage.' Lazy-loaded with width/height and -640 srcset; both return 200 live.",
+      "custom_elements": [
+        "Bin placement table by Calgary garage type (attached front-drive, detached lane, semi-detached shared lane, townhouse/condo, acreage) with what to check first and what changes with a crew, built on the City street use permit ($31.50/day, 5 business days, hoarding permit >24 h)",
+        "Shelf-by-shelf table of garage items bin companies refuse or surcharge (paint, propane, vehicle batteries, motor oil/antifreeze/pesticides, freezers, tires, electronics, mattresses, usable gear) with the City route for each",
+        "Bin cost worksheet: eight lines a bin buyer pays or provides against what a crew quote includes",
+        "Community Cleanups section: 2026 dates, closed until spring 2027, accepted vs refused lists from calgary.ca",
+        "'Already booked a bin?' hybrid section and honest 'when a bin is the better buy' checklist"
+      ],
+      "internal_links": {
+        "outbound_count": 25,
+        "inbound_added": [
+          "garage-cleanout-calgary.html (bin paragraph: replaced 'Call 311' with the verified permit fee and a link)",
+          "garage-decluttering-calgary.html (indexed; junk hauler comparison)",
+          "post-renovation-garage-cleanup-calgary.html (indexed; 'who removes the bin' checklist item)",
+          "services/cleaning.html (indexed, 633 impressions)",
+          "index.html Garage Cleanout service card and footer"
+        ],
+        "sitemap": "Added with lastmod 2026-11-12; lastmod bumped for the four edited pages."
+      },
+      "no_ai_slop": "Self-checked against eval.md. Fixed: 'it's worth knowing', a 'first line of the cost, not the total' binary contrast, and 'this page says when' metadiscourse. 0 em dashes.",
+      "deploy": "Pushed e7f4867; live 200 within ~2 min; title, H1, 3 tables, 6 FAQs render, 0 broken images; live sitemap.xml lists it; 4 live pages plus homepage link to it.",
+      "data_brief": [
+        "28 days (10-14 to 11-10): 71 clicks, 3.43K impressions, CTR 2.1%, avg position 20.9. The previous-period compare would not render in GSC (applied twice, table stayed single-period), so growth and drops are not measured this run.",
+        "Winning: 'garage cleaning calgary' 5 clicks @1.5; homepage 22 clicks / 487 impr; services/cleaning.html 19 clicks / 633 impr @24.1; hoarding-garage-cleanup-calgary.html 3 clicks / 18 impr @8.7 (CTR 16.7%), the first Tier 1 page earning clicks.",
+        "Double down: floor/wash cluster with no page or a weak one: 'floor cleaning calgary' 110 @17.7, 'concrete garage cleaning' 38 @16.3, 'garage power washing' 10 @15.1, 'wash garage floor' 10 @12.2, 'power wash garage floor near me' 4 @7.0, 'driveway oil stain removal service near me' 2 @11. garage-floor-cleaning-calgary.html has 116 impr @11.9 and 0 clicks (Sunday upgrade candidate). Pressure washing waits for Stage 4.",
+        "New-page signal used today: 'garage clean out bin calgary' 23 @37.7. Others: 'estate cleanout calgary' @24, 'hoarding clean out calgary / tenant clean out calgary' @27.5, 'acreage estate cleanup' @15.5 (existing pages cover these).",
+        "Generic national queries ('garage cleaning services' 43 @15.5, 'garage cleanup services' 40 @35.6) are near-misses for services/cleaning.html."
+      ],
+      "gsc": "read-only: Performance (queries + pages) and Indexing > Pages. No URL Inspection, no indexing requests.",
+      "indexed": 56,
+      "not_indexed": 70,
+      "not_indexed_breakdown": {
+        "page_with_redirect": 5,
+        "alternate_canonical": 4,
+        "discovered_not_indexed": 42,
+        "crawled_not_indexed": 19,
+        "report_last_updated": "2026-11-08"
+      },
+      "cleaning_urls_not_indexed": {
+        "discovered_currently_not_indexed": [
+          "garage-cleaning-calgary.html",
+          "garage-cleanout-calgary.html",
+          "garage-cleanout-elbow-valley.html",
+          "garage-decluttering-airdrie.html",
+          "garage-decluttering-chestermere.html",
+          "blog/garage-floor-cleaning-calgary.html",
+          "blog/professional-garage-cleaning-tips-calgary.html"
+        ],
+        "crawled_currently_not_indexed": "No Calgary cleaning URLs (list is Vancouver and organization pages)."
+      },
+      "indexing": "not requested (standing rule)",
+      "flags": [
+        "Homepage SERP snippet for 'garage clean out bin calgary' still shows 'starts at $199 / $299' although the homepage now says $299 / $399 (Google cache lag; should update on recrawl).",
+        "garage-cleanout-calgary.html (the cleanout hub) is still 'Discovered - currently not indexed' as of the 11-08 report; it now gets links from more pages, but Abhi may want to request it by hand.",
+        "CONFIRM WITH ABHI (process claims on the new page): fridge/freezer refrigerant fee included in the quote; we take the refused items when a customer already has a bin; insurance certificate to a condo board (carried from Altadore).",
+        "GSC compare view (28 days vs previous) did not render in this session; growth and drop analysis skipped.",
+        "Carried: Stage 4 wording on floor/cleanout pages to remove when lifted (City still says ~4 weeks from Nov 4); WCB coverage still not stated anywhere; homepage card still says 'Next-day service'; Mount Royal schema areaServed still lists Britannia; garage-floor-cleaning-calgary.html em dashes and $179/$249/$399 vs pricing rule."
+      ],
+      "next_targets": [
+        "1. Garage pressure washing / oil stain removal Calgary, the day Stage 4 lifts (~early Dec). GSC already shows 'garage power washing', 'power wash garage floor near me', 'concrete garage cleaning' and 'driveway oil stain removal service near me' at positions 7-17 with no page.",
+        "2. Sunday 11-15: strengthen garage-floor-cleaning-calgary.html (116 impr @11.9, 0 clicks; 'floor cleaning calgary' 110 impr @17.7) with winter salt and grit angle; fix em dashes and old prices.",
+        "3. Eagle Ridge / Kelvin Grove cleanout: garage-organization-eagle-ridge.html earns 2 clicks / 36 impr, so the community has search demand; only if it stands apart from Pump Hill.",
+        "4. Watermark at Bearspaw, if it separates from the acreage page.",
+        "Parked: spring refresh Feb 2027; fall winterizing Aug 2027."
+      ]
     }
   ]
 }
