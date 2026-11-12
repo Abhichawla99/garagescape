@@ -556,4 +556,18 @@
             <image:caption>Garage gear wall with kayaks, paddleboards, a wetsuit and skis hung above a clear floor</image:caption>
         </image:image>
     </url>
+    <url>
+        <loc>https://www.garagescape.ca/garage-organization-langley.html</loc>
+        <lastmod>2026-11-12</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.garagescape.ca/images/vancouver-garage-parking-after.jpg</image:loc>
+            <image:caption>Example of an organized garage with shelving along the walls and a car parked inside</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.garagescape.ca/images/vancouver-garage-gear-wall.jpg</image:loc>
+            <image:caption>Example garage gear wall with skis, bikes and outdoor equipment on wall track</image:caption>
+        </image:image>
+    </url>
 </urlset>
