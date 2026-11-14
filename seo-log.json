@@ -6543,6 +6543,162 @@
     "4. Watermark at Bearspaw, only if it separates from the acreage page (no query data yet).",
     "Parked: spring refresh Feb 2027; fall winterizing Aug 2027."
    ]
+  },
+  {
+   "date": "2026-11-14",
+   "weekday": "Saturday",
+   "market": "calgary",
+   "mode": "new-page",
+   "action": "created",
+   "page": "garage-cabinets-calgary.html",
+   "keyword": "garage cabinets calgary (also calgary garage cabinets, garage cupboards calgary)",
+   "community": "Calgary city-wide, with Airdrie, Chestermere, Cochrane and Okotoks named as service areas",
+   "market_decision": "Last run of this routine was 2026-11-12 vancouver (Langley); calgary-cleaning entries belong to the other task. Flipped to CALGARY.",
+   "data_brief": [
+    "GSC 28 days vs previous 28 (data refreshed, last update 4 hours before read): 71 clicks vs 63, 3.57K impressions vs 2.38K, CTR 2.0% vs 2.7%, avg position 20.4 vs 18.1.",
+    "Customers are searching storage-install terms more than organization terms: 'garage storage installation' 152 impr @31.4, 'garage storage installs' 123 @34.8, 'garage cabinets calgary' 65 @41.8 (was 28 @22.6), 'garage shelving calgary' 3 clicks / 16 impr @9.4 (new clicks), 'garage storage calgary' 26 @21.0, 'garage cupboards calgary' 8 @15.5.",
+    "Working: town storage queries rank top 10 on the organization pages: 'airdrie garage wall storage' 46 @5.7, 'chestermere garage cabinets' 46 @6.9, 'airdrie overhead storage' 26 @4.8, 'chestermere garage wall storage' 12 @3.2, 'okotoks garage wall storage' 13 @7.8. Pages: organization-airdrie 94 impr @5.8 (was 9.5), organization-chestermere 69 @5.8 (was 12.8), decluttering-cochrane 54 @12.1 (was 20.6), custom-garage-cabinets-mount-royal 64 @14.9 (was 27.3), canmore (frozen) 4 clicks, 84 impr @8.5 (flat, up in impressions).",
+    "Double down: services/shelving.html is the storage-query sink at 1,056 impr @23.3 (was 539 @20.7) with 7 clicks; no page targeted 'garage cabinets calgary', which fell from position 22.6 to 41.8, and 'calgary garage cabinets' fell from 2.6 to 31.8. Built the city-wide cabinets page and linked it from shelving, Mount Royal, the storage page and the homepage.",
+    "Dropped: services/cleaning (frozen) 18 clicks vs 19, position 24.1 vs 19.4 on 622 vs 404 impr (second run in a row moving the wrong way); garage-organization-calgary 65 impr @22.5 vs 119 @19.4; 'calgary garage cabinets' 17 @2.6 to 4 @31.8. FROZEN PAGE garage-storage-solutions-calgary has no impressions at all and is listed 'Crawled - currently not indexed' (crawled Jul 25)."
+   ],
+   "why_this_target": "GSC shows cabinet queries with impressions and no page aimed at them (65 impr @41.8 plus cupboards and reversed-word variants), while the only cabinet page is the Mount Royal community page. Checked all html files: no city-wide cabinets page; garage-storage-solutions-calgary covers six systems with one cabinet subsection and is not indexed; services/shelving has 0 mentions of cabinets. Chestermere and Airdrie cabinet queries already rank top 10 on their organization pages, so they were not targeted.",
+   "competitive_gap_found": "'garage cabinets calgary' SERP (WebSearch 2026-11-14): RenovationFind DIY article, California Closets, TrustedPros/HomeStars/Yellow Pages/BBB directory listings, Best Buy category, and a baileylineroad.com storage article. None compares cabinet materials for an unheated, salty Calgary garage, none gives layouts by garage type, and the one local article has no cabinet prices or dimensions.",
+   "research": {
+    "materials": "Retailer and forum sources agree MDF and particleboard swell when wet, melamine edges are the weak point, steel does not swell but thin gauges dent. Stated as general guidance, no numbers claimed.",
+    "fuel": "Lethbridge Fire Prevention Bureau (via Lethbridge Herald / Lethbridge News Now) citing the Alberta Fire Code: 30 L maximum stored fuel at a residence with an attached garage or shed, outside vehicle tanks, approved containers. Page attributes it to 'fire prevention guidance based on the Alberta Fire Code'.",
+    "hhw": "calgary.ca HHW program: 11 free drop-off sites, 8 at fire stations and 3 at landfill Eco Centres; not every station takes every item. Hours not claimed.",
+    "pricing": "Price bands copied from GarageScape's own garage-storage-solutions-calgary page ($800-$2,500 semi-custom steel wall; $2,000-$8,000+ full custom) and the Mount Royal page ($299 decluttering start). No new prices.",
+    "not_claimed": "No brand partnerships, warranties, job counts, garage dimensions, or Calgary bylaw on cabinets. Removed a water heater/furnace-in-garage line because Calgary homes usually keep those in the basement.",
+    "searches_used": 4
+   },
+   "word_count": "about 1,900 words of body copy (2,536 including nav, contact and footer)",
+   "images_used": [
+    "airdrie-garage-decluttering.jpg (hero, og/twitter image)",
+    "before-after-4.jpg / before-after-1.jpg (matched before/after pair, what-goes-where section)",
+    "before-after-3.jpg (attached-garage layout section)",
+    "calgary-garage-decluttering.jpg (workbench section)"
+   ],
+   "image_honesty": "Generic Calgary set, no -640 variants so no srcset. Alts say 'Example' and describe what is shown; captions say 'an example garage, not a Calgary client's'. All 5 image URLs return 200 live.",
+   "custom_elements": [
+    "Table: five cabinet materials and how each handles a Calgary garage",
+    "Table: what to store where (cabinet, shelving, wall track, overhead, tire rack, fuel)",
+    "Fuel note (Alberta Fire Code 30 L)",
+    "Layouts by garage type: attached suburban double, inner-city lane, triple/estate, acreage shop",
+    "Five price drivers",
+    "Five-step install process with Calgary HHW drop-off"
+   ],
+   "on_page_checklist": "title 55 chars, description 161, canonical, OG + Twitter (image on disk and live), 1 H1, LocalBusiness + FAQPage (7 Q, matches visible FAQ) + BreadcrumbList JSON-LD parse, links to 15 internal pages incl. frozen garage-storage-solutions-calgary, garage-decluttering-okotoks, garage-organization-canmore and index, 1 em dash (in the shared contact-card template line).",
+   "internal_links": {
+    "to_new_page": [
+     "index.html (new location card, also links garage-storage-solutions-calgary, which had no homepage link)",
+     "services/shelving.html (pricing intro)",
+     "custom-garage-cabinets-mount-royal.html (ba-caption)",
+     "garage-storage-solutions-calgary.html (one sentence after the cabinet price line; title/URL/canonical untouched)"
+    ]
+   },
+   "no_ai_slop": "Banned-word scan clean after replacing 'actually' in one H2; no binary contrasts or kicker endings.",
+   "deploy": "Commit e2eae63 pushed; live 200 for page, sitemap and all 5 images; live sitemap and homepage each contain the new URL once.",
+   "gsc": "read-only: Performance (queries + pages, 28-day compare via /u/0/ URL params) and Indexing > Pages with both not-indexed drilldowns. No URL Inspection, no indexing requests.",
+   "indexing": "not requested (standing rule)",
+   "indexed_counts": {
+    "date": "2026-11-14 (report last updated 11-08, unchanged)",
+    "indexed": 56,
+    "not_indexed": 70,
+    "reasons": {
+     "Discovered - currently not indexed": 42,
+     "Crawled - currently not indexed": 19,
+     "Page with redirect": 5,
+     "Alternate page with proper canonical tag": 4
+    }
+   },
+   "backlog_status": {
+    "now_indexed": [],
+    "note": "Indexing report has not refreshed since 11-08, so no status changes since the 11-12 read.",
+    "calgary_crawled_not_indexed": [
+     "garage-storage-solutions-calgary (Jul 25) FROZEN",
+     "garage-organization-panorama-hills (Jul 20)",
+     "services/organization (Jul 16)",
+     "blog/winter-garage-organization-calgary (Jul 14)",
+     "garage-organization-south-calgary (Jul 2 and Sep 4)",
+     "garage-organization-guide-calgary (Aug 2)",
+     "garage-organization-north-calgary (Aug 4)",
+     "garage-organization-dalhousie (Aug 5)",
+     "garage-organization-service-calgary (Sep 15)",
+     "garage-organization-beddington (Sep 22)"
+    ],
+    "calgary_discovered_not_indexed": [
+     "about",
+     "blog",
+     "all 8 blog posts",
+     "garage-cleaning-calgary",
+     "garage-cleanout-calgary",
+     "garage-cleanout-elbow-valley",
+     "garage-decluttering-airdrie",
+     "garage-decluttering-chestermere",
+     "garage-makeover-calgary",
+     "garage-organization-banff",
+     "-bearspaw",
+     "-brentwood",
+     "-cochrane",
+     "-east-calgary",
+     "-elbow-park",
+     "-evanston",
+     "-harmony",
+     "-help-calgary",
+     "-lake-bonavista",
+     "-mckenzie-towne",
+     "-tips-calgary",
+     "-west-calgary",
+     "(list truncated in read)"
+    ],
+    "action_taken": "Homepage now links garage-storage-solutions-calgary and the new page links it twice; no other backlog links added this run."
+   },
+   "backfilled": "garage-renovation-calgary.html: og/twitter image repointed from missing calgary-garage-renovation.jpg to okotoks-garage-decluttering.jpg; added hero (okotoks-garage-decluttering.jpg), before/after pair (before-after-4 / before-after-1) with caption in the transformation section, and airdrie-garage-decluttering.jpg in the finished-floor item. Title, URL, canonical unchanged.",
+   "rankings": {
+    "method": "4 WebSearch queries, US-only tool, non-localized; directional only. GSC positions are in data_brief.",
+    "garage organization calgary": "not visible (calgaryhomes, Homestars, BBB, RenovationFind Airdrie, Handyman Connection, baileylineroad, Garage Living). FLAT vs 11-06. GSC: 4 impr @13.8, 1 click.",
+    "garage decluttering calgary": "homepage not visible (calgaryhomes, 1-800-GOT-JUNK, calmorder, CREB, resetgarage, JustJunk). FLAT vs 11-06. Tool does not reflect GSC; homepage 22 clicks vs 17.",
+    "garage storage solutions calgary": "ROTATING (frozen page). Not visible (TrustedPros, Handyman Connection, HomeStars, Garage Living, California Closets). Not a tool artifact: GSC lists the page 'Crawled - currently not indexed' since Jul 25 with zero impressions. The '#2' in the routine's frozen list is out of date.",
+    "garage cabinets calgary": "BASELINE: today's page not present. SERP is RenovationFind, California Closets, TrustedPros, HomeStars, Yellow Pages, Best Buy, BBB."
+   },
+   "technical": "Touched files: 1 H1 each, JSON-LD parses, no broken internal links or image paths. sitemap.xml: 80 URLs, no duplicates, all map to files; new URL once; lastmod bumped for the 5 edited pages; sitemap-index lastmod already 2026-11-14 from the cleaning run. robots.txt sane, homepage 200. Full site sweep still overdue (none logged in 14 days).",
+   "consolidation_candidates": [
+    {
+     "pages": "garage-storage-solutions-calgary",
+     "status": "FROZEN, not indexed",
+     "recommendation": "Crawled Jul 25 and not indexed for 16 weeks, 0 impressions. It is frozen, so this run only added internal links (homepage card, new cabinets page). DECISION FOR ABHI: it is no longer a ranking page; either lift the freeze so it can be rewritten (it is 3,000 words of generic retail-price content that overlaps services/shelving), or merge it into services/shelving, which already collects the storage queries."
+    },
+    {
+     "pages": "garage-organization-north-calgary, -beddington, -dalhousie, -panorama-hills, -south-calgary, -service-calgary, -guide-calgary",
+     "status": "consolidation-candidate",
+     "recommendation": "All crawled and rejected for 7-19 weeks. North-Calgary set (north, beddington, dalhousie, panorama-hills) should merge into one north Calgary page; service-calgary and guide-calgary overlap garage-organization-calgary and services/organization."
+    },
+    {
+     "pages": "garage-organization-evanston",
+     "status": "carried",
+     "recommendation": "Still 'Discovered'. Merge into north-calgary on 12-01 if unchanged."
+    }
+   ],
+   "images_needed": [
+    "REAL photo: a Calgary garage cabinet wall on legs above a wet winter slab",
+    "REAL photo: steel base cabinets with a workbench top in a Calgary attached garage",
+    "REAL Calgary-area before/after pairs (carried)",
+    "-640 variants for the generic Calgary set (carried)"
+   ],
+   "next_targets": [
+    "1. Next Calgary: 'garage storage installation' (152 impr @31.4) and 'installs' (123 @34.8) have no page. Candidate: garage-storage-installation-calgary.html, but check it against services/shelving and the frozen storage page first; may be better as a services/shelving upgrade once Abhi rules on the frozen page.",
+    "2. Overhead storage: 'airdrie overhead storage' 26 @4.8, 'chestermere overhead storage' 10 @4.8, 'overhead garage storage near me' 18 @8.2, 'calgary overhead storage' 6 @10.3. A Calgary overhead-racks page is the next distinct storage intent.",
+    "3. Next Vancouver: Port Moody / Port Coquitlam or Delta 'garage organization systems' page (carried from 11-12).",
+    "4. Backfill queue (Calgary broken og, no images): garage-organization-harmony, garage-makeover-calgary, garage-remodel-calgary, garage-cleaning-calgary.",
+    "5. Overdue: 14-day full site sweep."
+   ],
+   "flags": [
+    "BLOCKER-LEVEL FINDING: frozen garage-storage-solutions-calgary is 'Crawled - currently not indexed' (Jul 25) with 0 impressions. The routine treats it as a #2 ranking page; it is not ranking. Needs Abhi's decision on the freeze.",
+    "DROP TO WATCH (frozen): services/cleaning position 24.1 vs 19.4, clicks 18 vs 19, second run in a row.",
+    "garage-organization-company-calgary appears in Performance under the non-www host (https://garagescape.ca/...), 50 impr @9.8. Check its canonical and the apex redirect.",
+    "CONFIRM WITH ABHI: garage-renovation-calgary.html shows named 5-star testimonials (e.g. 'David and Elaine T., Chaparral'); the testimonial ruling is still open from earlier runs. Not touched.",
+    "CONFIRM WITH ABHI: cabinets page says we don't install raw MDF or particleboard in garages, and that cabinets go on the wall or on adjustable legs."
+   ]
   }
  ]
 }
