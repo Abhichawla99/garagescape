@@ -613,7 +613,7 @@
             ids.forEach(function (p) { total += num(p + 'l') * num(p + 'd') * num(p + 'h'); });
             if (!total) { out.textContent = 'Enter at least one pile.'; return; }
             var loads = total / TRUCK;
-            var text = Math.round(total).toLocaleString('en-CA') + ' cubic feet, about ' + loads.toFixed(1) + ' of a 480 cubic foot truck.';
+            var text = Math.round(total).toLocaleString('en-CA') + ' cubic feet, about ' + loads.toFixed(1) + ' loads of a 480 cubic foot truck.';
             if (loads > 1) text += ' Expect more than one full-truck price, or ask for a fixed price for the whole garage.';
             out.textContent = text;
         }

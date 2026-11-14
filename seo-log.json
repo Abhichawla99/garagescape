@@ -6454,6 +6454,95 @@
     "4. Watermark at Bearspaw, only if it separates from the acreage page (no query data yet).",
     "Rejected today: Eagle Ridge (no community query demand, covered by Pump Hill page). Parked: spring refresh Feb 2027; fall winterizing Aug 2027."
    ]
+  },
+  {
+   "date": "2026-11-14",
+   "weekday": "Saturday",
+   "market": "calgary-cleaning",
+   "mode": "new-page",
+   "action": "created",
+   "page": "garage-junk-removal-cost-calgary.html",
+   "keyword": "garage junk removal cost Calgary (also garage junk removal Calgary prices, price to haul off a garage full of junk, junk removal Calgary cost, Calgary dump cost)",
+   "buyer": "Calgary homeowner collecting junk removal quotes for a full garage, who wants to know what a fair price is and how to compare a volume quote, an hourly helper, a bin and a fixed-price crew.",
+   "why_this_target": "GSC data has not advanced since 11-12 (same 71 clicks / 3.43K impressions), so no new query signal. The top unserved cluster (floor/pressure washing) stays parked: Stage 4 outdoor water restrictions still in effect per calgary.ca (updated 11-12) and CTV (11-13). Sunday 11-15 is reserved for the garage-floor-cleaning upgrade. Of the remaining buying-intent queries in GSC with no dedicated page, the cost cluster stood out: 'what is the price to haul off a garage full of junk?' @11, 'garage junk' @6, 'hire someone to clean out garage' @1, 'power wash garage floor cost' @4. Google's 'People also search for' under 'garage junk removal calgary' lists 'prices', 'cost', 'cheapest' and 'best'. The site had no cost page; cost appeared only as short sections on the hub, bin and same-day pages.",
+   "competitive_gap_found": "'garage junk removal cost calgary' (gl=ca, 2026-11-14): ads 1-800-GOT-JUNK (pricing), Junk Direct; organic calgaryjunkremoval.com/pricing ($675 garage and yard full load, 12x8x5 ft), calgaryjunk.com/pricing ($649 full load), anytimebins ($575 bin + 2-man 4 h package), gonezo ($99 min), Taskrabbit ($40/h + dump), threenorthclean ($99 / $175-250 quarter / $500-675 full), Reddit threads; GarageScape not on page 1. Every result is a generic load-size price list: none converts a garage into truckloads, shows City landfill math, or explains the four billing models. For 'garage junk removal calgary' the GarageScape homepage ranks #1 organic, so the new page targets the cost modifier, not the head term, to avoid cannibalising it.",
+   "people_also_ask_used": [
+    "What is the minimum price for junk removal?",
+    "What is the cheapest way to get rid of junk?",
+    "How much does the dump cost in Calgary?",
+    "How to get rid of stuff in your garage? (folded into the DIY list)",
+    "Where to dispose of yard waste in Calgary?",
+    "'Free junk removal Calgary' (People also search for)",
+    "GSC query: 'what is the price to haul off a garage full of junk?'",
+    "Not used: 'How much does a garage cost in Calgary?' (building a garage, off-topic)"
+   ],
+   "research": {
+    "advertised_prices": "Google SERP 2026-11-14 snippets (companies not named on the page): min/single item $89 and $99; quarter truck $175-250; full truck $500-675 with listed $575, $649, $675; $675 load stated as ~12x8x5 ft; app helpers from $40/h plus dump; bin + 2-person crew $575 for 4 h with 15-yd bin, $95/h after, dump fees $0.19/kg.",
+    "city_rates": "Reused calgary.ca landfill rates read 2026-10-23/10-27/11-03 (last updated Jan 2026): $25 flat <=250 kg, $113/t garbage over 250 kg for whole load, $17 refrigerant per item plus weight, tires/electronics free when separate, mixed free+charged load pays for whole load, $275 hard-to-handle surcharge, loads covered and secured; HHW free at fire halls up to 20 L, propane under 30 lb, Fire Station #20 2800 Peacekeepers Way SW 8-6 daily.",
+    "other_reused": "Back lanes not plowed; Community Cleanups 2026 ran Apr 25-Sep 27, next schedule spring 2027; green cart every other week from week of Nov 2, weekly from April 2027; Habitat ReStore free pick-up for qualifying donations (11-13 SERP).",
+    "stage4": "calgary.ca water-restrictions page (updated 11-12) and CTV 11-13: Stage 4 still in effect, ~4 weeks from Nov 4."
+   },
+   "word_count": 3075,
+   "word_count_note": "Includes nav, footer and FAQ; body prose roughly 2,400.",
+   "images_used": [
+    "vancouver-garage-parking-before.jpg (+640, truckloads section, og/twitter image)",
+    "vancouver-lane-garage-before.jpg (+640, DIY section)"
+   ],
+   "image_honesty": "Both from the existing AI-rendered Vancouver set (both also used on other Calgary cleanout pages). Viewed before writing alts; alts describe what is shown (packed single garage with boxes, totes, chair, lamp, ladder, bikes, car on driveway; old timber garage with boxes, rusted paint cans, flowerpots, soil bags, rusty bike). Captions say 'An illustration, not a photo of a Calgary client's garage.' All load live, lazy with width/height and -640 srcset.",
+   "custom_elements": [
+    "Advertised-price table dated 14 Nov 2026: minimum, quarter, full truck, hourly, bin+crew, and GarageScape's published $399 start, with what each means for a garage",
+    "Truckload measuring method with three worked Calgary garages (216, 320 and 1,100 cu ft against a 480 cu ft truck) and an inline calculator (3 piles, live result)",
+    "Four billing models table (truck volume, hourly, bin+crew+weight, fixed price) with what raises each in a garage and what to ask",
+    "City landfill table with garage examples and the math (600 kg = ~$68, two fridges = $34 in fees), plus where the money in a $500-675 load goes",
+    "Do-it-yourself total checklist (streams, trips at $25, fire-hall drop-off, heavy pieces, unplowed lanes)",
+    "Seven questions that make two quotes comparable"
+   ],
+   "internal_links": {
+    "outbound_count": 15,
+    "inbound_added": [
+     "services/cleaning.html (indexed, 633 impr)",
+     "garage-decluttering-calgary.html (indexed, 37 impr)",
+     "garage-cleanout-bin-calgary.html (bin cost section)",
+     "garage-cleanout-calgary.html (hub price section)",
+     "same-day-garage-cleanout-calgary.html (price section)",
+     "index.html Garage Cleanout card list and footer"
+    ],
+    "sitemap": "Added with lastmod 2026-11-14; lastmod bumped for the edited pages and sitemap-index.xml sitemap.xml entry."
+   },
+   "no_ai_slop": "Self-checked against SKILL.md and eval.md. Fixed before ship: unsupported 'garage priced higher per cubic foot than a basement', 'landfill is usually the smaller part' (now conditional on load weight), 'hourly and bin prices often don't' (now tied to what was read 11-14), arbitrary '$150' DIY threshold (now compared with the cheapest quote). 0 em dashes in page copy. Bold lead-ins kept only as list labels, matching sibling pages.",
+   "deploy": "Pushed 27b5f00; live 200 within ~10 s; title, H1, 3 tables, 7 FAQs, calculator returns 2.3 loads for 11x20x5, 0 broken images, no horizontal scroll; live sitemap.xml lists it; services/cleaning, decluttering, bin page and homepage link to it live.",
+   "data_brief": [
+    "28 days (same window as 11-12 and 11-13; GSC has not refreshed): 71 clicks vs 69 previous, 3.43K impressions vs 2.38K, CTR 2.1% vs 2.9%, avg position 20.9 vs 18.0. The compare view rendered per query and per page this run.",
+    "Winning: 'garage cleaning calgary' 5 clicks @1.5 (was 8 @1.2); 'garage cleaning service' 2 clicks, position 40.2 to 31.8; homepage 22 clicks vs 17; hoarding-garage-cleanup-calgary 3 clicks / 18 impr @8.7 (new); garage-decluttering-cochrane 1 click, position 20.6 to 11.9.",
+    "Double down: floor/wash cluster still has no page that wins: 'floor cleaning calgary' 110 @17.7, 'concrete garage cleaning' 38 @16.3 (was 28), 'wash garage floor' 10 @12.2, 'garage power washing' 10 @15.1, 'garage floor cleaning service' 4 @4.5 (was 21). Pressure washing waits for Stage 4; floor page upgrade is Sunday.",
+    "New-page signal used today: cost queries with no page ('what is the price to haul off a garage full of junk?' @11, 'garage junk' @6, 'power wash garage floor cost' @4) plus Google's 'prices / cost / cheapest' related searches.",
+    "Dropped: garage-floor-cleaning-calgary 0 clicks vs 2 (impressions 67 to 116, position 19.4 to 11.9); services/cleaning 19 clicks vs 23, position 18.7 to 24.1; 'garage cleanout services' position 27.1 to 56.4 and 'garage cleanup services' 24.1 to 35.6 (generic national terms)."
+   ],
+   "gsc": "read-only: Performance (queries + pages with 28-day compare) and Indexing > Pages. No URL Inspection, no indexing requests.",
+   "indexed": 56,
+   "not_indexed": 70,
+   "not_indexed_breakdown": {
+    "page_with_redirect": 5,
+    "alternate_canonical": 4,
+    "discovered_not_indexed": 42,
+    "crawled_not_indexed": 19,
+    "report_last_updated": "2026-11-08 (unchanged)"
+   },
+   "cleaning_urls_not_indexed": "Report not refreshed since 11-08; list unchanged from the 11-12 entry (garage-cleaning-calgary, garage-cleanout-calgary, garage-cleanout-elbow-valley, garage-decluttering-airdrie, garage-decluttering-chestermere, two blog posts).",
+   "indexing": "not requested (standing rule)",
+   "flags": [
+    "CHECK WITH ABHI: the page restates the homepage's published prices ($399 full cleanout with junk removal, $299 decluttering) and says the quote includes landfill and refrigerant fees, drop-off runs, donation and the sweep (all already stated on the bin/same-day pages). It does not say whether GarageScape does small single-item pickups; the minimum-price FAQ points one-item jobs to a junk company's minimum or a $25 landfill trip. Confirm that's how you want it.",
+    "Competitor prices are cited unnamed from 14 Nov 2026 search snippets; they will drift. Re-read the SERP on a future Sunday and refresh the table and dates.",
+    "GSC data window has not advanced for three runs (11-12, 11-13, 11-14); indexing report still dated 11-08.",
+    "Carried: Stage 4 wording on floor/cleanout pages to remove when lifted; WCB coverage not stated anywhere; homepage card still says 'Next-day service'; Mount Royal schema areaServed still lists Britannia; garage-floor-cleaning-calgary.html em dashes and $179/$249/$399 vs pricing rule; garage-cleanout-calgary.html hub still 'Discovered - currently not indexed'."
+   ],
+   "next_targets": [
+    "1. Sunday 11-15: strengthen garage-floor-cleaning-calgary.html (116 impr @11.9, 0 clicks vs 2; 'floor cleaning calgary' 110 @17.7, 'concrete garage cleaning' 38 @16.3) with winter salt/grit angle; fix em dashes and old prices; link it to the new cost page.",
+    "2. Garage pressure washing / oil stain removal Calgary, the day Stage 4 lifts (City said ~4 weeks from Nov 4). 'garage power washing' @15.1, 'power wash garage floor near me' @7, 'power wash garage floor cost' @4, 'driveway oil stain removal service near me' @11.",
+    "3. Car-collector / show-garage cleaning (Tier 2 luxury angle; SERP check needed, dropped once on 11-10 for no buyer SERP).",
+    "4. Watermark at Bearspaw, only if it separates from the acreage page (no query data yet).",
+    "Parked: spring refresh Feb 2027; fall winterizing Aug 2027."
+   ]
   }
  ]
 }
