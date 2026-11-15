@@ -6699,6 +6699,74 @@
     "CONFIRM WITH ABHI: garage-renovation-calgary.html shows named 5-star testimonials (e.g. 'David and Elaine T., Chaparral'); the testimonial ruling is still open from earlier runs. Not touched.",
     "CONFIRM WITH ABHI: cabinets page says we don't install raw MDF or particleboard in garages, and that cabinets go on the wall or on adjustable legs."
    ]
+  },
+  {
+   "date": "2026-11-15",
+   "weekday": "Sunday",
+   "market": "calgary-cleaning",
+   "mode": "sunday-upgrade",
+   "action": "upgraded",
+   "page": "garage-floor-cleaning-calgary.html",
+   "keyword": "garage floor cleaning / power washing Calgary",
+   "why_this_target": "Queued Sunday upgrade. Page has 116 impressions at position 11.2 with 0 clicks; floor/wash cluster ('floor cleaning calgary' 88 @17.8, 'concrete garage cleaning' 46 @18.7, 'garage power washing' 13 @19.2, 'garage floor pressure washing' 12 @36.7, 'wash garage floor' 9 @11.0, 'power wash garage floor near me' 4 @7.0, 'garage floor cleaning service' 3 @5.3) has no page that wins. Title lacked 'power washing'.",
+   "competitive_gap_found": "SERP for 'garage floor cleaning calgary' (15 Nov): map pack is all epoxy/coating installers; organic #1 is our frozen services/cleaning.html, then Garage Living (coatings), Taskrabbit, a janitorial firm, garagecleaningpro.ca, thegaragestore.ca winter care guide. No competitor page covers residential bare-concrete floor cleaning with Calgary storm-drain rules or a DIY-vs-hire decision. PAA: best way to clean a dirty garage floor; is it a good idea to pressure wash a garage floor; can I use Dawn dish soap; epoxy cost (not ours).",
+   "research": [
+    "calgary.ca/savewater: Stage 4 effective Nov 4, ~4 weeks expected, no end date; driveway/walkway washing not allowed.",
+    "calgary.ca Drainage Bylaw FAQ: permit needed for any non-stormwater into storm system; no soap for home car washing; fines $75 to $10,000 and/or remedial orders."
+   ],
+   "word_count": 3467,
+   "images_used": [
+    "images/vancouver-garage-floor-before.jpg",
+    "images/vancouver-garage-floor-after.jpg"
+   ],
+   "image_honesty": "Same two existing before/after files. Alt text previously claimed a Calgary job; changed to 'example photo' wording since the files are generic (vancouver-named). Needs a real Calgary floor job photo.",
+   "custom_elements": [
+    "'Where the dirty water goes': Calgary Drainage Bylaw storm-drain rules applied to garage floor wash water, with City FAQ link and fine range",
+    "'Dish soap, a rented pressure washer, or us' decision table: 7 floor conditions, DIY verdict, what goes wrong",
+    "'Read your own floor before you call' 5-step self-check (water drop, salt haze, flashlight, paper-towel oil test, floor drain) mapped to the Single/Double/Restoration cleans",
+    "FAQs rebuilt from live PAA (best way to clean, pressure washing, Dawn dish soap) and schema now matches visible FAQs 8 for 8 (was 8 schema vs 6 visible)"
+   ],
+   "on_page_checklist": "Title 'Garage Floor Cleaning & Power Washing in Calgary' (48), meta 157, OG/Twitter titles updated, one H1, FAQPage = visible FAQs, 0 em dashes (was 38), sitemap lastmod 2026-11-15, URL/canonical unchanged.",
+   "internal_links": "22 internal .html links, none broken; added link to garage-junk-removal-cost-calgary.html. Inbound already from index.html, services/cleaning.html (indexed), garage-cleaning-calgary, epoxy, spring, cleanout hub, same-day, post-reno, acreage, cost page.",
+   "no_ai_slop": "Self-checked against eval.md; em dashes removed, no invented stats/reviews.",
+   "deploy": "Pushed aa28991; live title and new sections confirmed after 90s; live sitemap shows lastmod 2026-11-15.",
+   "gsc": "read (Performance 28 days, last update ~8 h before read; compare-to-previous param did not apply; Indexing > Pages)",
+   "data_brief": [
+    "28 days to 11-13: 69 clicks, 3.6K impressions, CTR 1.9%, avg position 20.6 (11-14 read: 71 / 3.57K / 2.0% / 20.4). Previous-period compare did not apply this run.",
+    "Winning: 'garage cleaning calgary' 4 clicks @1.5; homepage 22 clicks / 470 @18.4; services/cleaning 17 / 605 @25.0; hoarding-garage-cleanup-calgary 3 / 20 @8.8; 'garage cleanout service' 1 click @27.",
+    "Double down: floor/wash cluster (floor cleaning calgary 88 @17.8, concrete garage cleaning 46 @18.7, garage power washing 13 @19.2, wash garage floor 9 @11.0) to the floor page, upgraded today. Commercial wash queries (parking lot / parkade pressure washing calgary 28 @24.1, 23 @43.3) are outside residential scope.",
+    "Drops: services/cleaning (frozen) 17 clicks vs 18 on the 11-14 read, position 25.0 vs 24.1, third read in a row drifting down. 'garage cleaning calgary' 4 clicks vs 5.",
+    "Other Calgary cleaning pages: decluttering-calgary 35 @8.6, acreage 13 @13.2, estate 10 @15.3, post-reno 21 @33.0, spring 16 @88.5."
+   ],
+   "indexing": "not requested (standing rule)",
+   "indexed_counts": {
+    "indexed": 56,
+    "not_indexed": 70,
+    "breakdown": {
+     "page_with_redirect": 5,
+     "alternate_canonical": 4,
+     "discovered_not_indexed": 42,
+     "crawled_not_indexed": 19
+    }
+   },
+   "indexed": 56,
+   "not_indexed": 70,
+   "flags": [
+    "PRICING (not changed): prices on this page come from Abhi's 11-11 commit (+$100). Inconsistency to resolve: Restoration card says 'from $499' while the cost FAQ says the seal-prep package for a double runs '$449 to $549'. Pick one.",
+    "Earlier flag 'em dashes and $179/$249/$399 vs pricing rule' on this page is resolved for em dashes; prices are Abhi's, not invented.",
+    "CONFIRM WITH ABHI: page says wash water is extracted off the slab rather than pushed outside (was already in step 5), and that during Stage 4 we book grit removal now and the wash for the first open dates.",
+    "Claim to keep an eye on: 'water in Calgary's storm drains isn't treated before it reaches the Bow and Elbow rivers' (standard City messaging; the FAQ page itself says non-compliance can release pollutants into rivers).",
+    "Stage 4 still in effect 15 Nov with no end date; remove notices on floor/cleanout pages when lifted, then build the pressure-washing / oil-stain page.",
+    "Needs a real Calgary garage floor before/after photo.",
+    "Carried: WCB coverage not stated anywhere; homepage card still says 'Next-day service'; Mount Royal schema areaServed still lists Britannia; garage-cleanout-calgary.html hub 'Discovered - currently not indexed'; frozen services/cleaning drifting down."
+   ],
+   "next_targets": [
+    "1. Garage pressure washing / oil stain removal Calgary, the day Stage 4 lifts ('garage power washing' 13 @19.2, 'garage floor pressure washing' 12 @36.7, 'power wash garage floor near me' @7, 'driveway oil stain removal service near me' @11).",
+    "2. Car-collector / show-garage cleaning (Tier 2 luxury; SERP check needed, dropped once on 11-10 for no buyer SERP).",
+    "3. Watermark at Bearspaw, only if it separates from the acreage page.",
+    "4. Estate cleanout page (10 impr @15.3) and post-reno (21 @33.0) are next Sunday upgrade candidates.",
+    "Parked: spring refresh Feb 2027; fall winterizing Aug 2027."
+   ]
   }
  ]
 }
