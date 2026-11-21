@@ -570,4 +570,18 @@
             <image:caption>Example garage gear wall with skis, bikes and outdoor equipment on wall track</image:caption>
         </image:image>
     </url>
+    <url>
+        <loc>https://www.garagescape.ca/garage-organization-maple-ridge.html</loc>
+        <lastmod>2026-11-21</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.garagescape.ca/images/vancouver-double-garage-after.jpg</image:loc>
+            <image:caption>Example of an organized double garage with shelving along both sides and a clear centre floor</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.garagescape.ca/images/vancouver-tandem-garage-after.jpg</image:loc>
+            <image:caption>Example of a tandem garage after organization with shelving along the back half and a clear aisle</image:caption>
+        </image:image>
+    </url>
 </urlset>
