@@ -6832,6 +6832,106 @@
     "Dropped: car-collector garage cleaning (2nd SERP check, 11-21, detailers only).",
     "Parked: spring refresh Feb 2027; fall winterizing Aug 2027."
    ]
+  },
+  {
+   "date": "2026-11-21",
+   "weekday": "Saturday",
+   "market": "vancouver",
+   "mode": "new-page",
+   "action": "created",
+   "page": "garage-organization-maple-ridge.html",
+   "keyword": "garage organization systems maple ridge (also garage organization maple ridge, pitt meadows)",
+   "community": "Maple Ridge (Albion, Silver Valley, Hammond, Haney, Cottonwood, Thornhill, Whonnock, Websters Corners) and Pitt Meadows",
+   "market_decision": "Last run of this routine was 2026-11-14 calgary (garage cabinets); calgary-cleaning entries belong to the other task. Flipped to VANCOUVER.",
+   "gsc": "skipped: Claude in Chrome extension not connected (3 attempts). Tried the built-in browser pane once at /u/0/ and /u/1/: signed into a Google account with no access to the property ('Oops, you don't have access'). No credentials typed. Target chosen from the 11-12 Vancouver data brief and next_targets.",
+   "data_brief": [
+    "NO FRESH GSC READ TODAY (see gsc). Working from the 2026-11-12 Vancouver brief and the 2026-11-14 Calgary brief.",
+    "Carried: suburban 'garage organization systems' + city queries are the Vancouver cluster that ranks (richmond @8.8, coquitlam @8.9, new westminster @5.3, surrey @12.7, burnaby @12.0); city organization pages are indexed at 5-12.",
+    "Carried: next_targets #1 was another 'systems' city page with no page: Port Moody/PoCo, Delta, or Maple Ridge/Pitt Meadows. Port Moody and PoCo are covered on garage-organization-coquitlam (6 Port Moody mentions); Tsawwassen and Ladner are covered on garage-organization-surrey. Maple Ridge and Pitt Meadows appear only as chips on hub pages, so they were the one distinct gap.",
+    "Carried drops to re-check next run: garage-services-vancouver 6 clicks vs 11 @37.3; garage-organization-burnaby went 'Crawled - currently not indexed'; frozen services/cleaning drifting from @19 to @24; frozen garage-storage-solutions-calgary 'Crawled - currently not indexed' since 11-14."
+   ],
+   "why_this_target": "Maple Ridge and Pitt Meadows are listed service areas (garage-services-vancouver FAQ and chips) with no dedicated page; no filename, title or H1 targets either city. Follows the Langley pattern that the 11-12 brief recommended ('systems' in title and H1).",
+   "competitive_gap_found": "'garage organization systems Maple Ridge BC' SERP (WebSearch 2026-11-21): BBB category pages (Mission, Surrey, Port Moody, Burnaby), Best Buy category, HAVAN directory entry for Garage Living Vancouver, HomeStars Maple Ridge garage specialists, Houzz Stor-X Surrey. No local page explains Maple Ridge garage types, wet-gear storage for Golden Ears/Alouette Lake, tandem townhouse layouts in Albion, or horse-property shops.",
+   "research": {
+    "golden_ears": "11 km north of Maple Ridge; City calls it one of the largest parks in the province; park guides list 20+ km cycling trails and about 20 km horse trails; canoeing and kayaking on Alouette Lake popular (mapleridge.ca, bcparks.ca, bcadventure.com).",
+    "dykes": "City of Maple Ridge: 48 km of dykes along the Fraser and Pitt Rivers open to cyclists.",
+    "neighbourhoods": "Silver Valley north of the Alouette River, mostly detached and townhomes; Albion southeast, newer development, houses/townhomes/condos; Hammond southwest, older homes and heritage buildings (alairhomes.com, remax.ca, mapleridge.ca neighbourhoods).",
+    "equestrian": "City: equestrian trails throughout the city, Haney Horsemen Association helped build the network; Whonnock horse-property listings.",
+    "rain": "Sources disagree on annual totals (WorldClim ~2081 mm vs WeatherSpark ~1490 mm), so no annual figure published. Both agree November is wettest; page says only that.",
+    "disposal": "Ridge Meadows Recycling Depot, 10092 236 Street: City list (electronics, appliances, oils, styrofoam, textiles, batteries, bulbs, scrap metal); Return-It lists paint via Product Care. Metro Vancouver Maple Ridge Recycling and Waste Centre next door. Page tells readers to confirm hours/items.",
+    "pricing": "Copied from garage-organization-langley ($649/$999/$1,349; hardware $300-$900 single, $700-$3,000 triple). No new prices.",
+    "not_claimed": "No annual rainfall number, no population stat, no garage dimensions by neighbourhood, no client projects. Removed draft lines about north-side rainfall and '1970s' Hammond garages as unverified.",
+    "searches_used": 5
+   },
+   "word_count": "about 2,650 words including tables, pricing and FAQ; about 1,900 words of prose",
+   "images_used": [
+    "vancouver-double-garage-after.jpg (hero, og/twitter image, srcset)",
+    "vancouver-garage-labelled-bins.jpg (systems section)",
+    "vancouver-tandem-garage-before.jpg / vancouver-tandem-garage-after.jpg (Albion/Silver Valley tandem pair)",
+    "vancouver-garage-gear-wall.jpg (Golden Ears gear section)",
+    "vancouver-garage-efflorescence-before.jpg / vancouver-garage-efflorescence-after.jpg (Hammond older-garage pair)",
+    "vancouver-garage-cardboard-damp.jpg (wet winter section)",
+    "vancouver-garage-workbench-before.jpg / vancouver-garage-workbench-after.jpg (acreage shop pair; after has no -640 so plain src)"
+   ],
+   "image_honesty": "All Vancouver-set example photos. Every caption says 'An example layout, not a photo of a Maple Ridge client's garage'. 19 image URLs (incl. -640 variants) return 200 live.",
+   "custom_elements": [
+    "Table: five storage systems incl. ceiling hoists for kayaks",
+    "Table: garage types by area (Albion, Silver Valley, Hammond, Haney/Cottonwood/Thornhill, Whonnock/rural east, Pitt Meadows)",
+    "Strata bylaw local note",
+    "Golden Ears / Alouette Lake / dyke-trail gear section",
+    "Horse property and tack storage section",
+    "Local disposal list"
+   ],
+   "on_page_checklist": "title 56 chars, description ~152, canonical, OG + Twitter (image on disk and live), 1 H1, Service/LocalBusiness + BreadcrumbList + FAQPage (7 Q matching visible FAQ) JSON-LD parse, 0 em dashes in page copy, links to 12 internal pages incl. frozen garage-storage-solutions-calgary, no broken internal links, banned-word scan clean.",
+   "internal_links": {
+    "to_new_page": [
+     "garage-services-vancouver.html (hub: related card + outer-area paragraph)",
+     "garage-organization-coquitlam.html (indexed, 'Beyond Coquitlam' paragraph)",
+     "garage-organization-langley.html (areas paragraph)"
+    ],
+    "from_new_page": [
+     "garage-organization-coquitlam",
+     "garage-organization-langley",
+     "garage-bike-storage-vancouver",
+     "garage-storage-solutions-vancouver",
+     "garage-services-vancouver",
+     "mould-in-garage-vancouver",
+     "garage-decluttering-vancouver",
+     "garage-storage-solutions-calgary (frozen)",
+     "footer set"
+    ]
+   },
+   "deploy": "Commit e43f12b pushed to main; live URL 200, all image URLs 200, sitemap-vancouver.xml (200) lists the page once, hub links live.",
+   "sitemap": "Added to sitemap-vancouver.xml with lastmod 2026-11-21 and two image entries; sitemap-index.xml vancouver lastmod bumped to 2026-11-21.",
+   "indexing": "not requested (standing rule)",
+   "indexed_counts": "not read today (GSC unreachable). Last known 2026-11-14: 56 indexed / 70 not indexed.",
+   "backlog_status": "No change recorded: Indexing > Pages not readable today. Backlog carried from 11-14. New page linked from the indexed Coquitlam organization page and the hub.",
+   "backfilled": "none: scanned every BC page; all have 3+ body images and an og:image file that exists on disk. Lowest are laneway-garage-clearing-vancouver and mould-in-garage-vancouver at 3 images each. Nothing in this market met the backfill rule, so no filler images were added.",
+   "rankings": {
+    "method": "4 WebSearch queries, US-only tool, non-localized; directional only.",
+    "garage organization vancouver": "not visible (BBB, HAVAN Garage Living, Mr. Handyman WA, Handyman Connection, Homestars Garage Guru, netlify site, Best Buy, Home Depot). FLAT vs 11-12.",
+    "garage cleaning vancouver": "not visible (Thumbtack WA, resetgarage Google Site, Homestars, Enviro-Master, 1-800-GOT-JUNK). FLAT vs 11-12.",
+    "garage organization new westminster": "ROTATING. not visible in tool (BBB, Homestars, HAVAN). Last GSC reading @5.3 (11-12 brief), so no drop evidence.",
+    "garage organization systems maple ridge bc": "BASELINE: today's page not present. SERP is BBB, HAVAN, Homestars, Houzz."
+   },
+   "technical": "sitemap.xml 81 URLs and sitemap-vancouver.xml 34 URLs: all map to files, no duplicates, all https+www. robots.txt sane and points at sitemap-index.xml. Homepage 200. JSON-LD on new page parses. Full site sweep still overdue (not done this run).",
+   "consolidation_candidates": "Carried unchanged from 2026-11-12 (cleaning city pages, the four Vancouver clearing pages, organization-burnaby watch until 12-01, single Vancouver hub). Not re-checked: no GSC today.",
+   "images_needed": [
+    "REAL photo: kayak or canoe on a ceiling hoist above a parked car",
+    "REAL photo: tack room or barn storage on a horse property",
+    "REAL photo: narrow or tandem townhouse garage, before and after (carried)",
+    "REAL Calgary project photos and -640 variants for the generic Calgary set (carried)"
+   ],
+   "next_targets": [
+    "0. FIRST: reconnect Claude in Chrome on the Mac mini so the next run can read GSC. Check whether garage-organization-maple-ridge has impressions and whether frozen garage-storage-solutions-calgary is back in the index.",
+    "1. Next Vancouver: Delta only if GSC shows Delta/Ladner/Tsawwassen queries the Surrey page is not catching; otherwise upgrade garage-services-vancouver (361 impr @37.3, falling) and retarget it at residential terms.",
+    "2. Add 'systems' wording to H2/FAQ copy on richmond, surrey and burnaby organization pages (not titles).",
+    "3. Next Calgary (this routine): panorama-hills or beddington upgrade, per the 11-04 list.",
+    "4. Overdue: 14-day full site sweep."
+   ],
+   "flags": [
+    "GSC unreachable: Chrome extension disconnected; the built-in browser is signed into an account without access to the property."
+   ]
   }
  ]
 }
