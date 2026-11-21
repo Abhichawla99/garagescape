@@ -6932,6 +6932,62 @@
    "flags": [
     "GSC unreachable: Chrome extension disconnected; the built-in browser is signed into an account without access to the property."
    ]
+  },
+  {
+   "date": "2026-11-22",
+   "weekday": "Sunday",
+   "market": "calgary-cleaning",
+   "mode": "sunday-upgrade",
+   "action": "upgraded",
+   "page": "estate-garage-cleanout-calgary.html",
+   "keyword": "estate cleanout Calgary (also estate garage cleanout Calgary, who pays for estate cleanout Alberta, estate cleanout company Calgary)",
+   "why_this_target": "Queued Sunday upgrade from 11-21 next_targets (estate 10 impr @15.3 vs post-reno 21 @33.0 at last GSC read 11-15). Picked estate: Tier 1 money moment, closest to page one, and the GSC query 'estate cleanout calgary' (@24 on 11-12) has no page whose title leads with that wording. Title said 'Estate Garage Cleanout'; now leads with 'Estate Cleanout Calgary'. Post-reno stays queued.",
+   "competitive_gap_found": "WebSearch (not Chrome) 'estate cleanout calgary', 2026-11-22: JUSTJUNK property clean out, calgaryjunk.pages.dev estate cleanout ($800-$2,500, $2M liability) and checklist, 1-800-GOT-JUNK, Junkchuckers house cleanout, BBB directory. All whole-house junk haulers selling speed and donation. None covers the executor's insurer vacancy call, invoicing to the estate, separating an heir's personal work, a disputed-item hold, or a where-everything-went record for beneficiaries.",
+   "people_also_ask_used": [
+    "PAA not read (no Chrome). New FAQs from buyer questions surfaced in search: who pays for an estate cleanout (executor reimbursement from estate), does home insurance cover an empty estate house (30-day vacancy clause), are you insured."
+   ],
+   "research": [
+    "Vacancy clause: standard Canadian home policies typically limit/end coverage after ~30 days vacant unless the insurer is told / vacancy permit added (Western Financial Group '30 Day Vacancy Rule', BrokerLink, MoneySense). No Alberta statute; page tells executor to check policy wording.",
+    "Executor pays estate expenses and is reimbursed from the estate; costs benefiting the executor/an heir personally should not be charged to the estate (Merchant Law, lawyerinfo.ca Alberta guides). Page says 'usually' and does not give legal advice.",
+    "$2M liability insurance taken from GarageScape's own about.html."
+   ],
+   "word_count": 4080,
+   "images_used": [
+    "images/vancouver-garage-workbench-before.jpg",
+    "images/vancouver-lane-garage-before.jpg"
+   ],
+   "image_honesty": "No image changes. Same two existing AI-rendered illustrations, captioned 'Illustration, not a client's garage.' Still needs a real Calgary estate job photo.",
+   "custom_elements": [
+    "'Three calls to make before the first load' table: home insurer (death notice, 30-day vacancy clause, vacancy permit), estate lawyer (valuation before anything leaves), realtor (photo and possession dates)",
+    "'Paying from the estate, and the record you keep': invoice addressed to the estate per phase, heir's personal work quoted separately, and a 5-part cleanout record (set-aside list with photos, hold-corner decisions, City weigh tickets, donations with receipt caveat, hazardous/free drop-offs)",
+    "'When two people want the same thing': disputed-item hold corner released only by the personal representative in writing",
+    "3 new FAQs (who pays, insurance on an empty estate house, are you insured); schema and visible FAQs match 11 for 11"
+   ],
+   "on_page_changes": "Title 'Estate Cleanout Calgary | Garage & Shop for Executors' (53 chars), meta rewritten (~150), og/twitter titles synced, keywords updated, intro now names estate cleanout, TOC +2 entries, new contextual links to garage-junk-removal-cost-calgary and same-day-garage-cleanout-calgary. H1 unchanged. No em dashes. JSON-LD validated; all internal links resolve.",
+   "internal_links": "Already linked from ~25 pages incl. index.html, garage-cleanout-calgary and downsizing (both verified live). Sitemap lastmod 2026-11-22 (verified live).",
+   "data_brief": [
+    "GSC not read this run: Claude in Chrome extension not connected (third Calgary-cleaning run in a row). Last read 11-15: 69 clicks / 3.6K impr, avg position 20.6; estate 10 impr @15.3, post-reno 21 @33.0, decluttering-calgary 35 @8.6, acreage 13 @13.2, spring 16 @88.5; floor/wash the biggest unserved demand; services/cleaning drifting down."
+   ],
+   "indexed": "not read (GSC skipped)",
+   "not_indexed": "not read (GSC skipped)",
+   "gsc": "skipped: Claude in Chrome not connected",
+   "indexing": "not requested (standing rule)",
+   "deploy": "Pushed 2b37f30; live page showed new title and sections on first check; live sitemap lastmod 2026-11-22.",
+   "flags": [
+    "CONFIRM WITH ABHI: page now says GarageScape provides a cleanout record (set-aside photos, hold decisions, weigh tickets, donation and drop-off list) to the personal representative, and can invoice each phase to 'Estate of ...'. Both fit the existing phased-quote and set-aside promises but are new commitments.",
+    "CONFIRM WITH ABHI: '$2 million liability insurance' and 'proof on request' (figure from about.html).",
+    "Chrome extension still disconnected: GSC, PAA and SERP done without it. Reconnect Claude in Chrome so the data step can run.",
+    "Needs a real Calgary estate garage photo.",
+    "Carried: Stage 4 water restrictions, pressure washing parked; frozen services/cleaning drifting down."
+   ],
+   "next_targets": [
+    "1. Garage pressure washing / oil stain removal Calgary, the day Stage 4 lifts (expected December).",
+    "2. Next Sunday (11-29) upgrade: post-renovation-garage-cleanup-calgary.html (21 impr @33.0); title lacks buying intent ('Dust & Leftovers'). Re-read GSC first if Chrome is back.",
+    "3. Cochrane garage cleanout (cleaning-side), only if it separates from garage-decluttering-cochrane.html.",
+    "4. Watermark at Bearspaw, only if GSC shows the query.",
+    "Dropped: car-collector garage cleaning.",
+    "Parked: spring refresh Feb 2027; fall winterizing Aug 2027."
+   ]
   }
  ]
 }
