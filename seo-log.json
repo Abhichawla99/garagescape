@@ -6988,6 +6988,135 @@
     "Dropped: car-collector garage cleaning.",
     "Parked: spring refresh Feb 2027; fall winterizing Aug 2027."
    ]
+  },
+  {
+   "date": "2026-11-22",
+   "weekday": "Sunday",
+   "market": "calgary",
+   "action": "created",
+   "page": "overhead-garage-storage-calgary.html",
+   "keyword": "overhead garage storage Calgary (also overhead garage storage installation near me, calgary overhead storage, airdrie overhead storage, chestermere overhead storage, custom overhead garage storage, garage storage racks near me)",
+   "community": "Calgary city-wide, with Airdrie, Chestermere, Cochrane and Okotoks",
+   "market_decision": "Last run of this routine was vancouver (2026-11-21, Maple Ridge), so this run is calgary. The calgary-cleaning entries belong to the other task and do not count for the flip.",
+   "why_this_target": "GSC shows an overhead cluster already ranking with no page of its own: 'airdrie overhead storage' 41 impr @5.0, 'overhead garage storage installation near me' 24 @11.1 (1 click), 'overhead garage storage near me' 24 @6.8 (was 26.3), 'chestermere overhead storage' 11 @4.9, 'calgary overhead storage' 10 @10.4, 'custom overhead garage storage' 8 @7.4, 'garage storage racks near me' 36 @7.8. These land on the Airdrie and Chestermere organization pages and services/shelving. No page had overhead storage in its title or H1. Chosen over 'garage storage installation' (155 impr @29.6) because that query overlaps services/shelving (1,150 impr, clicks 6 to 10) and a new page there would cannibalize; overhead is a separate intent.",
+   "competitive_gap_found": "WebSearch 'overhead garage storage calgary' 2026-11-22: RenovationFind blog, baileylineroad Calgary storage article, Best Buy / Home Depot / Costco product listings, The Garage Store directory listings, California Closets, BBB. No Calgary installer page that explains the ceiling structure. Gap filled: truss bottom chord vs bonus-room I-joist vs open framing, the five clearance measurements (open door, opener rail, vehicle with hatch up), a what-goes-up table, and winter rules for an unheated garage.",
+   "research": [
+    "NBC intent statements (codes-guides.nrc.ca) and SBCA 'Storage Loading': truss bottom chords carry storage load only when designed for it; the truss design drawing states the bottom chord load. Page says 'unless the builder ordered trusses with a storage allowance' and gives no psf figure.",
+    "Weyerhaeuser TJI literature (TJ-9001, TB-808): loads hung from an I-joist bottom flange follow the manufacturer's rules. Page says only that the manufacturer sets the method.",
+    "Fleximounts 4x8 (Lowe's listing, user manual): rated 600 lb, hangs 22 to 40 in below ceiling.",
+    "Tire weight: sedan tire about 20 lb plus 20 to 30 lb wheel, so roughly 160 to 200 lb a set (engineerfix.com); written as 'roughly'.",
+    "Prices: $380 to $600 installed per 4x8 rack, $120 to $300 kit, 2 to 4 hour install, organization from $299. All copied from garage-storage-solutions-calgary.html and other existing pages; none invented.",
+    "Calgary snow load figure not used (only a 2015-code value found)."
+   ],
+   "word_count": 2479,
+   "images_used": [
+    "images/custom-shelving-installation.jpg (hero, og/twitter)",
+    "images/before-after-4.jpg + images/before-after-1.jpg (before/after pair)",
+    "images/airdrie-garage-decluttering.jpg (open door and opener, clearance section)"
+   ],
+   "image_honesty": "All four are the generic illustration set. Captions and alts say 'example', none is labelled a Calgary client project.",
+   "custom_elements": [
+    "Three-ceiling explainer (trusses, bonus room, open framing)",
+    "'What we measure before quoting' table (5 rows)",
+    "'Where common garage items should go' table (8 rows)",
+    "Tote weight check (12 totes x 25 lb = 300 lb)",
+    "'When we say no' note",
+    "7 FAQs, schema and visible text identical"
+   ],
+   "on_page_checklist": "Title 57 chars, meta 158, canonical www, OG + Twitter with an og:image that exists, one H1, LocalBusiness + FAQPage + BreadcrumbList JSON-LD parse, 11 internal links out incl. frozen garage-storage-solutions-calgary, garage-decluttering-okotoks and index.",
+   "internal_links": "Links in from services/shelving.html (indexed, 1,150 impr), garage-organization-airdrie.html (indexed @5.2), garage-organization-chestermere.html (indexed @5.7), garage-cabinets-calgary.html, index.html (frozen, link added in the cabinets card list), garage-storage-solutions-calgary.html (frozen, one sentence added). All verified live.",
+   "sitemap": "sitemap.xml: added once, lastmod 2026-11-22, https+www. sitemap-index.xml lastmod for sitemap.xml bumped to 2026-11-22. Live sitemap 200.",
+   "deploy": "Pushed 339beba. Live 200 for the page and all four images; title confirmed on the live page; rendered check in Chrome.",
+   "no_ai_slop": "Checked against the banned list: none present. No em dashes in the new copy (one &mdash; sits in the shared contact card copied from the template).",
+   "data_brief": [
+    "GSC 28 days vs previous 28, read 2026-11-22 (last update 3.5 h before): 67 clicks vs 65, 4.02K impressions vs 2.65K, CTR 1.7% vs 2.5%, avg position 20.7 vs 18.8.",
+    "Customers search storage-install terms: 'garage storage installation' 155 impr @29.6, 'garage storage installs' 135 @28.2, 'garage cabinets calgary' 78 @42.9 (was 21.7; the 11-14 cabinets page has no impressions yet), 'garage shelving calgary' 3 clicks @8.3, 'custom garage storage near me' 43 @6.7 (was 16.9), 'garage storage contractors' 35 @10.3, 'garage storage installation cost' 17 @3.2.",
+    "Working: services/shelving 10 clicks vs 6 on 1,150 impr @20.9; organization-airdrie 106 impr @5.2 (was 9.2); organization-chestermere 99 @5.7 (was 11.4); organization-tuscany 38 @5.0 (new); decluttering-cochrane 58 @11.8 (was 17.2); floor-cleaning-calgary 119 @11.4 (was 17.6); hoarding-garage-cleanup-calgary 3 clicks @8.8 (new); organization-company-calgary 59 @11.4 under the non-www host.",
+    "Doubled down on: the overhead cluster at positions 5 to 11 with no page (see why_this_target).",
+    "Dropped: homepage (frozen) clicks flat at 16, position 20.6 vs 17.9. services/cleaning (frozen) 15 clicks vs 18, position 25.8 vs 21.8, third read in a row moving down. 'garage cleaning calgary' 2 clicks vs 6 though still @1.5. garage-organization-calgary 73 impr vs 109 @24.1. organization-mahogany 29 impr vs 94. garage-services-vancouver 5 clicks vs 14 @35.2.",
+    "Frozen: canmore 3 clicks vs 5 but position 7.1 vs 9.9 (better). okotoks 1 vs 2 clicks, 32 impr vs 16 @8.7. garage-storage-solutions-calgary has no row in the Pages table (0 impressions)."
+   ],
+   "gsc": "read (Claude in Chrome, /u/0/). Performance and Indexing > Pages only.",
+   "indexed_counts": {
+    "indexed": 59,
+    "not_indexed": 74,
+    "breakdown": {
+     "page_with_redirect": 5,
+     "alternate_canonical": 3,
+     "discovered_not_indexed": 47,
+     "crawled_not_indexed": 19
+    },
+    "previous": "56 / 70 on 2026-11-14"
+   },
+   "indexing": "not requested (standing rule)",
+   "backlog_status": {
+    "now_indexed_or_showing": [
+     "garage-organization-tuscany (38 impr @5.0)",
+     "garage-organization-pump-hill (23 impr, 1 click)",
+     "garage-organization-priddis (32 impr)",
+     "garage-organization-north-vancouver (32 impr @7.5)",
+     "garage-organization-anmore-belcarra (22 impr)",
+     "acreage-garage-cleanout-bearspaw-springbank (21 impr, 1 click)"
+    ],
+    "unknown": [
+     "garage-cabinets-calgary (11-14): in neither not-indexed list, no impressions yet",
+     "garage-organization-maple-ridge (11-21): in neither list yet"
+    ],
+    "still_discovered": "47 URLs incl. garage-organization-langley, -evanston, -harmony, -cochrane, -banff, -bearspaw, -brentwood, -elbow-park, -lake-bonavista, -mckenzie-towne, -west-springs, -west-calgary, -east-calgary, -help-calgary, -tips-calgary, garage-makeover/remodel/renovation-calgary, garage-cleaning-calgary, garage-decluttering-airdrie and -chestermere, all 10 blog posts' hub and 8 posts, about, six Vancouver cleaning city pages, shaughnessy, point-grey, storage-solutions-vancouver.",
+    "still_crawled": "19 URLs: garage-cleanout-altadore-marda-loop (crawled Nov 17), decluttering-vancouver, cleanout-vancouver, organization-beddington, cleaning-north-vancouver, organization-service-calgary (www and non-www), organization-south-calgary (www and non-www), organization-burnaby, organization-aspen-woods, organization-dalhousie, organization-north-calgary, organization-guide-calgary, cleaning-vancouver, organization-panorama-hills, and non-www copies of garage-storage-solutions-calgary, services/organization and blog/winter-garage-organization-calgary.",
+    "links_added_for_stuck_pages": "none this run beyond the new page's links"
+   },
+   "backfilled": "garage-organization-company-calgary.html (59 impr @11.4, had zero body images): added hero (custom-shelving-installation.jpg), before/after pair (before-after-4 / before-after-1) with caption after the 4-step process, and an inline figure (calgary-garage-decluttering.jpg) in the services section. og/twitter image already valid. Title, URL, canonical untouched.",
+   "rankings": {
+    "method": "4 WebSearch queries, US-only tool, non-localized; directional only. GSC positions are in data_brief.",
+    "garage organization calgary": "not visible (BBB, HomeStars, calgaryhomes, Handyman Connection, California Closets, TrustedPros, Home Depot). FLAT vs 11-14. GSC: 5 impr @12.2, 1 click.",
+    "garage decluttering calgary": "not visible (calgaryhomes, 1-800-GOT-JUNK, calmorder, CREB, resetgarage Google Site, JustJunk). FLAT vs 11-14.",
+    "garage organization airdrie": "ROTATING. not visible in tool (BBB, RenovationFind, airdrielife, HomeStars). GSC has the page at 5.2 on 106 impr, so no drop evidence.",
+    "overhead garage storage calgary": "BASELINE: today's page not present. SERP is RenovationFind blog, baileylineroad, Best Buy, The Garage Store listings, California Closets, BBB, Costco."
+   },
+   "consolidation_candidates": [
+    {
+     "pages": "garage-storage-solutions-calgary (FROZEN)",
+     "status": "carried, DECISION FOR ABHI",
+     "recommendation": "The not-indexed entry is the non-www URL (crawled Jul 25); the www URL is in neither list and has 0 impressions in 28 days. Either way it is not ranking. It also prices ceiling racks two ways ($280-$500 in section 3, $380-$600 in the price table and FAQ) and suggests tires in bags on ceiling racks. Lift the freeze so it can be fixed, or merge into services/shelving."
+    },
+    {
+     "pages": "garage-organization-north-calgary, -beddington, -dalhousie, -panorama-hills, -south-calgary, -service-calgary, -guide-calgary, -aspen-woods",
+     "status": "consolidation-candidate",
+     "recommendation": "All crawled and rejected, 8 to 20 weeks. Merge the north set into one north Calgary page; fold service and guide into garage-organization-calgary. Aspen Woods (crawled Aug 26) overlaps garage-cleanout-aspen-woods-springbank-hill, which is showing."
+    },
+    {
+     "pages": "garage-organization-evanston",
+     "status": "carried",
+     "recommendation": "Still Discovered. Merge into north-calgary on 12-01 if unchanged."
+    },
+    {
+     "pages": "Vancouver sets",
+     "status": "carried from 11-12",
+     "recommendation": "Six cleaning city pages, four clearing pages, organization-burnaby watch until 12-01. Unchanged in today's lists."
+    }
+   ],
+   "images_needed": [
+    "REAL photo: overhead ceiling rack loaded with totes above a parked vehicle in a Calgary garage",
+    "REAL photo: rack posts lagged into framing, close up",
+    "REAL photo: wall-mounted tire rack with a winter set",
+    "REAL Calgary before/after pairs and -640 variants for the generic set (carried)"
+   ],
+   "flags": [
+    "NO BLOCKER. GSC read in full via Claude in Chrome.",
+    "DROP (frozen): services/cleaning position 25.8 vs 21.8, clicks 15 vs 18, third consecutive read down. Homepage position 20.6 vs 17.9 with clicks flat.",
+    "CONFIRM WITH ABHI: new page says we won't hang a rack from a ceiling we can't confirm, that we add blocking where framing doesn't line up, that we advise against tires on ceiling racks, and that a second rack costs less on the same visit.",
+    "CONFIRM WITH ABHI: frozen storage page gives two different installed prices for a ceiling rack; new page uses $380 to $600.",
+    "garagescape.ca (non-www) redirects to www with a 307 (temporary), checked by curl 2026-11-22. Google keeps non-www copies in the index reports (company-calgary shows 59 impr under the non-www host; storage-solutions, services/organization and a blog post sit in Crawled - not indexed as non-www). DECISION FOR ABHI: switch the Vercel domain redirect to permanent (308).",
+    "Carried: named testimonials on garage-renovation-calgary and company-calgary ('over 600 Calgary families', 'founded in 2020') not verified."
+   ],
+   "next_targets": [
+    "1. Next Vancouver: upgrade garage-services-vancouver.html (387 impr @35.2, clicks 14 to 5) and retarget at residential terms; or garage-organization-vancouver.html, which jumped to 152 impr @20.5.",
+    "2. Next Calgary: 'garage storage installation' / 'installs' (290 impr @28-30). Best handled as a services/shelving upgrade (title already says Installation) once Abhi rules on the frozen storage page; a new page would cannibalize.",
+    "3. Calgary after that: wall-mounted tire rack / winter tire storage page ('tire storage calgary' 11 impr @89, 'tire rack calgary' @7) only if impressions grow.",
+    "4. Backfill queue (Calgary, no images or broken og): garage-organization-harmony, garage-makeover-calgary, garage-remodel-calgary, garage-cleaning-calgary, garage-organization-east-calgary, -west-calgary, -help-calgary, -tips-calgary. about.html and blog.html have broken og:image too.",
+    "5. Overdue: 14-day full site sweep."
+   ]
   }
  ]
 }
