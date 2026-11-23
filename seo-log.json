@@ -7188,6 +7188,78 @@
     "4. Cochrane garage cleanout (cleaning-side), only if it separates from garage-decluttering-cochrane.html (53 impr @12.2, 1 click).",
     "Parked: spring refresh Feb 2027; fall winterizing Aug 2027. Dropped: car-collector garage cleaning."
    ]
+  },
+  {
+   "date": "2026-11-24",
+   "weekday": "Tuesday",
+   "market": "calgary-cleaning",
+   "mode": "new-page",
+   "action": "created",
+   "page": "mouse-droppings-garage-cleanup-calgary.html",
+   "keyword": "mouse droppings garage cleanup Calgary (also mice in garage cleanup Calgary, rodent cleanup garage Calgary, do exterminators clean up mouse droppings, hantavirus cleanup garage Alberta)",
+   "buyer": "Calgary homeowner who went to the garage in late November for the Christmas bin and found droppings, chewed boxes or nesting, and wants the garage cleared and cleaned safely rather than sweeping it themselves.",
+   "why_this_target": "GSC read this run. No buying-intent cleaning query at 5-30 lacks a page except the commercial parkade/parking-lot pressure washing cluster (parking garage cleaning services 15 impr @11.5, parking lot pressure washing calgary 28 @22.4, underground parking garage cleaning 8 @26.8, parkade pressure washing calgary 25 @45), which is a commercial service we don't advertise and is blocked by Stage 4 (flagged for Abhi). Generic service queries belong to the Sunday services/cleaning.html upgrade. Tier 1 is built except pressure washing (Stage 4, confirmed in effect since Nov 4) and oil stain removal (already targeted by garage-floor-cleaning-calgary, which is winning at 10.9, so a new page would cannibalize). Tier 2 is covered: Elbow Park sits in the Mount Royal page, West Springs in Aspen Woods, Roxboro in Mount Royal/Britannia, Eagle Ridge in Pump Hill; Lake Bonavista was considered and dropped because the Pump Hill page already uses the 1968-house/canoe/downsizing angle. Mouse-droppings cleanup is a seasonal money moment that lands exactly now (mice move in as nights get cold; Christmas bins come out late Nov), and our Mount Royal cleanout page already appears for 'mouse droppings cleanup garage calgary', so Google associates the site with the topic.",
+   "competitive_gap_found": "Google (Chrome, gl=ca) for 'mouse droppings cleanup garage calgary': results are pest control exterminators (We Clean Pest Control, Pestica, YYC Pest Control, Pro-Pest Solutions), one biohazard firm (specialisthygiene.ca, pest infestation cleaning), a vehicle biohazard cleaner (2cleaninc), Facebook/Reddit threads asking for 'services for cleaning up after mice' in Calgary, and our own Mount Royal cleanout page. None offers a full garage clear-out with sorting, hauling and the Alberta hantavirus steps. Ads and map pack are all pest control.",
+   "people_also_ask_used": [
+    "What to do if I find mouse droppings in my garage?",
+    "Can you ever get rid of mice in the garage?",
+    "Do exterminators clean up mouse droppings?",
+    "How long do mouse droppings stay toxic?"
+   ],
+   "research": [
+    "alberta.ca/reducing-the-risk-of-hantavirus (read Nov 24): steps (ventilate 30 min, rubber gloves, 1:9 bleach or household disinfectant, 5 min, paper towels, bag, seal, lidded container, wash gloves, never sweep/vacuum, 811 for heavy/poorly ventilated), usually deer mice, 81 cases / 15 deaths since 1989 incl. one death in 2026",
+    "Alberta Rat Control Program: rats declared pests 1950, report to 310-FARM (3276) or rats@gov.ab.ca with location and photo (alberta.ca rat control pages, canada.ca 2024 release)",
+    "City of Calgary what-goes-where (animals): small carcasses double-bagged in black cart; black cart biweekly, out by 7 a.m., collectors don't enter private property (calgary.ca bylaw FAQ)",
+    "City of Calgary mice page via search snippet: snap traps at right angles to wall, baited end to wall; keep bait from kids/pets (direct fetch returned 404 to the fetch agent, not linked)",
+    "Stage 4 outdoor water restrictions in effect since Nov 4 2026 (City declaration PDF)",
+    "U.S. CDC hot water and detergent for contaminated bedding (attributed as CDC, since Alberta's page doesn't cover laundry)",
+    "Landfill fees ($25 under 250 kg, by weight above), Sunday closures, $2M liability: existing site facts"
+   ],
+   "word_count": 3065,
+   "images_used": [
+    "images/vancouver-garage-cardboard-damp.jpg (+640)",
+    "images/vancouver-garage-workbench-before.jpg (+640)"
+   ],
+   "image_honesty": "Both are existing Vancouver-shoot photos, captioned 'Example photo, not a client's garage', alt text describes only what's visible. No photo of an actual mouse-affected garage exists; flagged.",
+   "custom_elements": [
+    "'Tonight, before anyone touches it' do/don't table for the evening droppings are found (photos for insurance, close the house door, snap traps baited end to wall, move seed and pet food)",
+    "Deer mouse vs house mouse vs rat identification table, with Alberta's rat-free program and 310-FARM reporting",
+    "Keep / wash / throw-out matrix by material (ornaments, nested cardboard, tree skirts and bedding, foam cushions, seed and pet food, paperwork, mower/snowblower/stored car)",
+    "Who-does-what sequencing table: pest control trapping, our soak-and-clear, then sealing, insulation contractor for nested batts",
+    "Alberta's single-spot steps scaled to a whole garage (door-inward zoning, sprayers not hoses under Stage 4, double-bag whole, shelves then slab edge) plus the cold-slab problem: 1:9 bleach mix freezing in unheated detached garages",
+    "Calgary disposal routing for contaminated loads: black cart rules (biweekly, 7 a.m., not from inside the garage) vs same-day landfill run, old rodenticide to fire-station HHW",
+    "Insurance check before cleanup (vermin exclusions, photos first)"
+   ],
+   "on_page_checklist": "Title 'Mouse Droppings in the Garage? Calgary Cleanup Service' (54), meta 157, OG/Twitter set, one H1, 11 H2s incl. TOC/related/CTA, FAQPage 8 = 8 visible H3 FAQs (text identical), Service + BreadcrumbList + FAQPage JSON-LD parse, 0 em dashes, all internal links resolve, 5 tables, call + text CTA in hero and bottom. H2 skeleton checked against hoarding, estate, downsizing, Pump Hill and floor pages: no shared headings.",
+   "internal_links": "Outbound contextual: hoarding, junk-removal-cost, garage-cleanout-calgary, downsizing, estate, garage-floor-cleaning, tenant, acreage Bearspaw/Springbank, same-day, services/cleaning, plus related grid (hoarding, same-day, estate, junk cost, garage-cleaning-calgary, decluttering). Inbound added: services/cleaning.html (indexed, 2 links), hoarding-garage-cleanup-calgary.html (indexed, 3 clicks), garage-cleanout-mount-royal-calgary.html (ranks for the query), garage-cleanout-calgary.html (bullet), index.html (services list + footer). Live-verified by curl.",
+   "data_brief": [
+    "28 days vs previous 28: 63 clicks (68), 4.08K impressions (2.7K), CTR 1.5% (2.5%), avg position 20.4 (19.5). Impressions up ~50%, clicks flat.",
+    "Winning: garage-floor-cleaning-calgary 126 impr @10.9 (74 @18.9); 'concrete garage cleaning' 57 @15.9 (20 @21.4); 'garage cleaners' 10 @4.8; 'garage cleaning company' 10 @20.4 (was 43.2); hoarding page 3 clicks / 21 @8.8; garage-decluttering-cochrane 1 click, 55 @12.4; Mount Royal 7 @6.6, Britannia 6 @6.3.",
+    "Double down: commercial parkade cluster with no page (parking garage cleaning services 15 @11.5 from 30.1; parking lot pressure washing calgary 28 @22.4; parkade pressure washing calgary 25 @45; underground parking garage cleaning 8 @26.8). Needs Abhi's call on whether we sell it, and Stage 4 blocks washing anyway. Generic 'garage cleanup services' 48 @32.3 and 'garage cleanout services' 46 @53.6 still point at unindexed hubs.",
+    "Dropped: 'garage cleaning calgary' 1 click (7), 9 impr (22), position steady 1.3; 'garage cleaning services' 33 @18.2 (50 @12.6); services/cleaning.html 25.2 (22.3) with 582 impr; 'garage cleaner' 17.2 (3.5).",
+    "Indexing unchanged at 59 / 74 (47 Discovered, 19 Crawled, 5 redirect, 3 alternate canonical); garage-cleanout-altadore-marda-loop-calgary is Crawled - currently not indexed."
+   ],
+   "indexed": 59,
+   "not_indexed": 74,
+   "not_indexed_detail": "Discovered - currently not indexed 47, Crawled - currently not indexed 19 (first page incl. garage-cleanout-altadore-marda-loop-calgary.html, garage-organization-service-calgary.html, garage-organization-south-calgary.html, garage-organization-aspen-woods.html), Page with redirect 5, Alternate page with proper canonical 3.",
+   "gsc": "read (Performance 28 days compare to previous period, Queries + Pages, 500 rows; Indexing > Pages and the Crawled drilldown). No URL Inspection, no indexing requests.",
+   "indexing": "not requested (standing rule)",
+   "deploy": "Pushed 3ff5857; live URL 200 with correct title and H1 after ~1 min; live sitemap.xml lists it (cache-busted fetch; first fetch was a CDN copy); live services/cleaning, hoarding and Mount Royal pages link to it; both image files 200. Verified by curl because the Chrome extension disconnected after the SERP check. sitemap-index.xml lastmod bumped to 2026-11-24 in the log commit.",
+   "flags": [
+    "CONFIRM WITH ABHI: new service commitments on this page: we follow Alberta's hantavirus steps on mouse jobs, nothing with droppings/urine/nesting goes to donation, nested boxes bagged whole unless marked, we'll move the soak to a milder day for unheated garages in deep cold, we hold cleanup until the client checks insurance, we work around pest control's traps. Crew PPE beyond rubber gloves (respirators) was deliberately NOT promised; decide whether to add it.",
+    "DECISION FOR ABHI: commercial parkade / parking-lot pressure washing is the strongest unserved query cluster (~110 impressions, best position 11.5). Do we sell it? If yes, it needs its own page after Stage 4 lifts.",
+    "Needs a real photo of a mouse-affected garage (droppings on a shelf or a chewed box).",
+    "Chrome extension disconnected twice; SERP verified once in Chrome, Lake Bonavista check done by web search.",
+    "Carried: Stage 4 still in effect (City declaration Nov 4, ~4 weeks); pressure washing parked. Indexing of the main cleaning hubs remains the bottleneck."
+   ],
+   "next_targets": [
+    "1. Garage pressure washing / power washing Calgary the day Stage 4 lifts (expected December): 'garage power washing' 16 @23.2, 'garage floor pressure washing' 16 @35.3, 'calgary pressure washing' 21 @47.9, 'wash garage floor' 14 @18.6.",
+    "2. Sunday 11-29 upgrade: services/cleaning.html (582 impr, 25.2, slipping) retargeted at 'garage cleaning services / garage cleanup services Calgary / garage cleaning company'; point unindexed hubs at it.",
+    "3. Commercial parkade cleaning Calgary, only if Abhi confirms we offer it and after Stage 4.",
+    "4. Cochrane garage cleanout (cleaning-side), only if it separates from garage-decluttering-cochrane.html (55 @12.4, 1 click).",
+    "5. Lake Bonavista cleanout only with an angle that doesn't repeat Pump Hill (lake association, lakefront lots), needs sourced housing facts.",
+    "Parked: spring refresh Feb 2027; fall winterizing Aug 2027."
+   ]
   }
  ]
 }
