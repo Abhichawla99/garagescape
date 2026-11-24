@@ -7260,6 +7260,148 @@
     "5. Lake Bonavista cleanout only with an angle that doesn't repeat Pump Hill (lake association, lakefront lots), needs sourced housing facts.",
     "Parked: spring refresh Feb 2027; fall winterizing Aug 2027."
    ]
+  },
+  {
+   "date": "2026-11-24",
+   "weekday": "Tuesday",
+   "market": "vancouver",
+   "mode": "new-page",
+   "action": "created",
+   "page": "garage-organization-port-moody.html",
+   "keyword": "garage organization systems port moody (also garage organization port moody, bear-safe garage storage port moody)",
+   "community": "Port Moody (Heritage Mountain, Heritage Woods, College Park, Glenayre, Seaview, Moody Centre, Inlet Centre, Pleasantside, Ioco)",
+   "market_decision": "Last run of this routine was 2026-11-22 calgary (overhead storage). calgary-cleaning entries belong to the other task. Flipped to VANCOUVER.",
+   "gsc": "read-only via Claude in Chrome at /u/0/: Performance (queries filtered to BC terms, all pages, compare on; per-page queries for organization-vancouver, bike-storage, floor-cleaning-vancouver, services-vancouver) and Indexing > Pages with both not-indexed drilldowns. Crawled list: only the first 10 of 19 rows were readable (pagination did not load). No URL Inspection, no indexing requests.",
+   "data_brief": [
+    "GSC 28 days vs previous 28, read 2026-11-24 (last update 3.5 h before): 63 clicks vs 68, 4.08K impressions vs 2.7K, CTR 1.5% vs 2.5%, position 20.4 vs 19.5.",
+    "Vancouver buying queries: 'garage organization systems' + city is still the cluster. richmond 17 impr @7.4 (was 15.2), new westminster 5 @4.4, surrey 15 @12.0, port moody 12 @11.3 (was 7 @14.4) with no page, coquitlam 20 @16.7 (was 10.1), burnaby 11 @17.0. 'garage organization vancouver' 15 @16.1 (new). Generic queries landing on garage-organization-vancouver: 'garage storage contractors' 31 @12.4, 'garage storage contractor' 26 @9.8, 'garage storage installation near me' 5 @6.6. 'garage cabinets vancouver' 7 @34.1 with no page.",
+    "Working: garage-bike-storage-vancouver 3 clicks, 108 impr @14.3 (new); garage-organization-vancouver 171 impr @19.8 (was 4); organization-north-vancouver 33 @7.3 (new); organization-richmond 19 @6.9; ev-charger 18 @8.2; earthquake-ready 44 @19.1; anmore-belcarra 25 @16.5; mould-in-garage 1 click @6.0.",
+    "Doubled down on: the one 'systems' city query at 5-30 with no dedicated page (Port Moody, impressions rising 7 to 12).",
+    "Dropped: garage-services-vancouver 3 clicks vs 16, @35.0 vs 29.4 on 375 impr (generic cleanout/cleanup queries at 40-78). organization-coquitlam 40 impr vs 82, @12.4 vs 8.9. garage-floor-cleaning-vancouver 196 impr @27.5 (broad concrete/parkade queries). organization-burnaby 0 impr.",
+    "Frozen pages: services/cleaning 14 clicks vs 19, @25.2 vs 22.3 (fourth read moving down). homepage 14 vs 17, @21.2 vs 18.1. canmore 3 vs 5 clicks, @7.0 vs 9.6 (better position). okotoks 0 vs 3 clicks, 34 impr @8.9. garage-storage-solutions-calgary has no row (0 impressions)."
+   ],
+   "why_this_target": "'garage organization systems port moody' has 12 impressions at 11.3 (up from 7 at 14.4) and no page: no filename, title or H1 targeted Port Moody, which appeared only as a service-area mention on the Coquitlam and Anmore pages. City 'systems' pages are the Vancouver pattern that ranks (Richmond 7.4, New Westminster 4.4, North Vancouver 7.3). Considered and left: 'garage storage contractors' (57 impr, already landing on garage-organization-vancouver at 10-12; a new page would cannibalize it) and 'garage cabinets vancouver' (@34, weaker signal).",
+   "competitive_gap_found": "WebSearch 'garage organization systems Port Moody' 2026-11-24: BBB category pages, Best Buy, HAVAN listing for Garage Living Vancouver, HomeStars Port Moody garage specialists, Houzz Clever Quarters, Home Depot install page. Every result is a directory or a company listing Port Moody as one of many service areas. None explains Port Moody's cart-in-the-garage bear rules, where the carts, freezer and barbecue go, or salt-water gear storage.",
+   "research": [
+    "portmoody.ca/bears (read 2026-11-24 via fetch agent): secure garbage and green waste carts in a bear-resistant enclosure 'like your closed garage' until pickup day; set out 5:30-7:30 a.m. on collection day only; bring back inside after 8 p.m. (page uses this wording; our copy says 'that evening'); fine up to $1,000; freezers inside a secure garage, not on decks or in carports; covered barbecue in a secure garage; pet food indoors; picked fruit indoors.",
+    "portmoody.ca news post 14 Nov 2019: Solid Waste Bylaw No. 3058 fines $500 / $750 / $1,000. Not quoted on the page beyond the $1,000 ceiling.",
+    "portmoody.ca Rocky Point Park page: 2800 Murray Street, boat launch, recreational pier, kayak and paddleboard rentals, Shoreline Trail. Parks page: Bert Flinn Park at 1300 David Avenue, wide gravel off-leash trail from Heritage Mountain Boulevard.",
+    "Wikipedia Port Moody: 33,535 residents, 2021 census.",
+    "REW neighbourhood guide (search snippet): College Park and Glenayre homes typically 1960s-1980s; Heritage Woods and Heritage Mountain 1990s to mid-2000s. Bridgewell guide: oldest stock in Port Moody Centre, homes from the 1940s on. Barber Street: detached homes close to Burrard Inlet.",
+    "NOT verified, so left out: Bert Flinn Park size and mountain bike trails, Shoreline Trail length, Evergreen Extension opening year, rainfall figures, local recycling depots."
+   ],
+   "word_count": "about 2,780 words including tables, pricing and FAQ",
+   "images_used": [
+    "vancouver-garage-parking-after.jpg (hero, og/twitter image)",
+    "vancouver-double-garage-before.jpg / vancouver-double-garage-after.jpg (cart bay section pair)",
+    "vancouver-garage-labelled-bins.jpg (systems section)",
+    "vancouver-garage-bike-storage.jpg (gear section)",
+    "vancouver-garage-wall-floor-before.jpg / vancouver-garage-wall-floor-after.jpg (older garages pair)",
+    "vancouver-garage-cardboard-damp.jpg (keeping things dry)"
+   ],
+   "image_honesty": "All Vancouver-set example photos with srcset. Every caption says 'An example layout, not a photo of a Port Moody client's garage'. 8 distinct alts. All 16 image URLs (incl. -640) return 200 live. No photo shows waste carts in a garage; flagged in images_needed.",
+   "custom_elements": [
+    "'What Port Moody asks you to keep in a secure garage, and where we put it' table (carts, freezer, barbecue, pet food and bird seed, picked fruit)",
+    "Cart bay method: two chalk outlines (car with doors open, cart bay with lids up) and a collection-morning note",
+    "Systems table with a Port Moody detail per system",
+    "Garage types by neighbourhood table with build eras",
+    "Salt-water paddle gear zone (rinse, cradle or hoist, galvanized or stainless hooks, boot tray)",
+    "7 FAQs, schema generated from the same text as the visible answers"
+   ],
+   "on_page_checklist": "Title 'Garage Organization Systems Port Moody BC | GarageScape' (55), meta 152, canonical www, OG + Twitter with an og:image that exists, one H1, Service with LocalBusiness provider + BreadcrumbList + FAQPage JSON-LD all parse, 0 em dashes, banned-word scan clean. One direct quote from the City page (13 words), attributed.",
+   "internal_links": "Out: coquitlam, anmore-belcarra, burnaby, maple-ridge, garage-storage-solutions-burnaby, bike-storage, mould, decluttering-vancouver, services hub, frozen garage-storage-solutions-calgary; none broken. In: garage-services-vancouver (hub card), garage-organization-coquitlam (indexed), garage-organization-anmore-belcarra (indexed), garage-organization-maple-ridge.",
+   "sitemap": "Added once to sitemap-vancouver.xml with today's date and an image entry; sitemap-index lastmod bumped. Live sitemap returns 200 and contains the URL once.",
+   "deploy": "Commit 7f5112e pushed to main. Live URL 200 within about a minute; hub page shows the new card live.",
+   "indexing": "not requested (standing rule)",
+   "indexed_counts": {
+    "date": "2026-11-24",
+    "indexed": 59,
+    "not_indexed": 74,
+    "reasons": {
+     "Discovered - currently not indexed": 47,
+     "Crawled - currently not indexed": 19,
+     "Page with redirect": 5,
+     "Alternate page with proper canonical tag": 3
+    }
+   },
+   "backlog_status": {
+    "vancouver_discovered_not_indexed": [
+     "garage-cleaning-burnaby",
+     "garage-cleaning-new-westminster",
+     "garage-cleaning-richmond",
+     "garage-cleaning-surrey",
+     "garage-cleaning-west-vancouver",
+     "garage-organization-langley (since 11-12)",
+     "garage-organization-point-grey (was counted indexed on 11-12, now listed)",
+     "garage-organization-shaughnessy",
+     "garage-storage-solutions-vancouver"
+    ],
+    "vancouver_crawled_not_indexed_seen": [
+     "garage-decluttering-vancouver (Sep 23)",
+     "garage-cleanout-vancouver (Sep 22)",
+     "garage-cleaning-north-vancouver (Sep 22)",
+     "garage-organization-burnaby (Sep 3)"
+    ],
+    "not_read": "rows 11-19 of the Crawled list (laneway, junk-removal and garage-cleaning-vancouver were there on 11-12; assume unchanged)",
+    "not_listed_yet": "garage-organization-maple-ridge (11-21) is in neither list and has no impressions",
+    "vancouver_backlog_remaining": "about 16"
+   },
+   "backfilled": "laneway-garage-clearing-vancouver.html (3 images, crawled and not indexed since Aug 2): added 2 inline figures from the library (cardboard-damp, labelled-bins) with captions marked as example photos. Title, URL and canonical untouched. Every Vancouver page now has body images and an og:image that exists, so there is no broken-og page left in this market.",
+   "rankings": {
+    "method": "4 WebSearch queries, US-only tool, non-localized; directional only. GSC positions are in data_brief.",
+    "garage organization vancouver": "not visible (BBB, HAVAN Garage Living, Mr. Handyman WA, Handyman Connection, Homestars Garage Guru, netlify site, Best Buy, Home Depot, California Closets). FLAT vs 11-21. GSC: 15 impr @16.1.",
+    "garage cleaning vancouver": "not visible (Thumbtack WA, resetgarage Google Site, Homestars, 1-800-GOT-JUNK, Enviro-Master, Servpro, COIT). FLAT vs 11-21.",
+    "garage organization systems richmond bc": "ROTATING. not visible in tool (BBB, handyskook blog, GarageExperts Virginia, STOR-X). GSC has it at 7.4, improved from 15.2, so no drop evidence.",
+    "garage organization systems port moody": "BASELINE: today's page not present. SERP is BBB, Best Buy, HAVAN, Homestars, Houzz, Home Depot."
+   },
+   "technical": "sitemap.xml (84 URLs) and sitemap-vancouver.xml (35) each map to a file with no duplicates; both XML files validate; one H1 on every touched page; robots.txt points at sitemap-index; homepage 200. No full site sweep this run (still overdue).",
+   "consolidation_candidates": [
+    {
+     "pages": "garage-cleaning-burnaby, -new-westminster, -richmond, -surrey, -west-vancouver, -north-vancouver",
+     "status": "consolidation-candidate, carried from 11-12, DECISION FOR ABHI",
+     "recommendation": "Still not indexed after 8+ weeks. Fold into garage-cleaning-vancouver as city sections with redirects, or rewrite each around one local problem."
+    },
+    {
+     "pages": "garage-decluttering-vancouver, garage-cleanout-vancouver, garage-junk-removal-vancouver, laneway-garage-clearing-vancouver",
+     "status": "consolidation-candidate, carried",
+     "recommendation": "Crawled Aug-Sep and rejected. Merge junk-removal into garage-cleanout-vancouver. Laneway got images today; if still out on 12-08, merge it too."
+    },
+    {
+     "pages": "garage-organization-burnaby",
+     "status": "watch until 12-01",
+     "recommendation": "Crawled Sep 3, not indexed, 0 impressions; garage-storage-solutions-burnaby holds @9.1. Merge the two if unchanged next Vancouver run."
+    },
+    {
+     "pages": "garage-organization-langley, -shaughnessy, -point-grey",
+     "status": "watch",
+     "recommendation": "Discovered and never crawled. Shaughnessy has waited since 11-04 (3 weeks today). They have hub links only; add contextual links from indexed pages (surrey for Langley, kerrisdale for the other two) before considering a merge."
+    },
+    {
+     "pages": "garage-services-vancouver (hub)",
+     "status": "flag",
+     "recommendation": "Clicks 16 to 3. It collects generic cleanout queries at 40-78 and parkade cleaning queries GarageScape does not sell. Retarget at residential terms as a dedicated run."
+    }
+   ],
+   "images_needed": [
+    "REAL photo: garbage and green waste carts in a marked bay inside a garage beside a parked car",
+    "REAL photo: paddleboards or kayak on wall cradles with PFDs drying on hooks",
+    "REAL photo: chest freezer on a garage back wall with shelving around it",
+    "REAL photo: narrow or tandem townhouse garage, before and after (carried)",
+    "REAL Calgary project photos and -640 variants for the generic Calgary set (carried)"
+   ],
+   "next_targets": [
+    "1. Next Vancouver: upgrade garage-services-vancouver.html (375 impr @35, clicks 16 to 3) and retarget it at residential terms; or add contextual links to Langley, Shaughnessy and Point Grey from indexed pages and add 'storage contractor / installation' H2 and FAQ wording to garage-organization-vancouver (57 impr at 10-12 for 'garage storage contractor(s)').",
+    "2. Candidate new page if the data holds: garage-cabinets-vancouver ('garage cabinets vancouver' 7 impr @34.1, no page).",
+    "3. Check whether garage-organization-port-moody and -maple-ridge have impressions, and whether organization-coquitlam recovers (@12.4 from 8.9).",
+    "4. Decide garage-organization-burnaby merge on or after 12-01.",
+    "5. Next Calgary (this routine): panorama-hills or beddington upgrade, per the 11-04 list.",
+    "6. Overdue: 14-day full site sweep."
+   ],
+   "flags": [
+    "Frozen services/cleaning.html has moved down four reads in a row (@25.2, 14 clicks vs 19). Needs Abhi's call on lifting the freeze for an upgrade.",
+    "garage-services-vancouver lost most of its clicks (16 to 3).",
+    "Crawled-not-indexed list only half read today."
+   ]
   }
  ]
 }
