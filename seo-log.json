@@ -7402,6 +7402,75 @@
     "garage-services-vancouver lost most of its clicks (16 to 3).",
     "Crawled-not-indexed list only half read today."
    ]
+  },
+  {
+   "date": "2026-11-25",
+   "weekday": "Wednesday",
+   "market": "calgary-cleaning",
+   "mode": "new page",
+   "action": "Built and shipped a dedicated oil stain removal page; linked from 4 indexed pages plus both index.html cleaning lists; sitemap.xml and sitemap-index lastmod updated.",
+   "page": "oil-stain-removal-garage-floor-calgary.html",
+   "keyword": "oil stain removal Calgary (also oil stain removal company, garage floor oil stain removal Calgary, does pressure washing remove oil stains, condo parking stall oil stain)",
+   "buyer": "Someone with a date: seller before listing photos, tenant before move-out inspection, condo owner with a property manager's letter about stall drips, new owner before a coating goes down.",
+   "why_this_target": "Tier 1 item (oil stain removal / floor deep clean) with no dedicated page. GSC shows buying-intent 'oil stain removal company' at position 4 and 'industrial oil cleaning services' 10 impr @26.2, while the garage-floor-cleaning #oil anchor collects impressions @11.4. Pressure washing stays parked under Stage 4, and a poultice is a dry method, so this is the floor-side page we can actually sell this month.",
+   "competitive_gap_found": "Web search for 'oil stain removal garage floor Calgary' returns DIY guides (Garage Experts, TaskRabbit, HomeGuide, The Drive), retailer product pages (Canadian Tire, Home Depot EpoxyShield) and one HomeStars review of a Calgary concrete contractor. No Calgary service page targets oil stain removal, and none mentions Stage 4. Google in Chrome showed a CAPTCHA; not bypassed, so PAA was built from the questions recurring across the top results (old stains, pressure washing, cat litter, poultice time, epoxy damage).",
+   "people_also_ask_used": [
+    "Can old oil stains be removed from concrete?",
+    "Does pressure washing remove oil stains?",
+    "Does cat litter get oil off concrete?",
+    "How long does a poultice take?",
+    "Will oil stain remover damage epoxy?"
+   ],
+   "research": [
+    "calgary.ca/restrictions and the Stage 4 contractors page (read 2026-11-25 via fetch): Stage 4 since Nov 4 2026, outdoor washing of driveways/sidewalks/exteriors prohibited, health and safety exceptions only, fines up to $3,000, no end date posted.",
+    "City of Calgary HHW: 8 fire station depots + 3 Eco Centres; fire halls take used oil in containers of 5 L or less, filters and containers free; not in blue/green/black carts; businesses to ARMA.",
+    "Poultice method: PROSOCO and GSA technical procedures (dwell 24h+, dries and is scraped/vacuumed); jondon.com and others note long-standing stains may not fully come out.",
+    "HomeStars review of a Calgary concrete contractor: previous owner's oil stains degreaser could not lift, resolved by resurfacing."
+   ],
+   "word_count": "~3,000 (body text, hero to CTA)",
+   "images_used": [
+    "images/vancouver-garage-floor-before.jpg (+640)",
+    "images/vancouver-garage-floor-after.jpg (+640)"
+   ],
+   "image_honesty": "Both are existing example photos, captioned 'Example photo, not a client's garage.' Alt text describes only what is visible. No Calgary job photos exist yet.",
+   "custom_elements": [
+    "'Which deadline is behind the stain?' table: seller / tenant move-out / condo stall letter / new owner, each with what 'done' means and when to book",
+    "Stain identification table: engine oil, transmission fluid, coolant, brake fluid, tire marks, rust, salt haze, with treatment and realistic result",
+    "Stage 4 working rules: indoor dry method continues, no pressure washer, driveway/apron stains deferred, parkade drains",
+    "Visit-by-visit poultice timeline with photo check-in and cold-garage temperature caveat",
+    "'When to stop cleaning' decision table after two cycles (seal, coat, another cycle, resurface) with who does each",
+    "Oily waste disposal flow for Calgary (spent poultice, wet-vac water, old motor oil to fire hall HHW)"
+   ],
+   "on_page_checklist": "Title 57 chars, meta 155, OG/Twitter, one H1, 8 visible FAQs match FAQPage schema exactly, Service + BreadcrumbList schema with true data only, no ratings or reviews, no em dashes, no prices on page (links to floor page #pricing).",
+   "internal_links": "12 unique internal links out. Inbound: garage-floor-cleaning-calgary.html (#oil section), services/cleaning.html (oil stain feature card), epoxy-garage-floor-cleaning-calgary.html (figcaption), garage-cleanout-before-selling-calgary.html (floor work bullet), index.html services list + footer list.",
+   "data_brief": [
+    "28 days vs previous 28: 66 clicks, 4.15K impressions, CTR 1.6%, avg position 20.1 (last run: 63 / 4.08K / 1.5% / 20.4). Small gain.",
+    "Winning: hoarding page 3 clicks / 21 @8.8 (new); acreage Bearspaw/Springbank 1 click / 21 @13; garage-floor-cleaning-calgary 126 impr @10.6 (75 @18.3); 'garage cleaning services' 2 clicks, 35 @17.3; 'professional garage cleaners' 1 click @1; 'garage cleaning calgary' 1 click, 9 @1.4.",
+    "Double down: 'oil stain removal company' @4 and the floor page's #oil anchor @11.4 with no dedicated page (built today); 'floor cleaning calgary' 73 @15.2; 'garage cleanup services' 50 @33.8 and 'garage cleanout services' 46 @53.4 still have no indexed hub; parkade cluster unchanged (parking lot pressure washing calgary 27 @22.3, parking garage cleaning services 15 @11.5).",
+    "Dropped: services/cleaning.html 14 clicks (21), 577 impr @24.8 (22.4); homepage 14 (17) @20.9; garage-decluttering-okotoks 0 clicks (3).",
+    "Indexing unchanged at 59 indexed / 74 not (47 Discovered, 19 Crawled, 5 redirect, 3 alternate canonical)."
+   ],
+   "indexed": 59,
+   "not_indexed": 74,
+   "not_indexed_detail": "47 Discovered - currently not indexed, 19 Crawled - currently not indexed, 5 Page with redirect, 3 Alternate page with proper canonical. Drilldown not re-read today (counts identical to 11-24).",
+   "gsc": "read (Performance 28 days compare to previous period, Queries + Pages; Indexing > Pages summary). No URL Inspection, no indexing requests.",
+   "indexing": "not requested (standing rule)",
+   "deploy": "Pushed 4e9fe57; live URL 200 and rendering in Chrome; live sitemap.xml lists it; 4 already-indexed pages plus homepage link to it.",
+   "flags": [
+    "CONFIRM WITH ABHI, new service commitments on this page: no hose or pressure washer while Stage 4 is in effect; driveway/apron stains quoted now and done after it lifts; spent poultice, absorbent and wet-vac water taken away by us; we can run the client's old motor oil to a fire-hall HHW drop-off; photo check-in after cycle one with cycle two quoted separately; we may move a poultice to a milder day for unheated garages. Also confirms we work in condo parkades (with property manager OK).",
+    "Page says we don't install coatings or resurface concrete. Correct this if GarageScape does.",
+    "Google search in Chrome hit a CAPTCHA; not bypassed. SERP gap checked via web search.",
+    "Needs a real Calgary photo of a poulticed stain (before / poultice drying / after).",
+    "Carried: commercial parkade cleaning decision still open; Stage 4 still in effect (no end date on calgary.ca as of 11-25)."
+   ],
+   "next_targets": [
+    "1. Garage pressure washing / power washing Calgary the day Stage 4 lifts: 'garage power washing' 15 @24.1, 'garage floor pressure washing' 17 @34.4, 'calgary pressure washing' 21 @47.9, 'wash garage floor' 14 @18.6. Update the oil stain page's Stage 4 section the same day.",
+    "2. Sunday 11-29 upgrade: services/cleaning.html (577 impr, slipped to 24.8) retargeted at 'garage cleaning services / garage cleanup services Calgary / garage cleaning company'; its FAQ still promises pressure washing.",
+    "3. Commercial parkade cleaning Calgary, only if Abhi confirms we offer it and after Stage 4.",
+    "4. Cochrane estate / garage cleanout (cleaning-side): 'estate clearout cochrane' 2 @19.5, decluttering-cochrane 61 @12.4.",
+    "5. Collector-car / show garage cleaning (Tier 2 luxury): 'collector car storage condo calgary' 15 @10.3 shows the audience; build only the cleaning angle.",
+    "Parked: spring refresh Feb 2027; fall winterizing Aug 2027."
+   ]
   }
  ]
 }
