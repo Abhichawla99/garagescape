@@ -7688,6 +7688,91 @@
     "Three frozen pages have og:image pointing at missing files (canmore, storage-solutions-calgary, services/cleaning). Adding images to frozen pages is allowed; repointing a meta tag is a judgment call, so left for Abhi.",
     "Carried: non-www redirects with a 307; named testimonials on garage-renovation-calgary and company-calgary not verified."
    ]
+  },
+  {
+   "date": "2026-11-27",
+   "weekday": "Friday",
+   "market": "calgary-cleaning",
+   "mode": "new-page",
+   "action": "created",
+   "page": "separation-garage-cleanout-calgary.html",
+   "keyword": "garage cleanout during separation or divorce Calgary (also divorce cleanout Calgary, separation cleanout Calgary, dividing garage contents before a divorce house sale)",
+   "buyer": "A separating or divorcing Calgary couple (or the realtor listing their house) who need the garage divided and emptied before listing photos and possession day, often with one partner already moved out and lawyers involved.",
+   "why_this_target": "No GSC query sits at 5-30 without a page that this task is allowed to build: the hub queries ('garage cleanup services' 56 @35.8, 'garage cleanout service' 18 @25.8, 'garage cleaning service' 21 @36.9) belong to the Sunday 11-29 services/cleaning.html upgrade; pressure washing is blocked by Stage 4 (calgary.ca still shows the Nov 4 notice today); parkade cleaning awaits Abhi. Tier 2 is nearly exhausted: Elbow Park/Roxboro checked and already covered by garage-cleanout-mount-royal-calgary.html (incl. 2013 flood section), West Springs/Eagle Ridge covered by Aspen Woods and Pump Hill pages, collector-car angle already a section of the epoxy page. Separation is a Tier-1-style money moment (urgent, tied to a house sale, both sides want it done right, realtor-referred) that no Calgary competitor addresses, and it feeds the before-selling page which ranks @6.",
+   "competitive_gap_found": "SERP for 'divorce cleanout calgary garage' (read in Chrome 11-27): Garage Cleanout Calgary, Space Savers, Taskrabbit, GarageScape homepage, Clean Garage Company, Garage Reboot, Fresh Start, ORG.NZD, Junk Pros; no result mentions separation or divorce. 'cleaning out house during divorce alberta' returns only law firms (Merchant Law, Cunningham, Chapman Riebeek, Fairway) and one estate-cleaning page (The Pink Wand); no service page for dividing or clearing contents.",
+   "people_also_ask_used": "From the two SERPs: 'How much to clear out a garage?', 'How long does it take to clean out a garage?' (PAA); 'Who should pay for deep cleaning costs before listing...' (Legal Assistance Alberta result title) and 'Timeframe for Removing Belongings' (JustAnswer result) adapted into FAQs. Legal PAAs ('What is a wife entitled to in a divorce in Alberta?') deliberately not answered; page points to lawyers.",
+   "research": [
+    "Family Property Act: renamed from Matrimonial Property Act Jan 1, 2020 and extended to adult interdependent partners (alberta.ca, Helm Family Law, CFCJ, CanLII RSA 2000 c F-4.7 via Google results 11-27); linked to CanLII.",
+    "Exclusive possession of the family home available by court order (Merchant Law result 'Either spouse may apply for an Exclusive Home Possession order').",
+    "Stage 4 outdoor water restrictions still in effect (calgary.ca/restrictions banner, updated Nov 4, 2026, read 11-27).",
+    "Spacesavers Calgary: 'Most cleanouts run between $300 and $1,000' (SERP snippet 11-27), cited as a competitor figure in the cost FAQ.",
+    "Reused site-sourced facts: City landfill $25 <=250 kg, $113/tonne, $17 refrigerant fee, tires/electronics free if separated; AREA contract vacant possession usually noon; City doesn't plow lanes; $2M liability (about.html)."
+   ],
+   "word_count": "~2856 in body content (prose block)",
+   "images_used": [
+    "images/vancouver-garage-labelled-bins.jpg (+640 srcset)",
+    "images/vancouver-double-garage-before.jpg (+640 srcset)"
+   ],
+   "image_honesty": "Both existing repo images, viewed before use; both captioned 'Example photo, not a client's garage.' Both are Vancouver-series photos (not identified as Calgary). A first pick (vancouver-garage-parking-after.jpg) was swapped out before shipping because it shows an organized garage with a car, not the empty garage the caption claimed.",
+   "custom_elements": [
+    "'Who can say yes' authorization table: six separation situations (joint list, one partner says take everything, realtor-led sale, lawyers negotiating, court order, other partner not told) vs whether we start and what paperwork we need",
+    "Seven-tag sort with a 'not decided' shelf that nothing leaves until both people or both lawyers agree",
+    "One photo set sent to both parties at once, serial numbers photographed, written tag confirmation from each before loading, after-list of where everything went",
+    "Two-address handoff: delivery to the moved-out partner's condo/storage unit, pickup windows, split days, no-contact scheduling, kids' items tagged by child",
+    "'What usually gets stuck' table (tools, snowblower, tires matched to a car, keepsakes, paperwork, vehicles/firearms) with how each is handled",
+    "Split invoicing: one invoice or two in an agreed proportion"
+   ],
+   "on_page_checklist": {
+    "title": "Garage Cleanout During Separation or Divorce | Calgary (54)",
+    "meta_description_length": 158,
+    "h1": 1,
+    "og_twitter": true,
+    "schema": [
+     "Service with LocalBusiness provider",
+     "BreadcrumbList",
+     "FAQPage (9 Q, matches visible FAQ)"
+    ],
+    "em_dashes_in_copy": 0,
+    "booking_cta": "hero call/text + closing CTA section"
+   },
+   "internal_links": {
+    "out": "14 unique internal pages in body/related (before-selling, downsizing, estate, same-day, bin, junk removal cost, hoarding, garage cleanout, services/cleaning, garage cleaning, Mount Royal, Lakeview, oil stain, about) plus footer",
+    "in": [
+     "index.html (services list + footer list)",
+     "garage-cleanout-calgary.html (situation list)",
+     "services/cleaning.html (body paragraph)",
+     "garage-cleanout-before-selling-calgary.html (listing-agents section + related card)",
+     "downsizing-garage-cleanout-calgary.html (related card)"
+    ]
+   },
+   "data_brief": [
+    "28 days: 62 clicks, 4.23K impressions, CTR 1.5%, avg position 20.4 (last run 64 / 4.19K / 1.5% / 20.3). Flat. The compare-to-previous toggle did not apply via URL, so deltas are against the last log entry.",
+    "Winning: 'garage cleaning services' 3 clicks, 37 @16.6 (was 2 / 35 @17.3); 'garage cleaning calgary' 1 click @1.4; 'garage cleanout business' 1 click @1.0; affluent community pages all hold top-10 on small volume (Mount Royal 9 @5.9, Pump Hill 3 @5.7, Aspen Woods 4 @6.0, Britannia 6 @6.3, Heritage Pointe 7 @9.6); garage-floor-cleaning-calgary 119 impr @11.2.",
+    "Double down: hub queries still unserved by an indexed page ('garage cleanup services' 56 @35.8, 'garage cleaning' 54 @36.2, 'garage cleanout services' 46 @51.8, 'garage cleanout service' 18 @25.8, 'garage cleaning company' 12 @17.7), all for the Sunday services/cleaning.html upgrade; floor cluster ('floor cleaning calgary' 84 @14.9, 'concrete garage cleaning' 58 @14.9, 'wash garage floor' 15 @17.9) waits on Stage 4; parkade cluster unchanged.",
+    "Dropped: hoarding page lost its 3 clicks (0 clicks, 10 impr @16.5, was 21 @8.8); services/cleaning.html 13 clicks / 580 @24.6 (steady, still slipping from 22); homepage 13 clicks (14) @21.7; post-renovation page 34 impr @34.4.",
+    "Indexing (report dated 11/22): 62 indexed / 77 not indexed (was 59 / 74): 52 Discovered, 18 Crawled, 6 redirect, 1 alternate canonical. Crawled list's newest entries are Vancouver and organization URLs; garage-cleanout-altadore-marda-loop-calgary no longer seen at the top of that list."
+   ],
+   "indexed": 62,
+   "not_indexed": 77,
+   "not_indexed_detail": "Discovered - currently not indexed 52, Crawled - currently not indexed 18, Page with redirect 6, Alternate page with proper canonical 1 (report last updated 11/22/26). Crawled list skimmed: no new Calgary cleaning URLs at the top.",
+   "gsc": "read (Performance 28d, Queries + Pages at 500 rows; Indexing > Pages counts and Crawled list). Compare toggle not applied. No URL Inspection, no indexing requests.",
+   "indexing": "not requested (standing rule)",
+   "deploy": "pushed e7c1dc7; live URL 200 and rendering in Chrome (title, H1, 11 H2s); both images serve 200; live sitemap.xml lists it; live before-selling, garage-cleanout-calgary, services/cleaning, downsizing and homepage link to it.",
+   "flags": [
+    "CONFIRM WITH ABHI, new commitments on this page: we only act on a list both partners agree to in writing, a letter from both lawyers, or a court order, and won't book when one partner hasn't been told; same before/after photos sent to both (or both lawyers) at once; written 'yes' from each before loading; 'not decided' items held in the garage or moved to a client-rented storage unit; delivery of one partner's items to a second address (incl. condo service elevator booking); pickup windows and split days; we don't share one partner's new address and schedule around protection orders; paperwork sealed unread; invoice can be split into two in an agreed proportion.",
+    "Page tells realtors they can be the day-of contact but cannot approve what leaves alone. Check this fits how Abhi works with listing agents.",
+    "Cost FAQ quotes a competitor range (Space Savers Calgary '$300 to $1,000', read 11-27) without naming them; no GarageScape prices used. Google's snippet for the homepage still shows 'Starting at $299', which isn't in current index.html; if that's a real price, Abhi may want it on the cleanout pages.",
+    "Hoarding page lost its clicks this period (3 -> 0, position 8.8 -> 16.5). Worth a look on a future Sunday.",
+    "Stage 4 still in effect on 27 Nov; pressure washing parked."
+   ],
+   "next_targets": [
+    "1. Sunday 11-29 upgrade: services/cleaning.html (580 impr @24.6) retargeted at 'garage cleaning services / garage cleanup services Calgary / garage cleaning company'; remove its pressure-washing promise; link the separation page from its situations list.",
+    "2. Garage pressure washing / power washing Calgary the day Stage 4 lifts ('garage floor pressure washing' 19 @33.3, 'garage power washing' 16 @31.3, 'calgary pressure washing' 21 @47.9, 'wash garage floor' 15 @17.9); update the oil stain page the same day.",
+    "3. Following Sunday: hoarding-garage-cleanup-calgary.html refresh (lost 3 clicks, slid 8.8 -> 16.5).",
+    "4. Commercial parkade cleaning Calgary, only if Abhi confirms we sell it and after Stage 4.",
+    "5. Watermark at Bearspaw estate-lot cleanout only if a distinct angle (HOA architectural rules, triple garages) can be sourced; otherwise leave Tier 2 as covered.",
+    "Parked: spring refresh Feb 2027; fall winterizing Aug 2027."
+   ]
   }
  ]
 }
