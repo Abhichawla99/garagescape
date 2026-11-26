@@ -7557,6 +7557,137 @@
     "5. Okotoks estate or downsizing cleanout (cleaning-side) if 'okotoks' cleanout queries appear; decluttering-okotoks 38 impr @8.8 lost its 3 clicks.",
     "Parked: spring refresh Feb 2027; fall winterizing Aug 2027."
    ]
+  },
+  {
+   "date": "2026-11-26",
+   "weekday": "Thursday",
+   "market": "calgary",
+   "mode": "new-page",
+   "action": "created",
+   "page": "garage-wall-storage-calgary.html",
+   "keyword": "garage wall storage Calgary (also airdrie / chestermere / okotoks / cochrane garage wall storage, garage wall storage near me, garage storage wall systems near me, slatwall)",
+   "community": "Calgary city-wide, with Airdrie, Chestermere, Okotoks and Cochrane",
+   "market_decision": "Last run of this routine was 2026-11-24 vancouver (Port Moody). calgary-cleaning entries belong to the other task. Flipped to CALGARY.",
+   "gsc": "read-only via Claude in Chrome at /u/0/: Performance (all 452 queries and 80 pages read from the table DOM, compare on) and Indexing > Pages with both not-indexed drilldowns. No URL Inspection, no indexing requests.",
+   "data_brief": [
+    "GSC 28 days vs previous 28, read 2026-11-26: 64 clicks vs 70, 4.19K impressions vs 2.73K, CTR 1.5% vs 2.6%, position 20.3 vs 19.8.",
+    "Customers search: 'garage storage installation' 144 impr @28.2 and 'garage storage installs' 139 @27.4; 'garage cabinets calgary' 80 @43; 'chestermere garage cabinets' 54 @6.7; 'airdrie garage wall storage' 51 @5.1; 'airdrie overhead storage' 48 @5.1; 'custom garage storage near me' 45 @6.6 (was 16.1, 1 click); 'garage storage contractors' 43 @11; 'chestermere garage wall storage' 40 @3.1; 'okotoks garage wall storage' 28 @7.8; 'garage wall storage near me' 25 @12.2 (was 21.6, 1 click); 'garage storage wall systems near me' 16 @11.9; 'cochrane garage wall storage' 12 @12.6; 'garage storage installation cost' 17 @3.8.",
+    "Working: services/shelving 12 clicks vs 6 on 1,126 impr @20.2 (was 23.9); 'garage shelving calgary' 3 clicks @8.1; organization-airdrie 111 impr @5.3 (was 7.7); organization-chestermere 105 @5.3 (was 8.9); organization-tuscany 44 @5.1; floor-cleaning-calgary 121 @10.9 (was 17.1); hoarding-garage-cleanup 3 clicks @8.8; decluttering-cochrane 67 @14.4 with its first click; auburn-bay and pump-hill 1 click each.",
+    "Doubled down on: the wall storage cluster, about 170 impressions across five queries at positions 3 to 13 with no page of its own (they land on the Airdrie and Chestermere organization pages). Same play as the overhead page on 11-22.",
+    "Dropped: services/cleaning (FROZEN) 12 clicks vs 23, position 25.0 vs 22.3, fourth read down in a row. 'garage cleaning calgary' 1 click vs 8 on 7 impr vs 24, still @1.4, so demand fell and rank held. Homepage (FROZEN) 14 clicks vs 16, position 21.2 vs 18.8. 'garage organization systems near me' 36 impr vs 116. organization-mahogany 34 impr vs 61. 'garage storage contractors' @11 vs 4.8 on ten times the impressions.",
+    "Frozen: canmore 3 clicks vs 5, position 6.8 vs 9.6 (better). okotoks 0 clicks vs 3, 38 impr vs 16 @8.8. garage-storage-solutions-calgary still has no row in the Pages table."
+   ],
+   "why_this_target": "Five wall storage queries already show at 3 to 13 with no dedicated page: airdrie 51 @5.1, chestermere 40 @3.1, okotoks 28 @7.8, near me 25 @12.2 (1 click), wall systems near me 16 @11.9, cochrane 12 @12.6. No filename, title or H1 on the site targeted wall storage or slatwall; services/shelving.html never mentions slatwall. Considered and left: 'garage storage installation/installs' (283 impr @28), which the 11-22 log assigns to a services/shelving upgrade pending Abhi's ruling on the frozen storage page; 'collector car storage condo calgary' (15 @10.3), a service GarageScape does not sell.",
+   "competitive_gap_found": "WebSearch 'garage wall storage calgary' and 'garage wall storage Calgary slatwall installation' 2026-11-26: California Closets, The Garage Store listings (Yellow Pages, HomeStars), Garage Living product page, Home Depot / Canadian Tire / Best Buy product listings, baileylineroad blog, Trusscore blog. Product and directory pages only. None explains stud spacing against the published ratings, the shared house wall, the concrete curb, or hanging heights for a wet winter floor. Those are the page.",
+   "research": [
+    "Trusscore SlatWall quickstart and installation guide (trusscore.com): 75 lb/sq ft only when fastened to studs or masonry every 16 in o.c.; blocking where studs are wider; 1/4 in gap at panel ends; leave screws slightly loose; acclimate 24 h; corrosion-resistant screws.",
+    "Proslat PVC slatwall, Home Depot Canada listing: 75 lb per sq ft.",
+    "Gladiator: GearWall 50 lb/sq ft; GearTrack 75 lb per linear ft in the Lowe's installation PDF, 100 lb on Home Depot Canada and Abt listings. Page states the conflict and plans to the lower figure.",
+    "Rubbermaid FastTrack, Home Depot installation sheet: 1,750 lb per 48 in rail, rail must hit 4 studs, not possible at 24 in spacing.",
+    "NRC intent statements for the NBC garage air barrier (codes-guides.nrc.ca) and NBC 2023 Alberta Edition Part 5 (air barrier continuous around penetrations). Page cites the intent (limit CO leakage into living space) and gives no clause number.",
+    "Concrete curb at the wall base: no Alberta clause found for curb height, so the page says 'many attached garages' and 'height varies by builder'.",
+    "Prices and timings reused from garage-storage-solutions-calgary (wall track $450 to $800 installed, 2 to 3 hours, slatwall panel $60 to $150, steel pegboard $40 to $120, hooks 10 to 25 lb) and the $299 organization starting price. Tire set weight (160 to 200 lb) reused from the overhead page."
+   ],
+   "word_count": "about 2,890 words from hero to related links, including tables and FAQ",
+   "images_used": [
+    "images/calgary-garage-decluttering.jpg (hero, og/twitter): black slatwall over a workbench",
+    "images/hero-garage-decluttering.jpg (pegboard close-up, systems section)",
+    "images/before-after-3.jpg (slatwall band under ceiling racks, height zones section)",
+    "images/garage-organization-before-after-1.jpg + images/okotoks-garage-decluttering.jpg (before/after pair, loads section)"
+   ],
+   "image_honesty": "All five are the generic illustration set, captioned 'example, not a client's garage'. okotoks-garage-decluttering.jpg is not labelled as Okotoks. Found while checking: before-after-2.jpg is byte-identical to calgary-garage-decluttering.jpg, and before-after-3.jpg to custom-shelving-installation.jpg, so the Calgary library has 9 distinct photos, not 11.",
+   "custom_elements": [
+    "Systems table: five wall systems with the maker's published rating and the condition attached to it",
+    "'What is behind your garage wall': stud spacing, the shared house wall, the concrete curb, wires and open studs",
+    "Height zones table built around the winter splash zone",
+    "'What can hang' table (7 rows) with a 300 lb worked check for a four-foot rail",
+    "Cold-garage rules from Trusscore's guide",
+    "Town-by-town list using the GSC query wording",
+    "8 FAQs, schema generated from the same list as the visible text"
+   ],
+   "on_page_checklist": "Title 60 chars, meta 159, canonical www, OG + Twitter with an og:image that exists, one H1, LocalBusiness + FAQPage + BreadcrumbList JSON-LD parse, 11 distinct internal links in the body incl. frozen garage-storage-solutions-calgary, garage-decluttering-okotoks and index. No em dashes, no banned words.",
+   "internal_links": "Links in from index.html (frozen, one list item added under cabinets), garage-storage-solutions-calgary.html (frozen, one sentence added), services/shelving.html (1,126 impr), garage-organization-airdrie.html (@5.3), garage-organization-chestermere.html (@5.3), garage-organization-cochrane.html, overhead-garage-storage-calgary.html (related card). Verified live on the homepage, Airdrie, storage and shelving pages.",
+   "sitemap": "sitemap.xml: added once, lastmod 2026-11-26, https+www. sitemap-index.xml lastmod for sitemap.xml bumped to 2026-11-26. Live sitemap 200.",
+   "deploy": "Pushed ba34a87. Live 200 for the page and all five images; title confirmed on the live page; rendered check in the browser pane at 1024 px, no horizontal overflow.",
+   "indexing": "not requested (standing rule)",
+   "indexed_counts": {
+    "indexed": 59,
+    "not_indexed": 74,
+    "breakdown": {
+     "page_with_redirect": 5,
+     "alternate_canonical": 3,
+     "discovered_not_indexed": 47,
+     "crawled_not_indexed": 19
+    },
+    "previous": "59 / 74 on 2026-11-22 and 11-24, unchanged"
+   },
+   "backlog_status": {
+    "showing_in_performance": [
+     "garage-organization-tuscany (44 impr @5.1)",
+     "garage-organization-pump-hill (25 impr, 1 click)",
+     "garage-organization-priddis (36 impr)",
+     "acreage-garage-cleanout-bearspaw-springbank (21 impr, 1 click)",
+     "garage-organization-maple-ridge (first impression)",
+     "tenant-garage-cleanout-calgary (3 impr)"
+    ],
+    "unknown": [
+     "garage-cabinets-calgary (11-14) and overhead-garage-storage-calgary (11-22): in neither not-indexed list, no row in the Pages table yet"
+    ],
+    "still_discovered": "47 URLs, same set as 11-22: about, blog hub and 8 posts, six Vancouver cleaning city pages, garage-cleaning-calgary, cleanout-bin/-calgary/-elbow-valley/-lakeview, decluttering-airdrie and -chestermere, makeover/remodel/renovation-calgary, organization-banff, -bearspaw, -brentwood, -cochrane, -east-calgary, -elbow-park, -evanston, -harmony, -help-calgary, -lake-bonavista, -langley, -mckenzie-towne, -point-grey, -shaughnessy, -tips-calgary, -west-calgary, -west-springs, storage-solutions-vancouver, same-day-garage-cleanout-calgary, services/flooring, privacy, terms.",
+    "still_crawled": "19 URLs, unchanged: cleanout-altadore-marda-loop (Nov 17), decluttering-vancouver, cleanout-vancouver, organization-beddington, cleaning-north-vancouver, organization-service-calgary (www and non-www), organization-south-calgary, organization-burnaby, organization-aspen-woods, organization-dalhousie, organization-north-calgary, organization-guide-calgary, cleaning-vancouver, non-www garage-storage-solutions-calgary, organization-panorama-hills and the rest of the 11-22 list.",
+    "links_added_for_stuck_pages": "garage-organization-cochrane.html (Discovered) now links to and is linked from today's page; garage-organization-harmony.html (Discovered) got images."
+   },
+   "backfilled": "garage-organization-harmony.html (Discovered, never crawled; zero images and an og:image pointing at a file that does not exist): og/twitter image repointed to custom-shelving-installation.jpg, hero figure added, before/after pair (before-after-4 / before-after-1) and a slatwall bench image (calgary-garage-decluttering.jpg) with captions after the challenges section. Title, URL, canonical untouched.",
+   "rankings": {
+    "method": "4 WebSearch queries, US-only tool, non-localized; directional only. GSC positions are in data_brief.",
+    "garage organization calgary": "not visible (BBB, HomeStars, calgaryhomes, Handyman Connection, California Closets, TrustedPros, RenovationFind, Home Depot). FLAT vs 11-22. GSC: 5 impr @12.2, 1 click.",
+    "garage decluttering calgary": "not visible (calgaryhomes, 1-800-GOT-JUNK, calmorder, CREB, resetgarage Google Site, JustJunk). FLAT vs 11-22.",
+    "garage organization chestermere": "ROTATING. not visible in tool (BBB, Best Buy, Canadian Tire, HomeStars Chestermere, Handyman Connection). GSC has the page at 5.3 on 105 impr, improved from 8.9, so no drop evidence.",
+    "garage wall storage calgary": "BASELINE: today's page not present. SERP is California Closets, The Garage Store listings, baileylineroad, TrustedPros, Handyman Connection, Home Depot, Best Buy, Garage Living Calgary."
+   },
+   "technical": "Full site sweep run (first since before 11-08): 132 sitemap URLs, all map to files, no duplicates, all https+www; one H1 on every page; all JSON-LD parses; no broken internal links; no broken <img>. robots.txt sane, homepage 200. Not in any sitemap: blog/how-we-book-same-day-jobs.html. Broken og/twitter image on 10 pages: about, blog, garage-cleaning-calgary, garage-makeover-calgary, garage-remodel-calgary, services/organization, services/shelving, and three FROZEN pages (garage-organization-canmore, garage-storage-solutions-calgary, services/cleaning).",
+   "consolidation_candidates": [
+    {
+     "pages": "garage-storage-solutions-calgary (FROZEN)",
+     "status": "carried, DECISION FOR ABHI",
+     "recommendation": "Still 0 impressions in 28 days; the non-www copy sits in Crawled - not indexed since Jul 25. Lift the freeze so it can be fixed (two ceiling-rack prices, a testimonial that names a Brentwood job), or merge into services/shelving, which is the page that earns the storage clicks."
+    },
+    {
+     "pages": "garage-organization-north-calgary, -beddington, -dalhousie, -panorama-hills, -south-calgary, -service-calgary, -guide-calgary, -aspen-woods",
+     "status": "consolidation-candidate, carried",
+     "recommendation": "Crawled and rejected for 9 to 21 weeks. Merge the north set into one north Calgary page; fold service and guide into garage-organization-calgary."
+    },
+    {
+     "pages": "garage-organization-evanston, -east-calgary, -west-calgary, -help-calgary, -tips-calgary",
+     "status": "consolidation-candidate",
+     "recommendation": "Discovered and never crawled for 3+ weeks, all image-less. Evanston into north-calgary on 12-01 as planned; fold help and tips into garage-organization-calgary."
+    },
+    {
+     "pages": "Vancouver sets",
+     "status": "carried from 11-24",
+     "recommendation": "Unchanged in today's lists. See the 11-24 entry."
+    }
+   ],
+   "images_needed": [
+    "REAL photo: a slatwall or track wall in a Calgary garage with shovels, bikes and a ladder hung",
+    "REAL photo: wall-mounted tire rack with a winter set",
+    "REAL photo: the base of an attached garage wall showing the concrete curb and salt line",
+    "REAL Calgary before/after pairs and -640 variants for the generic set (carried). Two of the eleven generic files are duplicates."
+   ],
+   "next_targets": [
+    "1. Next Vancouver: upgrade garage-services-vancouver.html (383 impr @34.2, clicks 15 to 4) and retarget at residential terms.",
+    "2. Next Calgary: 'garage storage installation' / 'installs' (283 impr @27-28) as a services/shelving upgrade, including its broken og:image. Needs Abhi's ruling on the frozen storage page first; if none, do the shelving upgrade without touching the frozen page.",
+    "3. Calgary after that: wall-mounted tire rack / winter tire storage ('tire storage calgary' 11 impr @89, 'calgary tire storage' 3 @50) only if impressions grow; 'garage storage contractors' (43 @11, was 4.8) may deserve a section on garage-organization-company-calgary.",
+    "4. Backfill queue (Calgary, no images or broken og): garage-makeover-calgary, garage-remodel-calgary, garage-cleaning-calgary, garage-organization-east-calgary, -west-calgary, -help-calgary, -tips-calgary. about.html and blog.html have broken og:image too.",
+    "5. Next full site sweep due 2026-12-10."
+   ],
+   "flags": [
+    "NO BLOCKER. GSC read in full via Claude in Chrome.",
+    "DROP (frozen): services/cleaning clicks 12 vs 23, position 25.0 vs 22.3, fourth consecutive read down. 'garage cleaning calgary' holds @1.4 but impressions fell 24 to 7, so most of the loss is demand. Homepage position 21.2 vs 18.8.",
+    "CONFIRM WITH ABHI: new page says we measure stud spacing and add blocking, don't cut or recess into the wall shared with the house, start panels above the concrete curb, use corrosion-resistant screws, don't use hardboard pegboard or MDF slatwall, and put tire sets on a lagged rack instead of slatwall hooks.",
+    "Three frozen pages have og:image pointing at missing files (canmore, storage-solutions-calgary, services/cleaning). Adding images to frozen pages is allowed; repointing a meta tag is a judgment call, so left for Abhi.",
+    "Carried: non-www redirects with a 307; named testimonials on garage-renovation-calgary and company-calgary not verified."
+   ]
   }
  ]
 }
