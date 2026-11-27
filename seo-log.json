@@ -7773,6 +7773,90 @@
     "5. Watermark at Bearspaw estate-lot cleanout only if a distinct angle (HOA architectural rules, triple garages) can be sourced; otherwise leave Tier 2 as covered.",
     "Parked: spring refresh Feb 2027; fall winterizing Aug 2027."
    ]
+  },
+  {
+   "date": "2026-11-28",
+   "weekday": "Saturday",
+   "market": "calgary-cleaning",
+   "mode": "new page (GSC skipped)",
+   "action": "created",
+   "page": "possession-day-garage-cleanout-calgary.html",
+   "keyword": "seller left junk in garage Calgary / garage cleanout after possession Calgary (also junk removal after buying a house Calgary, previous owner left stuff in garage Alberta, holdback junk removal quote)",
+   "buyer": "A Calgary home buyer (or their realtor) who opens the garage on possession day and finds the seller's belongings, garbage and hazardous products still there; urgent, often moving in the same day, and may be able to bill the seller through a holdback.",
+   "why_this_target": "No GSC read today (Chrome unresponsive), so picked from the tiers. Tier 1 money moments are all built except pressure washing (Stage 4 still in effect per calgary.ca, updated 4 Nov 2026). Tier 2 inner-city and west-side communities already have cleanout pages (Mount Royal page covers Elbow Park/Roxboro). Car-collector angle rejected: epoxy page already has a collector-cars section and GarageScape doesn't sell detailing. The buyer side of the possession-day deadline had no page anywhere on the site (before-selling covers sellers, tenant covers landlords) and is an urgent, price-insensitive moment that realtors also search for.",
+   "competitive_gap_found": "Web search (Chrome down, Google SERP not read directly) for 'seller left items in garage after possession Alberta' returns law firms (Berjak Law x2, Kahane Law), a brokerage blog (Bode) and out-of-province pages; 'junk removal after buying a house previous owner left stuff Calgary' returns only generic junk removal pages (1-800-GOT-JUNK, JUSTJUNK) with no buyer-specific page. No Calgary cleanout company addresses the buyer's evidence/holdback steps.",
+   "people_also_ask_used": "Google PAA not available (Chrome unresponsive). FAQs built from the question headings of the top-ranking Alberta pages (Berjak: 'Can the Buyer Throw Everything Out?', 'Can the Buyer Charge the Seller for Removal Costs?', 'Can the Buyer Ask for a Holdback?', 'What If the Seller Leaves Hazardous Materials?', 'What If the Seller Wants to Pick Up the Items Later?') plus booking questions (speed, need to be home, insured). Recheck against real PAA on the next run with Chrome.",
+   "research": [
+    "Berjak Law (Sept 2026, two articles): document first, remove second unless urgent safety issue; holdbacks easiest before funds are released; written notice and a pickup deadline for valuable or personal items; keep photos, quotes, receipts, timeline; tenant belongings are a separate case. Linked once from the page.",
+    "Bode (June 2026): attached items stay, unattached go unless the contract says otherwise; garage door remotes, keypads and wall-mounted openers stay. Stated on the page as what 'Alberta brokerages describe', not as a contract term.",
+    "AREA contract: possession usually at noon on completion day with vacant possession; consistent with existing before-selling and separation pages.",
+    "calgary.ca water restrictions page (curl 11-28): Stage 4 in effect, updated Nov 4, 2026.",
+    "Landfill fees ($25 up to 250 kg, $113/t, $17 per fridge), HHW at fire stations, unplowed lanes: reused from existing site pages read 11-27."
+   ],
+   "word_count": "~2892 in prose block (incl. tables)",
+   "images_used": [
+    "images/vancouver-garage-workbench-before.jpg (+640 srcset, also og:image)",
+    "images/vancouver-garage-cardboard-damp.jpg (+640 srcset)"
+   ],
+   "image_honesty": "Both are existing example photos (Vancouver set), captioned 'Example photo, not a client's garage.' No Calgary buyer-garage photo exists; would benefit from a real before shot.",
+   "custom_elements": [
+    "First-24-hours table: walk-through, first hour, same afternoon, next day or two, go-ahead, each with what the buyer does vs what we do (built around releasing funds and holdbacks)",
+    "Nine-photo evidence shot list for a seller-left garage (address in frame, rafters, labels on hazardous products, serial numbers, opener and keypad, dated video)",
+    "'Left on purpose, or left behind?' table: opener/remotes, bolted racks, freestanding shelves, workbench, matching touch-up paint, spare shingles/siding/flooring, appliance manuals, and what we do with each",
+    "Three-pile sort for seller leftovers (plain junk / maybe-valuable or personal / hazardous) with when each pile can leave and where it goes",
+    "Lawyer-ready paperwork: written quote addressed to the buyer for sizing a holdback, dated before/sorted/after photos, itemized invoice with weigh ticket and HHW note; we never contact the seller",
+    "Seller pickup window handled without the buyer present, plus a same-week move-in plan (hazardous and junk first, lane access, Stage 4 dry sweep)"
+   ],
+   "on_page_checklist": {
+    "title": "Seller Left Junk in the Garage? Calgary Possession Cleanout (59)",
+    "meta_description_length": 149,
+    "h1": 1,
+    "og_twitter": true,
+    "schema": [
+     "Service with LocalBusiness provider",
+     "BreadcrumbList",
+     "FAQPage (9 Q, generated from visible FAQ)"
+    ],
+    "em_dashes_in_copy": 0,
+    "booking_cta": "hero call/text + closing CTA section"
+   },
+   "internal_links": {
+    "out": "17 unique internal pages in body/related (same-day, before-selling, junk removal cost, tenant, oil stain, garage cleaning, mouse droppings, hoarding, Mount Royal, Altadore, Lakeview, garage organization, bin, about, estate, garage cleanout, services/cleaning) plus footer",
+    "in": [
+     "index.html (services list + footer list)",
+     "garage-cleanout-calgary.html (situation list)",
+     "garage-cleanout-before-selling-calgary.html (body paragraph)",
+     "same-day-garage-cleanout-calgary.html (opening paragraph)",
+     "services/cleaning.html (body paragraph)",
+     "separation-garage-cleanout-calgary.html (footer)"
+    ]
+   },
+   "data_brief": [
+    "GSC skipped: Claude in Chrome connected but every call timed out (tabs_context, navigate, tabs_create). No Performance or Indexing read today.",
+    "Carried from 11-27 read: hub queries unserved ('garage cleanup services' 56 @35.8, 'garage cleaning' 54 @36.2, 'garage cleanout services' 46 @51.8) for Sunday's services/cleaning.html upgrade; floor cluster waits on Stage 4; hoarding page lost its 3 clicks (8.8 -> 16.5).",
+    "Target chosen from Tier 1 fallback, not from query data; check for impressions on 'seller left' / 'after possession' queries in the next read."
+   ],
+   "indexed": null,
+   "not_indexed": null,
+   "not_indexed_detail": "Not read today (Chrome unresponsive). Last read 11-27: 62 indexed / 77 not.",
+   "gsc": "skipped: Claude in Chrome extension connected but unresponsive (3 timeouts); site-up check done by curl (robots.txt 200)",
+   "indexing": "not requested (standing rule)",
+   "deploy": "pushed 8d34eb7; live URL 200 (curl), title and 12 H2s present, both images 200; live sitemap.xml lists it; live before-selling, garage-cleanout-calgary, same-day, services/cleaning and homepage link to it. Rendered check in the built-in browser limited: pane hidden (viewport 0), so JSON-LD parse (Service, BreadcrumbList, FAQPage) confirmed but no screenshot.",
+   "flags": [
+    "CHROME DOWN: Claude in Chrome connected but not responding all run. GSC not read, Google SERP/PAA not read (web search used instead). Check the extension before the Sunday run.",
+    "CONFIRM WITH ABHI, new commitments on this page: written quote from photos usually same day for photos sent before noon on a weekday; quote addressed to the buyer with property address and possession date, broken into hauling, hazardous waste and storage; we pull hazardous products on the first visit even if the rest waits; we can haul only junk and hazardous first and return for the rest; we hold maybe-valuable items taped off or in storage until the buyer/lawyer says go; we can be on site for a seller's pickup window; we never contact the seller or seller's lawyer; we send the record to the buyer's lawyer on request.",
+    "Insurance worded as 'GarageScape is insured and can send proof of coverage' (no $2 million figure, since that figure is still unconfirmed).",
+    "Page states attached/unattached rule as what Alberta brokerages describe and repeatedly says it isn't legal advice; links Berjak Law once as an outside read. Abhi may prefer to link a lawyer he works with.",
+    "Stage 4 still in effect on 28 Nov (calgary.ca); pressure washing still parked."
+   ],
+   "next_targets": [
+    "1. Sunday 11-29 upgrade: services/cleaning.html (580 impr @24.6) retargeted at 'garage cleaning services / garage cleanup services Calgary / garage cleaning company'; remove its pressure-washing promise (now links separation and possession pages).",
+    "2. Garage pressure washing / power washing Calgary the day Stage 4 lifts; update the oil stain page the same day.",
+    "3. Following Sunday: hoarding-garage-cleanup-calgary.html refresh (lost 3 clicks, slid 8.8 -> 16.5).",
+    "4. Re-read GSC once Chrome works: confirm whether 'seller left' / 'after possession' queries show impressions; read real PAA for the possession page and adjust FAQs.",
+    "5. Commercial parkade cleaning Calgary, only if Abhi confirms we sell it and after Stage 4.",
+    "Parked: Watermark at Bearspaw (no distinct angle sourced); car-collector garage cleaning (overlaps epoxy page; no detailing service); spring refresh Feb 2027; fall winterizing Aug 2027."
+   ]
   }
  ]
 }
