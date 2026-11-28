@@ -594,4 +594,14 @@
             <image:caption>Example of an organized garage with a car parked inside, labelled bins on shelving and bikes on the wall</image:caption>
         </image:image>
     </url>
+    <url>
+        <loc>https://www.garagescape.ca/garage-cabinets-vancouver.html</loc>
+        <lastmod>2026-11-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.garagescape.ca/images/vancouver-tandem-garage-after.jpg</image:loc>
+            <image:caption>Example of an organized tandem garage with lidded bins on steel shelving and bikes hung on the wall</image:caption>
+        </image:image>
+    </url>
 </urlset>
