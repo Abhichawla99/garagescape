@@ -7857,6 +7857,126 @@
     "5. Commercial parkade cleaning Calgary, only if Abhi confirms we sell it and after Stage 4.",
     "Parked: Watermark at Bearspaw (no distinct angle sourced); car-collector garage cleaning (overlaps epoxy page; no detailing service); spring refresh Feb 2027; fall winterizing Aug 2027."
    ]
+  },
+  {
+   "date": "2026-11-28",
+   "weekday": "Saturday",
+   "market": "vancouver",
+   "mode": "new-page (GSC skipped)",
+   "action": "created",
+   "page": "garage-cabinets-vancouver.html",
+   "keyword": "garage cabinets vancouver (also garage cabinet installation vancouver, best material for garage cabinets vancouver)",
+   "community": "Vancouver and Metro Vancouver (lane garages on 33-ft lots, Vancouver Specials, tandem townhouses in Burnaby/Coquitlam/Langley, attached doubles in Surrey/Richmond/North Shore)",
+   "market_decision": "Last run of this routine was 2026-11-26 calgary (wall storage). calgary-cleaning entries belong to the other task. Flipped to VANCOUVER.",
+   "gsc": "skipped: Claude in Chrome extension disconnected (tabs_context failed twice, list_connected_browsers returned none); Chrome itself did not answer AppleScript (AppleEvent timed out), same symptom as the 1:17 AM cleaning run; the built-in browser's Google account has no access to the property. Three failures, stopped. No credentials typed, no URL Inspection, no indexing requests.",
+   "data_brief": [
+    "GSC NOT READ today (Chrome unresponsive, second run in a row on 11-28). Brief below is carried from the 11-24 Vancouver read and the 11-26 Calgary read.",
+    "Vancouver buying queries (11-24): 'garage organization systems' + city is the cluster (richmond @7.4, new westminster @4.4, surrey @12.0, port moody @11.3, coquitlam @16.7, burnaby @17.0). 'garage storage contractor(s)' 57 impr @10-12 landing on garage-organization-vancouver. 'garage cabinets vancouver' 7 impr @34.1 with no page.",
+    "Working (11-24): garage-bike-storage-vancouver 3 clicks on 108 impr; garage-organization-vancouver 171 impr @19.8; organization-north-vancouver @7.3; organization-richmond @6.9.",
+    "Doubled down on: the only Vancouver query in the 11-24 read with impressions and no page of any kind (cabinets). Calgary shows the same demand is bigger than it looks: 'garage cabinets calgary' 80 impr, 'chestermere garage cabinets' 54 @6.7 (11-26).",
+    "Dropped (11-24, unverified today): garage-services-vancouver 3 clicks vs 16; organization-coquitlam @12.4 vs 8.9; frozen services/cleaning down four reads in a row.",
+    "Next read must check: impressions for port-moody, maple-ridge and today's cabinets page, and whether Chrome/GSC access is restored."
+   ],
+   "why_this_target": "No fresh data, so the 11-24 brief decided. 'garage cabinets vancouver' had impressions (7 @34.1) and no page: no Vancouver filename, title or H1 mentions cabinets, and the existing pages only discuss them as something GarageScape does not push. The other 11-24 option, retargeting the garage-services-vancouver hub, is a restructure of the market hub and should not be done blind without a current GSC read. A cabinets page cannot cannibalize the city 'systems' pages or the storage-solutions pages (shelving and racks).",
+   "competitive_gap_found": "WebSearch 'garage cabinets vancouver' 2026-11-28: Garage Living (Houzz, HAVAN and own site), Closets By Design, California Closets, BBB category pages, Handyman Connection articles, and retail (Canadian Tire, Best Buy, Home Depot, Rona), plus a Vancouver WA franchise page. Garage Living's Vancouver page is a product menu (cabinets, slatwall, flooring, car lifts) with one sentence on coastal rain. Nobody explains which cabinet materials survive a damp unheated garage, why boxes must hang off the slab with an air gap, what belongs behind doors versus on open shelving, how layouts differ for a lane garage, a Vancouver Special carport or a tandem townhouse, or what an installed system costs without a manufacturer's fit-out.",
+   "research": [
+    "Vancouver Heritage Foundation: Vancouver Special built roughly 1965-1985, designed to fit the 33-ft city lot; listings show lane carports and single garages are the usual parking. Used in the layouts section, attributed.",
+    "Product Care Recycling (BC gov EPR page and Product Care results): leftover paint accepted at depots at no charge; larger 'Paint Plus' depots also take pesticides, flammable liquids and gasoline. Page tells readers to check the depot finder.",
+    "BC Fire Code: 2012 edition sentence 4.2.4.6 caps an attached garage at 50 L of flammable/combustible liquid, 30 L Class I. Could not confirm the figure in the current edition, so the page states that a limit exists and sends readers to their fire department. No litre figure published.",
+    "PreparedBC anchoring and cabinet-latch guidance, rainfall (about 1,200 mm, 160+ wet days) and the $4,000-$15,000+ custom cabinetry range: reused from existing site pages (earthquake-ready, mould, organization-vancouver) so the site stays consistent.",
+    "Searches used: 6 of 8."
+   ],
+   "word_count": "about 3,100 words including tables, pricing and FAQ",
+   "images_used": [
+    "vancouver-tandem-garage-after.jpg (hero, og/twitter image)",
+    "vancouver-garage-cardboard-damp.jpg (what damp does)",
+    "vancouver-garage-wall-floor-before.jpg / vancouver-garage-wall-floor-after.jpg (how we hang cabinets, pair)",
+    "vancouver-garage-labelled-bins.jpg (what belongs behind doors)",
+    "vancouver-lane-garage-after.jpg (lane garage layout)",
+    "vancouver-garage-workbench-before.jpg / vancouver-garage-workbench-after.jpg (bench pair; after has no -640 so plain src)"
+   ],
+   "image_honesty": "All Vancouver-set example photos; every caption says 'An example garage, not a photo of a Vancouver client's.' 8 distinct alts. IMPORTANT GAP: the library has no photo of a closed garage cabinet. The captions say so where it matters (lane garage and bench captions state the photo shows open shelving or open legs and where a cabinet would go). All 15 image URLs return 200 live.",
+   "custom_elements": [
+    "Three failure points of a cabinet in a damp garage (bottom edge, back panel on an outside wall, feet)",
+    "Materials table rated for a damp unheated garage, with where each is used",
+    "Four install rules plus PreparedBC latch and anchor note",
+    "'Behind doors or in the open' table (7 rows) incl. wet gear, lane-garage security and emergency water",
+    "Layouts for four Vancouver garage types: lane garage on bare studs, Vancouver Special carport, tandem townhouse, attached double; strata bylaw note",
+    "Honest cost section: service from $649, cabinets at cost on the hardware list, when one cabinet is enough, when to use a manufacturer"
+   ],
+   "on_page_checklist": {
+    "title": "Garage Cabinets Vancouver | Damp-Ready Steel | GarageScape (58)",
+    "meta_description_length": 155,
+    "h1": 1,
+    "og_twitter": true,
+    "og_image_exists": true,
+    "schema": [
+     "Service with LocalBusiness provider",
+     "BreadcrumbList",
+     "FAQPage (8 Q, generated from the visible FAQ)"
+    ],
+    "em_dashes_in_copy": 0
+   },
+   "internal_links": {
+    "out": "mould-in-garage-vancouver, garage-storage-solutions-vancouver, earthquake-ready-garage-vancouver, laneway-garage-clearing-vancouver, garage-organization-shaughnessy, -point-grey, -langley (three stuck 'Discovered' pages get a contextual link), garage-storage-solutions-burnaby, garage-bike-storage-vancouver, garage-organization-vancouver, garage-services-vancouver, garage-decluttering-vancouver, garage-cabinets-calgary, garage-storage-solutions-calgary (FROZEN), plus footer",
+    "in": [
+     "garage-services-vancouver.html (hub, new related card)",
+     "garage-organization-vancouver.html (process step 3)",
+     "garage-storage-solutions-vancouver.html (MDF note)",
+     "earthquake-ready-garage-vancouver.html (install day paragraph)",
+     "garage-cabinets-calgary.html (outside city limits note)"
+    ]
+   },
+   "sitemap": "Added once to sitemap-vancouver.xml (36 URLs) with today's date and an image entry; sitemap-index lastmod for the Vancouver sitemap bumped to 2026-11-28. Live sitemap returns 200 and contains the URL once.",
+   "deploy": "Commit 9ef4d97 pushed to main; live URL 200 with the right title; all 15 image URLs 200; live hub and garage-organization-vancouver both link to it. Backfill commit b8e28ec pushed after.",
+   "indexing": "not requested (standing rule)",
+   "indexed_counts": {
+    "date": "2026-11-28",
+    "indexed": null,
+    "not_indexed": null,
+    "note": "Not read (GSC skipped). Last read 11-27 by the cleaning task: 62 indexed / 77 not."
+   },
+   "backlog_status": {
+    "note": "Not re-read today; carried from 11-24. No page marked indexed without evidence.",
+    "vancouver_backlog_remaining": "about 16 (assumed unchanged)",
+    "links_added_for_stuck_pages": "garage-organization-shaughnessy, -point-grey and -langley each got a contextual link from today's page; laneway-garage-clearing-vancouver got one too."
+   },
+   "backfilled": "mould-in-garage-vancouver.html. No Vancouver page is image-less or has a broken og:image, so the page with the fewest body images (3) got two more: efflorescence-before in the mould-vs-efflorescence section and labelled-bins in the prevention list, both captioned as examples. Title, URL and canonical untouched.",
+   "rankings": {
+    "method": "4 WebSearch queries, US-only tool, non-localized; directional only. No GSC positions today.",
+    "garage organization vancouver": "not visible (BBB, HAVAN Garage Living, Mr. Handyman WA, Handyman Connection, Homestars Garage Guru, netlify site, Best Buy, Home Depot, California Closets, garageliving.com). FLAT vs 11-24.",
+    "garage cleaning vancouver": "not visible (Thumbtack WA, resetgarage Google Site, Homestars, 1-800-GOT-JUNK, Enviro-Master, Servpro, COIT). FLAT vs 11-24.",
+    "garage organization systems new westminster": "ROTATING. not visible in tool (BBB, STOR-X Surrey, Best Buy, HAVAN, Home Depot, Homestars New Westminster). GSC had it at 4.4 on 11-24; the tool has never shown our city pages, so no drop evidence.",
+    "garage cabinets vancouver": "BASELINE: today's page not present. SERP is Garage Living (Houzz, HAVAN, own site), BBB, Handyman Connection, Canadian Tire, Best Buy, Closets By Design, California Closets, Home Depot, Rona."
+   },
+   "technical": "sitemap.xml (89 URLs) and sitemap-vancouver.xml (36) each map to a file with no duplicates, all https+www; XML validates; JSON-LD parses, one H1, no broken internal links or images on the 7 touched pages; robots.txt sane; homepage 200. Full site sweep last run 11-26, not due.",
+   "consolidation_candidates": [
+    {
+     "pages": "all sets listed on 11-24 and 11-26",
+     "status": "carried, not re-read",
+     "recommendation": "Unchanged. garage-organization-burnaby merge decision is due at the next Vancouver run (on or after 12-01) and needs a real GSC read first."
+    }
+   ],
+   "images_needed": [
+    "REAL photo: closed steel garage cabinets hung on a wall rail with a visible gap above the slab (the cabinets page has no cabinet photo at all)",
+    "REAL photo: steel base cabinets with a wood top used as a workbench",
+    "REAL photo: tall lockable locker in a lane garage or carport",
+    "REAL photo: garbage and green waste carts in a marked bay inside a garage (carried)",
+    "REAL photo: narrow or tandem townhouse garage, before and after (carried)",
+    "REAL Calgary project photos and -640 variants for the generic Calgary set (carried)"
+   ],
+   "next_targets": [
+    "1. FIRST: get a GSC read. Chrome was unresponsive for both 11-28 runs; if it is still down, Abhi needs to restart Chrome on the Mac mini and reconnect the Claude extension.",
+    "2. Next Vancouver (with data): retarget garage-services-vancouver.html at residential terms (375 impr @35, clicks 16 to 3 on 11-24), or add 'storage contractor / installation' H2 and FAQ wording to garage-organization-vancouver (57 impr at 10-12).",
+    "3. Decide the garage-organization-burnaby merge into garage-storage-solutions-burnaby (due 12-01).",
+    "4. Check impressions on garage-cabinets-vancouver, -port-moody and -maple-ridge.",
+    "5. Next Calgary (this routine): panorama-hills or beddington upgrade, per the 11-04 list."
+   ],
+   "flags": [
+    "GSC not read: Chrome extension disconnected and Chrome not answering on the Mac mini (second run today).",
+    "Cabinets page has no photo of an actual cabinet; real photos would lift it.",
+    "Carried: frozen services/cleaning.html down four reads in a row; garage-services-vancouver lost most of its clicks."
+   ]
   }
  ]
 }
